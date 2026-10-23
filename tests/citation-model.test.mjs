@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import {test} from 'node:test';
 import {readFileSync} from 'node:fs';
-import {bibliographyPage,citationDatasetMatches,citationPurpose,citationSelectionHighlights,citationTargets,defaultCitationDocumentMode,referenceCitationUses,referenceLabel,referencePdf,referencesForCitation,resolveCitationSelection,sourcePageLabel,verifiedReferenceUrl} from '../src/citation-model.ts';
+import {bibliographyPage,citationDatasetMatches,citationEvidenceForSelection,citationPurpose,citationSelectionHighlights,citationTargets,defaultCitationDocumentMode,evidenceLocatorLabel,referenceCitationUses,referenceLabel,referencePdf,referencesForCitation,resolveCitationSelection,sourcePageLabel,verifiedReferenceUrl} from '../src/citation-model.ts';
 import {movedPointer,normalizedPoint,targetAt,targetLabel} from '../src/pdf-viewer-model.ts';
 
 const data=JSON.parse(readFileSync(new URL('../src/citation-data.json',import.meta.url),'utf8'));
@@ -134,4 +134,46 @@ test('excerpt page labels use exact verified page-map rows without inventing cit
   assert.equal(sourcePageLabel(source,3),'PDF 3쪽');
   assert.equal(sourcePageLabel(source,4),'PDF 4쪽');
   assert.equal(sourcePageLabel(undefined,1),'PDF 1쪽');
+});
+
+const evidenceThesisHash='a'.repeat(64),evidenceSourceHash='b'.repeat(64);
+const evidenceSource={id:'s-evidence',referenceId:'r',pages:20,sha256:evidenceSourceHash,pageSizes:[{page:7,width:500,height:700}]};
+const evidenceCitation={id:'cite-one',sentenceId:'sentence-one',referenceIds:['r']};
+const evidenceRecord={sentenceId:'sentence-one',referenceId:'r',sourceId:'s-evidence',sourceSha256:evidenceSourceHash,status:'verified',locators:[{page:7,printed:'5',summary:'첫 문장의 근거',rects:[[10,20,110,40]]}]};
+const evidenceFixture=entries=>({meta:{thesisSha256:evidenceThesisHash,reviewedAt:'2026-10-24'},entries});
+
+test('evidence is specific to the sentence/reference pair and exact thesis/source fingerprints',()=>{
+  const data=evidenceFixture([evidenceRecord,{...evidenceRecord,sentenceId:'sentence-two',locators:[{page:11,summary:'두 번째 문장의 근거'}]}]);
+  assert.equal(citationEvidenceForSelection(evidenceCitation,'r',evidenceSource,data,evidenceThesisHash).locators[0].page,7);
+  assert.equal(citationEvidenceForSelection({...evidenceCitation,id:'cite-two',sentenceId:'sentence-two'},'r',evidenceSource,data,evidenceThesisHash).locators[0].page,11,'changing the sentence in the same book changes its starting page');
+  for(const source of [{...evidenceSource,id:'another-file'},{...evidenceSource,sha256:'c'.repeat(64)},{...evidenceSource,sha256:undefined}])assert.deepEqual(citationEvidenceForSelection(evidenceCitation,'r',source,data,evidenceThesisHash).locators,[]);
+  assert.deepEqual(citationEvidenceForSelection(evidenceCitation,'r',evidenceSource,data,'c'.repeat(64)).locators,[]);
+  assert.deepEqual(citationEvidenceForSelection(evidenceCitation,'other-ref',evidenceSource,data,evidenceThesisHash).locators,[]);
+  assert.deepEqual(citationEvidenceForSelection({...evidenceCitation,sentenceId:'not-reviewed'},'r',evidenceSource,data,evidenceThesisHash).locators,[]);
+});
+
+test('out-of-range evidence pages and invalid highlight geometry cannot be applied to the source PDF',()=>{
+  const data=evidenceFixture([{...evidenceRecord,locators:[{page:0,summary:'invalid'},{page:21,summary:'invalid'},{page:7,printed:'5',summary:'확인한 문단',rects:[[10,20,110,40],[10,20,110,40],[-1,20,110,40],[10,20,900,40],[10,20,110,900],[5,5,1,1]]}]}]);
+  const before=JSON.stringify(data),result=citationEvidenceForSelection(evidenceCitation,'r',evidenceSource,data,evidenceThesisHash);
+  assert.equal(result.status,'partial');assert.deepEqual(result.locators.map(locator=>locator.page),[7]);
+  assert.deepEqual(result.locators[0].rects,[[10,20,110,40]]);assert.equal(JSON.stringify(data),before);
+  assert.equal(evidenceLocatorLabel(result.locators[0]),'본문 p. 5 · PDF 7쪽');assert.equal(evidenceLocatorLabel({page:11}),'PDF 11쪽');
+});
+
+test('bibliography selection merges confirmed page locations without losing distinct summaries or partial notes',()=>{
+  const data=evidenceFixture([{...evidenceRecord,locators:[{page:11,summary:'둘째 쪽'},{page:7,printed:'5',summary:'첫째 요약',rects:[[10,20,110,40]]}]},{...evidenceRecord,sentenceId:'sentence-two',status:'partial',note:'이 문장 중 정의 부분만 확인했습니다.',locators:[{page:7,printed:'5',summary:'별도의 요약',rects:[[10,20,110,40],[10,60,110,80]]}]}]);
+  const direct=citationEvidenceForSelection(evidenceCitation,'r',evidenceSource,data,evidenceThesisHash);assert.equal(direct.locators[0].page,11,'a sentence keeps the reviewed locator order');
+  const result=citationEvidenceForSelection({...evidenceCitation,selectionKind:'bibliography'},'r',evidenceSource,data,evidenceThesisHash);
+  assert.deepEqual(result.locators.map(locator=>locator.page),[7,11]);assert.equal(result.status,'partial');
+  assert.deepEqual(result.locators[0].summaries,['첫째 요약','별도의 요약']);assert.deepEqual(result.locators[0].rects,[[10,20,110,40],[10,60,110,80]]);
+  assert.deepEqual(result.locators[0].sentenceIds,['sentence-one','sentence-two']);assert.deepEqual(result.notes,['이 문장 중 정의 부분만 확인했습니다.']);
+});
+
+test('unverified and web entries never become PDF page chips, even if locator-like data exists',()=>{
+  for(const status of ['unverified','web']){
+    const data=evidenceFixture([{...evidenceRecord,status,note:'공식 자료 페이지에서 확인해 주세요.'}]);
+    const result=citationEvidenceForSelection(evidenceCitation,'r',evidenceSource,data,evidenceThesisHash);
+    assert.deepEqual(result.locators,[]);assert.deepEqual(result.notes,['공식 자료 페이지에서 확인해 주세요.']);
+  }
+  assert.equal(citationEvidenceForSelection(evidenceCitation,'r',undefined,evidenceFixture([{...evidenceRecord,status:'web'}]),evidenceThesisHash).status,'web');
 });

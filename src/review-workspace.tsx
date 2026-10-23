@@ -11,6 +11,7 @@ import CitationPanel from './citation-panel';
 import {citationDatasetMatches,citationTargets,resolveCitationSelection,citationSelectionHighlights,referencePdf,verifiedReferenceUrl,type CitationData,type CitationSource,type CitationEntry,type CitationReference} from './citation-model';
 import rawCitationData from './citation-data.json';
 import referenceSources from './reference-sources.json';
+import referenceSourceHistory from './reference-source-history.json';
 import './review-mobile.css';
 import './master-theme.css';
 
@@ -53,7 +54,7 @@ export default function ReviewWorkspace(){
   const [placing,setPlacing]=useState<false|'thesis'|'source'>(false),[composer,setComposer]=useState<Obj|null>(null);
   const [composerError,setComposerError]=useState(''),[saving,setSaving]=useState(false),[exporting,setExporting]=useState(false),[downloading,setDownloading]=useState('');
   const splitRef=useRef<HTMLDivElement>(null);
-  const citationSources=useMemo(()=>[...(referenceSources as CitationSource[]),...(data?.sources||[])],[data]);
+  const citationSources=useMemo(()=>[...(referenceSources as CitationSource[]),...(referenceSourceHistory as CitationSource[]),...(data?.sources||[])],[data]);
   const source:Obj|undefined=citationSources.find(s=>s.id===sourceId);
   const sourceReference=citationData.references.find(reference=>reference.id===source?.referenceId||reference.sourceId===sourceId);
   const presentation=sourceId==='s-presentation',sourceTotal=source?.pages||(presentation?14:1),sourceTitle=presentation?'중간발표 자료':source?.title||'참고자료';

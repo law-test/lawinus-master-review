@@ -1,0 +1,397 @@
+[
+  {
+    "referenceId": "ref-019",
+    "id": "s-cite-7d83bbfac8612b2c0dbb",
+    "title": "질적 연구방법의 이해 (개정판)",
+    "pages": 5,
+    "pageSizes": [
+      {
+        "page": 1,
+        "width": 419.76,
+        "height": 595.44
+      },
+      {
+        "page": 2,
+        "width": 419.76,
+        "height": 595.44
+      },
+      {
+        "page": 3,
+        "width": 419.76,
+        "height": 595.44
+      },
+      {
+        "page": 4,
+        "width": 419.76,
+        "height": 595.44
+      },
+      {
+        "page": 5,
+        "width": 419.76,
+        "height": 595.44
+      }
+    ],
+    "targetPage": 3,
+    "coverage": "excerpt",
+    "coverageLabel": "표지 및 원본 PDF 277–279쪽 (인쇄 262–264쪽) · 발췌본",
+    "sha256": "7d83bbfac8612b2c0dbb91c57f82529548f38a1ee838c68ccfadfcf04f585e38",
+    "pageMap": [
+      {
+        "page": 1,
+        "originalPage": 1
+      },
+      {
+        "page": 2,
+        "originalPage": 2
+      },
+      {
+        "page": 3,
+        "originalPage": 277
+      },
+      {
+        "page": 4,
+        "originalPage": 278
+      },
+      {
+        "page": 5,
+        "originalPage": 279
+      }
+    ]
+  },
+  {
+    "referenceId": "ref-028",
+    "id": "s-cite-90004aa49f1ad1892b85",
+    "title": "평생교육론: 성인학습을 위한 예술과 과학",
+    "pages": 14,
+    "pageSizes": [
+      {
+        "page": 1,
+        "width": 396.727,
+        "height": 617.203
+      },
+      {
+        "page": 2,
+        "width": 396.921,
+        "height": 617.008
+      },
+      {
+        "page": 3,
+        "width": 399.257,
+        "height": 618.759
+      },
+      {
+        "page": 4,
+        "width": 398.089,
+        "height": 617.786
+      },
+      {
+        "page": 5,
+        "width": 394.392,
+        "height": 615.451
+      },
+      {
+        "page": 6,
+        "width": 395.559,
+        "height": 616.424
+      },
+      {
+        "page": 7,
+        "width": 394.392,
+        "height": 615.451
+      },
+      {
+        "page": 8,
+        "width": 399.257,
+        "height": 618.759
+      },
+      {
+        "page": 9,
+        "width": 395.754,
+        "height": 616.23
+      },
+      {
+        "page": 10,
+        "width": 397.894,
+        "height": 617.981
+      },
+      {
+        "page": 11,
+        "width": 395.754,
+        "height": 616.23
+      },
+      {
+        "page": 12,
+        "width": 396.727,
+        "height": 617.203
+      },
+      {
+        "page": 13,
+        "width": 395.754,
+        "height": 616.23
+      },
+      {
+        "page": 14,
+        "width": 401.592,
+        "height": 620.316
+      }
+    ],
+    "targetPage": 6,
+    "coverage": "excerpt",
+    "coverageLabel": "보유 발췌본 · 표지·목차·인쇄55–57,111–115쪽 및 판권",
+    "sha256": "90004aa49f1ad1892b856bec41412edd49040f870319e631c415d7094053bd8b"
+  },
+  {
+    "referenceId": "ref-033",
+    "id": "s-cite-835d6315639179fa4d50",
+    "title": "노인교육론: 노인을 위한, 노인에 관한, 노인에 의한 교육",
+    "pages": 18,
+    "pageSizes": [
+      {
+        "page": 1,
+        "width": 457.142,
+        "height": 645.062
+      },
+      {
+        "page": 2,
+        "width": 457.142,
+        "height": 645.062
+      },
+      {
+        "page": 3,
+        "width": 456.902,
+        "height": 645.302
+      },
+      {
+        "page": 4,
+        "width": 458.342,
+        "height": 646.022
+      },
+      {
+        "page": 5,
+        "width": 456.902,
+        "height": 645.302
+      },
+      {
+        "page": 6,
+        "width": 458.342,
+        "height": 646.022
+      },
+      {
+        "page": 7,
+        "width": 458.102,
+        "height": 646.262
+      },
+      {
+        "page": 8,
+        "width": 457.142,
+        "height": 645.062
+      },
+      {
+        "page": 9,
+        "width": 456.902,
+        "height": 645.302
+      },
+      {
+        "page": 10,
+        "width": 454.502,
+        "height": 643.382
+      },
+      {
+        "page": 11,
+        "width": 454.502,
+        "height": 643.382
+      },
+      {
+        "page": 12,
+        "width": 454.502,
+        "height": 643.382
+      },
+      {
+        "page": 13,
+        "width": 457.142,
+        "height": 645.062
+      },
+      {
+        "page": 14,
+        "width": 455.702,
+        "height": 644.342
+      },
+      {
+        "page": 15,
+        "width": 455.942,
+        "height": 644.102
+      },
+      {
+        "page": 16,
+        "width": 455.702,
+        "height": 644.342
+      },
+      {
+        "page": 17,
+        "width": 458.342,
+        "height": 646.022
+      },
+      {
+        "page": 18,
+        "width": 454.502,
+        "height": 643.382
+      }
+    ],
+    "targetPage": 8,
+    "coverage": "excerpt",
+    "coverageLabel": "보유 발췌본 · 표지·목차·인쇄75–76,223–225,235–239쪽 및 판권",
+    "sha256": "835d6315639179fa4d50f0786605e75471c7f68e1a8df0b213f9592694f39df5"
+  },
+  {
+    "referenceId": "ref-072",
+    "id": "s-cite-cc8167d9855f6678ae64",
+    "title": "사례연구방법 (신경식, 송민채, 신현섭, 조수현, 서이안 역; 6판)",
+    "pages": 28,
+    "pageSizes": [
+      {
+        "page": 1,
+        "width": 436.832,
+        "height": 626.627
+      },
+      {
+        "page": 2,
+        "width": 439.232,
+        "height": 628.547
+      },
+      {
+        "page": 3,
+        "width": 438.032,
+        "height": 627.587
+      },
+      {
+        "page": 4,
+        "width": 436.832,
+        "height": 626.627
+      },
+      {
+        "page": 5,
+        "width": 439.232,
+        "height": 628.547
+      },
+      {
+        "page": 6,
+        "width": 440.672,
+        "height": 629.267
+      },
+      {
+        "page": 7,
+        "width": 440.432,
+        "height": 629.507
+      },
+      {
+        "page": 8,
+        "width": 438.272,
+        "height": 627.347
+      },
+      {
+        "page": 9,
+        "width": 438.032,
+        "height": 627.587
+      },
+      {
+        "page": 10,
+        "width": 439.472,
+        "height": 628.307
+      },
+      {
+        "page": 11,
+        "width": 439.232,
+        "height": 628.547
+      },
+      {
+        "page": 12,
+        "width": 438.272,
+        "height": 627.347
+      },
+      {
+        "page": 13,
+        "width": 440.432,
+        "height": 629.507
+      },
+      {
+        "page": 14,
+        "width": 436.832,
+        "height": 626.627
+      },
+      {
+        "page": 15,
+        "width": 436.832,
+        "height": 626.627
+      },
+      {
+        "page": 16,
+        "width": 436.832,
+        "height": 626.627
+      },
+      {
+        "page": 17,
+        "width": 438.032,
+        "height": 627.587
+      },
+      {
+        "page": 18,
+        "width": 436.832,
+        "height": 626.627
+      },
+      {
+        "page": 19,
+        "width": 439.472,
+        "height": 628.307
+      },
+      {
+        "page": 20,
+        "width": 439.232,
+        "height": 628.547
+      },
+      {
+        "page": 21,
+        "width": 436.832,
+        "height": 626.627
+      },
+      {
+        "page": 22,
+        "width": 438.032,
+        "height": 627.587
+      },
+      {
+        "page": 23,
+        "width": 440.432,
+        "height": 629.507
+      },
+      {
+        "page": 24,
+        "width": 440.672,
+        "height": 629.267
+      },
+      {
+        "page": 25,
+        "width": 440.432,
+        "height": 629.507
+      },
+      {
+        "page": 26,
+        "width": 440.672,
+        "height": 629.267
+      },
+      {
+        "page": 27,
+        "width": 440.432,
+        "height": 629.507
+      },
+      {
+        "page": 28,
+        "width": 440.432,
+        "height": 629.507
+      }
+    ],
+    "targetPage": 10,
+    "coverage": "excerpt",
+    "coverageLabel": "보유 발췌본 · 표지·목차 및 사례연구 정의·설계·자료수집 관련 부분 · PDF28쪽",
+    "sha256": "cc8167d9855f6678ae64898edcab12533a85e2d222289b686a5326ee5e33d17b"
+  }
+]

@@ -9,6 +9,11 @@ export type CitationPurposes=Record<string,CitationPurpose>;
 export type ReferenceCitationUse={id:string;sentenceText:string;pages:number[];purpose?:string};
 export type CitationSource={id:string;referenceId?:string;title?:string;kind?:string;pages?:number;targetPage?:number;defaultPage?:number;coverage?:'전문'|'발췌본'|'full'|'excerpt'|'chapter-in-book'|'accepted-manuscript'|'prepublication'|'chapter'|'partial';coverageLabel?:string;sha256?:string;pageSizes?:{page:number;width:number;height:number}[];pageMap?:{page:number;originalPage:number}[];locators?:{page:number;printed?:string}[]};
 export type CitationDocumentMode='source'|'web'|'bibliography';
+export type CitationEvidenceLocator={page:number;printed?:string;summary:string;rects?:number[][]};
+export type CitationEvidenceEntry={sentenceId:string;referenceId:string;sourceId?:string;sourceSha256?:string;status:'verified'|'partial'|'unverified'|'web';locators:CitationEvidenceLocator[];note?:string};
+export type CitationEvidenceData={meta:{thesisSha256:string;reviewedAt:string};entries:CitationEvidenceEntry[]};
+export type ResolvedEvidenceLocator={page:number;printed?:string;summaries:string[];rects:number[][];sentenceIds:string[]};
+export type CitationEvidenceSelection={status:'verified'|'partial'|'unverified'|'web';locators:ResolvedEvidenceLocator[];notes:string[];reason?:'no-entry'|'thesis-mismatch'|'source-mismatch'|'invalid-locators'};
 
 export function citationDatasetMatches(meta:CitationData['meta'],pdfSha256:unknown,pageCount:unknown):boolean{
   return typeof pdfSha256==='string'&&/^[a-f0-9]{64}$/i.test(meta.pdfSha256)&&meta.pdfSha256.toLowerCase()===pdfSha256.toLowerCase()&&meta.pageCount===pageCount;
@@ -118,6 +123,43 @@ export function defaultCitationDocumentMode(reference:CitationReference|undefine
 export function sourcePageLabel(source:CitationSource|undefined,page:number):string{
   const mapping=source?.pageMap?.find(item=>item.page===page&&Number.isInteger(item.originalPage)&&item.originalPage>0);
   return mapping?`발췌 ${page}쪽 · 원본 PDF ${mapping.originalPage}쪽`:`PDF ${page}쪽`;
+}
+
+export function citationEvidenceForSelection(citation:CitationEntry,referenceId:string|undefined,source:CitationSource|undefined,evidence:CitationEvidenceData,thesisSha256:string):CitationEvidenceSelection{
+  const empty=(reason:CitationEvidenceSelection['reason'],notes:string[]=[]):CitationEvidenceSelection=>({status:'unverified',locators:[],notes,reason});
+  const sameHash=(a:unknown,b:unknown)=>typeof a==='string'&&typeof b==='string'&&/^[a-f0-9]{64}$/i.test(a)&&a.toLowerCase()===b.toLowerCase();
+  if(!sameHash(evidence.meta.thesisSha256,thesisSha256))return empty('thesis-mismatch');
+  const sentenceId=citation.sentenceId||(citation.selectionKind==='sentence'?citation.id:undefined);
+  if(!referenceId||!citation.referenceIds.includes(referenceId))return empty('no-entry');
+  const entries=evidence.entries.filter(entry=>entry.referenceId===referenceId&&(citation.selectionKind==='bibliography'||entry.sentenceId===sentenceId));
+  if(!entries.length)return empty('no-entry');
+  const notes=[...new Set(entries.map(entry=>entry.note?.trim()).filter((note):note is string=>!!note))];
+  if(!source||!Number.isInteger(source.pages)||source.pages!<1){return entries.every(entry=>entry.status==='web')?{status:'web',locators:[],notes}:empty('source-mismatch',notes);}
+  const confirmed=entries.filter(entry=>(entry.status==='verified'||entry.status==='partial')&&entry.sourceId===source.id&&sameHash(entry.sourceSha256,source.sha256));
+  if(!confirmed.length)return empty(entries.some(entry=>entry.status==='verified'||entry.status==='partial')?'source-mismatch':'no-entry',notes);
+  const pages=new Map<number,{value:ResolvedEvidenceLocator;printed:Set<string>;rects:Set<string>}>();
+  let invalidLocators=false;
+  for(const entry of confirmed)for(const locator of entry.locators){
+    if(!Number.isInteger(locator.page)||locator.page<1||locator.page>source.pages!){invalidLocators=true;continue;}
+    let record=pages.get(locator.page);
+    if(!record){record={value:{page:locator.page,summaries:[],rects:[],sentenceIds:[]},printed:new Set(),rects:new Set()};pages.set(locator.page,record);}
+    const summary=locator.summary.trim();if(summary&&!record.value.summaries.includes(summary))record.value.summaries.push(summary);
+    if(locator.printed?.trim())record.printed.add(locator.printed.trim());
+    if(!record.value.sentenceIds.includes(entry.sentenceId))record.value.sentenceIds.push(entry.sentenceId);
+    const size=source.pageSizes?.find(size=>size.page===locator.page);
+    for(const rect of locator.rects||[]){
+      if(!validRect(rect)||rect[0]<0||rect[1]<0||(size&&(rect[2]>size.width||rect[3]>size.height)))continue;
+      const key=rect.join('|');if(record.rects.has(key))continue;record.rects.add(key);record.value.rects.push([...rect]);
+    }
+  }
+  if(!pages.size)return empty('invalid-locators',notes);
+  const locators=[...pages.values()].map(record=>({...record.value,printed:record.printed.size===1?[...record.printed][0]:undefined}));
+  if(citation.selectionKind==='bibliography')locators.sort((a,b)=>a.page-b.page);
+  return {status:invalidLocators||confirmed.length!==entries.length||confirmed.some(entry=>entry.status==='partial')?'partial':'verified',locators,notes};
+}
+
+export function evidenceLocatorLabel(locator:Pick<ResolvedEvidenceLocator,'page'|'printed'>):string{
+  return locator.printed?`본문 p. ${locator.printed} · PDF ${locator.page}쪽`:`PDF ${locator.page}쪽`;
 }
 
 export function bibliographyPage(reference:CitationReference|undefined,pageCount:number,firstPage:number):number{

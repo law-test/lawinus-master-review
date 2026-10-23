@@ -1,0 +1,3201 @@
+{
+  "meta": {
+    "thesisSha256": "92b73e8ad50829cd5df52b7b4e40addd8994499be051b663c0286a804938cd2d",
+    "reviewedAt": "2026-10-23"
+  },
+  "entries": [
+    {
+      "sentenceId": "sentence-001",
+      "referenceId": "ref-035",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 1,
+          "summary": "행정안전부 보도자료는 2024년 12월 23일 주민등록인구 중 65세 이상이 1,024만 4,550명, 전체의 20%에 도달했다고 발표한다.",
+          "printed": "1"
+        }
+      ],
+      "sourceId": "s-cite-a044043d37a45153bebe",
+      "sourceSha256": "a044043d37a45153bebee4d51976c9f9e188ef5bf7e4cf84d6e1e761c4e8b1ee",
+      "note": "20% 도달 수치는 직접 확인했다. 이 보도자료에는 ‘초고령사회’라는 명칭의 정의가 따로 제시되어 있지 않으므로, 그 명명까지 자료 자체의 문장으로 확인한 것은 아니다."
+    },
+    {
+      "sentenceId": "sentence-002",
+      "referenceId": "ref-034",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 466,
+          "summary": "「한국 고령사회의 특징」은 정치적 안정, 경제성장, 과학기술 발전이 진행된 사회에서 고령화가 나타난다고 설명한다.",
+          "printed": "424"
+        }
+      ],
+      "sourceId": "s-cite-cc2e61d87115be1e70fd",
+      "sourceSha256": "cc2e61d87115be1e70fd7462975380e818bb6b4ad6131fc13c9b950306d21cbf"
+    },
+    {
+      "sentenceId": "sentence-003",
+      "referenceId": "ref-004",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 2,
+          "summary": "서론은 평생학습사회의 교육을 연령에 제한되지 않는 것으로 설명하고, 노년학의 발전 및 노인에 대한 인식 변화와 연결하여 노인교육의 중요성을 제시한다.",
+          "printed": "42"
+        }
+      ],
+      "sourceId": "s-cite-bc2a3b4b11db34c87bf4",
+      "sourceSha256": "bc2a3b4b11db34c87bf42c1a961aa07bf8c315db82e44fcf5b292c313b31dc2f"
+    },
+    {
+      "sentenceId": "sentence-004",
+      "referenceId": "ref-015",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 10,
+          "summary": "노인교육의 주체를 스스로 생각하고 판단하며 자기 삶을 이끌어가는 존재로 설명한다. 생애경험을 활용하여 현실을 재구성하는 자기성찰과 학습도 함께 논의한다.",
+          "printed": "30"
+        }
+      ],
+      "sourceId": "s-cite-6ae06ad09a8aac8eb8e7",
+      "sourceSha256": "6ae06ad09a8aac8eb8e73df430a78c9ff8111124c681ea54fb9c6cf1e021cfa8"
+    },
+    {
+      "sentenceId": "sentence-005",
+      "referenceId": "ref-009",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 26,
+          "summary": "노년기 발달의 가능성과 평생에 걸쳐 축적한 경험의 의미를 설명하며, 이러한 경험이 새로운 학습과 문제 해결의 바탕이 될 수 있다고 서술한다.",
+          "printed": "337"
+        }
+      ],
+      "sourceId": "s-cite-b53fba8763f1a9e1ed6a",
+      "sourceSha256": "b53fba8763f1a9e1ed6af7e59c2aaf375e631143ede1cd32fa73ad61884e737a"
+    },
+    {
+      "sentenceId": "sentence-006",
+      "referenceId": "ref-028",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 15,
+          "summary": "해당 쪽 첫 문단은 평생교육을 개인의 성장과 발전을 통해 자아실현을 도모하는 개인 주도의 학습경험으로 설명한다. 이어지는 평생교육 절은 교육이 시민의 전 생애에 걸쳐야 한다는 논의를 제시한다.",
+          "printed": "9"
+        }
+      ],
+      "sourceId": "s-cite-c8228b57ed02c4ed490b",
+      "sourceSha256": "c8228b57ed02c4ed490b3d0c7dd2e7f80593afcb9a9976e89d3135a9dc21d34e"
+    },
+    {
+      "sentenceId": "sentence-007",
+      "referenceId": "ref-077",
+      "status": "web",
+      "locators": [],
+      "note": "평생교육법 제2조 제1호의 일곱 열거 영역에 문화예술교육이 포함됨을 확인했다. 학교 정규교육과정 제외 및 ‘등을 포함’이라는 조문 범위를 함께 읽어야 한다."
+    },
+    {
+      "sentenceId": "sentence-008",
+      "referenceId": "ref-008",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 7,
+          "summary": "「문화예술교육」 항목은 문화예술적 상상력과 창의력, 예술 활동·기능, 일상생활에서 문화예술을 향유하고 활용하는 능력을 중심으로 정의한다.",
+          "printed": "217"
+        }
+      ],
+      "sourceId": "s-cite-06f93986e431934aac9b",
+      "sourceSha256": "06f93986e431934aac9bdf42ddfa2cbfe4c064443bacf6002c4c494a80e1b830"
+    },
+    {
+      "sentenceId": "sentence-009",
+      "referenceId": "ref-001",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 62,
+          "summary": "표 A2-3의 65–79세 행에서 문화예술교육 참여율은 15.4%로, 성인기초·문해 0.3%, 직업능력향상 6.3%, 인문교양 3.5%, 시민참여 0.5%보다 높다.",
+          "printed": "62"
+        },
+        {
+          "page": 10,
+          "summary": "2024년 조사의 조사대상 기간이 2023년 1월부터 12월까지임을 확인할 수 있다.",
+          "printed": "10"
+        }
+      ],
+      "sourceId": "s-cite-9080327130c81179fd8f",
+      "sourceSha256": "9080327130c81179fd8fd0db1d7ed6e4b1952b1898cac6101efe045e7ed53b6c"
+    },
+    {
+      "sentenceId": "sentence-010",
+      "referenceId": "ref-012",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 35,
+          "summary": "연구대상은 음악 평생교육 경험이 있는 만 65세 이상 노인이며, 최종 분석에 사용한 설문은 200부이다.",
+          "printed": "25"
+        },
+        {
+          "page": 67,
+          "summary": "참여 횟수별 분산분석에서 개인적 자기효능감과 자아존중감 등의 차이를 보고하며, 9회 이상 집단과 1–2회 집단의 차이를 설명한다.",
+          "printed": "57"
+        }
+      ],
+      "sourceId": "s-cite-b24dcce9a922b98f10fe",
+      "sourceSha256": "b24dcce9a922b98f10fe873631b49c0a6dbd08ca0767386218ac6fd793d100fc",
+      "note": "이 문헌은 박소희 연구에 관한 앞 절을 뒷받침한다. Johnson 연구 부분은 별도 문헌이며, 참여 횟수 집단 간 비교를 동일인의 참여 전후 효과로 읽어서는 안 된다."
+    },
+    {
+      "sentenceId": "sentence-010",
+      "referenceId": "ref-054",
+      "status": "web",
+      "locators": [],
+      "note": "PubMed의 공식 초록 Results에서 대조집단에 비해 외로움과 삶에 대한 관심은 유의하게 개선됐으나 인지·신체 결과의 유의한 집단 차이는 없음을 확인했다. Johnson 연구에 관한 절을 지지하며 PDF 쪽수는 부여하지 않았다."
+    },
+    {
+      "sentenceId": "sentence-011",
+      "referenceId": "ref-004",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 19,
+          "summary": "참여자들은 반복적인 완성과 연습에서 성취감과 자신감을 보였고, 점차 스스로 재료와 표현을 선택하는 모습을 보였다.",
+          "printed": "59"
+        },
+        {
+          "page": 20,
+          "summary": "면담에서는 이후 미술 프로그램에도 참여하려는 의사와 학습의지, 동료와의 칭찬·격려가 나타났다.",
+          "printed": "60"
+        }
+      ],
+      "sourceId": "s-cite-bc2a3b4b11db34c87bf4",
+      "sourceSha256": "bc2a3b4b11db34c87bf42c1a961aa07bf8c315db82e44fcf5b292c313b31dc2f",
+      "note": "김아영·김효정 연구를 설명하는 절은 확인된다. 이어지는 배재윤·명왕성 연구 결과는 이 문헌의 확인 범위가 아니다."
+    },
+    {
+      "sentenceId": "sentence-011",
+      "referenceId": "ref-016",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 9,
+          "summary": "발레 경험은 미뤄 두었던 꿈의 실현과 새로운 시작, 정체성의 재구성으로 해석되며 일부 참여자의 미래 무대 목표도 제시된다.",
+          "printed": "411"
+        },
+        {
+          "page": 11,
+          "summary": "발레 활동을 통한 새로운 역할과 동료 관계의 형성·확장을 논의한다.",
+          "printed": "413"
+        },
+        {
+          "page": 14,
+          "summary": "결론은 노인 세 명의 내러티브를 종합하여 꿈, 정체성 및 역할과 관계의 변화를 설명한다.",
+          "printed": "416"
+        }
+      ],
+      "sourceId": "s-cite-05de0c9a84ff199aa897",
+      "sourceSha256": "05de0c9a84ff199aa8973d856521379e60d24bb0213181ab844dbdc80fe01430",
+      "note": "배재윤·명왕성 연구에 관한 절을 확인했다. 앞선 김아영·김효정 연구 부분은 별도 문헌에서 확인해야 한다."
+    },
+    {
+      "sentenceId": "sentence-012",
+      "referenceId": "ref-012",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 35,
+          "summary": "음악 평생교육 경험이 있는 노인 200명의 설문자료를 수집한 연구 설계를 제시한다.",
+          "printed": "25"
+        },
+        {
+          "page": 67,
+          "summary": "참여 횟수에 따른 집단 간 자기효능감·자아존중감 등의 차이를 통계적으로 비교한다.",
+          "printed": "57"
+        }
+      ],
+      "sourceId": "s-cite-b24dcce9a922b98f10fe",
+      "sourceSha256": "b24dcce9a922b98f10fe873631b49c0a6dbd08ca0767386218ac6fd793d100fc",
+      "note": "횟수 집단 간 차이를 보여 주는 연구이지 동일인의 참여 전후 변화를 직접 측정한 설계는 아니다. 학습경험의 해석을 ‘알려 주지 않는다’는 단정은 원고의 비교 판단이며 이 결과표만으로 입증되지 않는다."
+    },
+    {
+      "sentenceId": "sentence-012",
+      "referenceId": "ref-054",
+      "status": "partial",
+      "locators": [],
+      "note": "PubMed의 공식 초록 Methods·Results는 인지·신체·사회심리 지표를 비교한 양적 성과 연구임을 보여 준다. 다만 학습자의 경험과 해석을 전혀 알려 주지 않는다는 문장 전체는 연구자의 비교 해석이며, 이 결과표나 초록만으로 경험 관련 논의의 완전한 부재를 단정할 수 없다. 확인 매체는 웹이며 PDF 쪽수는 부여하지 않았다."
+    },
+    {
+      "sentenceId": "sentence-013",
+      "referenceId": "ref-004",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 19,
+          "summary": "성취감과 자신감의 변화는 연구 결과의 주요 주제이다.",
+          "printed": "59"
+        },
+        {
+          "page": 20,
+          "summary": "동시에 이후 미술교육 참여 의사와 더 배우려는 계획·의지도 명시적으로 다룬다.",
+          "printed": "60"
+        }
+      ],
+      "sourceId": "s-cite-bc2a3b4b11db34c87bf4",
+      "sourceSha256": "bc2a3b4b11db34c87bf42c1a961aa07bf8c315db82e44fcf5b292c313b31dc2f",
+      "note": "성취감과 자신감에 주목했다는 것은 확인되지만, 이 연구가 현재의 모습만 다루었다고 한정할 수는 없다. 미래 학습 의사에 관한 내용도 있다."
+    },
+    {
+      "sentenceId": "sentence-013",
+      "referenceId": "ref-016",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 9,
+          "summary": "정체성과 생애적 의미를 해석하는 과정에서 앞으로 무대에 서겠다는 목표와 노년기를 새로운 시작으로 보는 설명을 함께 제시한다.",
+          "printed": "411"
+        },
+        {
+          "page": 14,
+          "summary": "결론에서도 과거의 동경과 현재 경험, 미래 목표를 연결하여 해석한다.",
+          "printed": "416"
+        }
+      ],
+      "sourceId": "s-cite-05de0c9a84ff199aa897",
+      "sourceSha256": "05de0c9a84ff199aa8973d856521379e60d24bb0213181ab844dbdc80fe01430",
+      "note": "생애적 의미와 정체성을 다루었다는 점은 확인된다. 미래 목표가 실제로 포함되어 있으므로 ‘현재의 모습’만 다루었다는 일반화까지 뒷받침하지는 않는다."
+    },
+    {
+      "sentenceId": "sentence-014",
+      "referenceId": "ref-016",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 9,
+          "summary": "참여자 C는 공연에서 작은 역할이라도 맡고 싶다는 목표를 세웠고, 참여자 B는 발레를 새로운 시작으로 설명한다. 저자들은 이를 꿈의 실현과 성취감·정체성의 관점에서 논의한다.",
+          "printed": "411"
+        },
+        {
+          "page": 14,
+          "summary": "결론은 생애적 맥락과 역할·정체성 및 미래 지향을 종합한다.",
+          "printed": "416"
+        }
+      ],
+      "sourceId": "s-cite-05de0c9a84ff199aa897",
+      "sourceSha256": "05de0c9a84ff199aa8973d856521379e60d24bb0213181ab844dbdc80fe01430",
+      "note": "해당 사례와 저자의 해석은 직접 확인했다. 희망·우려·그 이유를 별도 범주로 구분하지 않았다는 말은 원고의 분석 틀에 따른 비교 판단이며, 미래 관련 논의가 없었다는 뜻으로 확대하지 않는다."
+    },
+    {
+      "sentenceId": "sentence-015",
+      "referenceId": "ref-024",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 24,
+          "summary": "연구목적과 연구문제는 노년기 가능한 자기의 희망·두려움 내용 및 관련 요인, 삶의 만족도와 우울 등의 관계에 초점을 둔다.",
+          "printed": "11"
+        }
+      ],
+      "sourceId": "s-cite-eebbfe0b47baadd20b5d",
+      "sourceSha256": "eebbfe0b47baadd20b5d5e04e50ca41ca45b050d00acab355a325fb974a18865",
+      "note": "임지숙 연구의 중심 질문은 확인된다. 함께 묶인 다른 두 문헌은 별도 확인 대상이며, 이 쪽만으로 교육 관련 경험이 연구 전체에서 전혀 다뤄지지 않았다고 단정하지 않는다."
+    },
+    {
+      "sentenceId": "sentence-015",
+      "referenceId": "ref-050",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 2,
+          "summary": "가능한 자기의 안정성과 변화, 희망과 두려움의 균형, 건강 관련 심리사회적 요인을 종단적으로 살피는 연구 목적을 제시한다.",
+          "printed": "237"
+        },
+        {
+          "page": 3,
+          "summary": "건강·신체 기능·독립과 의존·가족·생활양식 영역에서 5년 동안 가능한 자기의 변화와 연속성을 조사한다고 설명한다.",
+          "printed": "238"
+        }
+      ],
+      "sourceId": "s-cite-d99b8bd429f2a070b889",
+      "sourceSha256": "d99b8bd429f2a070b8896749c8ccd283bc6aac44fdfa3755bcff2c06d3e24dc3",
+      "note": "이 연구의 중심 질문이 노년기 가능한 자기의 변화라는 점을 확인했다. 교육 참여경험이 중심이 아니라는 비교는 확인한 연구목적에 따른 해석이며, 이 원전 하나로 함께 인용된 다른 연구의 범위나 관련 논의의 완전한 부재까지 입증하지 않는다."
+    },
+    {
+      "sentenceId": "sentence-015",
+      "referenceId": "ref-067",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 1,
+          "printed": "P492",
+          "summary": "베를린 노화연구에서 70~100세 이상 참여자의 희망·두려움과 그 변화, 건강·생활상황의 관련을 연구했다.",
+          "rects": [
+            [
+              108.99920654296875,
+              178.39894104003906,
+              492.9874572753906,
+              258.39892578125
+            ],
+            [
+              52,
+              470.8389892578125,
+              292.2460021972656,
+              590.8389892578125
+            ]
+          ]
+        },
+        {
+          "page": 3,
+          "printed": "P494",
+          "summary": "건강·활동·관계·인지 등 여섯 생활영역과 동기 지향을 분석했다.",
+          "rects": [
+            [
+              52,
+              283.1349792480469,
+              292.1131286621094,
+              480.1349792480469
+            ]
+          ]
+        }
+      ],
+      "sourceId": "s-cite-05323aa19217faea2f3f",
+      "sourceSha256": "05323aa19217faea2f3f95f784c3296844acacb87b7b3108af7d4a7023857f55",
+      "note": "이 연구의 표본·분석영역과 연구목적을 확인했다. 교육 참여경험을 중심에 두지 않았다는 대조는 본 논문의 비교 해석으로 구분한다."
+    },
+    {
+      "sentenceId": "sentence-016",
+      "referenceId": "ref-042",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 3,
+          "summary": "노인의 능동적 음악 활동과 가능한 음악적 자기, 안녕감의 관련성을 연구 질문으로 제시한다."
+        },
+        {
+          "page": 18,
+          "summary": "참여 경험 속에서 미래의 음악가로서 자신을 상상하고, 새로운 기술과 정체성의 가능성을 탐색하는 내용을 설명한다."
+        }
+      ],
+      "sourceId": "s-cite-ef8f394f78c4dc094411",
+      "sourceSha256": "ef8f394f78c4dc0944115a7a50f21073a18b06b2f48e16b9843e5e3450d6c17a",
+      "note": "음악학습과 미래 자기 모습을 다룬 해외 연구라는 앞부분을 지지한다. 국내 연구를 찾지 못했다는 후반부는 이 원전이 입증하는 결과가 아니라 논문 연구자의 검색 범위에 관한 진술이다. 공개 원고 PDF 쪽이며 출판본 인쇄쪽으로 환산하지 않았다."
+    },
+    {
+      "sentenceId": "sentence-017",
+      "referenceId": "ref-058",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 2,
+          "summary": "가능한 자기는 미래 행동의 유인인 동시에 현재의 자신과 사건을 평가·해석하는 맥락을 제공한다고 설명한다.",
+          "printed": "955"
+        },
+        {
+          "page": 9,
+          "summary": "자기와 관련된 사건의 의미와 평가는 가능하다고 보는 미래의 자기 맥락에 따라 달라질 수 있음을 설명한다.",
+          "printed": "962"
+        }
+      ],
+      "sourceId": "s-cite-bbe309b0ee2e4f6d2fcf",
+      "sourceSha256": "bbe309b0ee2e4f6d2fcf1ce343bf194c57d55e1165ca6eb2827c3bf2548a7542",
+      "note": "현재 경험의 의미를 미래 자기와 관련지어 이해할 이론적 근거이다. 같은 발레 수업·공연 준비가 도전이나 부담이 된다는 부분은 논문 연구자의 가상 적용이며 이 원전의 실증 결과는 아니다."
+    },
+    {
+      "sentenceId": "sentence-017",
+      "referenceId": "ref-063",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 2,
+          "printed": "6",
+          "summary": "희망하는 미래 자기 모습이 현재의 자기 관련 사건에 의미와 가치를 부여하고 현재 자기를 평가하는 배경이 된다고 설명한다.",
+          "rects": [
+            [
+              54.50370407104492,
+              168.7144775390625,
+              378.5274658203125,
+              287.2161865234375
+            ]
+          ]
+        }
+      ],
+      "sourceId": "s-cite-37777b684fa72857968f",
+      "sourceSha256": "37777b684fa72857968fe11e2eed54fc1aac96bc8bdd2ea8f8ded0e9b5ff453f",
+      "note": "미래 자기가 현재 사건의 해석 기준이 된다는 부분의 근거이다. 같은 발레 수업을 도전 또는 부담으로 해석하는 예시는 본 논문의 적용 설명이다."
+    },
+    {
+      "sentenceId": "sentence-018",
+      "referenceId": "ref-016",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 9,
+          "summary": "참여자 C는 사용하지 않던 근육을 쓰면서 겪은 신체적 통증과 어려움, 늦게 시작한 데 대한 후회를 이야기한다.",
+          "printed": "411"
+        }
+      ],
+      "sourceId": "s-cite-05de0c9a84ff199aa897",
+      "sourceSha256": "05de0c9a84ff199aa8973d856521379e60d24bb0213181ab844dbdc80fe01430",
+      "note": "어려움과 후회를 말한 사례는 확인된다. 이를 근거로 우려하는 미래 자기까지 살피자는 후반부는 원고 연구자의 연구 필요성 해석이다."
+    },
+    {
+      "sentenceId": "sentence-019",
+      "referenceId": "ref-058",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 1,
+          "summary": "가능한 자기는 될 수 있다고 보는 자신, 되고 싶은 자신, 되기를 두려워하는 자신을 포함한다. 성공·창의성·사랑과 인정 및 고독·우울·무능 등의 예를 제시한다.",
+          "printed": "954"
+        },
+        {
+          "page": 8,
+          "summary": "미래 자기 표상을 개인화된 목표와 연결하고, 필요한 행동을 수행할 수 있다는 자기효능감 판단과의 관련성을 논한다.",
+          "printed": "961"
+        }
+      ],
+      "sourceId": "s-cite-bbe309b0ee2e4f6d2fcf",
+      "sourceSha256": "bbe309b0ee2e4f6d2fcf1ce343bf194c57d55e1165ca6eb2827c3bf2548a7542",
+      "note": "미래의 자기 표상과 수행 능력 판단을 구별할 근거는 있다. 그러나 가능한 자기가 활동 계획이나 자기효능감과 무관하다는 뜻은 아니며 원전은 이들의 연결도 설명한다."
+    },
+    {
+      "sentenceId": "sentence-020",
+      "referenceId": "ref-052",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 29,
+          "summary": "몸과 마음을 지닌 사람이 사회적 상황의 경험을 인지·정서·실천의 방식 또는 그 조합으로 변형하고 생애에 통합하여 달라지는 과정을 학습으로 정의한다.",
+          "printed": "13"
+        }
+      ],
+      "sourceId": "s-cite-cefb0231cbfe367dadb8",
+      "sourceSha256": "cefb0231cbfe367dadb8f14892321b53dae810330aa347fd28fd526ef9dadb33"
+    },
+    {
+      "sentenceId": "sentence-020",
+      "referenceId": "ref-053",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 5,
+          "summary": "몸과 마음을 지닌 사람의 경험이 인지·정서·실천의 방식 또는 조합으로 변형되어 생애에 통합되는 학습 정의를 제시한다. 마음의 요소에 의미를 명시하고 전의식적 학습도 설명한다."
+        }
+      ],
+      "sourceId": "s-cite-797a588d4bc8c62b5714",
+      "sourceSha256": "797a588d4bc8c62b57145f795b9764ac87edd10e81675459ce1484871731a440",
+      "note": "전자책 장별 재조판 PDF의 쪽수이다. 원서 인쇄쪽으로 환산하지 않았다."
+    },
+    {
+      "sentenceId": "sentence-021",
+      "referenceId": "ref-006",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 3,
+          "summary": "성인학습자의 자기주도성을 이해할 때 학습 상황을 해석하는 방식과 미묘한 감정·태도의 변화를 고려해야 한다는 문제의식을 제시한다.",
+          "printed": "79"
+        }
+      ],
+      "sourceId": "s-cite-41ad067c4ad3a11815be",
+      "sourceSha256": "41ad067c4ad3a11815be76406bb868501c63cf122a58fca61ca83b7200001440"
+    },
+    {
+      "sentenceId": "sentence-022",
+      "referenceId": "ref-058",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 1,
+          "summary": "가능한 자기는 될 수 있다고 보는 자신, 되고 싶은 자신, 되기를 두려워하는 자신을 포함한다. 성공·창의성·사랑과 인정 및 고독·우울·무능 등의 예를 제시한다.",
+          "printed": "954"
+        },
+        {
+          "page": 2,
+          "summary": "가능한 자기는 미래 행동의 유인인 동시에 현재의 자신과 사건을 평가·해석하는 맥락을 제공한다고 설명한다.",
+          "printed": "955"
+        }
+      ],
+      "sourceId": "s-cite-bbe309b0ee2e4f6d2fcf",
+      "sourceSha256": "bbe309b0ee2e4f6d2fcf1ce343bf194c57d55e1165ca6eb2827c3bf2548a7542"
+    },
+    {
+      "sentenceId": "sentence-023",
+      "referenceId": "ref-063",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 2,
+          "printed": "6",
+          "summary": "희망하는 미래 자기 모습이 현재의 자기 관련 사건에 의미와 가치를 부여하고 현재 자기를 평가하는 배경이 된다고 설명한다.",
+          "rects": [
+            [
+              54.50370407104492,
+              168.7144775390625,
+              378.5274658203125,
+              287.2161865234375
+            ]
+          ]
+        }
+      ],
+      "sourceId": "s-cite-37777b684fa72857968f",
+      "sourceSha256": "37777b684fa72857968fe11e2eed54fc1aac96bc8bdd2ea8f8ded0e9b5ff453f"
+    },
+    {
+      "sentenceId": "sentence-024",
+      "referenceId": "ref-043",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 3,
+          "summary": "실제 맥락 속에서 시간과 공간의 경계가 있는 사례를 다양한 정보원으로 상세히 탐구하는 사례연구를 정의한다.",
+          "printed": "139"
+        }
+      ],
+      "sourceId": "s-cite-18702c2ee808de8f6f99",
+      "sourceSha256": "18702c2ee808de8f6f998968f7eb2421db2e19e11894c9d4bf27e9a6821fd863",
+      "note": "배포 발췌 PDF 3쪽은 보유 전권 PDF 140쪽이다. 이 항목은 Creswell·Poth의 정의에 해당하는 근거이다."
+    },
+    {
+      "sentenceId": "sentence-024",
+      "referenceId": "ref-072",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 10,
+          "printed": "43",
+          "summary": "실생활 현상을 정황과 함께 깊게 조사하는 사례연구의 범위를 정의한다."
+        },
+        {
+          "page": 11,
+          "printed": "44",
+          "summary": "다양한 자료원에서 증거를 수집하고 수렴하는 사례연구의 특징을 제시한다."
+        }
+      ],
+      "sourceId": "s-cite-17baaab83eec981be767",
+      "sourceSha256": "17baaab83eec981be767f407301046c2307760df7ac89c4b1d07716b32f5bed3"
+    },
+    {
+      "sentenceId": "sentence-025",
+      "referenceId": "ref-002",
+      "status": "web",
+      "locators": [],
+      "note": "국립국어원 온라인가나다의 2026년 3월 26일 답변에서 ‘노인’의 뜻을 ‘나이가 들어 늙은 사람’으로 설명한 것을 확인했다. 다만 원고가 서지로 제시한 표준국어대사전의 개별 항목을 직접 연 것은 아니므로, 동일 기관의 공식 설명을 통한 뜻 확인으로 한정한다.",
+      "sourceUrl": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=&pageIndex=1&qna_seq=328551&searchCondition=&searchKeyword=",
+      "sourceLabel": "국립국어원 온라인가나다 · 뜻 확인"
+    },
+    {
+      "sentenceId": "sentence-026",
+      "referenceId": "ref-069",
+      "status": "web",
+      "locators": [],
+      "note": "UN의 2017 Highlights 공식 검색 본문에서 60세 이상 인구를 기준으로 한 표를 확인했다. 원문 PDF 직접 열기가 제한되어 주요 PDF 쪽수는 지정하지 않았다."
+    },
+    {
+      "sentenceId": "sentence-026",
+      "referenceId": "ref-070",
+      "status": "web",
+      "locators": [],
+      "note": "UN의 2019 Highlights 공식 소개문에서 65세 이상 인구 기준을 확인했다. 원문 PDF 직접 열기가 제한되어 주요 PDF 쪽수는 지정하지 않았다."
+    },
+    {
+      "sentenceId": "sentence-027",
+      "referenceId": "ref-060",
+      "status": "web",
+      "locators": [],
+      "note": "OECD 공식 지표의 Definition 문단에서 전체 인구 중 65세 이상 인구의 비중이라는 정의를 확인했다. 웹 문서에는 고정 쪽수가 없다."
+    },
+    {
+      "sentenceId": "sentence-028",
+      "referenceId": "ref-031",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 2,
+          "summary": "「일러두기」는 고령자 통계의 기본 대상을 65세 이상 인구로 정한다. 다만 통계 항목에 따라 60세 이상 또는 66세 이상 등의 예외가 있음을 함께 밝힌다."
+        }
+      ],
+      "sourceId": "s-cite-d75a8398c106b2e8cf06",
+      "sourceSha256": "d75a8398c106b2e8cf069e55007381a5226179c82d64f8fad5a64d2b4370c1b6"
+    },
+    {
+      "sentenceId": "sentence-029",
+      "referenceId": "ref-075",
+      "status": "web",
+      "locators": [],
+      "note": "노인복지법 제26조의 경로우대 65세 기준과 시행규칙 제24조의 노인복지관·노인교실 60세 기준을 각각 대조했다. 두 규정의 적용 대상이 다르다."
+    },
+    {
+      "sentenceId": "sentence-030",
+      "referenceId": "ref-073",
+      "status": "web",
+      "locators": [],
+      "note": "국민연금법 제61조와 2007년 법률 제8541호 부칙 제8조를 대조했다. 기본 연령과 출생연도별 상향 특례를 함께 읽어야 한다. 법령은 쪽수 대신 조문을 기준으로 확인한다."
+    },
+    {
+      "sentenceId": "sentence-031",
+      "referenceId": "ref-017",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 4,
+          "summary": "이론적 배경에서 Erikson의 노년기 발달과업을 자아통합 대 절망으로 설명한다.",
+          "printed": "4"
+        }
+      ],
+      "sourceId": "s-cite-5130e369616e00349509",
+      "sourceSha256": "5130e369616e00349509830aead8d2b500da9821d9609e9b14c1fdb98893fed8",
+      "note": "변애경·윤창국(2017)에 실린 Erikson(1963) 설명을 확인한 재인용 검증이다. Erikson 원저를 직접 대조한 것은 아니다."
+    },
+    {
+      "sentenceId": "sentence-032",
+      "referenceId": "ref-015",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 10,
+          "summary": "노인의 자기성찰과 생애경험의 재구성, 일상적 학습을 통해 자신과 현실을 이해하고 다루는 주체성에 주목한다.",
+          "printed": "30"
+        }
+      ],
+      "sourceId": "s-cite-6ae06ad09a8aac8eb8e7",
+      "sourceSha256": "6ae06ad09a8aac8eb8e73df430a78c9ff8111124c681ea54fb9c6cf1e021cfa8"
+    },
+    {
+      "sentenceId": "sentence-033",
+      "referenceId": "ref-005",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 14,
+          "summary": "노인 평생교육기관의 모집 연령을 검토하고, 해당 기관의 학습 프로그램에 참여하는 60세 이상을 노인학습자로 정의한다.",
+          "printed": "7"
+        }
+      ],
+      "sourceId": "s-cite-6c9aa7df6f4862fc94b2",
+      "sourceSha256": "6c9aa7df6f4862fc94b2d7d9661e9ee92902110e433b8b170f602dfb4f3b3520",
+      "note": "60세 이상 및 학습 프로그램 참여라는 김예슬 연구의 범위를 확인했다. 문장에 함께 제시된 65세 기준은 이우현 연구에서 별도로 확인한다."
+    },
+    {
+      "sentenceId": "sentence-033",
+      "referenceId": "ref-022",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 22,
+          "summary": "선행연구 및 통계·제도를 검토하여 65세 이상으로 연령을 정하고, 평생교육 프로그램에 참여한 경험이 있는 학습자를 연구대상으로 정의한다.",
+          "printed": "8"
+        }
+      ],
+      "sourceId": "s-cite-7cdcd1165bce5a4d8c7f",
+      "sourceSha256": "7cdcd1165bce5a4d8c7fe14d725f27c11c384000edbe843dc5a2bd551c830ef1",
+      "note": "65세 이상과 프로그램 참여 경험이라는 이우현 연구의 범위를 확인했다. 60세 기준을 함께 비교하는 종합은 다른 문헌과 결합한 원고의 서술이다."
+    },
+    {
+      "sentenceId": "sentence-034",
+      "referenceId": "ref-003",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 9,
+          "summary": "최종 연구참여자 20명은 60세 이상이며, 대학 학위과정 재학생 9명과 진학 준비자 1명, 대학 평생교육원 프로그램 참여자 10명으로 구성된다.",
+          "printed": "97"
+        }
+      ],
+      "sourceId": "s-cite-c50d8edfab18a5fce4f3",
+      "sourceSha256": "c50d8edfab18a5fce4f342105fa72b305ece247327cc289db8479888764af939"
+    },
+    {
+      "sentenceId": "sentence-035",
+      "referenceId": "ref-005",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 14,
+          "summary": "다수의 노인 평생교육기관이 60세 이상을 모집한다는 점을 설명한 뒤, 그러한 기관의 학습 프로그램에 참여하는 60세 이상을 노인학습자로 정의한다.",
+          "printed": "7"
+        }
+      ],
+      "sourceId": "s-cite-6c9aa7df6f4862fc94b2",
+      "sourceSha256": "6c9aa7df6f4862fc94b2d7d9661e9ee92902110e433b8b170f602dfb4f3b3520"
+    },
+    {
+      "sentenceId": "sentence-036",
+      "referenceId": "ref-012",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 15,
+          "summary": "노인복지 및 사회보장 관련 제도의 대상 연령을 검토하며 65세 기준을 설명한다.",
+          "printed": "5"
+        },
+        {
+          "page": 35,
+          "summary": "이러한 연령 논의를 바탕으로 음악 평생교육 경험이 있는 만 65세 이상을 연구대상으로 선정했다고 명시한다.",
+          "printed": "25"
+        }
+      ],
+      "sourceId": "s-cite-b24dcce9a922b98f10fe",
+      "sourceSha256": "b24dcce9a922b98f10fe873631b49c0a6dbd08ca0767386218ac6fd793d100fc"
+    },
+    {
+      "sentenceId": "sentence-037",
+      "referenceId": "ref-022",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 21,
+          "summary": "노인 연령에 관한 통계·제도 및 선행연구의 기준을 검토한다.",
+          "printed": "7"
+        },
+        {
+          "page": 22,
+          "summary": "노년기 특성과 연구 간 비교 가능성을 고려하여 65세 기준을 채택하고 연구대상을 정의한다.",
+          "printed": "8"
+        }
+      ],
+      "sourceId": "s-cite-7cdcd1165bce5a4d8c7f",
+      "sourceSha256": "7cdcd1165bce5a4d8c7fe14d725f27c11c384000edbe843dc5a2bd551c830ef1"
+    },
+    {
+      "sentenceId": "sentence-038",
+      "referenceId": "ref-005",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 14,
+          "summary": "이 연구는 연령 기준 60세와 노인 평생교육기관의 학습 프로그램 참여를 함께 적용한다.",
+          "printed": "7"
+        }
+      ],
+      "sourceId": "s-cite-6c9aa7df6f4862fc94b2",
+      "sourceSha256": "6c9aa7df6f4862fc94b2d7d9661e9ee92902110e433b8b170f602dfb4f3b3520",
+      "note": "해당 연구의 대상 정의는 확인된다. 여러 연구를 종합한 일반적인 노인학습자 범위는 원고의 종합 판단이다."
+    },
+    {
+      "sentenceId": "sentence-038",
+      "referenceId": "ref-016",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 3,
+          "summary": "연구참여자 선정에 65세 이상, 노년기 발레 시작, 일정 기간의 발레 경험 등 연령과 활동 경험을 함께 고려한다.",
+          "printed": "405"
+        }
+      ],
+      "sourceId": "s-cite-05de0c9a84ff199aa897",
+      "sourceSha256": "05de0c9a84ff199aa8973d856521379e60d24bb0213181ab844dbdc80fe01430",
+      "note": "이 발레 연구의 선정 조건을 확인한 것으로, 모든 노인교육 연구에 관한 일반 명제를 입증한 것은 아니다."
+    },
+    {
+      "sentenceId": "sentence-038",
+      "referenceId": "ref-022",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 22,
+          "summary": "연구의 노인학습자는 65세 이상이라는 연령과 평생교육 프로그램 참여 경험을 함께 갖춘 대상으로 정의한다.",
+          "printed": "8"
+        }
+      ],
+      "sourceId": "s-cite-7cdcd1165bce5a4d8c7f",
+      "sourceSha256": "7cdcd1165bce5a4d8c7fe14d725f27c11c384000edbe843dc5a2bd551c830ef1",
+      "note": "여러 문헌을 종합한 후반의 범위 설정은 원고 연구자의 판단이다."
+    },
+    {
+      "sentenceId": "sentence-039",
+      "referenceId": "ref-016",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 3,
+          "summary": "발레 경험 연구는 참여자 연령을 65세 이상으로 선정했다고 명시한다.",
+          "printed": "405"
+        }
+      ],
+      "sourceId": "s-cite-05de0c9a84ff199aa897",
+      "sourceSha256": "05de0c9a84ff199aa8973d856521379e60d24bb0213181ab844dbdc80fe01430",
+      "note": "선행 발레 연구의 연령 조건만 확인했다. OECD·통계청 기준 및 본 연구의 모집 계획은 이 문헌에서 확인되는 사실이 아니다."
+    },
+    {
+      "sentenceId": "sentence-039",
+      "referenceId": "ref-022",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 22,
+          "summary": "노인학습자 연구에서 연구 간 비교 가능성 등을 고려하여 65세 기준을 사용한다.",
+          "printed": "8"
+        }
+      ],
+      "sourceId": "s-cite-7cdcd1165bce5a4d8c7f",
+      "sourceSha256": "7cdcd1165bce5a4d8c7fe14d725f27c11c384000edbe843dc5a2bd551c830ef1",
+      "note": "이우현 연구의 연령 범위만 확인한 것이다. 이를 현재 원고의 연구대상에 적용하는 결정은 원고 연구자의 설계이다."
+    },
+    {
+      "sentenceId": "sentence-039",
+      "referenceId": "ref-031",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 2,
+          "summary": "고령자 통계의 기본 작성 대상은 65세 이상이며 일부 항목은 다른 연령 기준을 사용한다고 안내한다."
+        }
+      ],
+      "sourceId": "s-cite-d75a8398c106b2e8cf06",
+      "sourceSha256": "d75a8398c106b2e8cf069e55007381a5226179c82d64f8fad5a64d2b4370c1b6",
+      "note": "통계청의 기본 연령 기준만 뒷받침한다. 다른 문헌과의 일치 및 본 연구의 참여자 선정 계획은 원고가 종합한 내용이다."
+    },
+    {
+      "sentenceId": "sentence-039",
+      "referenceId": "ref-060",
+      "status": "web",
+      "locators": [],
+      "note": "OECD의 65세 기준은 공식 Definition 문단에서 확인했다. 이를 본 연구의 참여자 범위로 채택하는 판단은 연구자의 설계이며, 웹 문서에는 고정 쪽수가 없다."
+    },
+    {
+      "sentenceId": "sentence-040",
+      "referenceId": "ref-033",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 19,
+          "summary": "노화 자각의 신체적 신호와 함께 퇴직, 자녀의 출가, 손자녀 출생, 사별 등 사회적 경험이 노년기의 삶에 갖는 의미를 설명한다.",
+          "printed": "167"
+        },
+        {
+          "page": 25,
+          "summary": "노년기 사회적 변화를 사회적 지위·역할 및 개인과 타인·집단의 관계 변화라는 관점에서 설명한다.",
+          "printed": "250"
+        }
+      ],
+      "sourceId": "s-cite-d8180542c1663d765803",
+      "sourceSha256": "d8180542c1663d765803d1bfc30a7141ed2b4bc9a2facfc186fe9fe8af9dcd1b"
+    },
+    {
+      "sentenceId": "sentence-041",
+      "referenceId": "ref-065",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 5,
+          "printed": "5",
+          "summary": "전환의 특성, 전환 전후 환경, 개인의 특성이 상호작용하여 적응에 영향을 주는 모형을 제시한다."
+        }
+      ],
+      "sourceId": "s-cite-e8b7bee7e85156be405f",
+      "sourceSha256": "e8b7bee7e85156be405f19f31e3a103543105de3a2eaf012f372e3394c45d758",
+      "note": "일반적인 생애 전환 적응 모형의 근거이다. 노년기 전체를 하나의 전환기로 규정한 문장까지 이 쪽의 직접 진술로 보지는 않는다."
+    },
+    {
+      "sentenceId": "sentence-042",
+      "referenceId": "ref-039",
+      "status": "web",
+      "locators": [],
+      "note": "Cambridge University Press의 해당 장 Summary·Introduction에서 개인 간 다양성과 개인 내 가소성을 노화 이해의 핵심으로 설명한 부분을 확인했다. 공개 웹 본문을 확인했으며 PDF 쪽수는 부여하지 않았다."
+    },
+    {
+      "sentenceId": "sentence-043",
+      "referenceId": "ref-022",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 23,
+          "summary": "노년기 학습을 지식 획득, 생애성찰, 관계 형성, 경험의 사회적 가치와 연결하여 설명하는 문단에서 박부경(2018)과 박응희(2016)를 함께 인용한다.",
+          "printed": "9"
+        }
+      ],
+      "sourceId": "s-cite-7cdcd1165bce5a4d8c7f",
+      "sourceSha256": "7cdcd1165bce5a4d8c7fe14d725f27c11c384000edbe843dc5a2bd551c830ef1",
+      "note": "이우현의 이차 설명은 확인했으나, 해당 문단은 두 문헌을 함께 인용하므로 문장 전체를 박부경 단독 원저의 주장으로 확정할 수는 없다. 박부경 원저는 직접 대조하지 않았다."
+    },
+    {
+      "sentenceId": "sentence-044",
+      "referenceId": "ref-014",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 9,
+          "summary": "노년기 교육을 생애경험의 표현과 감정·생각의 공유, 일상적 자기성찰과 타인 이해에 연결하여 논의한다. 생애 회고뿐 아니라 미래지향의 의미도 함께 다룬다.",
+          "printed": "55"
+        }
+      ],
+      "sourceId": "s-cite-d773778b9da0a9fa7f2f",
+      "sourceSha256": "d773778b9da0a9fa7f2f29f38f45d965b3eff0694aa4022dcfaacc6672aa916c"
+    },
+    {
+      "sentenceId": "sentence-045",
+      "referenceId": "ref-005",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 15,
+          "summary": "노화에 따른 외적인 변화와 신체 각 기관 기능의 저하를 설명하는 문단에서 황재연(2016)을 인용한다.",
+          "printed": "8"
+        }
+      ],
+      "sourceId": "s-cite-6c9aa7df6f4862fc94b2",
+      "sourceSha256": "6c9aa7df6f4862fc94b2d7d9661e9ee92902110e433b8b170f602dfb4f3b3520",
+      "note": "김예슬(2018)의 해당 문단을 읽어 확인한 재인용이다. 황재연 원저를 직접 대조한 것은 아니다."
+    },
+    {
+      "sentenceId": "sentence-046",
+      "referenceId": "ref-033",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 20,
+          "summary": "근육의 변화와 신체활동에 따른 개인차를 설명한다.",
+          "printed": "189"
+        },
+        {
+          "page": 21,
+          "summary": "골격과 뼈의 변화, 신체 기능과의 관련을 설명한다.",
+          "printed": "190"
+        },
+        {
+          "page": 22,
+          "summary": "감각 변화 가운데 시각 기능의 변화를 다룬다.",
+          "printed": "195"
+        },
+        {
+          "page": 24,
+          "summary": "정상적 노화와 병적 노화를 구분하며 질병과 노화를 동일시하지 않도록 설명한다.",
+          "printed": "202"
+        }
+      ],
+      "sourceId": "s-cite-d8180542c1663d765803",
+      "sourceSha256": "d8180542c1663d765803d1bfc30a7141ed2b4bc9a2facfc186fe9fe8af9dcd1b",
+      "note": "근육·골격·기능·감각 변화는 확인된다. 그러나 모든 노인이 여러 질환 때문에 불리해진다는 일반화는 원전의 정상 노화·병적 노화 구분과 개인차 설명을 함께 고려해야 한다."
+    },
+    {
+      "sentenceId": "sentence-047",
+      "referenceId": "ref-033",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 23,
+          "summary": "「학습활동의 계획」은 신체적 변화를 고려하여 수업 단위시간, 휴식과 운동시간, 활동적·비활동적 수업의 균형을 조절하도록 제안한다.",
+          "printed": "200"
+        }
+      ],
+      "sourceId": "s-cite-d8180542c1663d765803",
+      "sourceSha256": "d8180542c1663d765803d1bfc30a7141ed2b4bc9a2facfc186fe9fe8af9dcd1b",
+      "note": "수업시간·휴식·활동 배분에 관한 교육적 제안은 확인된다. 활동 강도별 피로나 발레 수행의 인과적 효과를 실험하여 확인한 자료는 아니다."
+    },
+    {
+      "sentenceId": "sentence-048",
+      "referenceId": "ref-064",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 1,
+          "printed": "403",
+          "summary": "성인 연령과 관련된 인지 수행 차이를 설명하는 주요 요인으로 여러 인지 조작의 처리속도 감소를 제시한다.",
+          "rects": [
+            [
+              50.63999938964844,
+              301.4493408203125,
+              292.77880859375,
+              423.45526123046875
+            ]
+          ]
+        }
+      ],
+      "sourceId": "s-cite-8d19ccaddee1426b0f0c",
+      "sourceSha256": "8d19ccaddee1426b0f0cf8053583b1cf78520817fef63ceefc9bc37d37b094dc"
+    },
+    {
+      "sentenceId": "sentence-049",
+      "referenceId": "ref-033",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 14,
+          "summary": "학습 수행에는 교육, 건강, 생활경험 등의 요인이 복합적으로 작용하며 능력과 수행을 구분해야 한다고 설명한다.",
+          "printed": "236"
+        },
+        {
+          "page": 15,
+          "summary": "과제의 의미와 친숙성 및 불안과 같은 학습 조건이 수행에 영향을 줄 수 있음을 설명한다.",
+          "printed": "237"
+        },
+        {
+          "page": 16,
+          "summary": "학습과 반응에 충분한 시간을 허용하는 조건, 경험과 연습의 의미를 논의한다.",
+          "printed": "238"
+        }
+      ],
+      "sourceId": "s-cite-d8180542c1663d765803",
+      "sourceSha256": "d8180542c1663d765803d1bfc30a7141ed2b4bc9a2facfc186fe9fe8af9dcd1b"
+    },
+    {
+      "sentenceId": "sentence-050",
+      "referenceId": "ref-009",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 26,
+          "summary": "오랜 삶에서 축적한 지식과 경험을 새로운 학습과 판단의 토대로 설명한다.",
+          "printed": "337"
+        }
+      ],
+      "sourceId": "s-cite-b53fba8763f1a9e1ed6a",
+      "sourceSha256": "b53fba8763f1a9e1ed6af7e59c2aaf375e631143ede1cd32fa73ad61884e737a"
+    },
+    {
+      "sentenceId": "sentence-051",
+      "referenceId": "ref-040",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 1,
+          "summary": "시간을 열려 있는 것으로 지각하면 지식 관련 목표가, 제한된 것으로 지각하면 정서적 목표가 상대적으로 우선한다는 이론을 제시한다.",
+          "printed": "165"
+        }
+      ],
+      "sourceId": "s-cite-6365fa161023250e6f10",
+      "sourceSha256": "6365fa161023250e6f1021419e8d9eb1e6acf080fd535c6dbcbd15d0cf0eb639"
+    },
+    {
+      "sentenceId": "sentence-052",
+      "referenceId": "ref-009",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 27,
+          "summary": "새로운 지식과 기술을 배우고 활용하는 경험을 통하여 자신의 능력을 인식하고 사회에 기여할 수 있다는 점을 논의한다.",
+          "printed": "338"
+        }
+      ],
+      "sourceId": "s-cite-b53fba8763f1a9e1ed6a",
+      "sourceSha256": "b53fba8763f1a9e1ed6af7e59c2aaf375e631143ede1cd32fa73ad61884e737a",
+      "note": "노인교육의 의미에 관한 설명을 확인한 것이다. 특정 교육 프로그램의 효과를 실험한 결과로 제시하지 않는다."
+    },
+    {
+      "sentenceId": "sentence-053",
+      "referenceId": "ref-004",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 20,
+          "summary": "타인과의 상호작용 결과에서 참여자들이 작품을 서로 칭찬하고 격려하며 장점을 알아보는 모습을 보고한다.",
+          "printed": "60"
+        },
+        {
+          "page": 23,
+          "summary": "연구결론은 성취와 타인과의 소통을 통한 자아인지 및 자신의 가치 확인을 정리한다.",
+          "printed": "63"
+        }
+      ],
+      "sourceId": "s-cite-bc2a3b4b11db34c87bf4",
+      "sourceSha256": "bc2a3b4b11db34c87bf42c1a961aa07bf8c315db82e44fcf5b292c313b31dc2f"
+    },
+    {
+      "sentenceId": "sentence-054",
+      "referenceId": "ref-033",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 25,
+          "summary": "새 지위를 얻거나 기존 지위를 떠남에 따라 역할을 얻거나 포기하는 것을 역할 전환으로 설명한다.",
+          "printed": "250"
+        },
+        {
+          "page": 26,
+          "summary": "같은 지위에 있어도 연령 증가 등에 따라 외부의 역할 기대가 달라지는 것을 역할 변화로 구분한다.",
+          "printed": "251"
+        }
+      ],
+      "sourceId": "s-cite-d8180542c1663d765803",
+      "sourceSha256": "d8180542c1663d765803d1bfc30a7141ed2b4bc9a2facfc186fe9fe8af9dcd1b"
+    },
+    {
+      "sentenceId": "sentence-055",
+      "referenceId": "ref-065",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 5,
+          "printed": "5",
+          "summary": "모형 그림의 전환 전후 환경 특성에 대인 지원체계·기관 지원·물리적 환경을 제시한다."
+        },
+        {
+          "page": 11,
+          "printed": "11",
+          "summary": "가족·친구 관계, 기관 지원, 물리적 환경이 전환 적응과 연결되는 방식을 설명한다."
+        }
+      ],
+      "sourceId": "s-cite-e8b7bee7e85156be405f",
+      "sourceSha256": "e8b7bee7e85156be405f19f31e3a103543105de3a2eaf012f372e3394c45d758"
+    },
+    {
+      "sentenceId": "sentence-056",
+      "referenceId": "ref-005",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 58,
+          "summary": "논의·결론에서 주관적 경제상태의 영향을 통제한 후에도 사회적 지지와 성공적 노화 사이에 정적 관계가 나타났다고 보고한다.",
+          "printed": "51"
+        }
+      ],
+      "sourceId": "s-cite-6c9aa7df6f4862fc94b2",
+      "sourceSha256": "6c9aa7df6f4862fc94b2d7d9661e9ee92902110e433b8b170f602dfb4f3b3520",
+      "note": "연구의 통계적 정적 관계를 확인한 것으로, 사회적 지지가 성공적 노화를 유발한다는 인과 검증으로 확대하지 않는다."
+    },
+    {
+      "sentenceId": "sentence-057",
+      "referenceId": "ref-009",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 27,
+          "summary": "노인이 지닌 지식과 기술을 사회적 기여와 교육적 자원에 연결하여 설명한다.",
+          "printed": "338"
+        },
+        {
+          "page": 28,
+          "summary": "동료 노인이나 다른 세대의 학습을 돕는 노인에 의한 교육의 의미를 설명한다.",
+          "printed": "339"
+        }
+      ],
+      "sourceId": "s-cite-b53fba8763f1a9e1ed6a",
+      "sourceSha256": "b53fba8763f1a9e1ed6af7e59c2aaf375e631143ede1cd32fa73ad61884e737a"
+    },
+    {
+      "sentenceId": "sentence-058",
+      "referenceId": "ref-011",
+      "status": "web",
+      "locators": [],
+      "note": "KCI 공식 학술논문 상세 페이지의 국문 초록 첫 문장에서 문화예술교육을 문화교육과 예술교육이 결합한 개념으로 설명한 것을 직접 확인했다. 확인 범위는 공개 초록이며 논문 전편을 읽었다는 뜻은 아니다.",
+      "sourceUrl": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001798881",
+      "sourceLabel": "KCI · 민경훈(2013) 국문 초록"
+    },
+    {
+      "sentenceId": "sentence-059",
+      "referenceId": "ref-026",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 28,
+          "summary": "문화교육의 언어·생활양식·관습·학문·예술 범위와, 음악·미술·무용 등 장르의 교육과정·방법을 통한 예술교육을 설명하며 노슬기(2018)를 인용한다.",
+          "printed": "16"
+        }
+      ],
+      "sourceId": "s-cite-86d90ab6cd714c0732b1",
+      "sourceSha256": "86d90ab6cd714c0732b10234723f6755eb4005bdff3fbe354c732e07f105dc77",
+      "note": "정재성(2023)에서 확인한 재인용이며 노슬기 원저를 직접 읽은 것은 아니다."
+    },
+    {
+      "sentenceId": "sentence-060",
+      "referenceId": "ref-023",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 14,
+          "summary": "문화예술교육을 상상적 사고와 감성적 인식, 창의적 활동이 문화적 소통 및 비판적·반성적 사고와 상호작용하는 교육으로 설명하며 김세훈 외(2004)를 인용한다.",
+          "printed": "7"
+        }
+      ],
+      "sourceId": "s-cite-e2539d999ea963972824",
+      "sourceSha256": "e2539d999ea9639728244ef149397665ff7798533df9de6b76a8cef65f238713",
+      "note": "이혜림(2014)에 수록된 이차 설명을 확인했다. 김세훈 외 원저를 직접 대조한 것은 아니다."
+    },
+    {
+      "sentenceId": "sentence-061",
+      "referenceId": "ref-023",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 14,
+          "summary": "교육 목적과 필요에 따라 문화교육과 예술교육을 유기적으로 연결하는 설명에서 황정현 외(2009)를 인용한다.",
+          "printed": "7"
+        }
+      ],
+      "sourceId": "s-cite-e2539d999ea963972824",
+      "sourceSha256": "e2539d999ea9639728244ef149397665ff7798533df9de6b76a8cef65f238713",
+      "note": "이혜림(2014)의 재인용 문단을 확인한 것으로 황정현 외 원저를 직접 대조한 것은 아니다."
+    },
+    {
+      "sentenceId": "sentence-062",
+      "referenceId": "ref-013",
+      "status": "web",
+      "locators": [],
+      "note": "한국문화예술교육진흥원 arte365의 「문화예술교육 정책의 시작」 절은 2005년 12월 지원법 제정과 문화예술교육 지원의 법적 근거 마련을 설명한다. 이어 학교·교육시설·교육단체 간 연계와 지원기구의 업무를 설명하는 대목까지 확인했다.",
+      "sourceUrl": "https://arte365.kr/?p=45440",
+      "sourceLabel": "arte365 · 박수아(2015) 정책사 설명"
+    },
+    {
+      "sentenceId": "sentence-062",
+      "referenceId": "ref-076",
+      "status": "web",
+      "locators": [],
+      "note": "현행법 제2조에서 학교·사회문화예술교육의 구분을 확인했다. 2005년 제정 경위에 관한 이 문장의 근거는 함께 연결된 박수아(2015) 기사에서 확인할 필요가 있다."
+    },
+    {
+      "sentenceId": "sentence-063",
+      "referenceId": "ref-076",
+      "status": "web",
+      "locators": [],
+      "note": "문화예술교육 지원법 제2조 제1호에서 문화예술·문화산업·국가유산·자연유산을 교육내용 또는 교육과정에 활용하는 교육이라는 정의를 확인했다."
+    },
+    {
+      "sentenceId": "sentence-064",
+      "referenceId": "ref-068",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 8,
+          "printed": "8",
+          "summary": "예술을 독립된 학습 대상으로 가르치는 접근과 다른 교과의 교수·학습 방법으로 활용하는 접근을 구별한다.",
+          "rects": [
+            [
+              92.69999694824219,
+              59.60076141357422,
+              525.0064086914062,
+              370.7146301269531
+            ]
+          ]
+        }
+      ],
+      "sourceId": "s-cite-fef7ef00e2710358d132",
+      "sourceSha256": "fef7ef00e2710358d13216e0c4c7d2048c77d334a573c3f8b7843915eaee79ed"
+    },
+    {
+      "sentenceId": "sentence-065",
+      "referenceId": "ref-010",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 3,
+          "summary": "문화·예술·교육의 관계를 논하면서 예술의 고유한 경험을 외적 성과 달성을 위한 수단으로 축소하는 관점의 한계를 지적한다.",
+          "printed": "89"
+        }
+      ],
+      "sourceId": "s-cite-3de3e76ac70768f51f7b",
+      "sourceSha256": "3de3e76ac70768f51f7b74cf9948a1c87015179b90464a50913103667cd818ff"
+    },
+    {
+      "sentenceId": "sentence-066",
+      "referenceId": "ref-077",
+      "status": "web",
+      "locators": [],
+      "note": "평생교육법 제2조 제1호의 일곱 열거 영역에 문화예술교육이 포함됨을 확인했다. 학교 정규교육과정 제외 및 ‘등을 포함’이라는 조문 범위를 함께 읽어야 한다."
+    },
+    {
+      "sentenceId": "sentence-067",
+      "referenceId": "ref-008",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 7,
+          "summary": "문화예술적 상상력·창의력, 예술 활동과 기능, 생활 속 문화예술 향유·활용 능력을 문화예술교육의 정의로 제시한다.",
+          "printed": "217"
+        }
+      ],
+      "sourceId": "s-cite-06f93986e431934aac9b",
+      "sourceSha256": "06f93986e431934aac9bdf42ddfa2cbfe4c064443bacf6002c4c494a80e1b830"
+    },
+    {
+      "sentenceId": "sentence-067",
+      "referenceId": "ref-030",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 432,
+          "summary": "「문화예술교육의 개념」에서 상상력과 창의력, 예술 활동·기능, 일상생활에서 문화예술을 향유하고 활용하는 능력을 기르는 교육으로 설명한다.",
+          "printed": "390"
+        }
+      ],
+      "sourceId": "s-cite-cc2e61d87115be1e70fd",
+      "sourceSha256": "cc2e61d87115be1e70fd7462975380e818bb6b4ad6131fc13c9b950306d21cbf",
+      "note": "조순옥 장의 설명을 확인했다. 이 문단 안에서 다시 인용하는 김진화 등의 원문까지 별도로 대조했다는 의미는 아니다."
+    },
+    {
+      "sentenceId": "sentence-068",
+      "referenceId": "ref-008",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 7,
+          "summary": "문화예술교육의 하위 영역을 레저생활스포츠, 생활문화예술, 문화예술향상 프로그램의 세 유형으로 구분한다.",
+          "printed": "217"
+        }
+      ],
+      "sourceId": "s-cite-06f93986e431934aac9b",
+      "sourceSha256": "06f93986e431934aac9bdf42ddfa2cbfe4c064443bacf6002c4c494a80e1b830"
+    },
+    {
+      "sentenceId": "sentence-069",
+      "referenceId": "ref-032",
+      "sourceId": "s-cite-c152def5369931c30825",
+      "sourceSha256": "c152def5369931c308252b68c6538808a9e765caca337b9a60cfa8dc06eb9af5",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 11,
+          "printed": "55",
+          "summary": "「인간교육」의 첫째 항목은 미적 감수성과 창의성 발달을, 둘째 항목은 전인적 성장의 기초를 문화예술교육의 역할로 설명한다.",
+          "rects": [
+            [
+              64.05,
+              60.35,
+              402.36,
+              71.24
+            ],
+            [
+              53.68,
+              79.88,
+              403.42,
+              90.99
+            ],
+            [
+              53.89,
+              99.79,
+              404.05,
+              110.9
+            ],
+            [
+              54.31,
+              119.64,
+              246.92,
+              130.53
+            ],
+            [
+              64.05,
+              139.18,
+              317.86,
+              150.29
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sentenceId": "sentence-070",
+      "referenceId": "ref-068",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 7,
+          "printed": "7",
+          "summary": "학습자 자신의 문화를 출발점으로 삼아 다른 문화를 탐색하고 존중하도록 설명한다.",
+          "rects": [
+            [
+              92.69998168945312,
+              59.60076141357422,
+              527.70263671875,
+              724.0469970703125
+            ]
+          ]
+        }
+      ],
+      "sourceId": "s-cite-fef7ef00e2710358d132",
+      "sourceSha256": "fef7ef00e2710358d13216e0c4c7d2048c77d334a573c3f8b7843915eaee79ed"
+    },
+    {
+      "sentenceId": "sentence-071",
+      "referenceId": "ref-032",
+      "sourceId": "s-cite-c152def5369931c30825",
+      "sourceSha256": "c152def5369931c308252b68c6538808a9e765caca337b9a60cfa8dc06eb9af5",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 12,
+          "printed": "56",
+          "summary": "「전통문화 계승 및 발전」 문단은 지역의 전통·특성을 반영한 문화예술교육 프로그램을 현대적 감각으로 재탄생시켜 소개하고 지역 축제와 연계하는 역할을 설명한다.",
+          "rects": [
+            [
+              105.98,
+              180.63,
+              444.92,
+              191.52
+            ],
+            [
+              96.03,
+              200.17,
+              444.92,
+              211.28
+            ],
+            [
+              97.09,
+              220.07,
+              444.92,
+              231.18
+            ],
+            [
+              96.24,
+              239.98,
+              446.2,
+              251.09
+            ],
+            [
+              96.24,
+              259.78,
+              445.14,
+              270.46
+            ],
+            [
+              97.3,
+              279.32,
+              444.93,
+              290.21
+            ],
+            [
+              96.45,
+              299.17,
+              117.32,
+              309.85
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sentenceId": "sentence-072",
+      "referenceId": "ref-032",
+      "sourceId": "s-cite-c152def5369931c30825",
+      "sourceSha256": "c152def5369931c308252b68c6538808a9e765caca337b9a60cfa8dc06eb9af5",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 4,
+          "printed": "48",
+          "summary": "그림 2-4 다음 문단은 다양한 예술 영역과 학문의 융합, 여러 예술 분야의 융합을 문화예술교육의 의의로 설명한다.",
+          "rects": [
+            [
+              109.58,
+              360.05,
+              448.74,
+              371.16
+            ],
+            [
+              100.69,
+              379.21,
+              448.94,
+              390.74
+            ],
+            [
+              99.84,
+              399.07,
+              448.73,
+              410.39
+            ],
+            [
+              99.84,
+              418.87,
+              448.53,
+              429.76
+            ],
+            [
+              100.05,
+              438.4,
+              448.95,
+              449.51
+            ],
+            [
+              100.26,
+              458.26,
+              449.79,
+              469.15
+            ],
+            [
+              99.63,
+              478.06,
+              288.43,
+              488.53
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sentenceId": "sentence-073",
+      "referenceId": "ref-068",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 7,
+          "printed": "7",
+          "summary": "여러 예술 형식은 한 분야에 국한되지 않으므로 학제적 측면과 공통점을 강조한다.",
+          "rects": [
+            [
+              92.69998168945312,
+              59.60076141357422,
+              527.70263671875,
+              724.0469970703125
+            ]
+          ]
+        }
+      ],
+      "sourceId": "s-cite-fef7ef00e2710358d132",
+      "sourceSha256": "fef7ef00e2710358d13216e0c4c7d2048c77d334a573c3f8b7843915eaee79ed"
+    },
+    {
+      "sentenceId": "sentence-074",
+      "referenceId": "ref-068",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 8,
+          "printed": "8",
+          "summary": "작품에 관한 학습, 작품과의 직접 접촉, 예술적 실천을 상호보완적 교육활동으로 제시한다.",
+          "rects": [
+            [
+              92.69999694824219,
+              59.60076141357422,
+              525.0064086914062,
+              370.7146301269531
+            ],
+            [
+              92.69999694824219,
+              370.7902526855469,
+              524.9907836914062,
+              622.5958251953125
+            ]
+          ]
+        }
+      ],
+      "sourceId": "s-cite-fef7ef00e2710358d132",
+      "sourceSha256": "fef7ef00e2710358d13216e0c4c7d2048c77d334a573c3f8b7843915eaee79ed"
+    },
+    {
+      "sentenceId": "sentence-075",
+      "referenceId": "ref-004",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 16,
+          "summary": "표 10의 참여자 B는 제공 도안을 그대로 따르지 않고 이름표를 그린 뒤, 다른 참여자의 그림을 보며 다시 연습한 것으로 기록되어 있다.",
+          "printed": "56"
+        }
+      ],
+      "sourceId": "s-cite-bc2a3b4b11db34c87bf4",
+      "sourceSha256": "bc2a3b4b11db34c87bf42c1a961aa07bf8c315db82e44fcf5b292c313b31dc2f"
+    },
+    {
+      "sentenceId": "sentence-076",
+      "referenceId": "ref-046",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 6,
+          "summary": "예술에서는 내용과 형식을 분리할 수 없으며 표현하는 방식이 전달하는 내용에 관여한다고 설명한다.",
+          "printed": "6"
+        },
+        {
+          "page": 7,
+          "summary": "시의 리듬과 표현 형식 등의 예로 형식과 의미가 함께 작용함을 설명한다.",
+          "printed": "7"
+        }
+      ],
+      "sourceId": "s-cite-639203115d7907a661e8",
+      "sourceSha256": "639203115d7907a661e866a65485b358418f84f3a87ab651924e72e8cfb6940e"
+    },
+    {
+      "sentenceId": "sentence-077",
+      "referenceId": "ref-032",
+      "sourceId": "s-cite-c152def5369931c30825",
+      "sourceSha256": "c152def5369931c308252b68c6538808a9e765caca337b9a60cfa8dc06eb9af5",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 11,
+          "printed": "55",
+          "summary": "「인간교육」 둘째 항목의 말미는 자기 생각과 감정의 표현 및 소통을, 셋째 항목은 타인과 교감할 기회의 제공을 설명한다.",
+          "rects": [
+            [
+              97.09,
+              218.33,
+              403.2,
+              229.22
+            ],
+            [
+              54.52,
+              237.86,
+              301.77,
+              248.97
+            ],
+            [
+              362.22,
+              277.62,
+              404.05,
+              288.51
+            ],
+            [
+              54.52,
+              297.15,
+              181.49,
+              308.26
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "sentenceId": "sentence-078",
+      "referenceId": "ref-068",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 8,
+          "printed": "8",
+          "summary": "다양한 문화적·사회적·역사적 맥락 속에서 소통하고 상호작용할 수 있도록 교육 내용과 구조를 구성해야 한다고 설명한다.",
+          "rects": [
+            [
+              92.69999694824219,
+              59.60076141357422,
+              525.0064086914062,
+              370.7146301269531
+            ]
+          ]
+        }
+      ],
+      "sourceId": "s-cite-fef7ef00e2710358d132",
+      "sourceSha256": "fef7ef00e2710358d13216e0c4c7d2048c77d334a573c3f8b7843915eaee79ed"
+    },
+    {
+      "sentenceId": "sentence-079",
+      "referenceId": "ref-010",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 15,
+          "summary": "자매 참여자와 그들의 기억을 다루는 미술교육 사례가 제시된다.",
+          "printed": "101"
+        },
+        {
+          "page": 16,
+          "summary": "교실 그림을 서로 보여 준 자매가 난로·도시락·칠판 등 비슷한 기억을 발견하고 학창 시절 경험을 나누는 대화가 제시된다.",
+          "printed": "102"
+        }
+      ],
+      "sourceId": "s-cite-3de3e76ac70768f51f7b",
+      "sourceSha256": "3de3e76ac70768f51f7b74cf9948a1c87015179b90464a50913103667cd818ff"
+    },
+    {
+      "sentenceId": "sentence-080",
+      "referenceId": "ref-046",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 10,
+          "summary": "예술이 교육에 주는 시사점으로 판단, 목적의 유연성, 형식과 내용, 매체의 가능성, 심미적 만족을 정리한다.",
+          "printed": "10"
+        },
+        {
+          "page": 7,
+          "summary": "언어로 명시하기 어려운 앎과 표현 형식이 의미에 관여하는 방식을 설명한다.",
+          "printed": "7"
+        }
+      ],
+      "sourceId": "s-cite-639203115d7907a661e8",
+      "sourceSha256": "639203115d7907a661e866a65485b358418f84f3a87ab651924e72e8cfb6940e",
+      "note": "표현에 관한 판단과 형식의 중요성을 지지한다. 문화적 맥락·감상·표현·탐구·경험 공유를 하나로 묶은 문장 전체는 UNESCO와 함께 구성한 종합 해석이다."
+    },
+    {
+      "sentenceId": "sentence-080",
+      "referenceId": "ref-068",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 7,
+          "printed": "7",
+          "summary": "문화적 맥락과 여러 예술 형식의 관련성·공통점을 강조한다.",
+          "rects": [
+            [
+              92.69998168945312,
+              59.60076141357422,
+              527.70263671875,
+              724.0469970703125
+            ]
+          ]
+        },
+        {
+          "page": 8,
+          "printed": "8",
+          "summary": "작품과의 만남·예술 실천·연구와 학습이라는 상호보완적인 차원을 제시한다.",
+          "rects": [
+            [
+              92.69999694824219,
+              59.60076141357422,
+              525.0064086914062,
+              370.7146301269531
+            ],
+            [
+              92.69999694824219,
+              370.7902526855469,
+              524.9907836914062,
+              622.5958251953125
+            ]
+          ]
+        }
+      ],
+      "sourceId": "s-cite-fef7ef00e2710358d132",
+      "sourceSha256": "fef7ef00e2710358d13216e0c4c7d2048c77d334a573c3f8b7843915eaee79ed",
+      "note": "문화적 맥락·분야 간 관련·상호보완 활동의 근거이다. 문장 전체는 Eisner와 UNESCO를 종합한 본 논문의 설명이다."
+    },
+    {
+      "sentenceId": "sentence-081",
+      "referenceId": "ref-010",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 3,
+          "summary": "교육과 예술 경험의 고유한 의미를 외적 성과나 도구적 활용으로만 환원할 수 없다는 문제를 제시한다.",
+          "printed": "89"
+        },
+        {
+          "page": 21,
+          "summary": "시니어들의 예술 경험과 자기 이해를 논의하며 완성된 결과물이나 기능만으로 포착되지 않는 참여 과정의 교육적 의미를 설명한다.",
+          "printed": "107"
+        }
+      ],
+      "sourceId": "s-cite-3de3e76ac70768f51f7b",
+      "sourceSha256": "3de3e76ac70768f51f7b74cf9948a1c87015179b90464a50913103667cd818ff"
+    },
+    {
+      "sentenceId": "sentence-082",
+      "referenceId": "ref-044",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 8,
+          "summary": "경험에 기초한 교육을 설명하면서 모든 경험이 똑같이 교육적이지는 않으며 성장의 방향을 보아야 한다고 구분한다."
+        }
+      ],
+      "sourceId": "s-cite-30f7ce449f1856387fc0",
+      "sourceSha256": "30f7ce449f1856387fc0c16c4d2afe5d1a0a87deef3a4b5bce92bbf6c430ea25",
+      "note": "문장 가운데 Dewey에 관한 절을 확인한 것이다. 보유 재조판 PDF의 쪽수이며 원서 인쇄쪽은 확정하지 않았다."
+    },
+    {
+      "sentenceId": "sentence-082",
+      "referenceId": "ref-052",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 29,
+          "summary": "몸과 마음을 지닌 사람이 사회적 상황의 경험을 인지·정서·실천의 방식 또는 그 조합으로 변형하고 생애에 통합하여 달라지는 과정을 학습으로 정의한다.",
+          "printed": "13"
+        }
+      ],
+      "sourceId": "s-cite-cefb0231cbfe367dadb8",
+      "sourceSha256": "cefb0231cbfe367dadb8f14892321b53dae810330aa347fd28fd526ef9dadb33",
+      "note": "문장 가운데 Jarvis(2006)의 관점에 해당하는 근거이다."
+    },
+    {
+      "sentenceId": "sentence-082",
+      "referenceId": "ref-053",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 5,
+          "summary": "몸과 마음을 지닌 사람의 경험이 인지·정서·실천의 방식 또는 조합으로 변형되어 생애에 통합되는 학습 정의를 제시한다. 마음의 요소에 의미를 명시하고 전의식적 학습도 설명한다."
+        }
+      ],
+      "sourceId": "s-cite-797a588d4bc8c62b5714",
+      "sourceSha256": "797a588d4bc8c62b57145f795b9764ac87edd10e81675459ce1484871731a440",
+      "note": "문장 가운데 Jarvis(2009)의 관점을 지지한다. 전자책 재조판 PDF 쪽이며 원서 인쇄쪽은 확정하지 않았다."
+    },
+    {
+      "sentenceId": "sentence-082",
+      "referenceId": "ref-055",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 21,
+          "summary": "경험의 변형을 통해 지식이 만들어지는 과정으로 학습을 정의하고, 결과물보다 지식이 만들어지고 다시 만들어지는 과정에 주목한다.",
+          "printed": "38"
+        }
+      ],
+      "sourceId": "s-cite-f700c3358ee7da08691e",
+      "sourceSha256": "f700c3358ee7da08691e2864d3d601305a9934b157e31a63f6d99c0a53d14c36",
+      "note": "문장 가운데 Kolb에 관한 절을 지지한다."
+    },
+    {
+      "sentenceId": "sentence-082",
+      "referenceId": "ref-059",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 1,
+          "summary": "성인학습의 준거틀이 경험을 이해하는 가정의 구조이며 기대·지각·인지·감정과 행동 방향을 조직한다고 설명한다.",
+          "printed": "5"
+        }
+      ],
+      "sourceId": "s-cite-87e64fe32e7b011ced53",
+      "sourceSha256": "87e64fe32e7b011ced530bf2ec6fd00cca0fb9ec4aa60e460126d83e471f63e4",
+      "note": "문장 가운데 Mezirow에 관한 절을 지지한다."
+    },
+    {
+      "sentenceId": "sentence-083",
+      "referenceId": "ref-044",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 8,
+          "summary": "교육과 경험의 관계를 인정하면서 이후의 경험과 성장에 미치는 영향에 따라 경험의 교육적 가치를 구별한다."
+        },
+        {
+          "page": 9,
+          "summary": "경험의 질을 현재의 느낌과 이후 경험에 미치는 영향이라는 측면에서 검토한다."
+        }
+      ],
+      "sourceId": "s-cite-30f7ce449f1856387fc0",
+      "sourceSha256": "30f7ce449f1856387fc0c16c4d2afe5d1a0a87deef3a4b5bce92bbf6c430ea25",
+      "note": "재조판 PDF의 쪽수이며 원서 인쇄쪽은 확정하지 않았다."
+    },
+    {
+      "sentenceId": "sentence-084",
+      "referenceId": "ref-055",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 21,
+          "summary": "경험의 변형을 통해 지식이 만들어지는 과정으로 학습을 정의하고, 결과물보다 지식이 만들어지고 다시 만들어지는 과정에 주목한다.",
+          "printed": "38"
+        }
+      ],
+      "sourceId": "s-cite-f700c3358ee7da08691e",
+      "sourceSha256": "f700c3358ee7da08691e2864d3d601305a9934b157e31a63f6d99c0a53d14c36"
+    },
+    {
+      "sentenceId": "sentence-085",
+      "referenceId": "ref-059",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 1,
+          "summary": "성인학습의 준거틀이 경험을 이해하는 가정의 구조이며 기대·지각·인지·감정과 행동 방향을 조직한다고 설명한다.",
+          "printed": "5"
+        }
+      ],
+      "sourceId": "s-cite-87e64fe32e7b011ced53",
+      "sourceSha256": "87e64fe32e7b011ced530bf2ec6fd00cca0fb9ec4aa60e460126d83e471f63e4"
+    },
+    {
+      "sentenceId": "sentence-086",
+      "referenceId": "ref-052",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 29,
+          "summary": "몸과 마음을 지닌 사람이 사회적 상황의 경험을 인지·정서·실천의 방식 또는 그 조합으로 변형하고 생애에 통합하여 달라지는 과정을 학습으로 정의한다.",
+          "printed": "13"
+        }
+      ],
+      "sourceId": "s-cite-cefb0231cbfe367dadb8",
+      "sourceSha256": "cefb0231cbfe367dadb8f14892321b53dae810330aa347fd28fd526ef9dadb33"
+    },
+    {
+      "sentenceId": "sentence-086",
+      "referenceId": "ref-053",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 5,
+          "summary": "몸과 마음을 지닌 사람의 경험이 인지·정서·실천의 방식 또는 조합으로 변형되어 생애에 통합되는 학습 정의를 제시한다. 마음의 요소에 의미를 명시하고 전의식적 학습도 설명한다."
+        }
+      ],
+      "sourceId": "s-cite-797a588d4bc8c62b5714",
+      "sourceSha256": "797a588d4bc8c62b57145f795b9764ac87edd10e81675459ce1484871731a440",
+      "note": "전자책 장별 재조판 PDF의 쪽수이다. 원서 인쇄쪽으로 환산하지 않았다."
+    },
+    {
+      "sentenceId": "sentence-087",
+      "referenceId": "ref-037",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 56,
+          "summary": "문제와 상황의 파악, 해결 시도, 그 경험에 비춘 평가·수정을 통해 지식·행동·세계관을 형성하는 과정으로 경험학습을 정의한다.",
+          "printed": "49"
+        }
+      ],
+      "sourceId": "s-cite-d81f7a21221207bd3e99",
+      "sourceSha256": "d81f7a21221207bd3e993ef39b5a7aa8901ae94375908c959cf0e9e390aba356"
+    },
+    {
+      "sentenceId": "sentence-088",
+      "referenceId": "ref-029",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 4,
+          "summary": "경험학습을 경험을 통해 개인이 성장하고 사회에 적응하며 변화하는 과정으로 설명한다.",
+          "printed": "94"
+        }
+      ],
+      "sourceId": "s-cite-2cc1658b427076199817",
+      "sourceSha256": "2cc1658b427076199817338de0d305e27f40105bdd0aaa2245bfc3874b0015dd"
+    },
+    {
+      "sentenceId": "sentence-089",
+      "referenceId": "ref-044",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 13,
+          "summary": "경험의 연속성을 설명하면서 습관에는 지적·정서적 태도와 세계에 반응하는 방식도 포함된다고 논한다."
+        }
+      ],
+      "sourceId": "s-cite-30f7ce449f1856387fc0",
+      "sourceSha256": "30f7ce449f1856387fc0c16c4d2afe5d1a0a87deef3a4b5bce92bbf6c430ea25",
+      "note": "여러 이론을 종합한 논문 연구자의 정의이다. Dewey는 경험의 연속성과 태도·반응의 형성을 뒷받침하지만 이 종합 문장 전체를 같은 정의로 제시하지는 않는다."
+    },
+    {
+      "sentenceId": "sentence-089",
+      "referenceId": "ref-052",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 29,
+          "summary": "몸과 마음을 지닌 사람이 사회적 상황의 경험을 인지·정서·실천의 방식 또는 그 조합으로 변형하고 생애에 통합하여 달라지는 과정을 학습으로 정의한다.",
+          "printed": "13"
+        },
+        {
+          "page": 41,
+          "summary": "학습 후 지식과 기능뿐 아니라 태도·정서·가치·신념 및 자신감·정체성도 달라질 수 있음을 설명한다.",
+          "printed": "25"
+        }
+      ],
+      "sourceId": "s-cite-cefb0231cbfe367dadb8",
+      "sourceSha256": "cefb0231cbfe367dadb8f14892321b53dae810330aa347fd28fd526ef9dadb33",
+      "note": "여러 경험학습 이론을 묶은 연구자의 종합 정의이다. 원전은 사람 전체의 변화를 뒷받침하지만 종합 문장 전체가 Jarvis 단독의 표현은 아니다."
+    },
+    {
+      "sentenceId": "sentence-089",
+      "referenceId": "ref-053",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 5,
+          "summary": "몸과 마음을 지닌 사람의 경험이 인지·정서·실천의 방식 또는 조합으로 변형되어 생애에 통합되는 학습 정의를 제시한다. 마음의 요소에 의미를 명시하고 전의식적 학습도 설명한다."
+        },
+        {
+          "page": 9,
+          "summary": "생각·감정·행동 등의 과정을 통해 경험 내용이나 자신에 대해 배우고 달라진 사람이 되는 지속적 학습을 설명한다."
+        }
+      ],
+      "sourceId": "s-cite-797a588d4bc8c62b5714",
+      "sourceSha256": "797a588d4bc8c62b57145f795b9764ac87edd10e81675459ce1484871731a440",
+      "note": "여러 이론을 묶은 연구자의 종합이다. 원전은 사람 전체의 변화를 뒷받침하지만 종합 문장 전체가 Jarvis 단독의 정의는 아니다. 전자책 재조판 PDF 쪽이다."
+    },
+    {
+      "sentenceId": "sentence-089",
+      "referenceId": "ref-055",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 14,
+          "summary": "경험학습을 사고·감정·지각·행동을 통합하는 전인적 적응 과정으로 설명한다.",
+          "printed": "31"
+        },
+        {
+          "page": 21,
+          "summary": "경험의 변형을 통해 지식이 만들어지는 과정으로 학습을 정의하고, 결과물보다 지식이 만들어지고 다시 만들어지는 과정에 주목한다.",
+          "printed": "38"
+        }
+      ],
+      "sourceId": "s-cite-f700c3358ee7da08691e",
+      "sourceSha256": "f700c3358ee7da08691e2864d3d601305a9934b157e31a63f6d99c0a53d14c36",
+      "note": "여러 이론을 묶은 연구자의 종합이다. Kolb는 통합적 적응과 지식 형성을 지지하지만 종합 문장 전체를 동일한 단독 정의로 제시한 것은 아니다."
+    },
+    {
+      "sentenceId": "sentence-089",
+      "referenceId": "ref-059",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 1,
+          "summary": "성인학습의 준거틀이 경험을 이해하는 가정의 구조이며 기대·지각·인지·감정과 행동 방향을 조직한다고 설명한다.",
+          "printed": "5"
+        },
+        {
+          "page": 2,
+          "summary": "사고·감정·행동의 습관과 관점, 신념·태도·가치의 관계 및 가정에 대한 성찰을 설명한다.",
+          "printed": "6"
+        }
+      ],
+      "sourceId": "s-cite-87e64fe32e7b011ced53",
+      "sourceSha256": "87e64fe32e7b011ced530bf2ec6fd00cca0fb9ec4aa60e460126d83e471f63e4",
+      "note": "여러 이론을 묶은 연구자의 종합이다. Mezirow는 경험 해석의 틀과 그 변화를 지지하지만 종합 문장 전체를 동일한 정의로 제시한 것은 아니다."
+    },
+    {
+      "sentenceId": "sentence-090",
+      "referenceId": "ref-052",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 29,
+          "summary": "몸과 마음을 지닌 사람이 사회적 상황의 경험을 인지·정서·실천의 방식 또는 그 조합으로 변형하고 생애에 통합하여 달라지는 과정을 학습으로 정의한다.",
+          "printed": "13"
+        }
+      ],
+      "sourceId": "s-cite-cefb0231cbfe367dadb8",
+      "sourceSha256": "cefb0231cbfe367dadb8f14892321b53dae810330aa347fd28fd526ef9dadb33"
+    },
+    {
+      "sentenceId": "sentence-090",
+      "referenceId": "ref-053",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 5,
+          "summary": "몸과 마음을 지닌 사람의 경험이 인지·정서·실천의 방식 또는 조합으로 변형되어 생애에 통합되는 학습 정의를 제시한다. 마음의 요소에 의미를 명시하고 전의식적 학습도 설명한다."
+        }
+      ],
+      "sourceId": "s-cite-797a588d4bc8c62b5714",
+      "sourceSha256": "797a588d4bc8c62b57145f795b9764ac87edd10e81675459ce1484871731a440",
+      "note": "전자책 장별 재조판 PDF의 쪽수이다. 원서 인쇄쪽으로 환산하지 않았다."
+    },
+    {
+      "sentenceId": "sentence-091",
+      "referenceId": "ref-053",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 5,
+          "summary": "몸과 마음을 지닌 사람의 경험이 인지·정서·실천의 방식 또는 조합으로 변형되어 생애에 통합되는 학습 정의를 제시한다. 마음의 요소에 의미를 명시하고 전의식적 학습도 설명한다."
+        }
+      ],
+      "sourceId": "s-cite-797a588d4bc8c62b5714",
+      "sourceSha256": "797a588d4bc8c62b57145f795b9764ac87edd10e81675459ce1484871731a440",
+      "note": "전자책 장별 재조판 PDF의 쪽수이다. 원서 인쇄쪽으로 환산하지 않았다."
+    },
+    {
+      "sentenceId": "sentence-092",
+      "referenceId": "ref-052",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 31,
+          "summary": "기존 경험과 현재 상황 사이의 불일치는 경이로움이나 놀라움의 순간일 수도 있어 반드시 부정적인 사건으로 한정되지 않는다.",
+          "printed": "15"
+        },
+        {
+          "page": 32,
+          "summary": "사람의 기존 생애 경험만으로 상황에 자동으로 대처하기 어려울 때 생기는 사람과 환경의 긴장을 설명한다.",
+          "printed": "16"
+        }
+      ],
+      "sourceId": "s-cite-cefb0231cbfe367dadb8",
+      "sourceSha256": "cefb0231cbfe367dadb8f14892321b53dae810330aa347fd28fd526ef9dadb33"
+    },
+    {
+      "sentenceId": "sentence-092",
+      "referenceId": "ref-053",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 2,
+          "summary": "기존 생애 경험으로 상황을 자동으로 다루기 어려운 불일치를 설명하며, 그것이 경이로움의 순간일 수도 있다고 밝힌다."
+        }
+      ],
+      "sourceId": "s-cite-797a588d4bc8c62b5714",
+      "sourceSha256": "797a588d4bc8c62b57145f795b9764ac87edd10e81675459ce1484871731a440",
+      "note": "전자책 재조판 PDF 쪽이다."
+    },
+    {
+      "sentenceId": "sentence-093",
+      "referenceId": "ref-052",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 33,
+          "summary": "경험에 대해 생각하거나 행동하거나 감정을 느끼는 방식 또는 이들의 조합을 통해 내용이 변형될 수 있다고 설명한다.",
+          "printed": "17"
+        },
+        {
+          "page": 40,
+          "summary": "인지·정서·실천의 변화가 동시에 일어날 수 있고 경험과 행동 사이에 단일한 논리적 연결을 가정할 수 없다고 설명한다.",
+          "printed": "24"
+        }
+      ],
+      "sourceId": "s-cite-cefb0231cbfe367dadb8",
+      "sourceSha256": "cefb0231cbfe367dadb8f14892321b53dae810330aa347fd28fd526ef9dadb33"
+    },
+    {
+      "sentenceId": "sentence-093",
+      "referenceId": "ref-053",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 5,
+          "summary": "몸과 마음을 지닌 사람의 경험이 인지·정서·실천의 방식 또는 조합으로 변형되어 생애에 통합되는 학습 정의를 제시한다. 마음의 요소에 의미를 명시하고 전의식적 학습도 설명한다."
+        },
+        {
+          "page": 9,
+          "summary": "경험에 대해 생각·감정·행동으로 반응하는 과정이 지속되고 둘 이상의 과정이 동시에 일어날 수 있음을 설명한다."
+        }
+      ],
+      "sourceId": "s-cite-797a588d4bc8c62b5714",
+      "sourceSha256": "797a588d4bc8c62b57145f795b9764ac87edd10e81675459ce1484871731a440",
+      "note": "전자책 재조판 PDF 쪽이다."
+    },
+    {
+      "sentenceId": "sentence-094",
+      "referenceId": "ref-052",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 40,
+          "summary": "의도한 학습과 구별되는 우발적 학습 및 자신감·정체성 등 자신에 관해 의식하지 못한 채 배우는 과정을 설명한다.",
+          "printed": "24"
+        },
+        {
+          "page": 41,
+          "summary": "의도한 학습에서도 부수적으로 자신에 대한 이해나 태도·정서가 달라질 수 있음을 설명한다.",
+          "printed": "25"
+        },
+        {
+          "page": 44,
+          "summary": "명시적으로 알아차리기 전에 내용을 내면화하는 전의식적 학습과 이후의 회상을 설명한다.",
+          "printed": "28"
+        }
+      ],
+      "sourceId": "s-cite-cefb0231cbfe367dadb8",
+      "sourceSha256": "cefb0231cbfe367dadb8f14892321b53dae810330aa347fd28fd526ef9dadb33"
+    },
+    {
+      "sentenceId": "sentence-095",
+      "referenceId": "ref-052",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 29,
+          "summary": "몸과 마음을 지닌 사람이 사회적 상황의 경험을 인지·정서·실천의 방식 또는 그 조합으로 변형하고 생애에 통합하여 달라지는 과정을 학습으로 정의한다.",
+          "printed": "13"
+        },
+        {
+          "page": 33,
+          "summary": "일어나는 경험과 그 내용에 대한 생각·감정·행동을 통한 변형을 나누어 설명한다.",
+          "printed": "17"
+        },
+        {
+          "page": 41,
+          "summary": "학습의 결과로 사람의 지식·기능·태도·자기이해 등이 달라지는 점을 설명한다.",
+          "printed": "25"
+        }
+      ],
+      "sourceId": "s-cite-cefb0231cbfe367dadb8",
+      "sourceSha256": "cefb0231cbfe367dadb8f14892321b53dae810330aa347fd28fd526ef9dadb33",
+      "note": "경험, 변형 과정, 변화한 사람의 결과를 구분하는 해석은 원전에 근거한다. 다만 이 문장의 세 구분이 고정된 순서의 별도 단계라는 뜻은 아니다."
+    },
+    {
+      "sentenceId": "sentence-095",
+      "referenceId": "ref-053",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 3,
+          "summary": "삶 전체의 경험과 개별 경험을 구별하고 개별 경험에 대한 생각·감정·행동의 반응을 설명한다."
+        },
+        {
+          "page": 5,
+          "summary": "몸과 마음을 지닌 사람의 경험이 인지·정서·실천의 방식 또는 조합으로 변형되어 생애에 통합되는 학습 정의를 제시한다. 마음의 요소에 의미를 명시하고 전의식적 학습도 설명한다."
+        },
+        {
+          "page": 9,
+          "summary": "경험 내용과 자신에 대해 배우는 과정 및 달라진 사람이라는 결과를 연결하여 설명한다."
+        }
+      ],
+      "sourceId": "s-cite-797a588d4bc8c62b5714",
+      "sourceSha256": "797a588d4bc8c62b57145f795b9764ac87edd10e81675459ce1484871731a440",
+      "note": "경험·반응·결과를 구분할 개념적 근거이다. 고정된 순서의 세 단계로 규정한 원문을 확인한 것은 아니다. 전자책 재조판 PDF 쪽이다."
+    },
+    {
+      "sentenceId": "sentence-096",
+      "referenceId": "ref-053",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 1,
+          "summary": "학습은 개인의 과정이지만 더 넓은 사회 안에서 일어나며 사회의 영향을 크게 받는다고 설명한다."
+        },
+        {
+          "page": 9,
+          "summary": "학습을 사회적 틀 안에서 일어나는 개인의 과정으로 정리한다."
+        }
+      ],
+      "sourceId": "s-cite-797a588d4bc8c62b5714",
+      "sourceSha256": "797a588d4bc8c62b57145f795b9764ac87edd10e81675459ce1484871731a440",
+      "note": "전자책 재조판 PDF 쪽이다."
+    },
+    {
+      "sentenceId": "sentence-097",
+      "referenceId": "ref-052",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 40,
+          "summary": "경험의 내용뿐 아니라 자신감·자존감·정체성 등 자신에 대해서도 배울 수 있음을 설명한다.",
+          "printed": "24"
+        },
+        {
+          "page": 41,
+          "summary": "학습 결과에는 새 지식·기능과 함께 태도·정서 및 자기이해의 변화가 포함될 수 있다.",
+          "printed": "25"
+        }
+      ],
+      "sourceId": "s-cite-cefb0231cbfe367dadb8",
+      "sourceSha256": "cefb0231cbfe367dadb8f14892321b53dae810330aa347fd28fd526ef9dadb33",
+      "note": "이론에서 설명한 변화 가능성이며 본 연구 참여자에게 이미 발생한 결과를 뜻하지 않는다."
+    },
+    {
+      "sentenceId": "sentence-098",
+      "referenceId": "ref-053",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 6,
+          "summary": "회상은 과거 경험의 정확한 재현이 아니며 처음 내용을 내면화한 방식에 좌우되고, 과거를 현재와 관련지어 다시 다룬다고 설명한다."
+        }
+      ],
+      "sourceId": "s-cite-797a588d4bc8c62b5714",
+      "sourceSha256": "797a588d4bc8c62b57145f795b9764ac87edd10e81675459ce1484871731a440",
+      "note": "전자책 재조판 PDF 쪽이다."
+    },
+    {
+      "sentenceId": "sentence-099",
+      "referenceId": "ref-058",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 1,
+          "summary": "가능한 자기는 될 수 있다고 보는 자신, 되고 싶은 자신, 되기를 두려워하는 자신을 포함한다. 성공·창의성·사랑과 인정 및 고독·우울·무능 등의 예를 제시한다.",
+          "printed": "954"
+        }
+      ],
+      "sourceId": "s-cite-bbe309b0ee2e4f6d2fcf",
+      "sourceSha256": "bbe309b0ee2e4f6d2fcf1ce343bf194c57d55e1165ca6eb2827c3bf2548a7542"
+    },
+    {
+      "sentenceId": "sentence-100",
+      "referenceId": "ref-058",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 1,
+          "summary": "가능한 자기는 과거 자기 경험에서 비롯되며 사회적 비교와 사회문화적·역사적 맥락에서 접할 수 있는 역할·이미지의 영향을 받는다고 설명한다.",
+          "printed": "954"
+        }
+      ],
+      "sourceId": "s-cite-bbe309b0ee2e4f6d2fcf",
+      "sourceSha256": "bbe309b0ee2e4f6d2fcf1ce343bf194c57d55e1165ca6eb2827c3bf2548a7542"
+    },
+    {
+      "sentenceId": "sentence-101",
+      "referenceId": "ref-063",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 1,
+          "printed": "5",
+          "summary": "가능한 자기를 자기개념의 미래지향적 구성요소로 설명하고 성인학습을 이해하는 틀로 제시한다.",
+          "rects": [
+            [
+              45.50389099121094,
+              485.9887390136719,
+              369.5330810546875,
+              556.4896240234375
+            ]
+          ]
+        }
+      ],
+      "sourceId": "s-cite-37777b684fa72857968f",
+      "sourceSha256": "37777b684fa72857968fe11e2eed54fc1aac96bc8bdd2ea8f8ded0e9b5ff453f"
+    },
+    {
+      "sentenceId": "sentence-102",
+      "referenceId": "ref-058",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 1,
+          "summary": "가능한 자기는 될 수 있다고 보는 자신, 되고 싶은 자신, 되기를 두려워하는 자신을 포함한다. 성공·창의성·사랑과 인정 및 고독·우울·무능 등의 예를 제시한다.",
+          "printed": "954"
+        }
+      ],
+      "sourceId": "s-cite-bbe309b0ee2e4f6d2fcf",
+      "sourceSha256": "bbe309b0ee2e4f6d2fcf1ce343bf194c57d55e1165ca6eb2827c3bf2548a7542"
+    },
+    {
+      "sentenceId": "sentence-103",
+      "referenceId": "ref-061",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 4,
+          "printed": "115",
+          "summary": "다음 해의 희망하는 자기·기대하는 자기·두려워하는 자기를 각각 묻는 개방형 질문을 제시한다.",
+          "rects": [
+            [
+              42.47999954223633,
+              673.4075317382812,
+              285.0276794433594,
+              713.81298828125
+            ],
+            [
+              316.55999755859375,
+              95.24754333496094,
+              542.837890625,
+              150.77293395996094
+            ],
+            [
+              316.79998779296875,
+              153.8075408935547,
+              542.42236328125,
+              173.57298278808594
+            ],
+            [
+              316.79998779296875,
+              176.36753845214844,
+              542.3795776367188,
+              196.3729705810547
+            ],
+            [
+              300.4800109863281,
+              205.1675262451172,
+              543.077880859375,
+              315.8929748535156
+            ]
+          ]
+        }
+      ],
+      "sourceId": "s-cite-e078cc36bad0f2a121d7",
+      "sourceSha256": "e078cc36bad0f2a121d79d76ef87107f2dd1d72a73c73a989ca539a5830201a0"
+    },
+    {
+      "sentenceId": "sentence-104",
+      "referenceId": "ref-058",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 1,
+          "summary": "가능한 자기는 될 수 있다고 보는 자신, 되고 싶은 자신, 되기를 두려워하는 자신을 포함한다. 성공·창의성·사랑과 인정 및 고독·우울·무능 등의 예를 제시한다.",
+          "printed": "954"
+        }
+      ],
+      "sourceId": "s-cite-bbe309b0ee2e4f6d2fcf",
+      "sourceSha256": "bbe309b0ee2e4f6d2fcf1ce343bf194c57d55e1165ca6eb2827c3bf2548a7542"
+    },
+    {
+      "sentenceId": "sentence-105",
+      "referenceId": "ref-049",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 18,
+          "summary": "면담 지침은 실현 가능성이 높다고 여기는 희망하는 자기뿐 아니라 가능성이 희박해 보여도 생각할 수 있는 자기 모습도 말하도록 한다.",
+          "printed": "58"
+        }
+      ],
+      "sourceId": "s-cite-466425b229cde0a1e6cb",
+      "sourceSha256": "466425b229cde0a1e6cba567544e82d30d227d1fe0dbe68d18f759e1245b2709"
+    },
+    {
+      "sentenceId": "sentence-106",
+      "referenceId": "ref-058",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 5,
+          "summary": "초기 조사에서 가능한 자기의 실현 가능성이 얼마나 높다고 보는지와 얼마나 그 모습이 되기를 원하는지를 각각 질문한다.",
+          "printed": "958"
+        }
+      ],
+      "sourceId": "s-cite-bbe309b0ee2e4f6d2fcf",
+      "sourceSha256": "bbe309b0ee2e4f6d2fcf1ce343bf194c57d55e1165ca6eb2827c3bf2548a7542",
+      "note": "원전의 대학생 대상 초기 조사에 관한 설명이며 이 연구의 노인 면담 문항을 타당화한 결과는 아니다."
+    },
+    {
+      "sentenceId": "sentence-107",
+      "referenceId": "ref-049",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 6,
+          "summary": "노년기 가능한 자기 연구를 검토하며 건강, 신체 기능과 독립성의 유지 및 쇠퇴 회피를 주요 관심으로 설명한다.",
+          "printed": "46"
+        }
+      ],
+      "sourceId": "s-cite-466425b229cde0a1e6cb",
+      "sourceSha256": "466425b229cde0a1e6cba567544e82d30d227d1fe0dbe68d18f759e1245b2709"
+    },
+    {
+      "sentenceId": "sentence-108",
+      "referenceId": "ref-061",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 4,
+          "printed": "115",
+          "summary": "다음 해 자신에게 실제로 나타날 가능성이 가장 큰 모습을 세 가지 적도록 묻는다.",
+          "rects": [
+            [
+              316.79998779296875,
+              153.8075408935547,
+              542.42236328125,
+              173.57298278808594
+            ]
+          ]
+        }
+      ],
+      "sourceId": "s-cite-e078cc36bad0f2a121d7",
+      "sourceSha256": "e078cc36bad0f2a121d79d76ef87107f2dd1d72a73c73a989ca539a5830201a0"
+    },
+    {
+      "sentenceId": "sentence-109",
+      "referenceId": "ref-061",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 5,
+          "printed": "116",
+          "summary": "닫힌 응답형 자기개념 문항에서 긍정적·부정적 예상 자기의 하위척도를 함께 구성하고 분석한다.",
+          "rects": [
+            [
+              43.91999816894531,
+              304.0347900390625,
+              286.33837890625,
+              594.8403930664062
+            ]
+          ]
+        }
+      ],
+      "sourceId": "s-cite-e078cc36bad0f2a121d7",
+      "sourceSha256": "e078cc36bad0f2a121d79d76ef87107f2dd1d72a73c73a989ca539a5830201a0"
+    },
+    {
+      "sentenceId": "sentence-110",
+      "referenceId": "ref-058",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 1,
+          "summary": "가능한 자기는 될 수 있다고 보는 자신, 되고 싶은 자신, 되기를 두려워하는 자신을 포함한다. 성공·창의성·사랑과 인정 및 고독·우울·무능 등의 예를 제시한다.",
+          "printed": "954"
+        }
+      ],
+      "sourceId": "s-cite-bbe309b0ee2e4f6d2fcf",
+      "sourceSha256": "bbe309b0ee2e4f6d2fcf1ce343bf194c57d55e1165ca6eb2827c3bf2548a7542"
+    },
+    {
+      "sentenceId": "sentence-111",
+      "referenceId": "ref-049",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 18,
+          "summary": "두려워하는 자기 질문에서도 일어날 가능성이 있다고 보는 모습과 가능성이 낮다고 보는 모습을 모두 포함하도록 안내한다.",
+          "printed": "58"
+        }
+      ],
+      "sourceId": "s-cite-466425b229cde0a1e6cb",
+      "sourceSha256": "466425b229cde0a1e6cba567544e82d30d227d1fe0dbe68d18f759e1245b2709"
+    },
+    {
+      "sentenceId": "sentence-112",
+      "referenceId": "ref-058",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 2,
+          "summary": "가능한 자기는 미래 행동의 유인인 동시에 현재의 자신과 사건을 평가·해석하는 맥락을 제공한다고 설명한다.",
+          "printed": "955"
+        }
+      ],
+      "sourceId": "s-cite-bbe309b0ee2e4f6d2fcf",
+      "sourceSha256": "bbe309b0ee2e4f6d2fcf1ce343bf194c57d55e1165ca6eb2827c3bf2548a7542"
+    },
+    {
+      "sentenceId": "sentence-113",
+      "referenceId": "ref-058",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 8,
+          "summary": "원하는 미래 자기 표상이 행동을 이끌려면 그 모습에 도달하기 위한 구체적 계획과 행동 전략으로 확장될 필요를 설명한다.",
+          "printed": "961"
+        }
+      ],
+      "sourceId": "s-cite-bbe309b0ee2e4f6d2fcf",
+      "sourceSha256": "bbe309b0ee2e4f6d2fcf1ce343bf194c57d55e1165ca6eb2827c3bf2548a7542"
+    },
+    {
+      "sentenceId": "sentence-114",
+      "referenceId": "ref-061",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 5,
+          "printed": "116",
+          "summary": "같은 내용 영역의 긍정적 기대 자기와 부정적 두려운 자기를 짝지어 균형을 측정한다.",
+          "rects": [
+            [
+              43.68000030517578,
+              622.9947509765625,
+              286.27960205078125,
+              712.680419921875
+            ],
+            [
+              300.9599914550781,
+              86.35481262207031,
+              543.184814453125,
+              237.2404022216797
+            ]
+          ]
+        }
+      ],
+      "sourceId": "s-cite-e078cc36bad0f2a121d7",
+      "sourceSha256": "e078cc36bad0f2a121d79d76ef87107f2dd1d72a73c73a989ca539a5830201a0"
+    },
+    {
+      "sentenceId": "sentence-115",
+      "referenceId": "ref-058",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 2,
+          "summary": "의사가 될 미래 자기 표상이 있는 학생과 그렇지 않은 학생이 유기화학의 좋은 성적을 다르게 해석할 수 있다는 예를 든다.",
+          "printed": "955"
+        }
+      ],
+      "sourceId": "s-cite-bbe309b0ee2e4f6d2fcf",
+      "sourceSha256": "bbe309b0ee2e4f6d2fcf1ce343bf194c57d55e1165ca6eb2827c3bf2548a7542"
+    },
+    {
+      "sentenceId": "sentence-116",
+      "referenceId": "ref-063",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 2,
+          "printed": "6",
+          "summary": "희망하는 미래 자기 모습이 현재의 자기 관련 사건에 의미와 가치를 부여하고 현재 자기를 평가하는 배경이 된다고 설명한다.",
+          "rects": [
+            [
+              54.50370407104492,
+              168.7144775390625,
+              378.5274658203125,
+              287.2161865234375
+            ]
+          ]
+        }
+      ],
+      "sourceId": "s-cite-37777b684fa72857968f",
+      "sourceSha256": "37777b684fa72857968fe11e2eed54fc1aac96bc8bdd2ea8f8ded0e9b5ff453f"
+    },
+    {
+      "sentenceId": "sentence-117",
+      "referenceId": "ref-038",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 46,
+          "summary": "참여 전후 비교에서 체중과 체지방량은 유의하게 감소했고, 골격근량은 유의한 차이가 없었다.",
+          "printed": "36"
+        }
+      ],
+      "sourceId": "s-cite-378d9460d5271b8dad9f",
+      "sourceSha256": "378d9460d5271b8dad9f624ce0cf0c2625d0eb65a1b0864c9b8a667141eb26ef"
+    },
+    {
+      "sentenceId": "sentence-118",
+      "referenceId": "ref-054",
+      "status": "web",
+      "locators": [],
+      "note": "PubMed의 공식 초록 Method·Results에서 노인센터 12곳을 두 조건으로 군집 무작위 배정하고 총 390명을 분석한 연구임을 확인했다. PDF 쪽수는 부여하지 않았다."
+    },
+    {
+      "sentenceId": "sentence-119",
+      "referenceId": "ref-004",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 1,
+          "summary": "연구요약은 노인학습자 2명에게 미술교육과 심층면담을 실시했고, 자아인지·성취감·학습의지의 변화를 살폈다고 명시한다.",
+          "printed": "41"
+        },
+        {
+          "page": 19,
+          "summary": "새로운 활동에 대한 두려움에서 점차 재료와 표현을 자발적으로 선택하고 연습하며 자신감을 갖는 모습을 설명한다.",
+          "printed": "59"
+        },
+        {
+          "page": 20,
+          "summary": "이후 미술 프로그램에 참여하려는 의사와 학습의지의 변화를 면담을 통해 제시한다.",
+          "printed": "60"
+        }
+      ],
+      "sourceId": "s-cite-bc2a3b4b11db34c87bf4",
+      "sourceSha256": "bc2a3b4b11db34c87bf42c1a961aa07bf8c315db82e44fcf5b292c313b31dc2f"
+    },
+    {
+      "sentenceId": "sentence-120",
+      "referenceId": "ref-010",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 8,
+          "summary": "자신과 다른 사람의 미술 실력을 비교하면서 열등감을 느끼는 참여자의 경험이 제시된다.",
+          "printed": "94"
+        },
+        {
+          "page": 16,
+          "summary": "그림을 매개로 학창 시절 기억과 감정을 나누는 참여자들의 대화가 제시된다.",
+          "printed": "102"
+        },
+        {
+          "page": 19,
+          "summary": "예술 경험과 관계 속에서 자신의 가치를 존중하는 의미를 논의한다.",
+          "printed": "105"
+        }
+      ],
+      "sourceId": "s-cite-3de3e76ac70768f51f7b",
+      "sourceSha256": "3de3e76ac70768f51f7b74cf9948a1c87015179b90464a50913103667cd818ff",
+      "note": "이 논문에 제시된 여러 참여자·사례의 내용을 묶은 요약이다. 세 대목이 모두 한 사람의 동일한 변화 과정이라는 뜻은 아니다."
+    },
+    {
+      "sentenceId": "sentence-121",
+      "referenceId": "ref-071",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 3,
+          "printed": "9",
+          "summary": "60세 이상 대상 무용·노래 프로그램에서 16개월 동안 참여관찰·집단 대화·면담·참여자 일기를 결합했다.",
+          "rects": [
+            [
+              129.71337890625,
+              484.5692138671875,
+              454.5539245605469,
+              642.4253540039062
+            ]
+          ]
+        },
+        {
+          "page": 12,
+          "printed": "18",
+          "summary": "매주 참여관찰과 반구조화·비공식 대화, 자발적 참여자들의 12주 무용일기 수집을 구체적으로 설명한다.",
+          "rects": [
+            [
+              140.8351287841797,
+              262.34344482421875,
+              465.634765625,
+              344.58349609375
+            ]
+          ]
+        }
+      ],
+      "sourceId": "s-cite-40ac892019c513122221",
+      "sourceSha256": "40ac892019c513122221dbc7213845a1415cd3f454ef6d3b8a067daf4490603e"
+    },
+    {
+      "sentenceId": "sentence-122",
+      "referenceId": "ref-016",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 3,
+          "summary": "65세 이상이며 노년기에 발레를 시작한 참여자를 선정한 조건과 내러티브 연구의 절차를 밝힌다.",
+          "printed": "405"
+        },
+        {
+          "page": 9,
+          "summary": "꿈의 실현과 새로운 시작, 정체성의 재구성 및 앞으로 무대에 서려는 목표를 참여자 사례로 설명한다.",
+          "printed": "411"
+        },
+        {
+          "page": 14,
+          "summary": "결론에서 세 노인의 경험을 종합하여 꿈과 정체성, 역할 및 관계의 의미를 정리한다.",
+          "printed": "416"
+        }
+      ],
+      "sourceId": "s-cite-05de0c9a84ff199aa897",
+      "sourceSha256": "05de0c9a84ff199aa8973d856521379e60d24bb0213181ab844dbdc80fe01430"
+    },
+    {
+      "sentenceId": "sentence-123",
+      "referenceId": "ref-021",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 2,
+          "summary": "평생교육의 학습을 일상에서의 경험과 재구성으로 이해하면서 자연스러운 맥락과 구체적인 삶을 탐구하는 질적 접근의 의미를 제시한다.",
+          "printed": "2"
+        },
+        {
+          "page": 16,
+          "summary": "사례연구 등에서 학습자의 경험을 실제 상황과 사회적 관계의 맥락 안에서 이해하는 중요성을 논의한다.",
+          "printed": "16"
+        }
+      ],
+      "sourceId": "s-cite-5ac7e95e1ca819412ea8",
+      "sourceSha256": "5ac7e95e1ca819412ea87446b4e716f8562f1b0f481f2d861fc701a652f909ba"
+    },
+    {
+      "sentenceId": "sentence-124",
+      "referenceId": "ref-043",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 3,
+          "summary": "시간·공간으로 경계 지어진 사례와 관찰·면담·시청각 자료·문서·보고서를 사용하는 심층 탐구를 설명한다.",
+          "printed": "139"
+        }
+      ],
+      "sourceId": "s-cite-18702c2ee808de8f6f99",
+      "sourceSha256": "18702c2ee808de8f6f998968f7eb2421db2e19e11894c9d4bf27e9a6821fd863",
+      "note": "시간·장소 및 복수 자료원은 직접 확인된다. 특정 활동을 이 연구 사례의 경계로 삼는 구체적 적용까지 원전의 동일 문구로 확인한 것은 아니다. 배포 3쪽은 원본 PDF 140쪽이다."
+    },
+    {
+      "sentenceId": "sentence-124",
+      "referenceId": "ref-072",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 13,
+          "printed": "68",
+          "summary": "사례에 속하는 사람과 속하지 않는 사람, 서비스 지역 및 시간의 경계를 정하도록 설명한다."
+        },
+        {
+          "page": 14,
+          "printed": "69",
+          "summary": "시간적 경계와 현상·정황의 구분을 통해 자료수집·분석 범위를 정하도록 설명한다."
+        },
+        {
+          "page": 11,
+          "printed": "44",
+          "summary": "사례를 이해하기 위해 다양한 자료원에서 증거를 수집한다."
+        },
+        {
+          "page": 6,
+          "printed": "39",
+          "summary": "문서·가공물·인터뷰·관찰 및 참여관찰 등 여러 종류의 사례연구 증거를 사용할 수 있다고 설명한다."
+        }
+      ],
+      "sourceId": "s-cite-17baaab83eec981be767",
+      "sourceSha256": "17baaab83eec981be767f407301046c2307760df7ac89c4b1d07716b32f5bed3"
+    },
+    {
+      "sentenceId": "sentence-125",
+      "referenceId": "ref-072",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 19,
+          "printed": "99",
+          "summary": "한 사례 안에 하위 분석단위를 포함시키는 복합 분석단위의 단일사례연구설계를 설명한다."
+        }
+      ],
+      "sourceId": "s-cite-17baaab83eec981be767",
+      "sourceSha256": "17baaab83eec981be767f407301046c2307760df7ac89c4b1d07716b32f5bed3",
+      "note": "설계 유형의 정의를 확인했다. 한 발레단 안의 학습자를 하위 분석단위로 두는 것은 본 연구의 적용이다."
+    },
+    {
+      "sentenceId": "sentence-126",
+      "referenceId": "ref-052",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 29,
+          "summary": "몸과 마음을 지닌 사람이 사회적 상황의 경험을 인지·정서·실천의 방식 또는 그 조합으로 변형하고 생애에 통합하여 달라지는 과정을 학습으로 정의한다.",
+          "printed": "13"
+        },
+        {
+          "page": 31,
+          "summary": "사람이 과거의 생애 경험을 바탕으로 현재 상황에 반응하는 관계를 설명한다.",
+          "printed": "15"
+        }
+      ],
+      "sourceId": "s-cite-cefb0231cbfe367dadb8",
+      "sourceSha256": "cefb0231cbfe367dadb8f14892321b53dae810330aa347fd28fd526ef9dadb33",
+      "note": "이론은 경험·생각·감정·행동·생애 경험을 함께 살필 근거를 제공한다. 이 연구에서 무엇을 관찰하고 질문할지는 연구자가 정한 적용이다."
+    },
+    {
+      "sentenceId": "sentence-126",
+      "referenceId": "ref-053",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 2,
+          "summary": "현재의 상황을 대하는 사람의 생애 경험과 불일치의 관계를 설명한다."
+        },
+        {
+          "page": 5,
+          "summary": "몸과 마음을 지닌 사람의 경험이 인지·정서·실천의 방식 또는 조합으로 변형되어 생애에 통합되는 학습 정의를 제시한다. 마음의 요소에 의미를 명시하고 전의식적 학습도 설명한다."
+        }
+      ],
+      "sourceId": "s-cite-797a588d4bc8c62b5714",
+      "sourceSha256": "797a588d4bc8c62b57145f795b9764ac87edd10e81675459ce1484871731a440",
+      "note": "경험·생각·감정·행동·생애 경험을 살필 이론적 근거이며, 구체적인 연구 관찰 항목은 논문 연구자의 적용이다. 전자책 재조판 PDF 쪽이다."
+    },
+    {
+      "sentenceId": "sentence-127",
+      "referenceId": "ref-058",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 1,
+          "summary": "가능한 자기는 될 수 있다고 보는 자신, 되고 싶은 자신, 되기를 두려워하는 자신을 포함한다. 성공·창의성·사랑과 인정 및 고독·우울·무능 등의 예를 제시한다.",
+          "printed": "954"
+        }
+      ],
+      "sourceId": "s-cite-bbe309b0ee2e4f6d2fcf",
+      "sourceSha256": "bbe309b0ee2e4f6d2fcf1ce343bf194c57d55e1165ca6eb2827c3bf2548a7542",
+      "note": "희망·가능성·두려움의 자기 모습을 살피는 개념적 근거이다. 그 이유를 어떤 면담 방식으로 탐색할지는 논문 연구자의 적용이다."
+    },
+    {
+      "sentenceId": "sentence-128",
+      "referenceId": "ref-072",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 31,
+          "printed": "191",
+          "summary": "문서는 연구가 아닌 특정 목적·독자를 위해 작성되므로 그 목적을 인식하여 증거를 해석해야 한다고 설명한다.",
+          "rects": [
+            [
+              53.66605758666992,
+              76.68598175048828,
+              377.426025390625,
+              87.78598022460938
+            ],
+            [
+              53.66605758666992,
+              97.80598449707031,
+              377.656005859375,
+              108.60598754882812
+            ],
+            [
+              53.90605926513672,
+              118.92597961425781,
+              374.7861022949219,
+              129.72598266601562
+            ],
+            [
+              54.866058349609375,
+              140.04600524902344,
+              375.9760437011719,
+              150.84600830078125
+            ],
+            [
+              54.626060485839844,
+              161.16600036621094,
+              375.8560485839844,
+              171.96600341796875
+            ],
+            [
+              54.146060943603516,
+              179.88600158691406,
+              321.7460632324219,
+              193.38600158691406
+            ]
+          ]
+        },
+        {
+          "page": 29,
+          "printed": "189",
+          "summary": "문서정보로 다른 자료원의 정보를 확인·보충하고, 자료가 서로 상반되면 더 깊이 조사하도록 설명한다.",
+          "rects": [
+            [
+              57.98605728149414,
+              77.64600372314453,
+              379.2020263671875,
+              88.74600219726562
+            ],
+            [
+              57.98605728149414,
+              98.76599884033203,
+              378.0561218261719,
+              109.86599731445312
+            ],
+            [
+              57.25606155395508,
+              119.88600158691406,
+              379.5860900878906,
+              130.68600463867188
+            ],
+            [
+              57.49605941772461,
+              141.0060272216797,
+              381.7460632324219,
+              151.8060302734375
+            ],
+            [
+              57.98605728149414,
+              161.64602661132812,
+              378.6160583496094,
+              173.0460205078125
+            ],
+            [
+              57.98605728149414,
+              182.77603149414062,
+              380.0560607910156,
+              194.176025390625
+            ],
+            [
+              72.13606262207031,
+              309.48602294921875,
+              381.7460632324219,
+              320.5860290527344
+            ]
+          ]
+        }
+      ],
+      "sourceId": "s-cite-17baaab83eec981be767",
+      "sourceSha256": "17baaab83eec981be767f407301046c2307760df7ac89c4b1d07716b32f5bed3",
+      "note": "문서 작성 목적 인식과 자료 간 확인·보충 원칙을 확인했다. 이를 학습자의 설명과 교육현장 상황을 함께 확인하는 데 적용하는 것은 본 연구의 자료수집 계획이다."
+    },
+    {
+      "sentenceId": "sentence-129",
+      "referenceId": "ref-019",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 6,
+          "summary": "「연구 참여자 선정하기」는 연구문제에 깊이 있는 답을 할 지식·경험을 가진 대상을 선정하는 의도적 표집과, 연구문제에 맞는 선정 기준을 미리 정하는 원칙을 설명한다.",
+          "printed": "248"
+        }
+      ],
+      "sourceId": "s-cite-ed07192804f05c2f3f1e",
+      "sourceSha256": "ed07192804f05c2f3f1eb78654e0e5ba9ffeea6330e184dff0ecf3d1a380c504",
+      "note": "이 쪽은 표집 방법의 근거이다. 현재 원고의 실제 모집이나 참여 동의가 완료되었다는 증거로 사용하지 않는다."
+    },
+    {
+      "sentenceId": "sentence-130",
+      "referenceId": "ref-074",
+      "status": "web",
+      "locators": [],
+      "note": "노인복지법 시행규칙 제24조 제1항 제1호의 노인복지관·노인교실 이용대상 60세 이상을 확인했다. 제2항에는 60세 미만 배우자의 동반 이용 예외가 있다."
+    },
+    {
+      "sentenceId": "sentence-131",
+      "referenceId": "ref-057",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 1,
+          "summary": "면담 표본의 정보력과 충분성을 연구목적, 표본의 구체성, 기존 이론의 활용, 대화의 질, 분석 전략의 다섯 요인으로 판단하는 모형을 제시한다.",
+          "printed": "1753"
+        }
+      ],
+      "sourceId": "s-cite-275e37107083ac3bf019",
+      "sourceSha256": "275e37107083ac3bf0190d93fce6a427973626a246a18c31d40184028752d065",
+      "note": "이 요인들은 자료의 충분성을 검토할 기준이며 특정 참여자 수가 언제나 충분하다는 보장은 아니다."
+    },
+    {
+      "sentenceId": "sentence-132",
+      "referenceId": "ref-019",
+      "status": "verified",
+      "locators": [
+        {
+          "page": 3,
+          "summary": "면담 유형 가운데 반구조화 면담을 설명하면서 미리 마련한 질문과 유연한 진행을 함께 제시한다.",
+          "printed": "262"
+        },
+        {
+          "page": 4,
+          "summary": "미리 준비한 질문을 사용하되 면담의 흐름과 참여자의 반응에 따라 순서·내용을 조정하는 반구조화 면담의 특성을 설명한다.",
+          "printed": "263"
+        }
+      ],
+      "sourceId": "s-cite-ed07192804f05c2f3f1e",
+      "sourceSha256": "ed07192804f05c2f3f1eb78654e0e5ba9ffeea6330e184dff0ecf3d1a380c504",
+      "note": "면담 방식의 근거를 확인한 것으로, 현재 원고의 실제 면담 실시를 확인한 것은 아니다."
+    },
+    {
+      "sentenceId": "sentence-132",
+      "referenceId": "ref-066",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 19,
+          "printed": "157",
+          "summary": "면담지침을 미리 준비하더라도 추가 질문과 구체적 일화 요청은 참여자가 한 말에 기초해야 한다고 설명한다.",
+          "rects": [
+            [
+              50.33148956298828,
+              108.63482666015625,
+              364.3251647949219,
+              118.77814483642578
+            ],
+            [
+              41.29728698730469,
+              145.92752075195312,
+              364.0956726074219,
+              156.07083129882812
+            ],
+            [
+              40.4158935546875,
+              164.34996032714844,
+              364.4720764160156,
+              174.76742553710938
+            ],
+            [
+              41.076934814453125,
+              183.20193481445312,
+              364.31597900390625,
+              193.34524536132812
+            ],
+            [
+              40.62705993652344,
+              220.49459838867188,
+              364.765869140625,
+              230.63790893554688
+            ]
+          ]
+        }
+      ],
+      "sourceId": "s-cite-f1c1662297f957356815",
+      "sourceSha256": "f1c1662297f957356815bc9da5cffb1f826fe78c6311a353b62e8dede5884fc3",
+      "note": "질문 운영 원칙을 확인했다. 본 연구의 반구조화·단회 면담 설계 전체가 Seidman의 면담모형과 같다는 뜻은 아니다."
+    },
+    {
+      "sentenceId": "sentence-133",
+      "referenceId": "ref-066",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 19,
+          "printed": "157",
+          "summary": "미리 정한 질문보다 참여자의 설명을 따라가며 추가 설명을 요청하도록 제안한다.",
+          "rects": [
+            [
+              50.33148956298828,
+              108.63482666015625,
+              364.3251647949219,
+              118.77814483642578
+            ],
+            [
+              41.29728698730469,
+              145.92752075195312,
+              364.0956726074219,
+              156.07083129882812
+            ],
+            [
+              40.4158935546875,
+              164.34996032714844,
+              364.4720764160156,
+              174.76742553710938
+            ],
+            [
+              41.076934814453125,
+              183.20193481445312,
+              364.31597900390625,
+              193.34524536132812
+            ]
+          ]
+        },
+        {
+          "page": 24,
+          "printed": "162",
+          "summary": "개방형 질문으로 특정 경험과 그 세부 사항을 재구성하도록 요청하는 방식을 제시한다.",
+          "rects": [
+            [
+              68.60250854492188,
+              239.04237365722656,
+              383.9306640625,
+              248.6693115234375
+            ],
+            [
+              68.60250854492188,
+              407.15625,
+              385.0301208496094,
+              417.0582580566406
+            ],
+            [
+              59.51103973388672,
+              426.080078125,
+              383.3763122558594,
+              436.2571105957031
+            ]
+          ]
+        },
+        {
+          "page": 25,
+          "printed": "163",
+          "summary": "경험이 어떠했는지를 묻고 참여자의 이야기를 방해하지 않는 질문 운영을 설명한다.",
+          "rects": [
+            [
+              57.7463264465332,
+              70.26837921142578,
+              374.55279541015625,
+              80.72048950195312
+            ],
+            [
+              48.211368560791016,
+              88.03858947753906,
+              367.4453125,
+              99.55360412597656
+            ],
+            [
+              58.40231704711914,
+              313.4265441894531,
+              372.954345703125,
+              323.878662109375
+            ]
+          ]
+        }
+      ],
+      "sourceId": "s-cite-f1c1662297f957356815",
+      "sourceSha256": "f1c1662297f957356815bc9da5cffb1f826fe78c6311a353b62e8dede5884fc3",
+      "note": "제시한 한국어 보충질문은 이 원칙을 적용한 연구자의 문구이며 원전 질문을 그대로 옮긴 직접인용은 아니다."
+    },
+    {
+      "sentenceId": "sentence-134",
+      "referenceId": "ref-052",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 29,
+          "summary": "몸과 마음을 지닌 사람이 사회적 상황의 경험을 인지·정서·실천의 방식 또는 그 조합으로 변형하고 생애에 통합하여 달라지는 과정을 학습으로 정의한다.",
+          "printed": "13"
+        }
+      ],
+      "sourceId": "s-cite-cefb0231cbfe367dadb8",
+      "sourceSha256": "cefb0231cbfe367dadb8f14892321b53dae810330aa347fd28fd526ef9dadb33",
+      "note": "이론에 따른 질문 구성의 개념적 근거이다. 해당 면담 문항을 Jarvis가 개발하거나 노인 발레 참여자용 척도로 검증했다는 뜻은 아니다."
+    },
+    {
+      "sentenceId": "sentence-134",
+      "referenceId": "ref-053",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 5,
+          "summary": "몸과 마음을 지닌 사람의 경험이 인지·정서·실천의 방식 또는 조합으로 변형되어 생애에 통합되는 학습 정의를 제시한다. 마음의 요소에 의미를 명시하고 전의식적 학습도 설명한다."
+        }
+      ],
+      "sourceId": "s-cite-797a588d4bc8c62b5714",
+      "sourceSha256": "797a588d4bc8c62b57145f795b9764ac87edd10e81675459ce1484871731a440",
+      "note": "질문 구성의 이론적 근거이다. 원전이 이 연구의 면담 문항을 개발하거나 타당화했다는 뜻은 아니다. 전자책 재조판 PDF 쪽이다."
+    },
+    {
+      "sentenceId": "sentence-134",
+      "referenceId": "ref-058",
+      "status": "partial",
+      "locators": [
+        {
+          "page": 1,
+          "summary": "가능한 자기는 될 수 있다고 보는 자신, 되고 싶은 자신, 되기를 두려워하는 자신을 포함한다. 성공·창의성·사랑과 인정 및 고독·우울·무능 등의 예를 제시한다.",
+          "printed": "954"
+        },
+        {
+          "page": 5,
+          "summary": "초기 가능한 자기 조사에서 가능성·확률·원하는 정도 등을 구별하여 질문한 방식을 설명한다.",
+          "printed": "958"
+        }
+      ],
+      "sourceId": "s-cite-bbe309b0ee2e4f6d2fcf",
+      "sourceSha256": "bbe309b0ee2e4f6d2fcf1ce343bf194c57d55e1165ca6eb2827c3bf2548a7542",
+      "note": "면담 질문의 개념적 참고 근거이다. 원전의 대학생 조사 문항과 이 연구의 노인 발레 면담 문항은 같지 않으며 원저의 검증 척도로 볼 수 없다."
+    }
+  ]
+}
