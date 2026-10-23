@@ -1,5 +1,6 @@
 export type PdfRect = [number,number,number,number];
-export type PdfTarget = {page:number;rect:PdfRect;noteId:string;number:number;kind:string};
+export type PdfTarget = {page:number;rect:PdfRect;noteId:string;number?:number;kind:string;label?:string};
+export function targetLabel(target:PdfTarget):string{return target.label||(target.number!==undefined?`각주 ${target.number} 원전과 검토 내용 열기`:'본문 인용 참고문헌 열기');}
 type NoteGeometry = {id:string;number:number;clickTargets?:{page:number;rect:number[];kind?:string}[];noteHighlights?:{page:number;rect:number[];kind?:string}[]};
 export type PageSize = {width:number;height:number};
 export function validRect(value:unknown): value is PdfRect {
