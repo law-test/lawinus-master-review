@@ -1,0 +1,6 @@
+{
+  "supabaseUrl": "https://YOUR_PROJECT.supabase.co",
+  "supabasePublishableKey": "YOUR_PUBLISHABLE_KEY",
+  "storageBucket": "master-review-documents",
+  "datasetId": "master-20261024-attached"
+}

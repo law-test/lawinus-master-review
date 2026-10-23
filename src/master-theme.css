@@ -1,0 +1,66 @@
+/* Calm academic typography with the official Graduate School of Education logo. */
+:root{--review-ink:#342d2c;--review-muted:#756a66;--review-paper:#fffdf9;--review-line:#dfd7ce;--review-maroon:#8d2f3d;--review-maroon-dark:#7a0029;--review-maroon-light:#f4e9e8;--background:#fffdf9;--foreground:#342d2c}
+.review-app{background:#fffdf9}
+.app-header{height:104px;flex-basis:104px;gap:23px;border-top-color:#8d2f3d;border-bottom-color:#e8dfd6;background:#fffdf9;padding:0 26px}
+.education-wordmark{display:flex;flex-direction:column;flex:0 0 242px;width:242px;min-width:0;justify-content:center;color:#7a0029;line-height:1.25;letter-spacing:.05em;white-space:nowrap}
+.education-wordmark>a{display:block;width:100%;line-height:0}
+.education-wordmark img{display:block;width:100%;height:auto;aspect-ratio:287.277/71.212;object-fit:contain}
+.education-wordmark>small{align-self:flex-end;font-size:9px;letter-spacing:.25em;margin-top:6px;color:#88766d}
+.loading-screen .education-wordmark{flex:0 0 auto;width:242px;margin-bottom:18px}
+.loading-screen h1{font-size:19px;color:#7a0029}.loading-screen h2{font-size:17px}
+.brand{flex-basis:91px}.brand b{color:#503639;font-size:17px;letter-spacing:.17em}.brand span{font-size:10px;color:#7e716c}
+.header-title{padding-left:24px;border-left-color:#ded1c7}.header-title>span{letter-spacing:.16em;color:#8d2f3d;font-size:10px}
+.header-title h1{font-family:"Batang","Noto Serif KR",serif;font-size:clamp(14px,1.13vw,18px);font-weight:700;line-height:1.6;white-space:normal;word-break:keep-all;overflow-wrap:anywhere}
+.review-app .header-title p{font-size:11px;color:#7c6b65;margin:3px 0 0;line-height:1.4}
+.access-badge{color:#8d2f3d;border-color:#cdb5b6;background:#fffbf5;padding:5px 10px}
+.basis-bar{background:#f3eee5;color:#77695f;border-color:#e0d5c9;min-height:36px;height:36px;flex-basis:36px;font-size:10px}
+.basis-bar b{color:#7a0029}.basis-context{white-space:nowrap}.basis-bar i{background:#cfc1b2}
+.workspace-sidebar{background:#f8f4ec;border-color:#e0d5c9}.sidebar-heading{background:#f3ece2;border-color:#e0d5c9;color:#7a0029}
+.sidebar-menu button.active{color:#7a0029;background:#efe2df}.sidebar-menu button.active>span{color:#8d2f3d}
+.sidebar-menu button{color:#5f534e}.sidebar-outline-toggle{background:#f8f4ec!important}
+.sidebar-footnote{padding:14px 18px;border-top:1px solid #e0d5c9;margin-top:auto;flex:0 0 auto;font-size:10px;color:#7a5c58;line-height:1.9}
+.sidebar-footnote span{font-size:9px;color:#978478}
+.reference-heading,.pane-toolbar{background:#fffdf9;border-color:#e0d5c9}.reference-heading{color:#7a0029}
+.reference-pane,.scroll-panel,.profile-panel{background:#fffdf9}
+.thesis-pane,.pdf-reader,.pdf-stage{background:#ede8df}
+.pane-resizer,.split-divider{background:#d9cec1}.pane-resizer>span,.split-divider span{background:#8d2f3d}
+.page-footnotes{background:#f8f4ec;border-color:#dfd3c7;color:#74615a}.page-footnotes a{font-size:10px;white-space:nowrap}.document-page-label{font-variant-numeric:tabular-nums}
+.presentation-panel{display:flex;flex-direction:column;flex:1;min-height:0;overflow:hidden}
+.presentation-panel>.pdf-reader{height:auto;min-height:0;flex:1;overflow:hidden}
+.presentation-caption{display:flex;flex:0 0 auto;align-items:center;justify-content:space-between;gap:12px;padding:12px 18px;background:#faf6ee;border-bottom:1px solid #e0d5c9}
+.presentation-caption h2{font-family:"Batang","Noto Serif KR",serif;font-size:16px;line-height:1.6;margin-top:2px;color:#5d343c}
+.presentation-caption .section-eyebrow{font-size:9px;color:#98816f;letter-spacing:.1em}.presentation-caption .download-link{border:1px solid #d8c3bc;font-size:10px;color:#8d2f3d;white-space:nowrap;background:#fffdf9}
+.source-toolbar{border-top:0;border-bottom:1px solid #e0d5c9}
+.panel-heading h2{border-left-color:#8d2f3d;font-family:"Batang","Noto Serif KR",serif}.panel-heading p{line-height:1.8;color:#80716a}
+.document-library{display:grid;gap:15px;margin:19px 0 25px}
+.document-card{padding:18px;border:1px solid #ded0c4;border-radius:6px;background:#fffdf8}
+.document-card-top{display:flex;align-items:center;justify-content:space-between;color:#9b887a;font-size:10px;margin-bottom:9px}
+.file-format{padding:3px 8px;color:#8d2f3d;background:#f4e9e5;border:1px solid #e6d0ca;border-radius:3px;font-weight:700;font-size:10px;letter-spacing:.07em}
+.document-card h3{font-size:15px;color:#573b3f;font-weight:600}.review-app .document-card p{font-size:11px;line-height:1.8;color:#82736a;margin:7px 0 16px;word-break:keep-all;overflow-wrap:anywhere}
+.document-card-actions{display:flex;flex-wrap:wrap;align-items:center;gap:8px;font-size:10px;border-top:1px solid #e9ded2;padding-top:10px}
+.document-card-actions button{border:1px solid #dbc5bd;background:#fbf4ed;color:#7a0029;padding:6px 9px}.document-card-actions a{padding:6px 3px;margin-right:auto}
+.reference-availability{padding:15px 17px;border-left:3px solid #c2a58f;background:#f4eee3;color:#837161}
+.reference-availability h3{font-size:12px;color:#725743;margin-bottom:6px}.review-app .reference-availability p{font-size:11px;line-height:1.9;margin-bottom:0}
+.research-author{display:flex;align-items:center;gap:17px;margin:26px 0 30px}
+.author-initial{display:grid;place-items:center;width:64px;height:72px;flex:0 0 64px;color:#8d2f3d;background:#efe5db;border:1px solid #d9c1b3;font-family:"Batang",serif;font-size:28px}
+.research-author h2{font-family:"Batang",serif;font-size:27px;letter-spacing:.16em;font-weight:500;color:#6b2330}.review-app .research-author p{font-size:11px;line-height:1.8;color:#887266;margin:5px 0 0}
+.profile-panel>.research-topic{padding:20px 21px;margin:0;border:1px solid #dfcfc0;background:#f7f0e5}.profile-panel>.research-topic h3{font-family:"Batang",serif;font-size:17px;line-height:1.8;color:#6f3440;margin:8px 0;word-break:keep-all;overflow-wrap:anywhere}.review-app .research-topic p{color:#806654;font-size:12px;line-height:1.8;margin:0}
+.research-facts{margin:24px 0}.research-facts>div{display:grid;grid-template-columns:90px minmax(0,1fr);padding:11px 0;border-bottom:1px solid #e9dfd3;gap:15px;font-size:12px}.research-facts dt{color:#9b8170}.research-facts dd{margin:0;color:#5d4c44;line-height:1.8}
+.profile-panel>.research-guidance{padding-top:21px;margin-top:24px}.profile-panel>.research-guidance h3{font-size:13px;color:#8d2f3d;margin-bottom:10px}.research-guidance p{font-size:12px;line-height:1.9;color:#7b685d;word-break:keep-all;overflow-wrap:anywhere}
+.memo-identity-note{border-left-color:#c4a78e}.review-app .memo-card{background:#fbf5e8;border-color:#dfcdaa}.review-app .memo-card:hover{background:#f8efd9}
+.review-app .selected{background:#f4e9e8;border-color:#dbc0c1;color:#7a0029}
+@media(max-width:1250px){.app-header{gap:16px}.education-wordmark{flex-basis:210px;width:210px}.brand{flex-basis:77px}.header-title{padding-left:17px}.basis-context{display:none}}
+@media(max-width:899px){
+  .app-header{height:74px;flex-basis:74px;padding:0 10px;gap:10px}.education-wordmark{flex:0 0 150px;width:150px}.education-wordmark>small{font-size:7px;letter-spacing:.16em;margin-top:4px}
+  .header-title{padding-left:12px}.header-title h1{font-size:12px;line-height:1.55;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}.review-app .header-title p{font-size:9px;margin-top:3px;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
+  .basis-bar{height:auto;min-height:32px;flex-basis:auto;padding:5px 12px;font-size:9px}.basis-bar>span:last-child{font-size:9px}.basis-context{display:none}
+  .workspace-sidebar{width:min(88vw,360px)}.sidebar-footnote{padding:10px 18px;font-size:10px}
+  .presentation-panel{flex:1;min-height:0;overflow:hidden}.presentation-panel>.pdf-reader{height:auto;min-height:0;flex:1}.presentation-caption{padding:10px 13px}.presentation-caption h2{font-size:15px}.presentation-caption .download-link{min-height:38px}
+  .page-footnotes{min-height:36px}.document-page-label{font-size:10px}.page-footnotes a{min-height:34px;display:flex;align-items:center}
+  .document-card{padding:16px}.document-card-actions{gap:8px;font-size:12px}.document-card-actions button,.document-card-actions a{min-height:44px;padding:10px 8px}.document-card h3{font-size:16px}.review-app .document-card p,.review-app .reference-availability p{font-size:12px}
+  .research-facts>div{grid-template-columns:74px minmax(0,1fr);gap:10px;font-size:12px}.research-author{gap:13px}.research-author h2{font-size:25px}.profile-panel>.research-topic h3{font-size:17px}.research-guidance p{font-size:13px}
+  .mobile-navigation{background:#fffdf8;border-color:#ded0c1}.review-app .mobile-navigation button.active{color:#7a0029;background:#efe2df}
+}
+@media(max-width:420px){.app-header{gap:6px}.education-wordmark{flex-basis:134px;width:134px}.header-title{padding-left:9px}.header-title h1{font-size:11px}.review-app .header-title p{display:none}.basis-bar i{margin:0 5px}.basis-bar{font-size:8px}.basis-bar>span:last-child{font-size:8px}.document-card-actions{gap:5px}}
+@media(max-width:360px){.education-wordmark{flex-basis:118px;width:118px}}
+@media(max-width:899px) and (max-height:500px){.app-header{height:48px;flex-basis:48px}.education-wordmark>small{display:none}.presentation-caption{padding:5px 13px}.presentation-caption .section-eyebrow{display:none}.presentation-caption h2{font-size:13px}.reference-heading{height:35px;flex-basis:35px}}

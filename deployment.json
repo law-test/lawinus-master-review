@@ -1,0 +1,16 @@
+{
+  "supabase": {
+    "projectId": "cefaekvclooytgjkcqum",
+    "bucket": "master-review-documents",
+    "schema": "master_review_private"
+  },
+  "github": {
+    "owner": "law-test",
+    "repository": "lawinus-master-review",
+    "sourceBranch": "main",
+    "deploymentBranch": "gh-pages"
+  },
+  "domain": "master.lawinus.org",
+  "datasetId": "master-20261024-attached",
+  "state": "prepared"
+}
