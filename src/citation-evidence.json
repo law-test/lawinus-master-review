@@ -154,7 +154,9 @@
       "referenceId": "ref-054",
       "status": "web",
       "locators": [],
-      "note": "PubMed의 공식 초록 Results에서 대조집단에 비해 외로움과 삶에 대한 관심은 유의하게 개선됐으나 인지·신체 결과의 유의한 집단 차이는 없음을 확인했다. Johnson 연구에 관한 절을 지지하며 PDF 쪽수는 부여하지 않았다."
+      "note": "PubMed의 공식 초록 Results에서 대조집단에 비해 외로움과 삶에 대한 관심은 유의하게 개선됐으나 인지·신체 결과의 유의한 집단 차이는 없음을 확인했다. Johnson 연구에 관한 절을 지지하며 PDF 쪽수는 부여하지 않았다.",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30412233/",
+      "sourceLabel": "PubMed 공식 초록"
     },
     {
       "sentenceId": "sentence-011",
@@ -226,7 +228,9 @@
       "referenceId": "ref-054",
       "status": "partial",
       "locators": [],
-      "note": "PubMed의 공식 초록 Methods·Results는 인지·신체·사회심리 지표를 비교한 양적 성과 연구임을 보여 준다. 다만 학습자의 경험과 해석을 전혀 알려 주지 않는다는 문장 전체는 연구자의 비교 해석이며, 이 결과표나 초록만으로 경험 관련 논의의 완전한 부재를 단정할 수 없다. 확인 매체는 웹이며 PDF 쪽수는 부여하지 않았다."
+      "note": "PubMed의 공식 초록 Methods·Results는 인지·신체·사회심리 지표를 비교한 양적 성과 연구임을 보여 준다. 다만 학습자의 경험과 해석을 전혀 알려 주지 않는다는 문장 전체는 연구자의 비교 해석이며, 이 결과표나 초록만으로 경험 관련 논의의 완전한 부재를 단정할 수 없다. 확인 매체는 웹이며 PDF 쪽수는 부여하지 않았다.",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30412233/",
+      "sourceLabel": "PubMed 공식 초록"
     },
     {
       "sentenceId": "sentence-013",
@@ -2610,7 +2614,9 @@
       "referenceId": "ref-054",
       "status": "web",
       "locators": [],
-      "note": "PubMed의 공식 초록 Method·Results에서 노인센터 12곳을 두 조건으로 군집 무작위 배정하고 총 390명을 분석한 연구임을 확인했다. PDF 쪽수는 부여하지 않았다."
+      "note": "PubMed의 공식 초록 Method·Results에서 노인센터 12곳을 두 조건으로 군집 무작위 배정하고 총 390명을 분석한 연구임을 확인했다. PDF 쪽수는 부여하지 않았다.",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30412233/",
+      "sourceLabel": "PubMed 공식 초록"
     },
     {
       "sentenceId": "sentence-119",

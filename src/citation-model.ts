@@ -10,10 +10,11 @@ export type ReferenceCitationUse={id:string;sentenceText:string;pages:number[];p
 export type CitationSource={id:string;referenceId?:string;title?:string;kind?:string;pages?:number;targetPage?:number;defaultPage?:number;coverage?:'전문'|'발췌본'|'full'|'excerpt'|'chapter-in-book'|'accepted-manuscript'|'prepublication'|'chapter'|'partial';coverageLabel?:string;sha256?:string;pageSizes?:{page:number;width:number;height:number}[];pageMap?:{page:number;originalPage:number}[];locators?:{page:number;printed?:string}[]};
 export type CitationDocumentMode='source'|'web'|'bibliography';
 export type CitationEvidenceLocator={page:number;printed?:string;summary:string;rects?:number[][]};
-export type CitationEvidenceEntry={sentenceId:string;referenceId:string;sourceId?:string;sourceSha256?:string;status:'verified'|'partial'|'unverified'|'web';locators:CitationEvidenceLocator[];note?:string};
+export type CitationEvidenceEntry={sentenceId:string;referenceId:string;sourceId?:string;sourceSha256?:string;sourceUrl?:string;sourceLabel?:string;status:'verified'|'partial'|'unverified'|'web';locators:CitationEvidenceLocator[];note?:string};
 export type CitationEvidenceData={meta:{thesisSha256:string;reviewedAt:string};entries:CitationEvidenceEntry[]};
 export type ResolvedEvidenceLocator={page:number;printed?:string;summaries:string[];rects:number[][];sentenceIds:string[]};
-export type CitationEvidenceSelection={status:'verified'|'partial'|'unverified'|'web';locators:ResolvedEvidenceLocator[];notes:string[];reason?:'no-entry'|'thesis-mismatch'|'source-mismatch'|'invalid-locators'};
+export type EvidenceWebSource={url:string;label:string};
+export type CitationEvidenceSelection={status:'verified'|'partial'|'unverified'|'web';locators:ResolvedEvidenceLocator[];notes:string[];webSources:EvidenceWebSource[];reason?:'no-entry'|'thesis-mismatch'|'source-mismatch'|'invalid-locators'};
 
 export function citationDatasetMatches(meta:CitationData['meta'],pdfSha256:unknown,pageCount:unknown):boolean{
   return typeof pdfSha256==='string'&&/^[a-f0-9]{64}$/i.test(meta.pdfSha256)&&meta.pdfSha256.toLowerCase()===pdfSha256.toLowerCase()&&meta.pageCount===pageCount;
@@ -113,11 +114,16 @@ export function referencePdf(reference:CitationReference|undefined,sources:Citat
 
 export function verifiedReferenceUrl(reference:CitationReference|undefined):string|undefined{
   if(!reference?.verifiedSource||!reference.sourceUrl)return;
-  try{const url=new URL(reference.sourceUrl);return url.protocol==='https:'?url.href:undefined;}catch{return;}
+  return safeHttpsUrl(reference.sourceUrl);
 }
 
-export function defaultCitationDocumentMode(reference:CitationReference|undefined,sources:CitationSource[]):CitationDocumentMode{
-  return referencePdf(reference,sources)?'source':verifiedReferenceUrl(reference)?'web':'bibliography';
+function safeHttpsUrl(value:unknown):string|undefined{
+  if(typeof value!=='string')return;
+  try{const url=new URL(value);return url.protocol==='https:'&&!url.username&&!url.password?url.href:undefined;}catch{return;}
+}
+
+export function defaultCitationDocumentMode(reference:CitationReference|undefined,sources:CitationSource[],webSources:EvidenceWebSource[]=[]):CitationDocumentMode{
+  return referencePdf(reference,sources)?'source':webSources.some(source=>safeHttpsUrl(source.url))||verifiedReferenceUrl(reference)?'web':'bibliography';
 }
 
 export function sourcePageLabel(source:CitationSource|undefined,page:number):string{
@@ -126,7 +132,7 @@ export function sourcePageLabel(source:CitationSource|undefined,page:number):str
 }
 
 export function citationEvidenceForSelection(citation:CitationEntry,referenceId:string|undefined,source:CitationSource|undefined,evidence:CitationEvidenceData,thesisSha256:string):CitationEvidenceSelection{
-  const empty=(reason:CitationEvidenceSelection['reason'],notes:string[]=[]):CitationEvidenceSelection=>({status:'unverified',locators:[],notes,reason});
+  const empty=(reason:CitationEvidenceSelection['reason'],notes:string[]=[],webSources:EvidenceWebSource[]=[]):CitationEvidenceSelection=>({status:'unverified',locators:[],notes,webSources,reason});
   const sameHash=(a:unknown,b:unknown)=>typeof a==='string'&&typeof b==='string'&&/^[a-f0-9]{64}$/i.test(a)&&a.toLowerCase()===b.toLowerCase();
   if(!sameHash(evidence.meta.thesisSha256,thesisSha256))return empty('thesis-mismatch');
   const sentenceId=citation.sentenceId||(citation.selectionKind==='sentence'?citation.id:undefined);
@@ -134,9 +140,17 @@ export function citationEvidenceForSelection(citation:CitationEntry,referenceId:
   const entries=evidence.entries.filter(entry=>entry.referenceId===referenceId&&(citation.selectionKind==='bibliography'||entry.sentenceId===sentenceId));
   if(!entries.length)return empty('no-entry');
   const notes=[...new Set(entries.map(entry=>entry.note?.trim()).filter((note):note is string=>!!note))];
-  if(!source||!Number.isInteger(source.pages)||source.pages!<1){return entries.every(entry=>entry.status==='web')?{status:'web',locators:[],notes}:empty('source-mismatch',notes);}
+  const webSources:EvidenceWebSource[]=[];
+  for(const entry of entries){
+    const url=entry.status!=='unverified'?safeHttpsUrl(entry.sourceUrl):undefined;
+    if(url&&!webSources.some(source=>source.url===url))webSources.push({url,label:entry.sourceLabel?.trim()||'확인한 근거 페이지'});
+  }
+  if(!source||!Number.isInteger(source.pages)||source.pages!<1){
+    const webOnly=entries.every(entry=>entry.status==='web'||(entry.status==='partial'&&!entry.locators.length&&!!safeHttpsUrl(entry.sourceUrl)));
+    return webOnly?{status:entries.some(entry=>entry.status==='partial')?'partial':'web',locators:[],notes,webSources}:empty('source-mismatch',notes,webSources);
+  }
   const confirmed=entries.filter(entry=>(entry.status==='verified'||entry.status==='partial')&&entry.sourceId===source.id&&sameHash(entry.sourceSha256,source.sha256));
-  if(!confirmed.length)return empty(entries.some(entry=>entry.status==='verified'||entry.status==='partial')?'source-mismatch':'no-entry',notes);
+  if(!confirmed.length)return empty(entries.some(entry=>entry.status==='verified'||entry.status==='partial')?'source-mismatch':'no-entry',notes,webSources);
   const pages=new Map<number,{value:ResolvedEvidenceLocator;printed:Set<string>;rects:Set<string>}>();
   let invalidLocators=false;
   for(const entry of confirmed)for(const locator of entry.locators){
@@ -152,10 +166,10 @@ export function citationEvidenceForSelection(citation:CitationEntry,referenceId:
       const key=rect.join('|');if(record.rects.has(key))continue;record.rects.add(key);record.value.rects.push([...rect]);
     }
   }
-  if(!pages.size)return empty('invalid-locators',notes);
+  if(!pages.size)return empty('invalid-locators',notes,webSources);
   const locators=[...pages.values()].map(record=>({...record.value,printed:record.printed.size===1?[...record.printed][0]:undefined}));
   if(citation.selectionKind==='bibliography')locators.sort((a,b)=>a.page-b.page);
-  return {status:invalidLocators||confirmed.length!==entries.length||confirmed.some(entry=>entry.status==='partial')?'partial':'verified',locators,notes};
+  return {status:invalidLocators||confirmed.length!==entries.length||confirmed.some(entry=>entry.status==='partial')?'partial':'verified',locators,notes,webSources};
 }
 
 export function evidenceLocatorLabel(locator:Pick<ResolvedEvidenceLocator,'page'|'printed'>):string{

@@ -55,6 +55,7 @@ test('unverified, malformed, or executable external URLs do not become source li
   assert.equal(verifiedReferenceUrl({sourceUrl:'https://example.edu/'}),undefined);
   assert.equal(verifiedReferenceUrl({verifiedSource:true,sourceUrl:'javascript:alert(1)'}),undefined);
   assert.equal(verifiedReferenceUrl({verifiedSource:true,sourceUrl:'http://example.edu/'}),undefined);
+  assert.equal(verifiedReferenceUrl({verifiedSource:true,sourceUrl:'https://user:password@example.edu/'}),undefined);
   assert.equal(verifiedReferenceUrl({verifiedSource:true,sourceUrl:'https://example.edu/source'}),'https://example.edu/source');
 });
 test('the attached thesis has the requested Han citation and at least one multi-reference citation',()=>{
@@ -176,4 +177,58 @@ test('unverified and web entries never become PDF page chips, even if locator-li
     assert.deepEqual(result.locators,[]);assert.deepEqual(result.notes,['공식 자료 페이지에서 확인해 주세요.']);
   }
   assert.equal(citationEvidenceForSelection(evidenceCitation,'r',undefined,evidenceFixture([{...evidenceRecord,status:'web'}]),evidenceThesisHash).status,'web');
+});
+
+test('web evidence URLs require a matching thesis, sentence and selected reference',()=>{
+  const record={sentenceId:'sentence-one',referenceId:'r',status:'web',locators:[],sourceUrl:'https://example.edu/evidence',sourceLabel:' 공식 초록 '};
+  const fixture=evidenceFixture([record,{...record,sentenceId:'sentence-two',sourceUrl:'https://example.edu/other'}]);
+  const resolve=(citation=evidenceCitation,ref='r',hash=evidenceThesisHash)=>citationEvidenceForSelection(citation,ref,undefined,fixture,hash);
+  assert.deepEqual(resolve().webSources,[{url:record.sourceUrl,label:'공식 초록'}]);
+  assert.deepEqual(resolve(evidenceCitation,'r','c'.repeat(64)).webSources,[]);
+  assert.deepEqual(resolve(evidenceCitation,'other').webSources,[]);
+  assert.deepEqual(resolve({...evidenceCitation,sentenceId:'missing'}).webSources,[]);
+  assert.deepEqual(resolve({...evidenceCitation,referenceIds:['different']}).webSources,[]);
+});
+
+test('unverified, credential-bearing and unsafe evidence URLs cannot reach the embedded browser',()=>{
+  const record={sentenceId:'sentence-one',referenceId:'r',status:'web',locators:[],sourceLabel:'검토 자료'};
+  for(const sourceUrl of ['javascript:alert(1)','data:text/html,test','http://example.edu/','not a URL','https://user@example.edu/','https://:secret@example.edu/','https://user:secret@example.edu/']){
+    const result=citationEvidenceForSelection(evidenceCitation,'r',undefined,evidenceFixture([{...record,sourceUrl}]),evidenceThesisHash);
+    assert.deepEqual(result.webSources,[],sourceUrl);
+  }
+  const result=citationEvidenceForSelection(evidenceCitation,'r',undefined,evidenceFixture([{...record,status:'unverified',sourceUrl:'https://example.edu/unconfirmed'}]),evidenceThesisHash);
+  assert.deepEqual(result.webSources,[]);
+});
+
+test('partial evidence confirmed on a web page retains its limitation without requiring a PDF',()=>{
+  const record={sentenceId:'sentence-one',referenceId:'r',status:'partial',locators:[],sourceUrl:'https://example.edu/abstract',sourceLabel:'공식 초록',note:'양적 결과만 확인했으며 연구자의 비교 해석까지 검증한 것은 아니다.'};
+  const result=citationEvidenceForSelection(evidenceCitation,'r',undefined,evidenceFixture([record]),evidenceThesisHash);
+  assert.equal(result.status,'partial');assert.equal(result.reason,undefined);assert.deepEqual(result.locators,[]);
+  assert.deepEqual(result.notes,[record.note]);assert.deepEqual(result.webSources,[{url:record.sourceUrl,label:record.sourceLabel}]);
+  assert.equal(defaultCitationDocumentMode({id:'r'},[],result.webSources),'web','an evidence-only URL must open inside the panel');
+  assert.equal(defaultCitationDocumentMode({id:'r'},[evidenceSource],result.webSources),'source','registered PDFs retain priority');
+});
+
+test('bibliography web evidence combines reviewed sentences and deduplicates only the same URL',()=>{
+  const record={sentenceId:'sentence-one',referenceId:'r',status:'web',locators:[],sourceUrl:'https://example.edu/abstract',sourceLabel:'공식 초록'};
+  const fixture=evidenceFixture([record,{...record,sentenceId:'sentence-two',status:'partial',note:'초록 일부만 확인'},{...record,sentenceId:'sentence-three',sourceUrl:'https://example.edu/methods',sourceLabel:'연구 방법'},{...record,referenceId:'other',sourceUrl:'https://other.edu/'}]);
+  const result=citationEvidenceForSelection({...evidenceCitation,selectionKind:'bibliography'},'r',undefined,fixture,evidenceThesisHash);
+  assert.equal(result.status,'partial');assert.deepEqual(result.webSources,[{url:record.sourceUrl,label:record.sourceLabel},{url:'https://example.edu/methods',label:'연구 방법'}]);
+  assert.deepEqual(result.locators,[]);assert.deepEqual(result.notes,['초록 일부만 확인']);
+});
+
+test('adding a reviewed web link does not alter verified PDF evidence or its starting page',()=>{
+  const result=citationEvidenceForSelection(evidenceCitation,'r',evidenceSource,evidenceFixture([{...evidenceRecord,sourceUrl:'https://example.edu/source'}]),evidenceThesisHash);
+  assert.equal(result.status,'verified');assert.equal(result.locators[0].page,7);assert.deepEqual(result.locators[0].rects,[[10,20,110,40]]);
+  assert.deepEqual(result.webSources,[{url:'https://example.edu/source',label:'확인한 근거 페이지'}]);
+});
+
+test('reviewed Korean web evidence and PubMed partial evidence expose their actual confirmed pages',()=>{
+  const evidence=JSON.parse(readFileSync(new URL('../src/citation-evidence.json',import.meta.url),'utf8'));
+  const sources=JSON.parse(readFileSync(new URL('../src/reference-sources.json',import.meta.url),'utf8'));
+  for(const [sentenceId,referenceId,host,status] of [['sentence-025','ref-002','www.korean.go.kr','web'],['sentence-058','ref-011','www.kci.go.kr','web'],['sentence-062','ref-013','arte365.kr','web'],['sentence-012','ref-054','pubmed.ncbi.nlm.nih.gov','partial']]){
+    const citation=resolveCitationSelection(sentenceId,data.citations),reference=data.references.find(reference=>reference.id===referenceId);
+    const result=citationEvidenceForSelection(citation,referenceId,referencePdf(reference,sources)?.source,evidence,data.meta.pdfSha256);
+    assert.equal(result.status,status);assert.equal(new URL(result.webSources[0].url).hostname,host);assert.deepEqual(result.locators,[]);
+  }
 });
