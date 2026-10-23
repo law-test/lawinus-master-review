@@ -65,6 +65,8 @@ export default function PdfPane({id,page,total,zoom=1,pageSizes=NO_PAGE_SIZES,hi
   const sizes=useMemo(()=>({...Object.fromEntries(pageSizes.map(s=>[s.page,{width:s.width,height:s.height}])),...(measured.id===id?measured.values:{})}),[pageSizes,measured,id]);
   const layout=useMemo(()=>pageLayout(doc?.numPages||total,viewport.width,zoom,sizes),[doc,total,viewport.width,zoom,sizes]);
   const previousLayout=useRef<{id:string;layout:typeof layout}|null>(null);
+  // Resizing a long document can clamp the DOM scrollTop before layout effects.
+  // Reflow from our last recorded reading position rather than that clamped value.
   const layoutRef=useRef(layout);layoutRef.current=layout;
   const viewportSize=(el:HTMLElement)=>{const style=getComputedStyle(el);return measurableViewport(el.clientWidth,el.clientHeight,parseFloat(style.paddingLeft)+parseFloat(style.paddingRight));};
   const updateViewport=useCallback(()=>{const el=host.current;if(!el||hidden.current||resumeScroll.current)return;const size=viewportSize(el);if(!size)return;savedScroll.current={top:el.scrollTop,left:el.scrollLeft};setViewport({...size,top:el.scrollTop});
@@ -72,7 +74,7 @@ export default function PdfPane({id,page,total,zoom=1,pageSizes=NO_PAGE_SIZES,hi
     if(current!==reported.current){reported.current=current;onPageRef.current(current);}
   },[]);
   useEffect(()=>{const el=host.current!;const observer=new ResizeObserver(()=>{const size=viewportSize(el);if(!size){hidden.current=true;cancelDrag();cancelAnimationFrame(frame.current);return;}if(hidden.current){hidden.current=false;resumeScroll.current=true;setAppearance(value=>value+1);}setViewport(v=>v.width===size.width&&v.height===size.height?v:{...v,...size});});observer.observe(el);return()=>{observer.disconnect();cancelAnimationFrame(frame.current);};},[cancelDrag]);
-  useLayoutEffect(()=>{const el=host.current;if(!el)return;if(!viewportSize(el)){hidden.current=true;return;}if(hidden.current){hidden.current=false;resumeScroll.current=true;}const previous=previousLayout.current,returning=resumeScroll.current,readingTop=returning?savedScroll.current.top:el.scrollTop;let top:number|undefined;
+  useLayoutEffect(()=>{const el=host.current;if(!el)return;if(!viewportSize(el)){hidden.current=true;return;}if(hidden.current){hidden.current=false;resumeScroll.current=true;}const previous=previousLayout.current,returning=resumeScroll.current,readingTop=returning||previous?.layout!==layout?savedScroll.current.top:el.scrollTop;let top:number|undefined;
     if(!previous||previous.id!==id||page!==reported.current){const index=Math.min(layout.heights.length-1,Math.max(0,page-1));top=layout.offsets[index];reported.current=index+1;}
     else if(previous.layout!==layout){top=reflowScrollPosition(previous.layout,layout,readingTop-18);}
     else if(returning){top=readingTop-18;}

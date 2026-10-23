@@ -1,0 +1,2201 @@
+{
+  "meta": {
+    "thesisSha256": "92b73e8ad50829cd5df52b7b4e40addd8994499be051b663c0286a804938cd2d",
+    "reviewedAt": "2026-10-23"
+  },
+  "entries": [
+    {
+      "referenceId": "ref-001",
+      "sourceSha256": "9080327130c81179fd8fd0db1d7ed6e4b1952b1898cac6101efe045e7ed53b6c",
+      "scopeKind": "book",
+      "scopeLabel": "P487에서 확보 원문 PDF1–162쪽 전체를 순차 독해. 책 전권.",
+      "readRanges": [
+        [
+          1,
+          162
+        ]
+      ],
+      "totalPages": 162,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "원조사 PDF36·43·45: 25–29세44.6%,70–79세24.1%,여성35.0%,남성31.2%,서울33.7%,제주29.9%. 백서의 일부 전사 수치와 구별한다. PDF62의65–79세 문화예술15.4%는 기존 P486 교정 유지. 2024년 조사는2023년 경험을 묻는다. 문화예술 범주에 스포츠가 포함되며 자기평가·횡단 차이를 인과효과로 쓰지 않는다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-002",
+      "sourceSha256": "756e044da8723cff01ee570a7f55a074ae14311ca4aafe3bf36831f26e03a906",
+      "scopeKind": "web",
+      "scopeLabel": "표준국어대사전 노인1(老人) 항목 전문: 정의·발음·원어·용례·비슷한말·높임말·두음법칙 설명. 함께 표시된 동형어2–6도 확인. 사전 전체가 아니라 인용한 항목 전문.",
+      "readRanges": [],
+      "totalPages": 0,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "공식 항목은 나이가 들어 늙은 사람으로 풀이한다. 특정 연령·능력·의존성을 정의하지 않는다. 기존 B031의 개념설명과 사전만으로 연구대상을 확정하지 않는 문장을 유지한다.",
+          "action": "retain"
+        },
+        {
+          "pdfPages": [],
+          "issue": "사전적 정의의 직접 근거",
+          "rationale": "공식 항목은 나이가 들어 늙은 사람으로 풀이한다. 특정 연령·능력·의존성을 정의하지 않는다. 기존 B031의 개념설명과 사전만으로 연구대상을 확정하지 않는 문장을 유지한다.",
+          "action": "retain"
+        }
+      ],
+      "sourceUrl": "https://stdict.korean.go.kr/search/searchView.do?word_no=68256&searchKeywordTo=3"
+    },
+    {
+      "referenceId": "ref-003",
+      "sourceSha256": "c50d8edfab18a5fce4f342105fa72b305ece247327cc289db8479888764af939",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 해당 문헌 전문 독해 루트 독립담당의 전체21쪽 OCR 직접독해; PDF8/96과17/105 원문 이미지 대조 PDF1–21 / 인쇄89–109 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          21
+        ]
+      ],
+      "totalPages": 21,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "고학력60세이상20명 질적연구. 심리적만족·사회참여·일상생활3범주를 다룬다. / 미래의 일과 재취업·참여 희망도 포함하므로 기존노인교육연구에 미래관점이 없다는 일반화에 반하는 사례이다. / 전체지면을 육안대조한 것은 아니며 OCR 숫자·고유명 오류가능성을 남긴다.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-004",
+      "sourceSha256": "bc2a3b4b11db34c87bf42c1a961aa07bf8c315db82e44fcf5b292c313b31dc2f",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 해당 문헌 전문 독해 전문 문자층 독해; 핵심 PDF16·19·20 지면은 직전 근거 작업에서 이미지 대조 PDF1–27 / 인쇄41–67 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          27
+        ]
+      ],
+      "totalPages": 27,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "PDF10/인쇄50: 현재 또는 과거 평생교육 참여, 미술교육 참여경력 없는 65세 이상. 여성83세·78세 2명. 이 연구 대상은 일반 노인 전체의 효과를 대표하지 않는다. / PDF11/51: 두 참여자의 중학교 진학 목표와 다른 활동 희망이 명시된다. 미래가 없거나 현재만 다뤘다는 요약은 부정확하다. / PDF14/54: 8주16차시, 매차시 작품·대화·행동 자료, 종료후 심층면담. PDF15/55 질문4는 이후 계획 및 지속 희망 여부이다. / PDF18–21/58–61: 걱정·두려움, 자발적 선택, 성취감, 학습의지, 동료·연구자 상호작용을 함께 다룬다. 긍정 결과만 추린 연구로 설명하지 않는다. / PDF20/60: 미술을 더 배우려는 의사와 문해교육 우선순위를 동시에 설명한다. 활동 지속 의도를 가능한 자기의 충분한 확인으로 취급하지 않는다. / PDF22–24/62–64: 2명 사례의 자아인지·학습의지 해석이며 인과 실험은 아니다. 본문의 해당 요약은 대체로 독자적으로 종합되어 있고 긴 원문 연속 복제는 별도 기계 대조로 확인 예정.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-005",
+      "sourceSha256": "6c9aa7df6f4862fc94b2d7d9661e9ee92902110e433b8b170f602dfb4f3b3520",
+      "scopeKind": "book",
+      "scopeLabel": "P487에서 확보 원문 PDF1–78쪽 전체를 순차 독해. 책 전권.",
+      "readRanges": [
+        [
+          1,
+          78
+        ]
+      ],
+      "totalPages": 78,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "PDF44, 59쪽: 자료수집 기간이 방법의2017.5.31–6.1(약2주 표기)과 결론의5.31–6.14(약15일)로 다르다. 현행 원고는 이 날짜를 인용하지 않으므로 필수 본문 수정사항은 아니다. / PDF55, 56쪽: 인쇄48쪽 표는 정보지지 beta=.342·물질지지 beta=.132이나49쪽 본문은 각.284/.050으로 다른 열(B/표준오차)의 값을 beta처럼 쓴다. 실제 표 기준으로 기록하며 현행 원고는 수치를 인용하지 않는다. / PDF46, 47, 76쪽: 성공적 노화의 심리적 측면 최종 항목에 남은 인생 계획·원하는 일/취미·배움 의향이 남아 있다. 현재 중심 양적 연구라는 일괄 축소는 피해야 한다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-006",
+      "sourceSha256": "41ad067c4ad3a11815be76406bb868501c63cf122a58fca61ca83b7200001440",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 해당 문헌 전문 독해 전문 문자층 독해 PDF1–28 / 인쇄77–104 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          28
+        ]
+      ],
+      "totalPages": 28,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "자기주도성이 높고 다양한 학습을 경험한 전문학사 이상 성인7명을 목적표집했으며70세이상은 포함하지 않았다. 전체 성인·노인집단을 대표하는 결과가 아니다. / PDF3/79의 상황 해석·감정·태도 고려 필요는 sentence021의 연구방법 선택 취지를 지지한다. / PDF19–20/95–96은 질문·도움받기뿐 아니라 도움주기·토론·협력이 자기주도성에 포함됨을 설명한다. 자기주도성을 혼자하는학습으로 축소하지 않는다. / PDF21–23/97–99는 학습자자아개념·학습과정책임·개인환경관리·대인환경조성의 네범주 및 표집한계를 명시한다.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-007",
+      "sourceSha256": "5b80d39e9f63ee823207c967f9d480236a0346cff5e0ba883bc7acabaf85ba74",
+      "scopeKind": "article",
+      "scopeLabel": "P487에서 확보 원문 PDF1–27쪽 전체를 순차 독해. 해당 논문·자료 전문.",
+      "readRanges": [
+        [
+          1,
+          27
+        ]
+      ],
+      "totalPages": 27,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "원첨부 참고문헌에 등재되었으나 본문 미인용이어서 수정 검토본에서는 제외하고 77항목 검토대장에 보존한다. 실제 사용할 때 인용 위치와 함께 복원한다. 수기집의 평균연령53.8세와 실제면담표본30–40대를 혼동하지 않는다. 미래계획·자기인식도 다루므로 현재 중심 연구로 단정하지 않는다. / 사례연구의 실제맥락·경계·분석적 일반화는 Yin과Smith를 인용한 방법론 설명이다. 원저 정의의 독립출처로 저자들에게 귀속시키지 않는다. / 노인 발레 현장에 동일한 결과를 일반화할 수 없다. 공동교육맥락에서 다양한 지위의 시각을 비교한 사례 구성은 방법적 참고로 볼 수 있다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-008",
+      "sourceSha256": "06f93986e431934aac9bdf42ddfa2cbfe4c064443bacf6002c4c494a80e1b830",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 해당 문헌 전문 독해 전문 문자층 독해 PDF1–26 / 인쇄211–236 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          26
+        ]
+      ],
+      "totalPages": 26,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "전국3002프로그램, 실무자11인의 분류 및1650개 직접적용을 거쳐6대영역18중분류 체계를 개발한 연구이다. / PDF7/217 정의와 PDF13/223 최종분류표가 sentence008/067/068을 직접 지지한다. / PDF16–17/226–227은 명칭 하나가 아니라 목적·내용·대상 등으로 분류하며 유사프로그램도 다른영역에놓일수있음을 명시한다. 발레라는종목명만으로사례의교육적성격을확정하지않는추가근거로활용가능. / 문화예술적상상력·창의력→활동·기능→일상향유·활용의3요소와순서가 원고와 유사하지만 출처가명시된개념요약이며 이것만으로표절이라판정하지않는다. 서론과이론장중복을덜고본연구가쓸범위를독립적으로설명하는수정권고.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-009",
+      "sourceSha256": "99d938abbc29cb7444f618ad07bf8a2e753c0fcd23dd5c711fda2e21fa7e4fb9",
+      "scopeKind": "book",
+      "scopeLabel": "P487에서 확보 원문 PDF1–425쪽 전체를 순차 독해. 책 전권.",
+      "readRanges": [
+        [
+          1,
+          425
+        ]
+      ],
+      "totalPages": 425,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "법적 협의와 학문적 광의의 평생교육을 구별한다. 자기주도성·경험학습·전환학습·학습공동체에서 상황·감정·관계·미래를 이미 다룬다. 이를 Jarvis만의 장점으로 독점시키지 않는다. 본문과 부록의 법 개정 반영 시점 차이는 현행 공식 법령으로 대조한다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-010",
+      "sourceSha256": "3de3e76ac70768f51f7b74cf9948a1c87015179b90464a50913103667cd818ff",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 해당 문헌 전문 독해 전문 문자층 독해 PDF1–28 / 인쇄87–113 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          28
+        ]
+      ],
+      "totalPages": 28,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "시니어5명·전문가2명,3년이상활동. 가족인 연구참여자2명 및 연구자개입을 명시하며 일반화된 전형으로 보지 않는다. PDF28은 빈쪽. / PDF8–10/94–96 소외·실력비교·자기평가저하와 긍정경험이 공존함을 제시한다. 현재원고의 우월감/열등감 및 긍정일변도경계 취지는 지지된다. / PDF15–17/101–103 공감은 자매2명의 그림과 교실기억을 매개로 나타난 특수한 사례이다. 일반적 모든노인 경험으로 바꾸지 않는다. / PDF19–25/105–111 자존감·주체적참여와 운영조건/정책의 한계를 논한다. 저자철학적논의를 프로그램 효과의 계량검증으로 쓰지 않는다.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-011",
+      "sourceSha256": "d6a8ccf3bdeb44d143809c1916e79c3f84f5b81d20d844a3c5e97b36347ab902",
+      "scopeKind": "article",
+      "scopeLabel": "P487에서 확보 원문 PDF1–22쪽 전체를 순차 독해. 해당 논문·자료 전문.",
+      "readRanges": [
+        [
+          1,
+          22
+        ]
+      ],
+      "totalPages": 22,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "PDF3, 5, 19쪽: 기존 공식 초록 확인에서 전문 확인으로 범위가 확대됐다. 인쇄15쪽 개념 문장,17쪽 유기적 연계 설명,31쪽 결론에서 문화교육과 예술교육의 상호보완적 관계를 확인했다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-012",
+      "sourceSha256": "b24dcce9a922b98f10fe873631b49c0a6dbd08ca0767386218ac6fd793d100fc",
+      "scopeKind": "book",
+      "scopeLabel": "P487에서 확보 원문 PDF1–95쪽 전체를 순차 독해. 책 전권.",
+      "readRanges": [
+        [
+          1,
+          95
+        ]
+      ],
+      "totalPages": 95,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "P486 B006·B007 교정 재확인: 전체 자기효능감 p=.173과 개인적 자기효능감 p=.026을 구분하고 횟수별 집단 차이를 동일인의 전후 변화로 쓰지 않는다. 신규 수정 건으로 중복 집계하지 않는다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-013",
+      "sourceSha256": "",
+      "scopeKind": "web",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 해당 문헌 전문 독해 공식 arte365 기사 본문·표 전체 웹 독해 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [],
+      "totalPages": 0,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "박수아2015.9.14 정책흐름 기사. 2003년 출발,2004년 종합계획,2005년2월 진흥원설립과12월 지원법제정이 본문에서 확인된다. / 2015년 시점의 정책회고이며 현재법령 해석이나2026년 정책현황을 확인한 것은 아니다. 사용문장은 연혁 범위에 한정한다.",
+          "action": "retain"
+        }
+      ],
+      "sourceUrl": "https://arte365.kr/?p=45440",
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-014",
+      "sourceSha256": "d773778b9da0a9fa7f2f29f38f45d965b3eff0694aa4022dcfaacc6672aa916c",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 해당 문헌 전문 독해 전문 문자층 독해 PDF1–16 / 인쇄47–62 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          16
+        ]
+      ],
+      "totalPages": 16,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "2013–2015 부산지역 사업설명·결과·모니터링 보고서 기반11사례 검토이다. 개인 면담을 새로 수집한 논문으로 오해하지 않는다. / PDF2/48은 현재와 미래의 삶 방향, PDF9/55는 토론을 통한 미래지향 설정을 이미 논의한다. 선행연구전체가 현재에만 머물렀다는 일반화의 반대 근거이다. / PDF9/55의 감정·생각 공유와 자기성찰·타인이해는 sentence044의 취지를 지지한다. / 연령만으로 노인학습자집단을 분류하기 어렵고 이질성·문해차이 고려가 필요하다는 PDF10/56도 연구대상 범위와 운영 배려를 설명할 추가자료가 된다.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-015",
+      "sourceSha256": "6ae06ad09a8aac8eb8e73df430a78c9ff8111124c681ea54fb9c6cf1e021cfa8",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 해당 문헌 전문 독해 루트 독립담당의 전체18쪽 OCR 직접독해; PDF10/30과11/31 원문 이미지 대조 PDF1–18 / 인쇄21–38 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "totalPages": 18,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "독일노인교육 담론을 통한 이론검토이며 실증결과가 아니다. 자기성찰·자율판단·전기재구성·생활세계 맥락을 논한다. / 다른학문과의 보완 필요도 인정한다. 노화결손 설명은 소개되는 타담론이므로 저자 자신의 보편명제로 쓰지 않는다. / 10–11쪽의 Alheit/Dausien 및 박응희2008 인용과 원저 직접확인을 구분한다. 전체OCR독해이나 전체지면육안검증 아님.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-016",
+      "sourceSha256": "05de0c9a84ff199aa8973d856521379e60d24bb0213181ab844dbdc80fe01430",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 해당 문헌 전문 독해 전문 문자층 독해; 핵심 PDF9/411 지면은 직전 근거 작업에서 이미지 대조 PDF1–18 / 인쇄403–420 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "totalPages": 18,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "PDF2/404의 연구문제는 생애경험, 발레동기·학습과정·신체정서변화, 삶의 의미·정체성·편견, 운동참여 가능성·한계이다. / PDF3–4/405–406: 65세 이상, 이전 전문발레 경험 없고 노년기 첫발레 후1년이상. 복수 스튜디오 운영자 통해 모집했으나 3명 각각 다른 소속이라고 명시하지 않는다. / PDF4–5/406–407: 약6개월, 3회이상면담(평균60–90분), 수업·공연준비관찰, 개인기록 등. 학습과정·감정을 보지 않았다고 서술할 수 없다. / PDF8–10/410–412: 통증, 중단 생각, 후회 및 적응; 미래 무대 목표, 새로운 시작, 자기 재발견과 감정표현이 실제로 있다. / PDF11–14/413–416: 편견에 대한 해석, 역할과 관계, 과거 욕망과 미래 목표의 연결. 현재만 다룬 연구가 아니다. / 희망·예상·우려 자기의 내용·중요성과 특정 교육경험의 관련을 모두 직접 묻는 본 연구 계획은 가능한 차이이나, 기존 연구에 미래나 학습이 없다는 주장이나 독창성 확정으로 쓰지 않는다. / 연구의 강한 정책·효과 표현을 원고가 그대로 확대할 필요는 없다. 3명의 내러티브가 보고한 경험과 저자의 해석으로 한정한다.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-017",
+      "sourceSha256": "5130e369616e00349509830aead8d2b500da9821d9609e9b14c1fdb98893fed8",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 해당 문헌 전문 독해 전문 문자층 독해 PDF1–32 / 인쇄1–32 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          32
+        ]
+      ],
+      "totalPages": 32,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "여성노인70–84세5명의 생애사: 장기간 현장관계, 면담·관찰·문건, 해석과정과 윤리명시. 전체노인 일반화 한계를 저자도 밝힌다. / PDF4의 Erikson1963 설명은 이차문헌이며 원고sentence052의 재인용 범위를 지지한다. Erikson원저 직접 확인으로 바꾸지 않는다. / PDF21–25에서 새 꿈·지속학습욕구와 죽음불안의 양가감정을 함께 다룬다. 노인학습연구 전반이 현재/긍정만 보았다는 일반화의 반대 사례다. / 과거·현재·미래와 환경을 결합한 생애사 해석이므로 한 단체 사례연구와의 차이는 학습 여부가 아니라 분석질문·단위·맥락에서 설명해야 한다.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-018",
+      "sourceSha256": "06b91cfd5be22d8384aa453728b9719518ce7c73998f708dcf98b1c3199446bd",
+      "scopeKind": "book",
+      "scopeLabel": "P487에서 확보 원문 PDF1–230쪽 전체를 순차 독해. 책 전권.",
+      "readRanges": [
+        [
+          1,
+          230
+        ]
+      ],
+      "totalPages": 230,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "원첨부 참고문헌에 등재되었으나 본문 미인용이어서 수정 검토본에서는 제외하고 77항목 검토대장에 보존한다. 실제 사용할 때 인용 위치와 함께 복원한다. 현 기준본에는 본문 인용이 없는 검토 자료다. 미래 무대·배우상·관계·남은 두려움을 이미 다룬다. 50세 이상이라는 설명과 표14의48세1명 간 불일치, 사후 자기보고15부 및 전문가 의견의 차이를 기록한다. 이를65세 이상 전체의 인과효과로 쓰지 않는다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-019",
+      "sourceSha256": "5e2bca376d8ccaaba1652f7685b062340119beba0d863db7376f54d6529323b9",
+      "scopeKind": "book",
+      "scopeLabel": "P487에서 확보 원문 PDF1–481쪽 전체를 순차 독해. 책 전권.",
+      "readRanges": [
+        [
+          1,
+          481
+        ]
+      ],
+      "totalPages": 481,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "개정판 전권과 판권에서 박영스토리 출판사를 재확인했다. P486 서지는 이미 맞으므로 새 오류로 집계하지 않는다. 면담·지속적 비교만으로 특정 질적 설계를 명명하지 않으며, 참여자 검토는 분석 결과에 대한 확인과 면담 말미 요지 확인을 구별한다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-020",
+      "sourceSha256": "fdda6df701d1128feb018e0ff98b3b77c16b92a6c1710180caa85d6d7a31dafc",
+      "scopeKind": "article",
+      "scopeLabel": "P487에서 확보 원문 PDF1–16쪽 전체를 순차 독해. 해당 논문·자료 전문.",
+      "readRanges": [
+        [
+          1,
+          16
+        ]
+      ],
+      "totalPages": 16,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "원첨부 참고문헌에 등재되었으나 본문 미인용이어서 수정 검토본에서는 제외하고 77항목 검토대장에 보존한다. 실제 사용할 때 인용 위치와 함께 복원한다. PDF1, 4, 16쪽: 양초록은29문항, 본문과 표1은28문항으로 다르다. 현행 원고가 문항 수를 인용하지 않으므로 필수 본문 수정은 아니다. / PDF9쪽: 수강지속 목표와 전문가 수준 희망 등 향후 참여 계획도 조사했다. 미래 자기인식의 구체 내용·경험 해석을 심층면담한 연구와는 다르다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-021",
+      "sourceSha256": "5ac7e95e1ca819412ea87446b4e716f8562f1b0f481f2d861fc701a652f909ba",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 해당 문헌 전문 독해 전문 문자층 독해 PDF1–26 / 인쇄1–26 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          26
+        ]
+      ],
+      "totalPages": 26,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "실체적 관심과 인식론적 관심이 연구방법 선택기준이라는 방법론 논문이다. PDF2는 일상의 경험 재구성·의미 이해를 위한 질적접근을 설명하여 sentence020을 지지한다. / PDF15–16은 사례의 경계와 기능적 특수성, 사례 자체의 맥락·관계·상호작용에 대한 분석적 설명을 강조한다. 한 단체라는 명칭만으로 사례연구를 정당화하지 않는다. / PDF11–12의 현상학 역시 경험·의미를 탐구하므로 사례연구 선택을 설명할 때 현상학은 경험을 보지 않는다고 대비하지 않는다. / 연구설계 초기의 선택기준을 논하며 자료수집·분석의 세부절차 전체를 제시하는 자료는 아니다(PDF4).",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-022",
+      "sourceSha256": "7cdcd1165bce5a4d8c7fe14d725f27c11c384000edbe843dc5a2bd551c830ef1",
+      "scopeKind": "book",
+      "scopeLabel": "P487에서 확보 원문 PDF1–105쪽 전체를 순차 독해. 책 전권.",
+      "readRanges": [
+        [
+          1,
+          105
+        ]
+      ],
+      "totalPages": 105,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "학위연도2026 유지; 이우현의실증연구와인용한이론을구별. / 기존연구가경험의의미를전혀논의하지않았다고요약하지않는다. / 현재수정본033/037/038/039의범위설명및043재인용은보유본문에부합. 종전041의문자유사/2차귀속교정은P486이미반영되어중복신규교정하지않음. 65세보편생리전환/법률연금60세일괄주장은현재수정본에새로들여오지않는다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-023",
+      "sourceSha256": "e2539d999ea9639728244ef149397665ff7798533df9de6b76a8cef65f238713",
+      "scopeKind": "book",
+      "scopeLabel": "P487에서 확보 원문 PDF1–76쪽 전체를 순차 독해. 책 전권.",
+      "readRanges": [
+        [
+          1,
+          76
+        ]
+      ],
+      "totalPages": 76,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "PDF50쪽: 회귀표 참여시간 B=-.001, beta=-.163, t=-1.228의 음수부호가 문자 추출에서 빠진다. 실제 지면으로 확인했다. 참여시간 비유의라는 결론은 동일하다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-024",
+      "sourceSha256": "eebbfe0b47baadd20b5d5e04e50ca41ca45b050d00acab355a325fb974a18865",
+      "scopeKind": "book",
+      "scopeLabel": "P487에서 확보 원문 PDF1–159쪽 전체를 순차 독해. 책 전권.",
+      "readRanges": [
+        [
+          1,
+          159
+        ]
+      ],
+      "totalPages": 159,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "미래 자기 모습을 실제로 탐구한 선행연구로 인정하되 예술교육 참여경험 연구로 바꾸어 소개하지 않는다. / 세 유형에 관한 일반 이론과 이 연구에서 실제 조사한 희망·두려움 두 유형을 구분한다. 자기효능감·결과기대와 미래 자기상 내용 자체를 동일시하지 않는다. / 우리의 60–75분 면담시간 또는 예상 자기 문항까지 이 원전이 검증한 도구로 주장할 수 없다. 선택한 미래상의 중요도·현재 관련·역량·가능성·생각 빈도를 구별하는 점을 참고할 수 있다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-025",
+      "sourceSha256": "8ee75c17687c5c25b05579225fc9f4d5558917b07135c3d0ed294bbdda7ac4a1",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 해당 문헌 전문 독해 문체 담당자의 전체35쪽 문자층 전문 독해; 지면PDF1·6·31 확인, 국문담당 PDF1 제목 추가 확인 PDF1–35 / 인쇄211–245 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          35
+        ]
+      ],
+      "totalPages": 35,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "원첨부 참고문헌에 등재되었으나 본문 미인용이어서 수정 검토본에서는 제외하고 77항목 검토대장에 보존한다. 실제 사용할 때 인용 위치와 함께 복원한다. PDF 1 / 인쇄 211: 원전 제목은 출산 후 워킹맘의 가능한 자기(possible self)이다. 현재 44쪽 원고 참고문헌의 에 대한 질적 연구는 원전 제목에 없는 추가 문구이다. 새 수정검토본에서 정확한 제목으로 정정할 근거가 있다. / PDF 5–6 / 인쇄 215–216: 희망하는 자기·두려워하는 자기를 묻고 변화에 영향을 준다고 여기는 조건, 중요도, 실현 가능성, 시간적 거리를 추가로 탐색한다. 별도 예상하는 자기 유형을 검증한 척도가 아니며 연구자가 이론 검토·논의·예비면담을 통해 반구조화 질문을 구성했다. / PDF 6–9 / 인쇄 216–219: 워킹맘 13명을 눈덩이 표집하여 2015년 11월부터 2016년 2월까지 약 40분의 개별 면담을 했다. 주 분석은 합의적 질적 연구(CQR), 조건별 후속 답변은 내용분석을 병행했다. 세 연구자의 독립 코딩·합의와 감수자의 검토를 사용했다. 이 절차는 현재 단일 연구자의 사례연구에 그대로 적용되었다고 쓸 수 없다. / PDF 10–24 / 인쇄 220–234: 희망·두려움·수식요인의 3영역, 7범주, 26하위범주를 제시한다. 일·가정에서의 노력과 한계 수용, 자녀·가족관계·직장 인정·도움 요청·시간·경제·건강 등이 얽혀 있다. 같은 자기 모습이라도 참여자마다 실현 가능성 판단이 다를 수 있음을 보여 준다. / PDF 19–24 / 인쇄 229–234: 변화 조건과 미래 시점 응답은 면담 당시 참여자의 예상과 설명이다. 미래 자기 변화의 종단 관찰이나 원인 효과 검증이 아니다. 중요도·실현 가능성·시간적 거리를 구별해 묻는 근거로 쓸 수 있다. / PDF 24–31 / 인쇄 234–241: 가능한 자기를 개인의 의지만으로 설명하지 않고 가족·직장·제도적 조건과 연결한다. 상담·교육·정책 제언은 검증된 개입 효과가 아니다. 고학력·안정된 직업 참여자 중심, 연구자의 가치·편향, 배우자 등 타 관점 미포함이라는 한계를 명시한다. / 현재44쪽 원고에는 참고문헌 PDF39/인쇄36에만 있고 본문 직접 인용이 없다. 질문 참고근거로 사용할 경우 구성경위를 실제로 명시하고 기존버전 기록을 자동승계하지 않는다.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-026",
+      "sourceSha256": "86d90ab6cd714c0732b10234723f6755eb4005bdff3fbe354c732e07f105dc77",
+      "scopeKind": "book",
+      "scopeLabel": "P487에서 확보 원문 PDF1–108쪽 전체를 순차 독해. 책 전권.",
+      "readRanges": [
+        [
+          1,
+          108
+        ]
+      ],
+      "totalPages": 108,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "본 연구의 경험 설명을 문화예술교육의 인과효과 또는 노인 전체의 보편적 특성으로 확대하지 않는다. 이미 P486에서 고친 UN·획일적 노인 특성을 되살리지 않는다. / 현 원고 sentence059의 노슬기→정재성 재인용이 정확하다. 원저를 새로 직접 읽었다고 표시하지 않으며 이 제한된 정의문은 유지할 수 있다. / 노년기 첫 입문자만의 사례가 아니며 여러 교육현장을 포함한다. 본 원고의 단회면담과 동일한 설계라고 설명할 수 없다. 서명란이 있는 동의서만으로 IRB 승인 완료를 추정하지 않는다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-027",
+      "sourceSha256": "2a78514b45e2db6b36a767948e063955e80d9c400b5f18efb0350e28ddcad0cc",
+      "scopeKind": "book",
+      "scopeLabel": "P487에서 확보 원문 PDF1–84쪽 전체를 순차 독해. 책 전권.",
+      "readRanges": [
+        [
+          1,
+          84
+        ]
+      ],
+      "totalPages": 84,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "원첨부 참고문헌에 등재되었으나 본문 미인용이어서 수정 검토본에서는 제외하고 77항목 검토대장에 보존한다. 실제 사용할 때 인용 위치와 함께 복원한다. PDF52, 53쪽: 거주기간만 투입한 단순회귀는 beta=.230/F12.579/수정R².049, 위계회귀 모형1은 beta=.226/F12.038/수정R².047로 다르다. 원자료 없이 원인을 추정하지 않는다. 현행 원고 직접 인용이 없어 본문 필수 수정사항은 아니다. / PDF46, 80쪽: 미래 보람 있는 삶을 묻는 목적지향9번은 최종 분석에서 제외되고 학습지향12·13의 자기이해와 삶의 의미 문항은 유지된다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-028",
+      "sourceSha256": "ed32df5f8ee9d23cb03b5efefe36dedc17835795a72d282e131852147dc29862",
+      "scopeKind": "book",
+      "scopeLabel": "P487에서 확보 원문 PDF1–265쪽 전체를 순차 독해. 책 전권.",
+      "readRanges": [
+        [
+          1,
+          265
+        ]
+      ],
+      "totalPages": 265,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "PDF95, 116, 119, 139, 140쪽: Kolb의 유연한 경로, 전환학습의 반복·생략 및 감정/맥락 비판, 다차원 성인학습 논의가 함께 있다. Jarvis를 선택하면서 타 이론의 감정·관계·맥락 가능성을 부정하지 않는다. 현재 수정안에 추가 필수 오류는 확인되지 않았다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-029",
+      "sourceSha256": "2cc1658b427076199817338de0d305e27f40105bdd0aaa2245bfc3874b0015dd",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 해당 문헌 전문 독해 전문 문자층 독해 PDF1–24 / 인쇄91–114 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          24
+        ]
+      ],
+      "totalPages": 24,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "중고등학생360명의 활동후설문으로 Kolb모형의 경로를 분석한다. 노인발레에 대한 효과검증 원전은 아니다. / PDF3–4/93–94 경험학습에 관한 이론요약은 현재sentence078의 개념설명을 지지한다. 단, 저자가 인용하는 Dewey/Jarvis 원저를 직접 확인한 것으로 쓰지 않는다. / 구체적경험→능동적실험→반성→개념화의 모형이 상대적으로 적합했다고 제시하지만 관찰 설계의 경로분석을 모든 학습의 필연적 시간순서로 확대하지 않는다. / 성과보다 과정질문이 필요하다는 일반적 논증틀은 분야에서 널리 쓰이며 그 구조만으로 원고의 과도차용으로 판정하지 않는다.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-030",
+      "sourceSha256": "cc2e61d87115be1e70fd7462975380e818bb6b4ad6131fc13c9b950306d21cbf",
+      "scopeKind": "chapter",
+      "scopeLabel": "P487에서 루트 PDF1–200쪽·분담 담당201–548쪽을 합쳐 2024 평생교육백서 548쪽 전권 공동 독해. 인용장뿐 아니라 부록·판권까지 확인.",
+      "readRanges": [
+        [
+          1,
+          548
+        ]
+      ],
+      "totalPages": 548,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "인용장 PDF432–441/인쇄390–399과 편저 전체를 읽었다. PDF432/390 정의는 기존 인용과 부합한다. 백서 내 연령·지역·프로그램 통계의 전사 불일치는 원조사에 대조해 사용한다. 문화예술교육의 미래·진로·의미 논의도 인정한다.",
+          "action": "retain"
+        }
+      ],
+      "citedUnitRanges": [
+        [
+          432,
+          441
+        ]
+      ]
+    },
+    {
+      "referenceId": "ref-031",
+      "sourceSha256": "d75a8398c106b2e8cf069e55007381a5226179c82d64f8fad5a64d2b4370c1b6",
+      "scopeKind": "book",
+      "scopeLabel": "P487에서 확보 원문 PDF1–106쪽 전체를 순차 독해. 책 전권.",
+      "readRanges": [
+        [
+          1,
+          106
+        ]
+      ],
+      "totalPages": 106,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "2025년 9월 29일 공표본이며, 여러 기발표 통계와 마이크로데이터를 엮은 보고서다. 기본 대상은 65세 이상이지만 자료별 다른 기준을 쓰며, 특별기획은 2024년 생활시간조사다. 전체평균시간은 비행위자도 포함하고, 행위자비율은 하루 10분 이상 행위한 사람의 비율이며 행위자평균시간과 구별된다. 4–5쪽 그래픽도 이미지에서 전체를 다시 읽었다. / 2024년 65세 이상 하루는 필수 11시간 59분, 의무 4시간 58분, 여가 7시간 3분으로 나뉜다. 미디어 이용 4시간 6분이 여가에서 큰 비중을 차지한다. 수면·식사·건강관리·일·가사·교제·이동의 시간과 참여율을 성별·연령별로 구분한다. 일은 구직활동을 포함하고, 식사 시간에는 행위자 기준 표가 있어 전체평균과 다르다. TV·디지털 영상·인터넷·독서는 서로 다른 세부 행동이다. / ICT 사용시간은 다른 행동과 함께 포착되므로 24시간에 별도로 더하는 시간이 아니다. 취업 여부·가구 형태·도농·성별에 따라 의무와 여가 시간 구성이 다르다. 여가생활 만족 40.2%와 가사분담 만족·고정된 성역할 반대 등은 각각의 질문과 분모를 갖는다. 혼자 사는 집단의 교제시간이 더 길 수 있다는 결과도 제시한다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-032",
+      "sourceSha256": "52e6dc72a42d4046c1621c569ac6ab06f8a23898be4bda5a21854cde995601b5",
+      "scopeKind": "book",
+      "scopeLabel": "P487에서 확보 원문 PDF1–297쪽 전체를 순차 독해. 책 전권.",
+      "readRanges": [
+        [
+          1,
+          297
+        ]
+      ],
+      "totalPages": 297,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "현재 참고문헌은 공저9인을 이미 정확히 기재. 단일 저자 책이나 단일 실증연구로 설명하지 않는다. / 학습의 통합적 의미와 법적 정규과정 제외 정의를 구별. 책의 이론 요약을 원저 독해로 기록하지 않는다. / 현 원고069/071/072/077의 사용맥락과 부합하는 개념적·규범적 설명이다. 치료·인지개선 등의 기대를 통제연구에서 증명된 보편효과로 확대하지 않는다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-033",
+      "sourceSha256": "630821aaf49002b85460b570698d5d2fdd9aff358a88ebaf4fd958dc2458f74d",
+      "scopeKind": "book",
+      "scopeLabel": "P487에서 확보 원문 PDF1–561쪽 전체를 순차 독해. 책 전권.",
+      "readRanges": [
+        [
+          1,
+          561
+        ]
+      ],
+      "totalPages": 561,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "노년교육을 고정된 노인상이나 교육프로그램 목록으로 축소하지 않는다. / 당시의 미래 추계와2026년 실제 현황을 구분한다. 노인 전체를 의존적 집단으로 단정하지 않는다. / 복지/심리학은 치료만 하며 교육만 예방한다는 배타적 사실 명제로 쓰지 않는다. 세대별 교수 비교표는 보편적인 연령 특성의 검증 결과가 아니다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-034",
+      "sourceSha256": "cc2e61d87115be1e70fd7462975380e818bb6b4ad6131fc13c9b950306d21cbf",
+      "scopeKind": "chapter",
+      "scopeLabel": "P487에서 루트 PDF1–200쪽·분담 담당201–548쪽을 합쳐 2024 평생교육백서 548쪽 전권 공동 독해. 인용장뿐 아니라 부록·판권까지 확인.",
+      "readRanges": [
+        [
+          1,
+          548
+        ]
+      ],
+      "totalPages": 548,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "인용장 PDF465–474/인쇄423–432과 편저 전체를 읽었다. PDF466/424의 노인 인구·교육 설명은 기존 인용을 지지한다. 백서의 2024 현황과 현행 법·기관정보를 구별하며, 프로그램별 노인 대상 비중을 노인 인구 참여율로 바꾸지 않는다.",
+          "action": "retain"
+        }
+      ],
+      "citedUnitRanges": [
+        [
+          465,
+          474
+        ]
+      ]
+    },
+    {
+      "referenceId": "ref-035",
+      "sourceSha256": "a044043d37a45153bebee4d51976c9f9e188ef5bf7e4cf84d6e1e761c4e8b1ee",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 해당 문헌 전문 독해 보도자료 전문 문자층 독해 PDF1–3 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          3
+        ]
+      ],
+      "totalPages": 3,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "2024.12.23 주민등록65세이상10,244,550명/전체51,221,286명=20.00%를 직접 확인한다. / 초고령사회라는 분류명·기준은 이 자료에 제시되지 않는다. 자료만으로 사실을 쓰려면 인구비율을 제시하고 분류명은 별도근거를 붙이거나 덜어야 한다.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-036",
+      "sourceSha256": "21a2904c73909bb9dfa268cc76571317e7b01aa531fe11e8d45feca0f619ffa1",
+      "scopeKind": "article",
+      "scopeLabel": "P487에서 확보 원문 PDF1–22쪽 전체를 순차 독해. 해당 논문·자료 전문.",
+      "readRanges": [
+        [
+          1,
+          22
+        ]
+      ],
+      "totalPages": 22,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "원첨부 참고문헌에 등재되었으나 본문 미인용이어서 수정 검토본에서는 제외하고 77항목 검토대장에 보존한다. 실제 사용할 때 인용 위치와 함께 복원한다. 2014년 서울의 상황과 문헌기반 역사 서술을 현재 전국 실태나 검증된 인과로 확장하지 않는다. / 노년학습자 표본이나 모든 성인 발레 참여자를 대표하는 조사로 쓰지 않는다. 기존 선행경험이 있는 참여자도 포함한다. / 운동효과만을 다룬 연구라고 축소하지 않는다. 인식과 학습·예술 이해를 이미 다룬 기여를 인정한다. 자기보고 변화는 객관적 효과 측정과 다르다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-037",
+      "sourceSha256": "d81f7a21221207bd3e993ef39b5a7aa8901ae94375908c959cf0e9e390aba356",
+      "scopeKind": "book",
+      "scopeLabel": "P487에서 확보 원문 PDF1–178쪽 전체를 순차 독해. 책 전권.",
+      "readRanges": [
+        [
+          1,
+          178
+        ]
+      ],
+      "totalPages": 178,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "PDF56/인쇄49에서 현영섭은 앞선 학자들의 논의를 종합하여 경험→문제·상황 파악→해결 시도→평가·수정→지식·행동·세계관 형성을 직접 정리한다. 현재 원고 PDF21의 요약은 이 범위와 부합한다. 이 정의를 발레교육 효과를 실증한 결과로 확대하지 않는 조건에서 유지 가능하다. / 여성 보험기업 직원420명 및 보충면담2명의 비실험 자기보고 연구이며 맥락변수 생략과 일부 모형적합도·계수·통계표 불일치가 있다. 현재 노인 발레 연구의 검증된 효과·면담 도구의 타당화 근거로 사용하지 않는다. 현행 정의 인용에 새 필수 수정은 확인되지 않았다. / 기대동기·자기효능감·미래성과·경력개발 및 상황지원이 이론 검토와 도구·제언에 이미 포함된다. 가능한 자기의 추가 질문을 설명할 때 기존 경험학습이 미래·관계·감정을 다루지 못한다고 단정하지 않는다.",
+          "action": "retain"
+        },
+        {
+          "pdfPages": [
+            55,
+            56
+          ],
+          "issue": "sentence-087 경험학습 정의의 근거 범위",
+          "rationale": "PDF56/인쇄49에서 현영섭은 앞선 학자들의 논의를 종합하여 경험→문제·상황 파악→해결 시도→평가·수정→지식·행동·세계관 형성을 직접 정리한다. 현재 원고 PDF21의 요약은 이 범위와 부합한다. 이 정의를 발레교육 효과를 실증한 결과로 확대하지 않는 조건에서 유지 가능하다.",
+          "action": "retain"
+        },
+        {
+          "pdfPages": [
+            89,
+            91,
+            101,
+            102,
+            107,
+            108,
+            113,
+            114,
+            174,
+            175,
+            176,
+            177
+          ],
+          "issue": "기업교육 실증결과의 전용 한계",
+          "rationale": "여성 보험기업 직원420명 및 보충면담2명의 비실험 자기보고 연구이며 맥락변수 생략과 일부 모형적합도·계수·통계표 불일치가 있다. 현재 노인 발레 연구의 검증된 효과·면담 도구의 타당화 근거로 사용하지 않는다. 현행 정의 인용에 새 필수 수정은 확인되지 않았다.",
+          "action": "retain"
+        },
+        {
+          "pdfPages": [
+            41,
+            52,
+            65,
+            76,
+            125,
+            141,
+            160,
+            173
+          ],
+          "issue": "기존 경험학습의 미래·맥락 논의 축소 방지",
+          "rationale": "기대동기·자기효능감·미래성과·경력개발 및 상황지원이 이론 검토와 도구·제언에 이미 포함된다. 가능한 자기의 추가 질문을 설명할 때 기존 경험학습이 미래·관계·감정을 다루지 못한다고 단정하지 않는다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-038",
+      "sourceSha256": "378d9460d5271b8dad9f624ce0cf0c2625d0eb65a1b0864c9b8a667141eb26ef",
+      "scopeKind": "book",
+      "scopeLabel": "P487에서 확보 원문 PDF1–67쪽 전체를 순차 독해. 책 전권.",
+      "readRanges": [
+        [
+          1,
+          67
+        ]
+      ],
+      "totalPages": 67,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "PDF25, 26, 27, 28, 43, 45, 46, 48, 49, 50, 52쪽: 초록·방법 일부17명, 다른 표·절차·결론21명, 표4에는 합계12와 빈도8+1이라는 별도 불일치가 존재한다. 연령도65–85와65–75가 혼재한다. 대응t 자유도15와9만으로 모집·탈락 흐름을 확정할 수 없다. 숫자 혼재는 원문지면에서 확인했으며 원본은 고치지 않는다. / PDF36, 43, 44, 45쪽: 2인·3인·다인 동작과 개방형 만족도 응답에서 협동·유대감·일상 불편감 해소를 다룬다. 이는 별도 질적 분석의 충실도나 인과검증과 같지는 않지만 신체지표만 연구했다는 요약은 부정확하다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-039",
+      "sourceSha256": "",
+      "scopeKind": "chapter",
+      "scopeLabel": "전문 미확보. 공식 출판사 Summary와 공개 Introduction을 읽었으나 인쇄1–34쪽 인용장 전문은 확보하지 못함.",
+      "readRanges": [],
+      "totalPages": 0,
+      "wholeBookRead": false,
+      "citedUnitComplete": false,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "미확보 범위",
+          "rationale": "선택·최적화·보상이라는 적응 과정을 개인과 사회의 조건에 따라 설명한다. / 개인간 차이와 개인내 가소성을 논의하는 공개 도입부를 확인했다. 이것만으로 상세 전략·효과·전체장의 결론을 검증했다고 주장하지 않는다.",
+          "action": "verify"
+        }
+      ],
+      "sourceUrl": "https://www.cambridge.org/core/books/abs/successful-aging/psychological-perspectives-on-successful-aging-the-model-of-selective-optimization-with-compensation/EAE9389C90617AE014260735DFFCEF82"
+    },
+    {
+      "referenceId": "ref-040",
+      "sourceSha256": "6365fa161023250e6f1021419e8d9eb1e6acf080fd535c6dbcbd15d0cf0eb639",
+      "scopeKind": "article",
+      "scopeLabel": "P487에서 확보 원문 PDF1–17쪽 전체를 순차 독해. 해당 논문·자료 전문.",
+      "readRanges": [
+        [
+          1,
+          17
+        ]
+      ],
+      "totalPages": 17,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "sentence-051의 남은 시간 지각에 따라 목표 우선순위가 달라진다는 문장은 원전 전반과 일치한다. 필수 교체 없음. 향후 확장에서도 노인은 지식학습을 하지 않는다거나 관계만 선호한다고 고정 일반화하지 않는다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-041",
+      "sourceSha256": "882b0ea155da68f4b949a4de0eadd58a9c36354c15c4630f44a14481a664543a",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 확보 논문의 초록·서론·방법·표와 그림의 문자·결과·논의·한계·참고문헌을 P486 당시 직접 읽음. 표 지면 렌더 확인은 별도 기록한다. 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          6
+        ]
+      ],
+      "totalPages": 6,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "원첨부 참고문헌에 등재되었으나 본문 미인용이어서 수정 검토본에서는 제외하고 77항목 검토대장에 보존한다. 실제 사용할 때 인용 위치와 함께 복원한다. 영국 East Kent 5개 지역의 60세 이상 자원자 258명을 개인 단위로 노래집단 131명·통상활동 127명에 무작위 배정한 예비 실용적 시험이다. 14주 90분 프로그램이며 군집 무작위배정 연구로 바꾸어 말하면 안 된다. / 6개월에 정신건강 관련 SF12의 집단 차이는 2.35점, 95% CI 0.06–4.76이었다. 불안·우울의 유의한 차이는 3개월에는 나타났으나 6개월에는 확인되지 않았다. 신체건강 결과 역시 유의하지 않았다. / 참여자 글과 면담의 긍정적인 질적 피드백도 논의에 있다. 이 양적 연구를 경험이나 의미를 전혀 다루지 않은 연구라고 단정하면 범위를 축소한다. / 원저는 변화 과정을 상세히 탐구하지 않았고, 다른 집단활동과 노래의 상대적 효과·지역 및 인구학적 일반화·자기선택 표본·짧은 기간 등의 한계를 명시한다. 비용효과성은 지불의사금액에 따른 확률로 설명하며 확정적 절감으로 말하지 않는다.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-042",
+      "sourceSha256": "ef8f394f78c4dc0944115a7a50f21073a18b06b2f48e16b9843e5e3450d6c17a",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 기관 공개 저자원고 33쪽의 본문·방법·결과·논의·한계·참고문헌·부록표를 P486 당시 직접 읽음. 출판본 32–49쪽과 이 원고의 페이지 번호를 혼동하지 않는다. 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          33
+        ]
+      ],
+      "totalPages": 33,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "398명 설문과 29명 개별면담·15회 집단면담을 포함한 프로젝트의 질적 분석이다. 표본 연령은 43–92세로 전원을 65세 이상 노인으로 쓰지 않는다. / 현재 및 과거의 음악적 자기, 다시 찾은 가능성, 목적·자율성·사회적 인정의 관련을 해석한다. 부정적 과거 학습경험과 형식적인 공연 참여에 대한 좌절도 포함한다. / PDF20에서 가능한 자기를 직접 겨냥한 면담이 아니었으므로 심층 분석에 한계가 있다고 명시한다. 이것이 미래 자기를 다루지 않았다는 뜻은 아니다. / 국내 연구의 부재는 이 해외 논문으로 검증할 수 없다. 국내 검색 범위·기간·선정 기준이 별도로 필요하다.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-043",
+      "sourceSha256": "5b60383040e1995dcbb1d1e33ee50d51de87cbb9464ede170c67cbc02550cc77",
+      "scopeKind": "book",
+      "scopeLabel": "P487에서 확보 원문 PDF1–625쪽 전체를 순차 독해. 책 전권.",
+      "readRanges": [
+        [
+          1,
+          625
+        ]
+      ],
+      "totalPages": 625,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "연구문제·접근·자료·분석의 정합성을 확인했다. 인쇄229쪽의5–7개 질문은 열린 핵심질문 권고이며 14문항을 기계적으로 삭제할 규칙이 아니다. 인쇄300쪽 사례 간 분석은 복수사례 설명이므로 한 발레단 안의 개인 비교와 구별한다. 참여자 검토는 분석·해석 검토를 포함한다.",
+          "action": "retain"
+        },
+        {
+          "pdfPages": [
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            220,
+            221,
+            222,
+            381,
+            382,
+            383,
+            384,
+            385
+          ],
+          "issue": "사례의 경계와 복수 자료를 활용한다는 원고 두 인용은 원전 범위와 일치한다.",
+          "rationale": "원고 sentence-024/124는 단일 교육현장의 범위와 실제 맥락, 면담·관찰·문서를 사용한 이해를 말한다. 원전은 사례의 선택근거·경계·맥락·다양한 자료와 근거 기반 해석을 강조한다. P486 블록19/128에 이미 반영되어 있다.",
+          "action": "retain"
+        },
+        {
+          "pdfPages": [
+            228,
+            229,
+            230,
+            231,
+            238,
+            239
+          ],
+          "issue": "14개 기본문항을 고정 순서의 의무 질문으로 오해하지 않도록 운영과 예비 점검을 명료화할 수 있다.",
+          "rationale": "P486 블록142/143에는 순서·보충질문 조정, 단회 시간, 휴식·중단, 구체적 경험 확인이 이미 있다. 새 보강은 기본문항을 주제별 안내로 운영하고 중복 답변·질문 이해·피로·시간을 예비 점검하는 것이다. 인쇄229의 대략5–7개 개방질문 권고를 초과 금지 규칙으로 쓰지 않는다.",
+          "action": "retain"
+        },
+        {
+          "pdfPages": [
+            359,
+            360,
+            361
+          ],
+          "issue": "면담 말미 요지 확인과 분석 이후 참여자 확인은 구분해야 한다.",
+          "rationale": "P486 블록143은 면담시간에 요지 확인을 포함한다고만 하며 분석 이후 참여자 확인 완료를 주장하지 않는다. 본서는 예비 기술·주제·해석을 참여자와 확인하며 누락과 다른 해석을 구하는 절차를 설명한다. 따라서 원고를 오인용으로 판정할 사안이 아니라 향후 분석·타당성 절에서 추가 설계를 검토할 사안이다.",
+          "action": "retain"
+        },
+        {
+          "pdfPages": [
+            265,
+            266,
+            267,
+            268,
+            269,
+            357,
+            358
+          ],
+          "issue": "가능한 자기와Jarvis를 분석의 사전 관점으로 쓰더라도 새 코드와 반대 설명을 남겨야 한다.",
+          "rationale": "P486 블록146은 미래를 떠올리기 어렵거나 경험과 관련 없다는 답도 듣도록 이미 열어 둔다. 본서는 사전 코드를 사용할 수 있으나 새 코드를 위해 열려 있어야 하며 반대 증거로 설명을 다듬도록 한다. 분석절 확장 시 이 운영을 연결하면 좋다. 불일치 사례 제거를 지침으로 쓰지 않는다.",
+          "action": "retain"
+        },
+        {
+          "pdfPages": [
+            301,
+            302,
+            422
+          ],
+          "issue": "다중사례 분석 모형과 단일 사례의 개인별 설명 비교를 구별한다.",
+          "rationale": "인쇄300의 코딩 예시는 집합/다중사례 구조다. 현재 원고는 한 발레단과 개인별 하위 분석단위이므로 이를 그대로 사례간 분석으로 부르지 않는다. 또한 다른 접근과 방법 조합을 원전이 금지한다고 주장하지 않는다. P486의 단일 교육현장·개인별 설명 비교는 유지 가능하다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-044",
+      "sourceSha256": "30f7ce449f1856387fc0c16c4d2afe5d1a0a87deef3a4b5bce92bbf6c430ea25",
+      "scopeKind": "book",
+      "scopeLabel": "P487에서 확보 원문 PDF1–40쪽 전체를 순차 독해. 책 전권.",
+      "readRanges": [
+        [
+          1,
+          40
+        ]
+      ],
+      "totalPages": 40,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "경험의 연속성과 경험자체/교육의 구별을 설명하는 현재용법은 유지가능. 추후연구결과에서 활동지속·즐거움만으로 교육적성장이라고 판정하지 않도록 조건과 반례를 살핀다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-045",
+      "sourceSha256": "a4add14758f7c4e32e68d4dcf7a7cd9e5c6d27de8c2f669ad5b4a9e44efdf34f",
+      "scopeKind": "book",
+      "scopeLabel": "전권 미확보. 기존22쪽 강독모음의 Dewey 해당 부분 PDF7–8/인쇄35–36을 확인했고, P487에서 공식 공개 제1장19쪽을 추가로 전부 읽음. 강독모음 전체22쪽을 Dewey 원문으로 계산하지 않음.",
+      "readRanges": [
+        [
+          7,
+          8
+        ]
+      ],
+      "totalPages": 22,
+      "wholeBookRead": false,
+      "citedUnitComplete": false,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "미확보 범위",
+          "rationale": "원첨부 참고문헌에 등재되었으나 본문 미인용이어서 수정 검토본에서는 제외하고 77항목 검토대장에 보존한다. 실제 사용할 때 인용 위치와 함께 복원한다. 예술 경험의 통합성·일상과의 연결 설명을 보강한다. 미래 시간성은 가능한 자기 이론만의 고유 요소라는 대조를 만들지 않는다. 기존 수정안의 필수 새 오류는 없다.",
+          "action": "verify"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-046",
+      "sourceSha256": "639203115d7907a661e866a65485b358418f84f3a87ab651924e72e8cfb6940e",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 본문 PDF1–11, 참고문헌·저자 소개·편집진 면 PDF11–13을 P486 당시 직접 읽었다. 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          13
+        ]
+      ],
+      "totalPages": 13,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "표준화·예측·통제 중심의 학교교육에 대한 비판에서 출발하여 예술의 사고방식이 교육 전체에 주는 여섯 시사점을 제안한다. 문화예술교육 참여 효과를 실험한 연구가 아니다. / 규칙만으로 결정할 수 없는 질적 판단, 작업 중 목표를 바꾸는 유연성, 형식과 내용의 불가분성, 명제화할 수 없는 앎, 매체의 가능성과 제약, 심미적 만족을 다룬다. / 사고와 감정을 분리하지 않으며 심미적 경험을 순수예술에만 한정하지 않는다. 발레만의 고유 효과나 다른 장르보다의 우월성을 이 글로 주장할 수 없다.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-047",
+      "sourceSha256": "e7b0ab76850b04d9dd7bb838f6f91981b3e402d2aa4bf3d7953ab506ac10cfee",
+      "scopeKind": "article",
+      "scopeLabel": "P487에서 확보 원문 PDF1–19쪽 전체를 순차 독해. 해당 논문·자료 전문.",
+      "readRanges": [
+        [
+          1,
+          19
+        ]
+      ],
+      "totalPages": 19,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "원첨부 참고문헌에 등재되었으나 본문 미인용이어서 수정 검토본에서는 제외하고 77항목 검토대장에 보존한다. 실제 사용할 때 인용 위치와 함께 복원한다. 현행본문직접인용없음. 검토대장 보존. 미래를묻는것자체의신규성이나미래말하기의어려움부재를주장하지않는다. 선택적으로면담운영에서응답을문맥에따라해석하고미정/무응답을문제로단정하지않는근거로활용가능.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-048",
+      "sourceSha256": "47b1242c65817d5312c80ceb7dea1c44fb26ed10e1a2887aa50863b7b781713d",
+      "scopeKind": "article",
+      "scopeLabel": "P487에서 확보 원문 PDF1–16쪽 전체를 순차 독해. 해당 논문·자료 전문.",
+      "readRanges": [
+        [
+          1,
+          16
+        ]
+      ],
+      "totalPages": 16,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "원첨부 참고문헌에 등재되었으나 본문 미인용이어서 수정 검토본에서는 제외하고 77항목 검토대장에 보존한다. 실제 사용할 때 인용 위치와 함께 복원한다. 이선행연구를현재자아/건강효과만다룬것으로축소하면안된다. 이미P486의현재/미래이분법수정방향과일치. 새필수교체없음.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-049",
+      "sourceSha256": "466425b229cde0a1e6cba567544e82d30d227d1fe0dbe68d18f759e1245b2709",
+      "scopeKind": "chapter",
+      "scopeLabel": "P487에서 인용한 Frazier·Hooker(2006) 장 PDF1–20쪽(본문 인쇄41–59와 공백) 전체 독해. 편저 Possible selves 전체를 읽은 것은 아님.",
+      "readRanges": [
+        [
+          1,
+          20
+        ]
+      ],
+      "totalPages": 20,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "현재 원고의 가능한 자기·이유·맥락 설명과 일치한다. 중요성 질문·희망과 우려·활동계획의 연결을 본 연구가 처음 제시한 것으로 쓰지 않고 P486의 선행기여 인정과 중립질문을 유지한다. 새 필수 교체 없음.",
+          "action": "retain"
+        }
+      ],
+      "citedUnitRanges": [
+        [
+          1,
+          20
+        ]
+      ]
+    },
+    {
+      "referenceId": "ref-050",
+      "sourceSha256": "d99b8bd429f2a070b8896749c8ccd283bc6aac44fdfa3755bcff2c06d3e24dc3",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 출판사 표지와 논문 인쇄 237–243의 초록·이론·목적·방법·결과·표의 문자·논의·참고문헌을 P486 당시 직접 읽었다. 첫 출력 중 잘린 PDF6–8은 별도 재출력하여 읽었다. 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          8
+        ]
+      ],
+      "totalPages": 8,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "1988년 노인센터를 통해 모집한 114명 가운데 5년 뒤 참여자 40명을 재면담한 연구이다. 원문의 표 1·2에는 N=39가 표시되어 있어 전체 추적 표본과 표별 분석 표본을 섞지 않아야 한다. / 희망·두려움의 중요한 영역과 그 변화·안정성, 균형을 분석했다. 희망하는 건강 및 신체 관련 자기의 등장과 일부 영역의 안정성이 함께 나타나며 한 방향의 긍정적 변화만을 보고한 연구가 아니다. / PDF4/인쇄239의 면담 방법에는 각 자기 모습이 중요한 이유와 실현·회피를 위한 일상 활동 질문이 이미 있다. 저자는 그 보충 질문이 질적 정보를 얻기 위한 것이었으나 그 자료는 이 연구에서 분석하지 않았다고 명시한다. / 교육 프로그램 참여경험을 중심으로 분석한 논문은 아니지만, 이유나 일상 행동을 묻지 않은 연구로 요약하면 부정확하다. 탈락 및 자기선택, 전원 백인인 추적 표본의 맥락을 일반화에서 고려해야 한다.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-051",
+      "sourceSha256": "444078086cc19ea0f4f9fdad03116b5f3c7970d0b784aa07cd06b107f73c0578",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 본문·방법·결과표·논의·한계·참고문헌8쪽을 P486 당시 직접 읽음. 첫 출력에서잘린PDF3은 재출력하고4–5·8을 이어 읽음. 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          8
+        ]
+      ],
+      "totalPages": 8,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "원첨부 참고문헌에 등재되었으나 본문 미인용이어서 수정 검토본에서는 제외하고 77항목 검토대장에 보존한다. 실제 사용할 때 인용 위치와 함께 복원한다. 베를린노화연구 하위표본83명(72–97세,평균81.1)에게6일간하루5회 일상활동을 기록하게 했다. 가능자기면담과 활동기록 사이 평균1개월 간격이 있다. / 건강·사회관계의 희망은 해당활동 확률과 관련되었으나 인지영역·두려움은 같은양상이 아니었다. 개인간 사회두려움 비교와 개인내다층분석을 구분해야 한다. / 희망관련활동과 긍정정서·10년생존의 연관을 인과효과로 단정하지 않는다. 연구자도 인과추론 불가를 명시한다. / 활동영역은 사후 외부코딩으로 분류했으므로 학습자/참여자 스스로 같은 의미를 부여했는지 모른다고 밝힌다. 이는 앞으로의 질적 질문을 구성할 실제 한계로 활용할 수 있다. 현재 본문인용없음.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-052",
+      "sourceSha256": "cefb0231cbfe367dadb8f14892321b53dae810330aa347fd28fd526ef9dadb33",
+      "scopeKind": "book",
+      "scopeLabel": "P487에서 확보 원문 PDF1–235쪽 전체를 순차 독해. 책 전권.",
+      "readRanges": [
+        [
+          1,
+          235
+        ]
+      ],
+      "totalPages": 235,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "전체인간·생애사·사회상황·생각감정행위의 경험변형을 사용하는 현재 이론틀은 유지 가능하다. 세 과정을 고정단계나 독립적 파이프라인으로 쓰지 않는다. 학습을 항상긍정적변화/교육프로그램효과로 등치하지 않는다. 단회회상자료의 재구성·설명미정 가능성과 특정이론으로 포착못하는 경험을 분석에 남겨야 한다. 현재P486수정안에서 이에 어긋나는 새 필수오류는 확인하지 못했다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-053",
+      "sourceSha256": "797a588d4bc8c62b57145f795b9764ac87edd10e81675459ce1484871731a440",
+      "scopeKind": "book",
+      "scopeLabel": "전권 미확보. P486의 제2장 재조판9쪽과 P487의 공개7파일38쪽을 실제 읽음. 중첩 범위가 있어47파일쪽을 전권의 서로 다른47쪽으로 계산하지 않음. 원책의 쪽수와 발췌파일 쪽수를 구별함.",
+      "readRanges": [
+        [
+          1,
+          9
+        ]
+      ],
+      "totalPages": 9,
+      "wholeBookRead": false,
+      "citedUnitComplete": false,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "미확보 범위",
+          "rationale": "Jarvis를 인지 중심이나 현재 경험만의 이론으로 축소하지 않는다. 면담의 말은 원경험 그 자체와 같지 않으며 회상·감정·암묵지의 한계를 유지한다. 현재 수정안에 새 필수수정은 발견하지 않았다.",
+          "action": "verify"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-054",
+      "sourceSha256": "",
+      "scopeKind": "article",
+      "scopeLabel": "논문 전문 미확보. PubMed 공식 초록·서지 확인. 기관 저장소403/429, PMC 접근확인 화면 등으로 본문을 읽지 못함.",
+      "readRanges": [],
+      "totalPages": 0,
+      "wholeBookRead": false,
+      "citedUnitComplete": false,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "미확보 범위",
+          "rationale": "12개 노인센터의 군집무작위설계,390명,6개월 비교를 초록에서 확인했다. / 외로움·삶에 대한 관심의 개선과 인지·신체·의료비의 유의한 집단차이 부재를 구분한다. / 초록은 작동 과정과 장기 영향의 후속 검토를 제안한다. 학습자가 겪은 경험을 전혀 알려주지 않는다는 포괄 부정은 초록만으로 입증할 수 없다.",
+          "action": "verify"
+        }
+      ],
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30412233/"
+    },
+    {
+      "referenceId": "ref-055",
+      "sourceSha256": "f700c3358ee7da08691e2864d3d601305a9934b157e31a63f6d99c0a53d14c36",
+      "scopeKind": "book",
+      "scopeLabel": "전권 미확보. P487에서 확보한 제2장 발췌PDF1–21쪽 전체를 이미지로 읽음. 인쇄20–38쪽에 대응하나 인쇄26쪽 중복과20쪽 오른쪽 잘림이 있음. 장 발췌 전체를 읽은 것과 책 전권 완독을 구별함.",
+      "readRanges": [
+        [
+          1,
+          21
+        ]
+      ],
+      "totalPages": 21,
+      "wholeBookRead": false,
+      "citedUnitComplete": false,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "미확보 범위",
+          "rationale": "Kolb가 감정·사회환경·평생학습을 다루지 못한다는 단순대비는 부정확하다. Jarvis 선택은 본 연구의 전체인간·생애사·사회상황 설명 적합성으로 쓰며 다른 이론의 관련성을 지우지 않는다. 현행 P486 수정안과 일치.",
+          "action": "verify"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-056",
+      "sourceSha256": "0d111e99d0a9c92ffe06b66b92aa5128a3672424296cb5dc2d31a2090de13f54",
+      "scopeKind": "chapter",
+      "scopeLabel": "P487 공동 독해로 인용장 PDF164–196쪽뿐 아니라 수록 편저 PDF1–273쪽 전권을 읽음. 같은 편저의 다른 장을 Liu·Creech 장의 결과로 혼동하지 않음.",
+      "readRanges": [
+        [
+          1,
+          273
+        ]
+      ],
+      "totalPages": 273,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "기존수정안의 Liu 미래자기·우려·신체/관계기여 인정, 두려움감소 인과단정 회피, 연구대상 65현재/60입문과 공연경험 비필수·관련없음/중단/의미차이의 열린해석을 유지한다. 편저전체에서새필수수정은발견하지않았다. 앞으로 확장인용할 때는 해당장저자를새로정확하게표시하고 한계를함께쓴다.",
+          "action": "retain"
+        }
+      ],
+      "citedUnitRanges": [
+        [
+          164,
+          196
+        ]
+      ]
+    },
+    {
+      "referenceId": "ref-057",
+      "sourceSha256": "275e37107083ac3bf0190d93fce6a427973626a246a18c31d40184028752d065",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 본문·모형·논의·한계·참고문헌8쪽 전체를 P486 당시 직접 읽음. 초기 출력에서 잘린4–7쪽은 별도로 재출력하여 읽음. 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          8
+        ]
+      ],
+      "totalPages": 8,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "정보력은 목적·표본구체성·이론활용·대화질·분석전략의 상호 관련을 보며 표본의 적절성을 판단하는 틀이다. / 가상 사례를 통한 방법론 제안이며, 특정 숫자의 표본 충분성을 경험적으로 입증하는 논문이 아니다. 제시된6–10명·10명은 사례 안의 예이지 일반 규칙이 아니다. / 계획의 추정 표본 수와 실제 자료 수집 중 반복 평가를 구분하며 정해진 체크리스트로 N을 계산하는 모델이 아니라고 명시한다.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-058",
+      "sourceSha256": "bbe309b0ee2e4f6d2fcf1ce343bf194c57d55e1165ca6eb2827c3bf2548a7542",
+      "scopeKind": "article",
+      "scopeLabel": "P487에서 확보 원문 PDF1–16쪽 전체를 순차 독해. 해당 논문·자료 전문.",
+      "readRanges": [
+        [
+          1,
+          16
+        ]
+      ],
+      "totalPages": 16,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "P486의 양방향·비인과적 관련 표현, 계획과 미래자기의 비대립, 선행기여 인정이 적절하다. 단회면담으로 미래자기가 현재경험을 먼저 결정했다는 결론을 내리지 않는다. 새 필수 교체 없음.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-059",
+      "sourceSha256": "87e64fe32e7b011ced530bf2ec6fd00cca0fb9ec4aa60e460126d83e471f63e4",
+      "scopeKind": "chapter",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 인쇄 5–12의 장 전문과 참고문헌을 P486 당시 직접 읽었다. 첫 합본 출력에서 누락된 PDF1–2는 별도 출력하여 읽었다. 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          8
+        ]
+      ],
+      "totalPages": 8,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "경험을 이해하는 가정의 구조인 준거틀은 사고·의지·감정의 차원을 가지며, 습관과 특정 관점으로 구성된다. 특정 관점의 정교화·새 관점 형성·관점 전환·마음의 습관 전환을 구별한다. / 비판적 성찰, 타당성에 관한 담화, 통찰에 따른 행동과 재평가가 중요하다. 모든 새로운 경험이 자동으로 준거틀 전환을 일으킨다는 이론이 아니다. / 교육자는 학습자의 단기 목표와 장기 목표를 모두 인정해야 한다. 이론은 감정·타인과의 소통·행동을 포함하므로 Jarvis와 구분하기 위해 이를 인지만 다루는 이론으로 축소하면 안 된다.",
+          "action": "retain"
+        }
+      ],
+      "citedUnitRanges": [
+        [
+          1,
+          8
+        ]
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-060",
+      "sourceSha256": "",
+      "scopeKind": "web",
+      "scopeLabel": "공식 지표 페이지의 Definition 전체 및 단위·연결 데이터 안내 독해. 데이터베이스 전체나 OECD 단행본 전권 독해라는 뜻은 아님.",
+      "readRanges": [],
+      "totalPages": 0,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "65세 이상 인구가 전체인구에서 차지하는 비율을 백분율로 정의한다. 통계상 연령 경계이며 전 세계 모든 노인의 보편적 법률상 정의 또는 65세 이상 개인의 실제 부양 의존을 뜻하지 않는다. 이 페이지의 부양비 설명은 생산연령 15–64세로, 별도 old-age-dependency-ratio 페이지의 20–64세와 혼용하지 않는다.",
+          "action": "retain"
+        }
+      ],
+      "sourceUrl": "https://www.oecd.org/en/data/indicators/elderly-population.html"
+    },
+    {
+      "referenceId": "ref-061",
+      "sourceSha256": "e078cc36bad0f2a121d79d76ef87107f2dd1d72a73c73a989ca539a5830201a0",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 팀 분담으로 PDF1–14 전문 직접 독해. 루트가 직접 읽은 범위와 이번 담당자가 직접 읽은 범위의 합집합이 논문 전체이다. 한 사람이 전문을 읽었다는 뜻은 아니다. 참고문헌도 범위에 포함하며, 자동 문자추출만으로 독해를 인정하지 않았다. 추가 담당 독해쪽: 6,7,8,9,10,11,12,13,14. 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          14
+        ]
+      ],
+      "totalPages": 14,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "희망·기대·두려움 질문과 expected/feared 균형 정의 확인. 청소년 연구의 관찰 관계를 노인 발레의 인과 법칙으로 옮기지 않는다. 조치: 유지; 희망·기대·두려움의 내용과 빈도는 다르고 집단별 차이도 존재한다. 두려운 범죄 자기 자체가 낮은 비행을 의미하지 않으며 같은 영역 내 기대와 두려움의 균형을 따로 분석했다. / 자기보고 비행 후속자료는 두 하위집단에만 있다. 저자는 상관자료로서 가능한 자기의 차이가 비행의 원인이라고 해석할 수 없다고 명시한다. / 부정적 자기의 동기상 유용성은 특정한 긍정적 예상 자기와 짝지어질 때라는 조건으로 논의한다. 이를 노인 발레의 보편적 동기 법칙으로 확장하지 않는다.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-062",
+      "sourceSha256": "bef551d9c76152b5604c64413298fec89817a83afd35fdcba837746ce92efa51",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 팀 분담으로 PDF1–16 전문 직접 독해. 루트가 직접 읽은 범위와 이번 담당자가 직접 읽은 범위의 합집합이 논문 전체이다. 한 사람이 전문을 읽었다는 뜻은 아니다. 참고문헌도 범위에 포함하며, 자동 문자추출만으로 독해를 인정하지 않았다. 추가 담당 독해쪽: 5,6,7,8,9,10,11,15,16. 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          16
+        ]
+      ],
+      "totalPages": 16,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "원첨부 참고문헌에 등재되었으나 본문 미인용이어서 수정 검토본에서는 제외하고 77항목 검토대장에 보존한다. 실제 사용할 때 인용 위치와 함께 복원한다. 13명 평균71세 여성 무용집단, 사회관계·의사소통·해방적 열망을 해석. 현재 원고 본문 인용이 없으므로 사용 위치를 정하거나 참고문헌에서 제외할 것. 이름만 남겨 선행연구를 읽은 흔적으로 사용하지 않는다. 조치: 미인용 항목 정리; 참여자는 경연보다 함께 즐기고 타인을 돕는 축제·시설 공연을 선호했다. 경연의 스트레스, 신체적 난도, 집단 책임, 비용과 거리를 활동 선택의 이유로 설명한다. / 몸의 제약에 맞춘 동작 조정, 가족 돌봄 기대와 갈등, 자기 믿음과 역할 재구성, 동료 지지를 이미 분석했다. 나이 든 여성 전체의 본질적 성격으로 일반화하지 않는다. / 새 활동과 자기 실현, 자신과 타인의 해방을 위한 향후 행동을 논의한다. 현재의 즐거움만 다룬 연구로 축소할 수 없지만 가능한 자기의 세 유형을 직접 분석한 연구와 동일시하지 않는다.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-063",
+      "sourceSha256": "37777b684fa72857968fe11e2eed54fc1aac96bc8bdd2ea8f8ded0e9b5ff453f",
+      "scopeKind": "chapter",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. PDF1–11 / 인쇄5–15 전 본문 직접 독해; PDF12 공백 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          12
+        ]
+      ],
+      "totalPages": 12,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "가능한 자기의 해석 기능과 성인 복귀학습자의 교육적 도움 관계. 단순 이론 해설로만 소개하지 말고 선행 교육연구 기여를 인정한다. 조치: 017 수정,023·101·116 유지",
+          "action": "retain"
+        }
+      ],
+      "citedUnitRanges": [
+        [
+          1,
+          12
+        ]
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-064",
+      "sourceSha256": "8d19ccaddee1426b0f0cf8053583b1cf78520817fef63ceefc9bc37d37b094dc",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 팀 분담으로 PDF1–26 전문 직접 독해. 루트가 앞부분을 직접 읽고 이번 담당이 남은 모든 쪽을 직접 읽은 범위의 합집합이다. 한 사람이 전문을 읽었다는 뜻이 아니다. 자동 문자추출만으로 독해를 인정하지 않았다. 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          26
+        ]
+      ],
+      "totalPages": 26,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "처리속도 감소가 성인 연령차의 주요 설명요인이라는 주장. 모든 인지과정·모든 수행을 단일요인으로 설명한다는 이론은 아니라고 원저가 명시한다. 조치: 048 유지, 일반화 제한; 제한시간과 동시성의 두 기제를 제안한다. 처리속도와 외부 제시시간은 같지 않으며 외부 시간제한이 없어도 관련 정보의 동시 이용이 어려울 수 있다. / 속도 측정값들의 공유 연령관련 분산과 공통요인을 분석하지만 과제특정 요인의 존재를 부정하지 않는다. / 일반적 저하를 보편적·동일한 크기·단일 요인이라는 뜻으로 사용하지 않는다고 명시한다. 관련 지식과 과제 조건에 따라 연령-속도 관계가 달라질 수 있다. / 경로분석·통계통제로 여러 인지 지표의 연령 차이에 대한 처리속도의 매개 가능성을 논의한다. 대체 구조모형과 분석 전제도 인정한다. / 속도와 더 기초적인 처리효율의 인과적 선후 및 신경생리 기제는 미해결이다. 결론은 적어도 일부 인지 연령차이의 설명으로 검토할 개연성이 있다는 범위이다. / 참고문헌과 말미를 직접 읽었으며 추가 인용 주장은 만들지 않았다.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-065",
+      "sourceSha256": "e8b7bee7e85156be405f19f31e3a103543105de3a2eaf012f372e3394c45d758",
+      "scopeKind": "article",
+      "scopeLabel": "P487에서 확보 원문 PDF1–18쪽 전체를 순차 독해. 해당 논문·자료 전문.",
+      "readRanges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "totalPages": 18,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "P486 B040의 전환-개인-환경 설명과 노년기를 일률적 전환으로 보지 않는 수정은 원전 전체와 부합하여 유지한다. 수정지시서에는 잠정 모형의 성격과 당사자 지각을 추가한다. 본 연구가 전환 자체를 실증 검증했다고 쓰지 않는다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-066",
+      "sourceSha256": "1174de426171d9912baaef494cf6f42c59e797328b0815f46497d6668006a556",
+      "scopeKind": "book",
+      "scopeLabel": "P487에서 확보 원문 PDF1–321쪽 전체를 순차 독해. 책 전권.",
+      "readRanges": [
+        [
+          1,
+          321
+        ]
+      ],
+      "totalPages": 321,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "전권 독해로 인쇄56/PDF57쪽의 한 번의 긴 면담 또는 두 번 통합 대안을 확인했다. 세 탐색 목적에 충실한 조건부 대안이며 단회60–75분의 충분성을 보증하지 않는다. 자발성·권력관계·민감정보·지속적 윤리와 분석 절차를 후속 방법 절에 구체화한다.",
+          "action": "retain"
+        },
+        {
+          "pdfPages": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "issue": "Author context, not universal method validation",
+          "rationale": "Autobiographical introduction explains his move from experimental educational research to phenomenological interviewing and faculty life histories. It does not establish that all education studies must use this approach.",
+          "action": "retain"
+        },
+        {
+          "pdfPages": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+          ],
+          "issue": "면담의 적합성을 질적 방법의 우월성으로 서술하지 않기",
+          "rationale": "면담은 체화된 경험과 참여자가 구성하는 의미를 이해하는 데 적합하나 목적·질문에 따라 다른 방법도 적합하며 착취·권력·시간비용 문제를 가진다. 연구참여자 호칭은 적극적 재구성과 공정성을 반영한다.",
+          "action": "retain"
+        },
+        {
+          "pdfPages": [
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "issue": "경험·의미를 묻는 것만으로 현상학 설계라고 하지 않기",
+          "rationale": "저자의 접근은 시간성·주관적 이해·체화된 경험·맥락 속 의미의 네 전제와 면담 구조가 연결된다. 타인의 경험을 완전히 재현할 수 없다는 한계도 있다. 사례연구에서 면담 기법을 참고하는 것과 연구설계 전체 채택을 구분한다.",
+          "action": "retain"
+        },
+        {
+          "pdfPages": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "issue": "단회면담의 근거를 더 정확히 보완",
+          "rationale": "기본은 생애사·구체적 현재경험·의미성찰의 세 번 면담이나 인쇄56쪽은 한 번의 긴 면담 또는 두 번으로 통합하는 대안을 명시한다. 각 목적 충실과 문서화된 합리적 절차가 조건이며 단회60–75분의 자료충분성을 보증하지 않는다. 90분은 기본 권고이나 절대 기준이 아니다.",
+          "action": "retain"
+        },
+        {
+          "pdfPages": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68
+          ],
+          "issue": "타당도 절차를 형식적 보증으로 쓰지 않기",
+          "rationale": "면담은 연구자와 참여자의 상호작용으로 구성된다. 맥락·내외적 일관성·시간차 면담의 확인을 논하지만 삼각검증이나 감사 추적의 기계적 나열을 비판한다. 단회설계는 세 번 구조의 시간적 확인 장점을 가졌다고 쓰지 않는다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-067",
+      "sourceSha256": "05323aa19217faea2f3f95f784c3296844acacb87b7b3108af7d4a7023857f55",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. PDF1–9 / 인쇄P492–P500 전 본문·표·논의 직접 독해 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          9
+        ]
+      ],
+      "totalPages": 9,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "4년 두 시점의 종단분석. 개인별 변화와 생활조건을 인정하나 구체적 행동 추적의 제한. 연구의 대상·질문 범위를 정확히 소개. 조치: 015 수정",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-068",
+      "sourceSha256": "fef7ef00e2710358d13216e0c4c7d2048c77d334a573c3f8b7843915eaee79ed",
+      "scopeKind": "book",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 팀 분담으로 PDF1–26 전문 직접 독해. 루트가 앞부분을 직접 읽고 이번 담당이 남은 모든 쪽을 직접 읽은 범위의 합집합이다. 한 사람이 전문을 읽었다는 뜻이 아니다. 자동 문자추출만으로 독해를 인정하지 않았다. 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          26
+        ]
+      ],
+      "totalPages": 26,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "문화적 다양성·학습자 문화 출발점·작품학습/접촉/실천과 교육접근. 효과 검증 실험연구로 취급하지 않는다. 조치: 080 출처 분담 정리; 예술교육의 질을 위해 교사·예술가 교육과 교육·문화 부문의 협력을 강조한다. 활동 제공만으로 효과가 자동 발생한다는 설명이 아니다. / 창의성을 북돋는 기제의 문서화와 국가별 효과 근거가 충분하지 않음을 인정하고 연구·평가를 요청한다. / 국가·사회 맥락에 맞춰 바꾸고 확장할 전반적 지침임을 명시한다. 관계자별 권고와 연구·훈련·지원 조치를 제시한다. / 교사·예술가와 학교·문화기관 협력 사례를 제시한다. 주요 대상이 아동·청소년·교사인 사례들을 노인학습자의 실증 결과로 일반화할 수 없다.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-069",
+      "sourceSha256": "61726446aa8f772a0f4d2607e4a6fed4597ce186bf595cc2b05783607b81b666",
+      "scopeKind": "book",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 담당자가 PDF8–46 문자층을 직접 읽고 PDF8·12 지면을 확인했다. 루트의 기존 PDF1–7·12 문자층 독해와 합쳐 46쪽 전체 문자층을 읽었다. 본문·주·표의 추출 문자·참고문헌 목록·부록을 포함하며 모든 지면의 시각검토나 모든 표의 수치 검산은 아니다. 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          46
+        ]
+      ],
+      "totalPages": 46,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "현재 인용문의 2017년 60세 이상 중심 분석은 유지할 수 있다. PDF8/인쇄4가 직접 뒷받침한다. PDF12/인쇄8의 부양비는 65세 이상과 잔여기대수명 기준을 별도로 쓰므로 UN의 모든 노인 정의가 일률적으로 60세라는 단정은 하지 않는다.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-070",
+      "sourceSha256": "6d32b51fbeac817bf35010eb7120dc0b14ab7cc396cf63edaf762f739f42f47d",
+      "scopeKind": "book",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 담당자가 PDF1–4·6·10–16·18·20–46 문자층을 직접 읽고 PDF11·44 지면을 확인했다. 루트의 기존 PDF5·7–9·17·19 문자층 독해와 합쳐 46쪽 전체 문자층을 읽었다. 본문·주·표의 추출 문자·참고문헌 목록·부록을 포함하며 모든 지면의 시각검토나 모든 표의 수치 검산은 아니다. 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          46
+        ]
+      ],
+      "totalPages": 46,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "현재 인용문의 2019년 65세 이상 기준은 유지할 수 있다. PDF11/인쇄5 각주4가 명시적으로 정의하며 PDF44/인쇄38은 세 종류 부양비를 구별한다. 새로운 필수 수정은 없다.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-071",
+      "sourceSha256": "40ac892019c513122221dbc7213845a1415cd3f454ef6d3b8a067daf4490603e",
+      "scopeKind": "article",
+      "scopeLabel": "이전 P486 전문 독해 기록 승계. 팀 분담으로 PDF1–28 전문 직접 독해. 루트가 직접 읽은 범위와 이번 담당자가 직접 읽은 범위의 합집합이 논문 전체이다. 한 사람이 전문을 읽었다는 뜻은 아니다. 참고문헌도 범위에 포함하며, 자동 문자추출만으로 독해를 인정하지 않았다. 추가 담당 독해쪽: 7,8,9,10,11,12,13,14,15,16,17,18,25,26,27,28. 이번 P487에서는 이전 기록을 승계하며 신규 독해로 계산하지 않음.",
+      "readRanges": [
+        [
+          1,
+          28
+        ]
+      ],
+      "totalPages": 28,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "이전 확인 기록",
+          "rationale": "16개월 현장조사, 참여관찰·토론·면담·활동일지. 기억·몸·미래의 연결을 이미 다루므로 현재 중심 연구로 축소하지 않는다. 조치: 121 유지, 서론의 선행연구 종합 보완; 웰빙 연구의 기여를 부정하지 않으며 의미 형성 과정의 정교한 설명을 제안한다. 과거·현재·미래를 잇는 몸의 의미를 이미 연구 문제로 삼는다. / 16개월 매주 두 집단의 참여관찰, 정기적인 반구조화·비공식 대화, 자원자들의12주 춤 일지를 사용했다. 현재 sentence-121의 기술은 지지된다. / 같은 기억 활동에 괴로움을 느끼며 미래를 생각하고 싶다고 말한 참여자와 과거를 미래로 가져오는 경험으로 받아들인 참여자가 함께 나온다. 같은 활동에서 경험의 해석이 다른 이유를 살피는 작업도 선행연구에 이미 존재한다. / Creech의 가능한 음악적 자기와 Markus·Nurius의 과거 자기와 미래 자기 관계를 논의한 뒤, 현재에서 새로 구성되는 가상 과거 자기와 비선형 시간을 설명한다. virtual selves를 희망·예상·두려움 분류와 동일시하지 않는다.",
+          "action": "retain"
+        }
+      ],
+      "previousVerified": {
+        "record": "P486 문헌별 전문 독해 기록 및 원문 대장",
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "referenceId": "ref-072",
+      "sourceSha256": "2a7aec33d06be7d0c91cce40a7c026e84a9db73033b192e7502a904144b6f108",
+      "scopeKind": "book",
+      "scopeLabel": "P487에서 확보 원문 PDF1–413쪽 전체를 순차 독해. 책 전권.",
+      "readRanges": [
+        [
+          1,
+          413
+        ]
+      ],
+      "totalPages": 413,
+      "wholeBookRead": true,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "단일 발레단의 경계와 전체 맥락, 개인 하위단위의 연결을 유지한다. 다양한 자료의 수가 아니라 같은 현상을 서로 확인하는 근거사슬이 중요하다. 현재 원고에는 분석 절이 없으므로 대안 설명·불일치자료·분석원리를 후속 작성 지시로 구분한다.",
+          "action": "retain"
+        },
+        {
+          "pdfPages": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "issue": "방법론으로서 사례연구와 교육용·대중적 사례 구별",
+          "rationale": "사례연구는 사례를 분석단위로 삼는 명시적 설계·자료수집·분석을 갖추어야 한다. 질적 연구의 필연적 하위유형이라고 단정하지 않고 다양한 인식론을 수용하되 본 책은 실재론적 접근 설명이 많음을 인정한다.",
+          "action": "retain"
+        },
+        {
+          "pdfPages": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57
+          ],
+          "issue": "사례연구 선택 이유를 경험·의미 탐색의 독점으로 쓰지 않기",
+          "rationale": "연구질문·사건통제·동시대현상의 조건을 함께 고려한다. 어떻게·왜만으로 선택이 자동 결정되지 않으며 방법 간 중복·보완 가능성을 인정한다. 실제 맥락과 현상 경계의 불명료성, 다자료원을 통합하는 설계가 핵심이다. 사례연구는 탐색·기술·설명 모두 가능하고 정량자료를 배제하지 않는다.",
+          "action": "retain"
+        },
+        {
+          "pdfPages": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73
+          ],
+          "issue": "한 단체를 명명한 것만으로 사례를 확정하지 않기",
+          "rationale": "연구질문·명제(탐색연구는 명확한 목적)·사례·논리연결·해석기준을 설계한다. 사례의 대상·시간·활동·구성원 범위와 맥락 경계를 구체화하며 자료 접근도 점검한다. 현장명칭과 분석단위가 같다는 가정은 금물이다.",
+          "action": "retain"
+        },
+        {
+          "pdfPages": [
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86
+          ],
+          "issue": "이론의 안내와 강제를 구분하고 분석적 일반화의 논거 제시",
+          "rationale": "이론은 볼 대상을 알려주나 보지 못하게도 한다. 경쟁설명·자료-명제 연결을 미리 고려한다. 분석적 일반화는 사례를 모집단 표본으로 대표시키는 것이 아니라 명제·개념을 통합·수정·기각·강화하는 논증이다. 단일사례라는 이유만으로 자동 일반화되지 않는다.",
+          "action": "retain"
+        },
+        {
+          "pdfPages": [
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93
+          ],
+          "issue": "타당성 기준별 적용 범위 구분",
+          "rationale": "다자료원·보고서 초안 검토·증거사슬·프로토콜·자료대장을 단계별로 연결한다. 인과관계 의미의 내적타당성은 설명적 연구에 적용하며 기술/탐색 설계에 인과검증을 새로 요구하지 않는다. 원전 표86과 본문88에서 증거사슬의 분류 위치가 다르므로 구체적 취지를 인용한다.",
+          "action": "retain"
+        }
+      ]
+    },
+    {
+      "referenceId": "ref-073",
+      "sourceSha256": "",
+      "scopeKind": "law",
+      "scopeLabel": "명시 인용단위 제61조 전체, 법률8541호 부칙 제8조 전체 및 같은 부칙1–43조 맥락 독해. 국민연금법 전체와 모든 부칙 전수 독해는 아님.",
+      "readRanges": [],
+      "totalPages": 0,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "제61조 본문 일반60/조기55, 특수직종55가 부칙의 출생연도별 가산과 함께 적용됨. 1953–56년생+1,1957–60+2,1961–64+3,1965–68+4,1969이후+5. 일반 지급개시연령과 학문적 노인 정의를 구별. 기존030수정 유지.",
+          "action": "retain"
+        }
+      ],
+      "sourceUrl": "https://www.law.go.kr/법령/국민연금법"
+    },
+    {
+      "referenceId": "ref-074",
+      "sourceSha256": "",
+      "scopeKind": "law",
+      "scopeLabel": "인용된 제24조 전체, 추가로 제1–13조/1의2·1의3·9의2(삭제조문포함) 독해. 별표·별지·나머지 조문/부칙 미독이므로 규칙전체완독이라 하지 않음.",
+      "readRanges": [],
+      "totalPages": 0,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "복지관/노인교실60세, 경로당65세. 배우자60미만동반예외, 운영규정별절차. 연구상 최초학습60세와 현재65세 기준을 동일한 법정정의로 바꾸지 않는다.",
+          "action": "retain"
+        }
+      ],
+      "sourceUrl": "https://www.law.go.kr/법령/노인복지법시행규칙/제24조"
+    },
+    {
+      "referenceId": "ref-075",
+      "sourceSha256": "",
+      "scopeKind": "law",
+      "scopeLabel": "인용 제26조 전체. 추가제1–39조/39의10까지의 존재하는가지조문 독해. 그이후와부칙전문미독. 전체완독으로계산하지않음.",
+      "readRanges": [],
+      "totalPages": 0,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "제26조65세경로우대는혜택규정이며보편정의가아님. 제28조65미만보호예외와 제33조의2주택60세의다른문턱이동시에존재하여기존한정표현을뒷받침함.",
+          "action": "retain"
+        }
+      ],
+      "sourceUrl": "https://www.law.go.kr/법령/노인복지법/제26조"
+    },
+    {
+      "referenceId": "ref-076",
+      "sourceSha256": "",
+      "scopeKind": "law",
+      "scopeLabel": "제1조–제34조 사이 가지조문 포함39개 조문 및 표시된 부칙14건 전부. 부칙에서 원문 자체가 생략 처리한 타법 조항은 미확인.",
+      "readRanges": [],
+      "totalPages": 0,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "문화예술교육 정의·동등한 기회·사회문화예술교육 지원·취약계층 시설 지원·교육인력의 자격과 배치까지 읽었다. 제2조 법률상 범위 설명으로 인용할 수 있으나 발레 참여의 실제 효능을 증명하거나 후보 발레단이 법률상 교육시설/단체임을 확정하는 자료가 아니다.",
+          "action": "retain"
+        }
+      ],
+      "sourceUrl": "https://www.law.go.kr/LSW//lsInfoP.do?ancYnChk=0&chrClsCd=010202&efYd=20241022&lsiSeq=265895&urlMode=lsInfoP"
+    },
+    {
+      "referenceId": "ref-077",
+      "sourceSha256": "",
+      "scopeKind": "law",
+      "scopeLabel": "제1조–제46조 가지조문 포함71개와 표시부칙22건 전체. 부칙 자체 생략 조항은 제외.",
+      "readRanges": [],
+      "totalPages": 0,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "전문 독해 후 판단",
+          "rationale": "제2조의 학교 정규과정 제외·조직적 교육활동·문화예술교육 포함, 제4조 자발적 참여, 제20조의3 노인평생교육시설, 기관·평생교육사·문해·진로·학력인정·감독 체계를 확인. 단체 이름만으로 평생교육기관 지위 또는 모든 일상경험의 법률상 평생교육 포함을 단정하지 않는다.",
+          "action": "retain"
+        }
+      ],
+      "sourceUrl": "https://www.law.go.kr/LSW//lsInfoP.do?ancYnChk=0&chrClsCd=010202&efYd=20260512&lsiSeq=279615&urlMode=lsInfoP"
+    }
+  ]
+}

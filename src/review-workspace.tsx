@@ -8,6 +8,9 @@ import ThesisContents from './thesis-contents';
 import ProfileSections from './profile-sections';
 import EducationWordmark from './education-wordmark';
 import CitationPanel from './citation-panel';
+import RevisionPanel,{ReadingStatus,reviewRecords} from './revision-panel';
+import {validRevisions,type RevisionRecord} from './review-records-model';
+import './review-parity.css';
 import {citationDatasetMatches,citationTargets,resolveCitationSelection,citationSelectionHighlights,referencePdf,verifiedReferenceUrl,type CitationData,type CitationSource,type CitationEntry,type CitationReference} from './citation-model';
 import rawCitationData from './citation-data.json';
 import referenceSources from './reference-sources.json';
@@ -16,14 +19,14 @@ import './review-mobile.css';
 import './master-theme.css';
 
 type Obj = Record<string,any>;
-type Tab = 'source'|'citations'|'memos'|'library'|'profile';
+type Tab = 'source'|'citations'|'revisions'|'memos'|'library'|'profile';
 const citationData=rawCitationData as CitationData;
 const INITIAL_THESIS_PAGE=4;
 const INITIAL_CITATION_ID=citationData.citations.find(citation=>citation.page===INITIAL_THESIS_PAGE)?.id||'';
 type Memo = {id:string;anchorType:string;page:number|null;noteId:string|null;sourceId:string|null;x:number|null;y:number|null;text:string;quote:string;visibility:string;status:string;revision:number;displayName:string;createdAt:string;editable:boolean};
 const TITLE='노인학습자의 문화예술교육 참여경험에 관한 사례연구';
 const SUBTITLE='시니어 발레단의 가능한 자기 인식을 중심으로';
-const menus:[Tab,string,string][]=[['citations','↔','원전 대조'],['source','▣','발표자료'],['memos','▧','검토 메모'],['library','≡','자료 목록'],['profile','○','연구 안내']];
+const menus:[Tab,string,string][]=[['citations','↔','원전 대조'],['revisions','✎','수정안'],['source','▣','발표자료'],['memos','▧','검토 메모'],['library','≡','자료 목록'],['profile','○','연구 안내']];
 const documents=[
   {id:'thesis',title:'석사논문 중간발표 원고',format:'PDF',pages:44,description:TITLE,filename:'신현하_석사논문_중간발표.pdf'},
   {id:'s-presentation',title:'중간발표 자료',format:'PDF',pages:14,description:'논문과 나란히 보며 검토할 수 있는 발표자료',filename:'신현하_석사논문_발표자료.pdf'},
@@ -47,9 +50,11 @@ export default function ReviewWorkspace(){
   const [sourceId,setSourceId]=useState('s-presentation'),[tab,setTab]=useState<Tab>('citations');
   const [activeCitationId,setActiveCitationId]=useState(INITIAL_CITATION_ID),[integrityStatus,setIntegrityStatus]=useState<PdfIntegrityStatus>('checking');
   const [bibliographySelection,setBibliographySelection]=useState<CitationEntry|null>(null);
-  const [split,setSplit]=useState(53),[sidebarWidth,setSidebarWidth]=useState(208),[outline,setOutline]=useState(true);
+  const [split,setSplit]=useState(36),[sidebarWidth,setSidebarWidth]=useState(208),[outline,setOutline]=useState(true);
   const [sidebarOpen,setSidebarOpen]=useState(()=>window.innerWidth>1150),[mobilePane,setMobilePane]=useState<'thesis'|'reference'>('thesis');
   const [query,setQuery]=useState(''),[filter,setFilter]=useState('all');
+  const [revisionPageOnly,setRevisionPageOnly]=useState(false);
+  const [textScale,setTextScale]=useState(()=>{try{const saved=Number(localStorage.getItem('master-ui-text-scale'));return [1,1.25,1.5,1.75,2].includes(saved)?saved:1.5;}catch{return 1.5;}});
   const [libraryView,setLibraryView]=useState<'references'|'citations'>('references');
   const [placing,setPlacing]=useState<false|'thesis'|'source'>(false),[composer,setComposer]=useState<Obj|null>(null);
   const [composerError,setComposerError]=useState(''),[saving,setSaving]=useState(false),[exporting,setExporting]=useState(false),[downloading,setDownloading]=useState('');
@@ -66,6 +71,10 @@ export default function ReviewWorkspace(){
   const activeCitation=bibliographySelection||resolveCitationSelection(activeCitationId,citationData.citations);
   const activeCitationHighlights=citationReady&&tab==='citations'&&activeCitation?citationSelectionHighlights(activeCitation):[];
   const citationsOnPage=citationData.citations.filter(citation=>citation.page===page);
+  const revisions=validRevisions(reviewRecords,citationData.meta.pdfSha256,citationData.meta.pageCount);
+  const revisionsOnPage=revisions.filter(record=>record.page===page);
+  function openRevisions(pageOnly=false){openTab('revisions');setRevisionPageOnly(pageOnly);}
+  function memoForRevision(record:RevisionRecord){newMemo('thesis',{page:record.page,quote:record.before,text:'수정 제안\n'+record.proposedText});}
 
   const refreshMemos=()=>api('/api/notes').then(d=>{setMemos(d.notes);setMemoError(d.truncated?'메모가 5,000개를 넘어 일부만 표시됩니다. 전체 내보내기를 이용해 주세요.':'');}).catch(e=>setMemoError('메모를 불러오지 못했습니다. 문서는 계속 열람할 수 있습니다. '+e.message));
   async function connectSession(){
@@ -84,9 +93,10 @@ export default function ReviewWorkspace(){
   }
   useEffect(()=>{
     api('/api/manifest').then(setData).catch(e=>setLoadError(e?.message||'발표 자료를 불러오지 못했습니다.'));void connectSession();
-    try{const saved=Number(localStorage.getItem('master-split'));if(saved>=30&&saved<=72)setSplit(saved);const width=localStorage.getItem('master-sidebar-width');if(width!==null)setSidebarWidth(clampPaneSize(Number(width),176,440));}catch{}
+    try{const saved=Number(localStorage.getItem('master-layout-split-v2'));if(saved>=30&&saved<=72)setSplit(saved);const width=localStorage.getItem('master-sidebar-width');if(width!==null)setSidebarWidth(clampPaneSize(Number(width),176,440));}catch{}
   },[]);
-  useEffect(()=>{try{localStorage.setItem('master-split',String(split));}catch{}},[split]);
+  useEffect(()=>{try{localStorage.setItem('master-layout-split-v2',String(split));}catch{}},[split]);
+  useEffect(()=>{try{localStorage.setItem('master-ui-text-scale',String(textScale));}catch{}},[textScale]);
   useEffect(()=>{try{localStorage.setItem('master-sidebar-width',String(sidebarWidth));}catch{}},[sidebarWidth]);
   useEffect(()=>{
     const narrow=window.matchMedia('(max-width: 1150px)');
@@ -101,7 +111,7 @@ export default function ReviewWorkspace(){
     document.addEventListener('keydown',onKey);return()=>{document.removeEventListener('keydown',onKey);old?.focus();};
   },[!!composer,saving]);
   function goToThesis(targetPage:number){setPage(targetPage);setMobilePane('thesis');setPlacing(false);if(window.innerWidth<=1150)setSidebarOpen(false);}
-  function openTab(next:Tab){setTab(next);setMobilePane('reference');setQuery('');setPlacing(false);if(next==='source'){if(sourceId!=='s-presentation'){setSourcePage(1);setSourceZoom(1);}setSourceId('s-presentation');}if(next==='citations'&&!activeCitation)setActiveCitationId(citationsOnPage[0]?.id||INITIAL_CITATION_ID);if(window.innerWidth<=1150)setSidebarOpen(false);}
+  function openTab(next:Tab){if(next==='revisions')setRevisionPageOnly(false);setTab(next);setMobilePane('reference');setQuery('');setPlacing(false);if(next==='source'){if(sourceId!=='s-presentation'){setSourcePage(1);setSourceZoom(1);}setSourceId('s-presentation');}if(next==='citations'&&!activeCitation)setActiveCitationId(citationsOnPage[0]?.id||INITIAL_CITATION_ID);if(window.innerWidth<=1150)setSidebarOpen(false);}
   function openCitation(id:string){if(!citationReady||!resolveCitationSelection(id,citationData.citations))return;setBibliographySelection(null);setActiveCitationId(id);setTab('citations');setMobilePane('reference');setPlacing(false);if(window.innerWidth<=1150)setSidebarOpen(false);}
   function openReference(reference:CitationReference){setBibliographySelection({id:'reference-'+reference.id,page:reference.bibliographyPage,text:reference.fullEntry,rects:reference.bibliographyRects||[],referenceIds:[reference.id],matchStatus:'matched',selectionKind:'bibliography'});setActiveCitationId('');setTab('citations');setMobilePane('reference');setPlacing(false);if(window.innerWidth<=1150)setSidebarOpen(false);}
   function newMemo(anchorType:string,extra:Obj={}){setComposerError('');setComposer({anchorType,page:anchorType==='general'?null:anchorType==='source'?sourcePage:page,noteId:null,sourceId:anchorType==='source'?sourceId:null,text:'',quote:window.getSelection()?.toString().slice(0,4000)||'',visibility:'private',status:'open',...extra});setPlacing(false);}
@@ -117,17 +127,18 @@ export default function ReviewWorkspace(){
   const filteredReferences=citationData.references.filter(reference=>!query||reference.fullEntry.toLowerCase().includes(query.toLowerCase()));
   const filteredCitations=citationData.citations.filter(citation=>!query||[citation.text,citation.sentenceText,`PDF ${citation.page} 인쇄 ${citation.page-3}`, ...citationData.references.filter(reference=>citation.referenceIds.includes(reference.id)).map(reference=>reference.fullEntry)].join(' ').toLowerCase().includes(query.trim().toLowerCase()));
 
-  return <div className={'review-app mobile-show-'+mobilePane}>
+  return <div className={'review-app mobile-show-'+mobilePane} style={{'--review-font-scale':textScale} as React.CSSProperties}>
     <header className="app-header"><button className="sidebar-toggle" aria-label={sidebarOpen?'탐색 메뉴 닫기':'탐색 메뉴 열기'} aria-expanded={sidebarOpen} aria-controls="workspace-navigation" onClick={()=>setSidebarOpen(!sidebarOpen)}>☰</button><EducationWordmark/><div className="brand"><b>신현하</b><span>평생교육전공</span></div><div className="header-title"><span>석사논문 중간발표</span><h1>{TITLE}</h1><p>{SUBTITLE}</p></div><span className="access-badge">논문·발표 검토</span></header>
-    <div className="basis-bar"><span><b>석사논문 중간발표</b><time dateTime="2026-10-24">2026. 10. 24.</time><i/>신현하 · 고려대학교 교육대학원 · 평생교육전공</span><span className="basis-context">논문 44쪽 <i/> 발표자료 14쪽</span></div>
+    <div className="basis-bar"><span><b>석사논문 중간발표</b><time dateTime="2026-10-24">2026. 10. 24.</time><i/>신현하 · 고려대학교 교육대학원 · 평생교육전공</span><label className="text-scale-control">글자 크기 <select aria-label="화면 글자 크기" value={textScale} onChange={e=>setTextScale(Number(e.target.value))}>{[1,1.25,1.5,1.75,2].map(scale=><option key={scale} value={scale}>{Math.round(scale*100)}%{scale===1.5?" · 기본":""}</option>)}</select></label></div>
     {error&&<div className="app-error" role="alert">{error}<button onClick={()=>setError('')} aria-label="오류 안내 닫기">×</button></div>}
     {!data?<div className="loading-screen"><EducationWordmark/><h2>{loadError?'발표 자료를 불러오지 못했습니다.':'발표 자료를 준비하고 있습니다.'}</h2>{loadError&&<><p>{loadError}</p><button onClick={()=>location.reload()}>다시 불러오기</button></>}</div>:<div className={'review-body'+(sidebarOpen?' sidebar-open':' sidebar-collapsed')} style={{'--sidebar-width':sidebarWidth+'px'} as React.CSSProperties}>
       {sidebarOpen&&<button className="sidebar-backdrop" aria-label="탐색 메뉴 닫기" onClick={()=>setSidebarOpen(false)}/>}
-      <aside className="workspace-sidebar" id="workspace-navigation" aria-label="논문 탐색"><div className="sidebar-heading"><b>석사논문 검토실</b><button aria-label="탐색 메뉴 접기" onClick={()=>setSidebarOpen(false)}>‹</button></div><nav className="sidebar-menu" aria-label="검토 메뉴">{menus.map(([id,icon,label])=><button key={id} className={activeMenu===id?'active':''} aria-current={activeMenu===id?'page':undefined} onClick={()=>openTab(id)}><span aria-hidden="true">{icon}</span>{label}{id==='memos'&&<small>{memos.length}</small>}</button>)}</nav><button className="sidebar-outline-toggle" aria-expanded={outline} onClick={()=>setOutline(!outline)}>논문 목차 <span aria-hidden="true">{outline?'−':'＋'}</span></button>{outline&&<ThesisContents page={page} pdfSha256={data.meta.pdfSha256} onNavigate={goToThesis}/>}</aside>
+      <aside className="workspace-sidebar" id="workspace-navigation" aria-label="논문 탐색"><div className="sidebar-heading"><b>석사논문 검토실</b><button aria-label="탐색 메뉴 접기" onClick={()=>setSidebarOpen(false)}>‹</button></div><nav className="sidebar-menu" aria-label="검토 메뉴">{menus.map(([id,icon,label])=><button key={id} className={activeMenu===id?'active':''} aria-current={activeMenu===id?'page':undefined} onClick={()=>id==='revisions'?openRevisions():openTab(id)}><span aria-hidden="true">{icon}</span>{label}{id==='memos'&&<small>{memos.length}</small>}</button>)}</nav><button className="sidebar-outline-toggle" aria-expanded={outline} onClick={()=>setOutline(!outline)}>논문 목차 <span aria-hidden="true">{outline?'−':'＋'}</span></button>{outline&&<ThesisContents page={page} pdfSha256={data.meta.pdfSha256} onNavigate={goToThesis}/>}</aside>
       {sidebarOpen&&<PaneResizer className="sidebar-divider" label="목차 화면 너비 조절" value={sidebarWidth} min={176} max={440} step={16} unit="픽셀" onChange={setSidebarWidth}/>}
       <div className="split-workspace" ref={splitRef} style={{'--split':split+'%'} as React.CSSProperties}>
         <section className="thesis-pane" aria-label="논문 원고"><div className="pane-toolbar"><button className={sidebarOpen&&outline?'selected':''} onClick={()=>{setSidebarOpen(true);setOutline(true);}} title="논문 목차 열기">☰ <span>목차</span></button><Pager page={page} total={data.meta.pageCount} onChange={setPage} label="논문 PDF 쪽수"/><div className="toolbar-spacer"/><button onClick={()=>setZoom(Math.max(.7,zoom-.15))} aria-label="논문 축소">−</button><button onClick={()=>setZoom(1)} title="논문 너비에 맞추기">{Math.round(zoom*100)}%</button><button onClick={()=>setZoom(Math.min(2,zoom+.15))} aria-label="논문 확대">＋</button><button className={placing==='thesis'?'selected':'memo-tool'} onClick={()=>setPlacing(placing==='thesis'?false:'thesis')}>▧ 메모</button></div>
           {placing==='thesis'&&<div className="placement-hint">논문에서 메모를 붙일 위치를 눌러 주세요.<button onClick={()=>setPlacing(false)}>취소</button></div>}
+          {citationReady&&revisionsOnPage.length>0&&<div className="current-page-revisions"><b>수정 제안 있음</b><button onClick={()=>openRevisions(true)}>현재 쪽 {revisionsOnPage.length}건 보기</button><span>원본 PDF 유지</span></div>}
           <PdfPane id="thesis" page={page} total={data.meta.pageCount} pageSizes={data.pages} onPageChange={setPage} zoom={zoom} targets={targets} highlights={activeCitationHighlights} onTarget={openCitation} expectedSha256={citationData.meta.pdfSha256} onIntegrityStatus={setIntegrityStatus} pins={memos.filter(m=>m.anchorType==='thesis')} onPin={selectMemo} placing={placing==='thesis'} onPlace={(x,y,placedPage)=>newMemo('thesis',{x,y,page:placedPage})} label="석사논문 중간발표 원고"/>
           {!citationReady&&<div className="citation-integrity-note" role="status">{!datasetMatches||integrityStatus==='mismatch'?'현재 논문이 인용 연결 기준본과 달라 인용 링크를 표시하지 않습니다.':integrityStatus==='unavailable'?'논문 기준본을 확인하지 못해 인용 링크를 표시하지 않습니다.':'인용 연결을 위해 논문 기준본을 확인하고 있습니다.'}</div>}
           <div className="page-footnotes citation-page-links" aria-label="이 쪽의 본문 인용"><span>{citationReady?'이 쪽의 인용':'논문 원고'}</span>{citationReady&&citationsOnPage.map(citation=><button key={citation.id} className={tab==='citations'&&activeCitationId===citation.id?'selected':''} title={citation.text} onClick={()=>openCitation(citation.id)}>{citation.text}</button>)}{citationReady&&!citationsOnPage.length&&<span>연결된 본문 인용 없음</span>}<div className="toolbar-spacer"/><span className="document-page-label">PDF {page}쪽{page>=4&&page<=44?` · 인쇄 ${page-3}쪽`:''}</span><a href={assetUrl('thesis')} target="_blank" rel="noreferrer" aria-label="논문 PDF 새 창에서 열기">원문 열기 ↗</a></div>
@@ -135,6 +146,7 @@ export default function ReviewWorkspace(){
         <PaneResizer className="split-divider" label="논문과 참고자료 화면 너비 조절" value={split} min={30} max={72} onChange={setSplit} unitsPerPixel={()=>100/(splitRef.current?.getBoundingClientRect().width||1)}/>
         <section className="reference-pane" aria-label="원전·발표자료와 검토 도구"><div className="reference-heading"><span>{tab==='source'?(presentation?'발표자료':'원전 대조'):tab==='citations'?'원전 대조':menus.find(m=>m[0]===tab)?.[2]}</span><button className="panel-navigation" onClick={()=>setSidebarOpen(true)} aria-label="다른 검토 메뉴 열기">☰</button></div>
           {tab==='citations'&&activeCitation&&(citationReady?<CitationPanel key={activeCitation.id} citation={activeCitation} references={citationData.references} sources={citationSources} thesisPageCount={data.meta.pageCount} thesisPages={data.pages} onBack={()=>openTab('source')} onThesis={goToThesis} onMemo={citation=>newMemo('thesis',{page:citation.page,quote:citation.text})} onCitationNavigate={(id,targetPage)=>{openCitation(id);goToThesis(targetPage);}} sourceMemos={memos} onSourceMemo={(id,targetPage,position)=>newMemo('source',{sourceId:id,page:targetPage,...position})} onSourceMemoSelect={selectMemo}/>:<div className="empty-state" role="status">{integrityStatus==='checking'?'인용 원문을 준비하고 있습니다.':'현재 논문과 인용 연결 기준본이 일치하는지 확인할 수 없습니다.'}<button onClick={()=>openTab('source')}>발표자료 보기</button></div>)}
+          {tab==='revisions'&&<RevisionPanel key={String(revisionPageOnly)} page={page} initialPageOnly={revisionPageOnly} onThesis={goToThesis} onCitation={(id,targetPage)=>{goToThesis(targetPage);openCitation(id);}} onMemo={memoForRevision}/>}
           {tab==='source'&&<div className="source-panel presentation-panel">
             <div className="presentation-caption"><div><span className="section-eyebrow">{presentation?'PRESENTATION · 2026.10.24':'REFERENCE'}</span><h2>{sourceTitle}</h2></div><button onClick={()=>void downloadDocument(presentation?'s-presentation-pptx':sourceId)} disabled={!!downloading} className="download-link">{downloading?'다운로드 중…':presentation?'PPTX ↓':'PDF ↓'}</button></div>
             {!presentation&&<div className="reference-memo-context"><button onClick={()=>sourceReference?openReference(sourceReference):openTab('citations')}>{sourceReference?'이 원전의 참고문헌 보기':'원전 대조로 돌아가기'}</button><span>{source?.coverageLabel||'참고문헌 원전'}</span></div>}
@@ -149,7 +161,7 @@ export default function ReviewWorkspace(){
             <input type="search" className="search-input" aria-label="자료 검색" placeholder={libraryView==='citations'?'인용 구절·본문 문장·저자·자료명 검색':'자료명·저자·연도 또는 파일 형식 검색'} value={query} onChange={e=>setQuery(e.target.value)}/>
             {libraryView==='references'?<>
               <div className="document-library">{filteredDocuments.map(doc=><article className="document-card" key={doc.id}><div className="document-card-top"><span className="file-format">{doc.format}</span><span>{doc.pages}쪽</span></div><h3>{doc.title}</h3><p>{doc.description}</p><div className="document-card-actions">{doc.format==='PDF'&&<button onClick={()=>{if(doc.id==='thesis')goToThesis(INITIAL_THESIS_PAGE);else{setSourcePage(1);openTab('source');}}}>화면에서 보기</button>}<a href={assetUrl(doc.id)} target="_blank" rel="noreferrer">원문 열기 ↗</a><button disabled={!!downloading} onClick={()=>void downloadDocument(doc.id)}>{downloading===doc.id?'다운로드 중…':'다운로드 ↓'}</button></div></article>)}</div>
-              <section className="reference-library" aria-label="참고문헌 자료 목록"><h3>참고문헌 <small>{filteredReferences.length} / {citationData.references.length}</small></h3><div className="document-library">{filteredReferences.map(reference=>{const linkedPdf=referencePdf(reference,citationSources),linkedWeb=verifiedReferenceUrl(reference);return <article className="document-card" key={reference.id}><div className="document-card-top"><span className="file-format">{linkedPdf?'PDF':linkedWeb?'WEB':'참고문헌'}</span>{linkedPdf&&<span>{linkedPdf.source.coverageLabel||`PDF ${linkedPdf.source.pages}쪽`}</span>}</div><h3>{reference.title}</h3><p>{reference.fullEntry}</p><div className="document-card-actions"><button onClick={()=>openReference(reference)}>원전 대조</button><button onClick={()=>goToThesis(reference.bibliographyPage)}>논문 참고문헌 보기</button></div></article>;})}</div></section>
+              <section className="reference-library" aria-label="참고문헌 자료 목록"><h3>참고문헌 <small>{filteredReferences.length} / {citationData.references.length}</small></h3><div className="document-library">{filteredReferences.map(reference=>{const linkedPdf=referencePdf(reference,citationSources),linkedWeb=verifiedReferenceUrl(reference);return <article className="document-card" key={reference.id}><div className="document-card-top"><span className="file-format">{linkedPdf?'PDF':linkedWeb?'WEB':'참고문헌'}</span>{linkedPdf&&<span>{linkedPdf.source.coverageLabel||`PDF ${linkedPdf.source.pages}쪽`}</span>}</div><h3>{reference.title}</h3><p>{reference.fullEntry}</p><ReadingStatus referenceId={reference.id}/><div className="document-card-actions"><button onClick={()=>openReference(reference)}>원전 대조</button><button onClick={()=>goToThesis(reference.bibliographyPage)}>논문 참고문헌 보기</button></div></article>;})}</div></section>
               {!filteredDocuments.length&&!filteredReferences.length&&<p className="empty-state">검색한 자료가 없습니다.</p>}
             </>:<section className="citation-library" aria-label="본문 인용 위치 목록"><h3>본문 인용 <small>{filteredCitations.length} / {citationData.citations.length}</small></h3>{filteredCitations.map(citation=><button className="library-row" key={citation.id} disabled={!citationReady} onClick={()=>{openCitation(citation.id);goToThesis(citation.page);}} title={citation.sentenceText||citation.text}><span className="index-number">{citation.page-3}쪽</span><span><b>{citation.text}</b><span className="citation-library-context">{citation.sentenceText||citation.text}</span><small>논문 PDF {citation.page}쪽 · 연결 문헌 {citation.referenceIds.length}개{citation.relation==='secondary'?' · 재인용':''}</small></span><span aria-hidden="true">↗</span></button>)}{!filteredCitations.length&&<p className="empty-state">검색한 본문 인용이 없습니다.</p>}</section>}
           </div>}
