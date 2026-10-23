@@ -1260,7 +1260,11 @@
       "kind": "reference",
       "citationPages": [
         12
-      ]
+      ],
+      "sourceUrl": "https://www.cambridge.org/core/books/abs/successful-aging/psychological-perspectives-on-successful-aging-the-model-of-selective-optimization-with-compensation/EAE9389C90617AE014260735DFFCEF82",
+      "sourceLabel": "Cambridge 출판사 자료 페이지",
+      "sourceKind": "web",
+      "verifiedSource": true
     },
     {
       "id": "ref-040",
@@ -1796,7 +1800,11 @@
       "citationPages": [
         5,
         30
-      ]
+      ],
+      "sourceUrl": "https://academic.oup.com/psychsocgerontology/article/75/3/549/5165411",
+      "sourceLabel": "Oxford Academic 논문 페이지",
+      "sourceKind": "web",
+      "verifiedSource": true
     },
     {
       "id": "ref-055",
@@ -2446,7 +2454,11 @@
       "kind": "legislation",
       "citationPages": [
         10
-      ]
+      ],
+      "sourceUrl": "https://www.law.go.kr/LSW//lsInfoP.do?ancYnChk=0&chrClsCd=010202&efYd=20261020&lsiSeq=291347&urlMode=lsInfoP",
+      "sourceLabel": "국가법령정보센터 · 2026.10.20 시행본",
+      "sourceKind": "web",
+      "verifiedSource": true
     },
     {
       "id": "ref-074",
@@ -2526,7 +2538,11 @@
       "kind": "legislation",
       "citationPages": [
         15
-      ]
+      ],
+      "sourceUrl": "https://www.law.go.kr/LSW//lsInfoP.do?ancYnChk=0&chrClsCd=010202&efYd=20241022&lsiSeq=265895&urlMode=lsInfoP",
+      "sourceLabel": "국가법령정보센터 · 2024.10.22 시행본",
+      "sourceKind": "web",
+      "verifiedSource": true
     },
     {
       "id": "ref-077",
@@ -2551,7 +2567,11 @@
       "citationPages": [
         4,
         16
-      ]
+      ],
+      "sourceUrl": "https://www.law.go.kr/LSW//lsInfoP.do?ancYnChk=0&chrClsCd=010202&efYd=20260512&lsiSeq=279615&urlMode=lsInfoP",
+      "sourceLabel": "국가법령정보센터 · 2026.5.12 시행본",
+      "sourceKind": "web",
+      "verifiedSource": true
     }
   ],
   "citations": [
@@ -2571,7 +2591,48 @@
         "ref-035"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-001",
+      "sentenceText": "우리나라는 2024년 12월 주민등록인구 가운데 65세 이상 인구의 비중이 20%에 이르러 초고령사회에 진입하였다(행정안전부, 2024).",
+      "sentenceRects": [
+        [
+          59.42,
+          223.64,
+          449.79,
+          235.49
+        ],
+        [
+          48.04,
+          243.42,
+          330.16,
+          255.27
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 4,
+          "rects": [
+            [
+              59.42,
+              223.64,
+              449.79,
+              235.49
+            ],
+            [
+              48.04,
+              243.42,
+              330.16,
+              255.27
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-035"
+      ],
+      "relatedCitationIds": [
+        "cite-001"
+      ]
     },
     {
       "id": "cite-002",
@@ -2589,7 +2650,48 @@
         "ref-034"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-002",
+      "sentenceText": "인구 고령화는 사회의 발전 과정에서 나타나는 현상이다(한정란, 2025).",
+      "sentenceRects": [
+        [
+          337.11,
+          243.42,
+          449.84,
+          254.46
+        ],
+        [
+          48.04,
+          263.21,
+          301.89,
+          275.06
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 4,
+          "rects": [
+            [
+              337.11,
+              243.42,
+              449.84,
+              254.46
+            ],
+            [
+              48.04,
+              263.21,
+              301.89,
+              275.06
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-034"
+      ],
+      "relatedCitationIds": [
+        "cite-002"
+      ]
     },
     {
       "id": "cite-003",
@@ -2607,7 +2709,60 @@
         "ref-004"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-003",
+      "sentenceText": "평생학습사회가 강조되면서 모든 연령층의 교육 참여가 확대되었으며, 특히 노년학의 발전과 함께 노인교육의 중요성이 부각되었다(김아영, 김효정, 2021).",
+      "sentenceRects": [
+        [
+          310.03,
+          263.21,
+          449.84,
+          274.24
+        ],
+        [
+          48.04,
+          283.0,
+          449.84,
+          294.84
+        ],
+        [
+          48.04,
+          302.78,
+          298.41,
+          314.63
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 4,
+          "rects": [
+            [
+              310.03,
+              263.21,
+              449.84,
+              274.24
+            ],
+            [
+              48.04,
+              283.0,
+              449.84,
+              294.84
+            ],
+            [
+              48.04,
+              302.78,
+              298.41,
+              314.63
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-004"
+      ],
+      "relatedCitationIds": [
+        "cite-003"
+      ]
     },
     {
       "id": "cite-004",
@@ -2625,7 +2780,48 @@
         "ref-015"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-004",
+      "sentenceText": "노인학습자는 스스로 생각하고 판단하며 자신의 경험을 재해석하는 학습의 주체이다(박응희, 이병준, 2009).",
+      "sentenceRects": [
+        [
+          59.42,
+          367.18,
+          449.84,
+          378.21
+        ],
+        [
+          48.04,
+          386.96,
+          207.73,
+          398.81
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 4,
+          "rects": [
+            [
+              59.42,
+              367.18,
+              449.84,
+              378.21
+            ],
+            [
+              48.04,
+              386.96,
+              207.73,
+              398.81
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-015"
+      ],
+      "relatedCitationIds": [
+        "cite-004"
+      ]
     },
     {
       "id": "cite-005",
@@ -2649,7 +2845,60 @@
         "ref-009"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-005",
+      "sentenceText": "노년기에도 발달은 계속되며, 노인학습자가 살아오며 쌓은 경험과 능력은 새로운 내용을 이해하는 바탕이 된다(김한별, 2025).",
+      "sentenceRects": [
+        [
+          213.96,
+          386.96,
+          449.84,
+          398.81
+        ],
+        [
+          48.04,
+          406.75,
+          449.84,
+          418.6
+        ],
+        [
+          48.04,
+          427.35,
+          76.43,
+          438.38
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 4,
+          "rects": [
+            [
+              213.96,
+              386.96,
+              449.84,
+              398.81
+            ],
+            [
+              48.04,
+              406.75,
+              449.84,
+              418.6
+            ],
+            [
+              48.04,
+              427.35,
+              76.43,
+              438.38
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-009"
+      ],
+      "relatedCitationIds": [
+        "cite-005"
+      ]
     },
     {
       "id": "cite-006",
@@ -2667,7 +2916,48 @@
         "ref-028"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-006",
+      "sentenceText": "조대연(2021)은 평생교육을 생애에 걸쳐 개인의 성장과 자아실현을 도모하는 학습경험으로 설명하였다.",
+      "sentenceRects": [
+        [
+          82.42,
+          426.53,
+          449.84,
+          438.38
+        ],
+        [
+          48.04,
+          446.32,
+          204.85,
+          458.17
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 4,
+          "rects": [
+            [
+              82.42,
+              426.53,
+              449.84,
+              438.38
+            ],
+            [
+              48.04,
+              446.32,
+              204.85,
+              458.17
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-028"
+      ],
+      "relatedCitationIds": [
+        "cite-006"
+      ]
     },
     {
       "id": "cite-007",
@@ -2685,7 +2975,48 @@
         "ref-077"
       ],
       "matchStatus": "matched",
-      "relation": "legislation"
+      "relation": "legislation",
+      "sentenceId": "sentence-007",
+      "sentenceText": "문화예술교육은 「평생교육법」 제2조 제1호에 열거된 일곱 교육영역 가운데 하나이다.",
+      "sentenceRects": [
+        [
+          59.42,
+          510.71,
+          449.96,
+          522.56
+        ],
+        [
+          48.04,
+          530.5,
+          94.76,
+          542.35
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 4,
+          "rects": [
+            [
+              59.42,
+              510.71,
+              449.96,
+              522.56
+            ],
+            [
+              48.04,
+              530.5,
+              94.76,
+              542.35
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-077"
+      ],
+      "relatedCitationIds": [
+        "cite-007"
+      ]
     },
     {
       "id": "cite-008",
@@ -2703,7 +3034,60 @@
         "ref-008"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-008",
+      "sentenceText": "김진화 외(2010)는 문화예술교육을 문화예술적 상상력과 창의력을 기르고, 예술 활동과 기능을 익히며 일상에서 예술을 즐기고 활용하는 능력을 기르는 교육으로 설명하였다.",
+      "sentenceRects": [
+        [
+          100.51,
+          530.5,
+          449.96,
+          542.35
+        ],
+        [
+          48.04,
+          550.29,
+          449.84,
+          562.14
+        ],
+        [
+          48.04,
+          570.07,
+          183.05,
+          581.92
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 4,
+          "rects": [
+            [
+              100.51,
+              530.5,
+              449.96,
+              542.35
+            ],
+            [
+              48.04,
+              550.29,
+              449.84,
+              562.14
+            ],
+            [
+              48.04,
+              570.07,
+              183.05,
+              581.92
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-008"
+      ],
+      "relatedCitationIds": [
+        "cite-008"
+      ]
     },
     {
       "id": "cite-009",
@@ -2721,7 +3105,60 @@
         "ref-001"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-009",
+      "sentenceText": "교육부와 한국교육개발원(2024)이 보고한 2023년 만 65-79세 집단의 문화예술교육 참여율은 15.4%로, 비교한 비형식교육 다섯 영역 가운데 가장 높다.",
+      "sentenceRects": [
+        [
+          188.8,
+          570.07,
+          449.84,
+          581.92
+        ],
+        [
+          48.04,
+          589.86,
+          449.84,
+          601.71
+        ],
+        [
+          48.04,
+          609.64,
+          139.56,
+          621.49
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 4,
+          "rects": [
+            [
+              188.8,
+              570.07,
+              449.84,
+              581.92
+            ],
+            [
+              48.04,
+              589.86,
+              449.84,
+              601.71
+            ],
+            [
+              48.04,
+              609.64,
+              139.56,
+              621.49
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-001"
+      ],
+      "relatedCitationIds": [
+        "cite-009"
+      ]
     },
     {
       "id": "cite-010",
@@ -2739,7 +3176,86 @@
         "ref-012"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-010",
+      "sentenceText": "성과를 살핀 연구에서 박소희(2023)는 65세 이상 노인 200명의 설문자료를 분석하여 참여 횟수에 따른 자기효능감과 자아존중감의 차이를 보고하였고, Johnson 외(2020)는 합창 참여집단에서 외로움이 감소하고 일상에 대한 관심이 증가했으나 인지·신체 지표에서는 유의한 집단 차이가 없음을 밝혔다.",
+      "sentenceRects": [
+        [
+          188.68,
+          120.99,
+          449.84,
+          132.84
+        ],
+        [
+          48.04,
+          140.78,
+          449.96,
+          152.63
+        ],
+        [
+          48.04,
+          160.56,
+          449.96,
+          172.41
+        ],
+        [
+          48.04,
+          180.35,
+          449.84,
+          192.2
+        ],
+        [
+          48.04,
+          200.13,
+          112.97,
+          211.98
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 5,
+          "rects": [
+            [
+              188.68,
+              120.99,
+              449.84,
+              132.84
+            ],
+            [
+              48.04,
+              140.78,
+              449.96,
+              152.63
+            ],
+            [
+              48.04,
+              160.56,
+              449.96,
+              172.41
+            ],
+            [
+              48.04,
+              180.35,
+              449.84,
+              192.2
+            ],
+            [
+              48.04,
+              200.13,
+              112.97,
+              211.98
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-012",
+        "ref-054"
+      ],
+      "relatedCitationIds": [
+        "cite-010",
+        "cite-011"
+      ]
     },
     {
       "id": "cite-011",
@@ -2757,7 +3273,86 @@
         "ref-054"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-010",
+      "sentenceText": "성과를 살핀 연구에서 박소희(2023)는 65세 이상 노인 200명의 설문자료를 분석하여 참여 횟수에 따른 자기효능감과 자아존중감의 차이를 보고하였고, Johnson 외(2020)는 합창 참여집단에서 외로움이 감소하고 일상에 대한 관심이 증가했으나 인지·신체 지표에서는 유의한 집단 차이가 없음을 밝혔다.",
+      "sentenceRects": [
+        [
+          188.68,
+          120.99,
+          449.84,
+          132.84
+        ],
+        [
+          48.04,
+          140.78,
+          449.96,
+          152.63
+        ],
+        [
+          48.04,
+          160.56,
+          449.96,
+          172.41
+        ],
+        [
+          48.04,
+          180.35,
+          449.84,
+          192.2
+        ],
+        [
+          48.04,
+          200.13,
+          112.97,
+          211.98
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 5,
+          "rects": [
+            [
+              188.68,
+              120.99,
+              449.84,
+              132.84
+            ],
+            [
+              48.04,
+              140.78,
+              449.96,
+              152.63
+            ],
+            [
+              48.04,
+              160.56,
+              449.96,
+              172.41
+            ],
+            [
+              48.04,
+              180.35,
+              449.84,
+              192.2
+            ],
+            [
+              48.04,
+              200.13,
+              112.97,
+              211.98
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-012",
+        "ref-054"
+      ],
+      "relatedCitationIds": [
+        "cite-010",
+        "cite-011"
+      ]
     },
     {
       "id": "cite-012",
@@ -2775,7 +3370,86 @@
         "ref-004"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-011",
+      "sentenceText": "참여경험을 살핀 연구에서 김아영과 김효정(2021)은 미술교육에 참여한 노인학습자의 성취감과 자신감, 학습을 이어가려는 의지를 설명하였으며, 배재윤과 명왕성(2025)은 노년기에 문화예술교육에 참여하기 시작한 노인 3명의 경험을 내러티브로 탐구하여 오랜 동경의 실현과 정체성의 재구성, 새로운 역할과 사회적 관계의 확장을 보여 주었다.",
+      "sentenceRects": [
+        [
+          120.4,
+          200.13,
+          449.96,
+          211.98
+        ],
+        [
+          48.04,
+          219.92,
+          449.84,
+          231.77
+        ],
+        [
+          48.04,
+          239.71,
+          449.84,
+          251.56
+        ],
+        [
+          48.04,
+          259.49,
+          449.84,
+          271.34
+        ],
+        [
+          48.04,
+          279.28,
+          281.28,
+          291.13
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 5,
+          "rects": [
+            [
+              120.4,
+              200.13,
+              449.96,
+              211.98
+            ],
+            [
+              48.04,
+              219.92,
+              449.84,
+              231.77
+            ],
+            [
+              48.04,
+              239.71,
+              449.84,
+              251.56
+            ],
+            [
+              48.04,
+              259.49,
+              449.84,
+              271.34
+            ],
+            [
+              48.04,
+              279.28,
+              281.28,
+              291.13
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-004",
+        "ref-016"
+      ],
+      "relatedCitationIds": [
+        "cite-012",
+        "cite-013"
+      ]
     },
     {
       "id": "cite-013",
@@ -2793,7 +3467,86 @@
         "ref-016"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-011",
+      "sentenceText": "참여경험을 살핀 연구에서 김아영과 김효정(2021)은 미술교육에 참여한 노인학습자의 성취감과 자신감, 학습을 이어가려는 의지를 설명하였으며, 배재윤과 명왕성(2025)은 노년기에 문화예술교육에 참여하기 시작한 노인 3명의 경험을 내러티브로 탐구하여 오랜 동경의 실현과 정체성의 재구성, 새로운 역할과 사회적 관계의 확장을 보여 주었다.",
+      "sentenceRects": [
+        [
+          120.4,
+          200.13,
+          449.96,
+          211.98
+        ],
+        [
+          48.04,
+          219.92,
+          449.84,
+          231.77
+        ],
+        [
+          48.04,
+          239.71,
+          449.84,
+          251.56
+        ],
+        [
+          48.04,
+          259.49,
+          449.84,
+          271.34
+        ],
+        [
+          48.04,
+          279.28,
+          281.28,
+          291.13
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 5,
+          "rects": [
+            [
+              120.4,
+              200.13,
+              449.96,
+              211.98
+            ],
+            [
+              48.04,
+              219.92,
+              449.84,
+              231.77
+            ],
+            [
+              48.04,
+              239.71,
+              449.84,
+              251.56
+            ],
+            [
+              48.04,
+              259.49,
+              449.84,
+              271.34
+            ],
+            [
+              48.04,
+              279.28,
+              281.28,
+              291.13
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-004",
+        "ref-016"
+      ],
+      "relatedCitationIds": [
+        "cite-012",
+        "cite-013"
+      ]
     },
     {
       "id": "cite-014",
@@ -2818,7 +3571,73 @@
         "ref-054"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-012",
+      "sentenceText": "성과 연구는 참여 후 무엇이 달라졌는지를 지표로 보여 주지만 그 결과는 지표에 따라 달랐고(박소희, 2023; Johnson 외, 2020), 학습자가 무엇을 겪고 어떻게 받아들였는지는 알려 주지 않는다.",
+      "sentenceRects": [
+        [
+          305.6,
+          323.77,
+          449.84,
+          334.8
+        ],
+        [
+          48.04,
+          343.55,
+          450.02,
+          355.4
+        ],
+        [
+          48.04,
+          363.34,
+          449.84,
+          375.19
+        ],
+        [
+          48.04,
+          383.13,
+          72.72,
+          394.97
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 5,
+          "rects": [
+            [
+              305.6,
+              323.77,
+              449.84,
+              334.8
+            ],
+            [
+              48.04,
+              343.55,
+              450.02,
+              355.4
+            ],
+            [
+              48.04,
+              363.34,
+              449.84,
+              375.19
+            ],
+            [
+              48.04,
+              383.13,
+              72.72,
+              394.97
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-012",
+        "ref-054"
+      ],
+      "relatedCitationIds": [
+        "cite-014"
+      ]
     },
     {
       "id": "cite-015",
@@ -2842,7 +3661,62 @@
         "ref-004"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-013",
+      "sentenceText": "참여경험 연구는 의미를 밝혔으나 성취감과 자신감(김아영, 김효정, 2021), 생애적 의미와 정체성(배재윤, 명왕성, 2025)처럼 참여로 달라진 현재의 모습을 다루었다.",
+      "sentenceRects": [
+        [
+          83.02,
+          383.13,
+          449.84,
+          394.97
+        ],
+        [
+          48.04,
+          402.91,
+          449.96,
+          414.76
+        ],
+        [
+          48.04,
+          422.7,
+          134.05,
+          434.55
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 5,
+          "rects": [
+            [
+              83.02,
+              383.13,
+              449.84,
+              394.97
+            ],
+            [
+              48.04,
+              402.91,
+              449.96,
+              414.76
+            ],
+            [
+              48.04,
+              422.7,
+              134.05,
+              434.55
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-004",
+        "ref-016"
+      ],
+      "relatedCitationIds": [
+        "cite-015",
+        "cite-016"
+      ]
     },
     {
       "id": "cite-016",
@@ -2860,7 +3734,62 @@
         "ref-016"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-013",
+      "sentenceText": "참여경험 연구는 의미를 밝혔으나 성취감과 자신감(김아영, 김효정, 2021), 생애적 의미와 정체성(배재윤, 명왕성, 2025)처럼 참여로 달라진 현재의 모습을 다루었다.",
+      "sentenceRects": [
+        [
+          83.02,
+          383.13,
+          449.84,
+          394.97
+        ],
+        [
+          48.04,
+          402.91,
+          449.96,
+          414.76
+        ],
+        [
+          48.04,
+          422.7,
+          134.05,
+          434.55
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 5,
+          "rects": [
+            [
+              83.02,
+              383.13,
+              449.84,
+              394.97
+            ],
+            [
+              48.04,
+              402.91,
+              449.96,
+              414.76
+            ],
+            [
+              48.04,
+              422.7,
+              134.05,
+              434.55
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-004",
+        "ref-016"
+      ],
+      "relatedCitationIds": [
+        "cite-015",
+        "cite-016"
+      ]
     },
     {
       "id": "cite-017",
@@ -2878,7 +3807,72 @@
         "ref-016"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-014",
+      "sentenceText": "배재윤과 명왕성(2025)에서 일부 참여자가 무대에 서는 목표를 세우거나 노년기를 새로운 시작으로 받아들이는 모습이 나타났으나, 이는 정체성과 역할의 변화를 설명하는 근거로 해석되었고 학습자가 앞으로 바라거나 우려하는 모습과 그 이유를 구분하여 분석하지는 않았다.",
+      "sentenceRects": [
+        [
+          140.52,
+          422.7,
+          449.84,
+          434.55
+        ],
+        [
+          48.04,
+          442.48,
+          449.84,
+          454.33
+        ],
+        [
+          48.04,
+          462.27,
+          449.84,
+          473.3
+        ],
+        [
+          48.04,
+          482.05,
+          355.32,
+          493.9
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 5,
+          "rects": [
+            [
+              140.52,
+              422.7,
+              449.84,
+              434.55
+            ],
+            [
+              48.04,
+              442.48,
+              449.84,
+              454.33
+            ],
+            [
+              48.04,
+              462.27,
+              449.84,
+              473.3
+            ],
+            [
+              48.04,
+              482.05,
+              355.32,
+              493.9
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-016"
+      ],
+      "relatedCitationIds": [
+        "cite-017"
+      ]
     },
     {
       "id": "cite-018",
@@ -2904,7 +3898,62 @@
         "ref-024"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-015",
+      "sentenceText": "노년기의 미래 자기 모습을 다룬 연구(Frazier 외, 2000; Smith & Freund, 2002; 임지숙, 2015)도 노인이 바라고 두려워하는 모습을 밝혔으나 교육 참여경험과의 관련을 중심에 두지 않았다.",
+      "sentenceRects": [
+        [
+          59.42,
+          526.66,
+          449.84,
+          538.51
+        ],
+        [
+          48.04,
+          546.45,
+          449.84,
+          558.3
+        ],
+        [
+          48.04,
+          566.24,
+          233.84,
+          578.08
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 5,
+          "rects": [
+            [
+              59.42,
+              526.66,
+              449.84,
+              538.51
+            ],
+            [
+              48.04,
+              546.45,
+              449.84,
+              558.3
+            ],
+            [
+              48.04,
+              566.24,
+              233.84,
+              578.08
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-050",
+        "ref-067",
+        "ref-024"
+      ],
+      "relatedCitationIds": [
+        "cite-018"
+      ]
     },
     {
       "id": "cite-019",
@@ -2922,7 +3971,71 @@
         "ref-042"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-016",
+      "sentenceText": "해외에서는 음악학습의 맥락에서 미래의 음악적 자기 모습을 살핀 연구가 있으나(Creech 외, 2014), 국내 노인학습자를 대상으로 문화예술교육 참여경험을 미래의 자기인식과 관련지어 살핀 연구는 본 연구자가 검토한 범위에서 확인하지 못하였다.",
+      "sentenceRects": [
+        [
+          241.15,
+          566.24,
+          449.84,
+          577.27
+        ],
+        [
+          48.04,
+          586.02,
+          449.84,
+          597.87
+        ],
+        [
+          48.04,
+          605.81,
+          449.84,
+          616.84
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 5,
+          "rects": [
+            [
+              241.15,
+              566.24,
+              449.84,
+              577.27
+            ],
+            [
+              48.04,
+              586.02,
+              449.84,
+              597.87
+            ],
+            [
+              48.04,
+              605.81,
+              449.84,
+              616.84
+            ]
+          ]
+        },
+        {
+          "page": 6,
+          "rects": [
+            [
+              48.04,
+              76.38,
+              297.82,
+              88.23
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-042"
+      ],
+      "relatedCitationIds": [
+        "cite-019"
+      ]
     },
     {
       "id": "cite-020",
@@ -2941,7 +4054,85 @@
         "ref-063"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-017",
+      "sentenceText": "학습자는 배움을 그 자체로만 받아들이지 않고 앞으로 어떤 모습으로 살아갈 것인가에 비추어 의미를 부여할 수 있으며(Markus & Nurius, 1986; Rossiter, 2007), 같은 수업과 공연 준비도 바라는 모습을 향한 도전이 될 수도, 우려하는 모습을 떠올리게 하는 부담이 될 수도 있다.",
+      "sentenceRects": [
+        [
+          405.87,
+          140.78,
+          449.84,
+          151.81
+        ],
+        [
+          48.04,
+          160.56,
+          449.84,
+          171.6
+        ],
+        [
+          48.04,
+          180.35,
+          449.96,
+          192.2
+        ],
+        [
+          48.04,
+          200.13,
+          449.96,
+          211.98
+        ],
+        [
+          48.04,
+          219.92,
+          225.22,
+          231.77
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 6,
+          "rects": [
+            [
+              405.87,
+              140.78,
+              449.84,
+              151.81
+            ],
+            [
+              48.04,
+              160.56,
+              449.84,
+              171.6
+            ],
+            [
+              48.04,
+              180.35,
+              449.96,
+              192.2
+            ],
+            [
+              48.04,
+              200.13,
+              449.96,
+              211.98
+            ],
+            [
+              48.04,
+              219.92,
+              225.22,
+              231.77
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-058",
+        "ref-063"
+      ],
+      "relatedCitationIds": [
+        "cite-020"
+      ]
     },
     {
       "id": "cite-021",
@@ -2959,7 +4150,60 @@
         "ref-016"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-018",
+      "sentenceText": "참여 초기에 신체적 어려움과 후회를 호소한 사례도 보고되었으므로(배재윤, 명왕성, 2025), 우려하는 모습까지 살펴야 학습자의 경험을 성과 중심의 긍정적 설명으로만 읽지 않을 수 있다.",
+      "sentenceRects": [
+        [
+          231.57,
+          219.92,
+          449.84,
+          230.95
+        ],
+        [
+          48.04,
+          239.71,
+          449.84,
+          251.56
+        ],
+        [
+          48.04,
+          259.49,
+          393.29,
+          271.34
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 6,
+          "rects": [
+            [
+              231.57,
+              219.92,
+              449.84,
+              230.95
+            ],
+            [
+              48.04,
+              239.71,
+              449.84,
+              251.56
+            ],
+            [
+              48.04,
+              259.49,
+              393.29,
+              271.34
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-016"
+      ],
+      "relatedCitationIds": [
+        "cite-021"
+      ]
     },
     {
       "id": "cite-022",
@@ -2977,7 +4221,60 @@
         "ref-058"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-019",
+      "sentenceText": "여기서 미래의 자기 모습은 앞으로 할 활동의 계획이나 과제를 해낼 수 있다는 능력 판단과 구별되는, 앞으로 어떤 자신으로 살아갈 것인가에 관한 인식을 뜻한다(Markus & Nurius, 1986).",
+      "sentenceRects": [
+        [
+          59.42,
+          323.77,
+          449.84,
+          334.8
+        ],
+        [
+          48.04,
+          343.55,
+          449.84,
+          355.4
+        ],
+        [
+          48.04,
+          363.34,
+          209.29,
+          375.19
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 6,
+          "rects": [
+            [
+              59.42,
+              323.77,
+              449.84,
+              334.8
+            ],
+            [
+              48.04,
+              343.55,
+              449.84,
+              355.4
+            ],
+            [
+              48.04,
+              363.34,
+              209.29,
+              375.19
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-058"
+      ],
+      "relatedCitationIds": [
+        "cite-022"
+      ]
     },
     {
       "id": "cite-023",
@@ -2996,7 +4293,49 @@
         "ref-053"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-020",
+      "sentenceText": "Jarvis(2006, 2009)는 학습을 사람이 사회적 상황에서 겪은 경험을 생각·감정·행동을 통해 변형하고 자신의 생애경험에 통합하는 과정으로 설명하였다.",
+      "sentenceRects": [
+        [
+          59.42,
+          447.52,
+          449.79,
+          459.37
+        ],
+        [
+          48.04,
+          467.31,
+          431.51,
+          479.15
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 6,
+          "rects": [
+            [
+              59.42,
+              447.52,
+              449.79,
+              459.37
+            ],
+            [
+              48.04,
+              467.31,
+              431.51,
+              479.15
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-052",
+        "ref-053"
+      ],
+      "relatedCitationIds": [
+        "cite-023"
+      ]
     },
     {
       "id": "cite-024",
@@ -3020,7 +4359,60 @@
         "ref-006"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-021",
+      "sentenceText": "김은경(2024)도 성인학습자의 자기주도성을 이해하기 위해 학습 상황에 대한 학습자의 해석과 감정에 주목하였다.",
+      "sentenceRects": [
+        [
+          416.89,
+          506.88,
+          449.84,
+          517.91
+        ],
+        [
+          48.04,
+          526.66,
+          449.96,
+          538.51
+        ],
+        [
+          48.04,
+          546.45,
+          202.1,
+          558.3
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 6,
+          "rects": [
+            [
+              416.89,
+              506.88,
+              449.84,
+              517.91
+            ],
+            [
+              48.04,
+              526.66,
+              449.96,
+              538.51
+            ],
+            [
+              48.04,
+              546.45,
+              202.1,
+              558.3
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-006"
+      ],
+      "relatedCitationIds": [
+        "cite-024"
+      ]
     },
     {
       "id": "cite-025",
@@ -3038,7 +4430,65 @@
         "ref-058"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-022",
+      "sentenceText": "Markus와 Nurius(1986)는 가능한 자기(possible selves)를 자신이 될 수 있다고 생각하는 모습, 되고 싶은 모습, 되기를 두려워하는 모습으로 설명하였으며, 이러한 미래의 자기 모습이 현재의 자신과 경험을 평가하고 해석하는 맥락이 된다고 보았다.",
+      "sentenceRects": [
+        [
+          59.42,
+          591.06,
+          449.84,
+          602.91
+        ],
+        [
+          48.04,
+          610.84,
+          449.84,
+          622.69
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 6,
+          "rects": [
+            [
+              59.42,
+              591.06,
+              449.84,
+              602.91
+            ],
+            [
+              48.04,
+              610.84,
+              449.84,
+              622.69
+            ]
+          ]
+        },
+        {
+          "page": 7,
+          "rects": [
+            [
+              48.04,
+              76.38,
+              449.96,
+              87.41
+            ],
+            [
+              48.04,
+              96.17,
+              111.77,
+              108.02
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-058"
+      ],
+      "relatedCitationIds": [
+        "cite-025"
+      ]
     },
     {
       "id": "cite-026",
@@ -3056,7 +4506,48 @@
         "ref-063"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-023",
+      "sentenceText": "Rossiter(2007)는 성인학습자가 바라는 미래의 자기 모습에 비추어 현재의 배움에 의미와 가치를 부여할 수 있음을 설명하였다.",
+      "sentenceRects": [
+        [
+          117.76,
+          96.17,
+          449.84,
+          108.02
+        ],
+        [
+          48.04,
+          115.95,
+          355.32,
+          127.8
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 7,
+          "rects": [
+            [
+              117.76,
+              96.17,
+              449.84,
+              108.02
+            ],
+            [
+              48.04,
+              115.95,
+              355.32,
+              127.8
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-063"
+      ],
+      "relatedCitationIds": [
+        "cite-026"
+      ]
     },
     {
       "id": "cite-027",
@@ -3075,7 +4566,61 @@
         "ref-072"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-024",
+      "sentenceText": "질적 사례연구는 일정한 범위를 지닌 사례를 다양한 자료를 통해 심층적으로 탐구하고, 그 안에서 나타나는 경험과 의미를 실제 맥락 속에서 이해하는 연구방법이다(Creswell & Poth, 2021; Yin, 2021).",
+      "sentenceRects": [
+        [
+          59.42,
+          200.13,
+          449.84,
+          211.17
+        ],
+        [
+          48.04,
+          219.92,
+          449.84,
+          231.77
+        ],
+        [
+          48.04,
+          239.71,
+          267.75,
+          251.56
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 7,
+          "rects": [
+            [
+              59.42,
+              200.13,
+              449.84,
+              211.17
+            ],
+            [
+              48.04,
+              219.92,
+              449.84,
+              231.77
+            ],
+            [
+              48.04,
+              239.71,
+              267.75,
+              251.56
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-043",
+        "ref-072"
+      ],
+      "relatedCitationIds": [
+        "cite-027"
+      ]
     },
     {
       "id": "cite-028",
@@ -3099,7 +4644,48 @@
         "ref-002"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-025",
+      "sentenceText": "노인은 사전적으로 ‘나이가 들어 늙은 사람’을 뜻한다(국립국어원, n.d.).",
+      "sentenceRects": [
+        [
+          136.21,
+          280.48,
+          449.84,
+          292.33
+        ],
+        [
+          48.04,
+          300.26,
+          102.67,
+          312.11
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 10,
+          "rects": [
+            [
+              136.21,
+              280.48,
+              449.84,
+              292.33
+            ],
+            [
+              48.04,
+              300.26,
+              102.67,
+              312.11
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-002"
+      ],
+      "relatedCitationIds": [
+        "cite-028"
+      ]
     },
     {
       "id": "cite-029",
@@ -3118,7 +4704,61 @@
         "ref-070"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-026",
+      "sentenceText": "국제연합(UN)은 ‘세계인구고령화’ 2017년 보고서에서 60세 이상을 중심으로 고령인구를 분석하였으며, 2019년 요약보고서에서는 65세 이상을 기준으로 삼았다(United Nations, 2017, 2019).",
+      "sentenceRects": [
+        [
+          116.8,
+          384.32,
+          449.96,
+          396.17
+        ],
+        [
+          48.04,
+          404.11,
+          449.84,
+          415.96
+        ],
+        [
+          48.04,
+          423.9,
+          262.0,
+          435.74
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 10,
+          "rects": [
+            [
+              116.8,
+              384.32,
+              449.96,
+              396.17
+            ],
+            [
+              48.04,
+              404.11,
+              449.84,
+              415.96
+            ],
+            [
+              48.04,
+              423.9,
+              262.0,
+              435.74
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-069",
+        "ref-070"
+      ],
+      "relatedCitationIds": [
+        "cite-029"
+      ]
     },
     {
       "id": "cite-030",
@@ -3136,7 +4776,48 @@
         "ref-060"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-027",
+      "sentenceText": "OECD(n.d.)는 고령인구 지표를 전체 인구에서 65세 이상이 차지하는 비중으로 정의한다.",
+      "sentenceRects": [
+        [
+          268.11,
+          423.9,
+          449.96,
+          435.74
+        ],
+        [
+          48.04,
+          443.68,
+          310.15,
+          455.53
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 10,
+          "rects": [
+            [
+              268.11,
+              423.9,
+              449.96,
+              435.74
+            ],
+            [
+              48.04,
+              443.68,
+              310.15,
+              455.53
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-060"
+      ],
+      "relatedCitationIds": [
+        "cite-030"
+      ]
     },
     {
       "id": "cite-031",
@@ -3154,7 +4835,48 @@
         "ref-031"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-028",
+      "sentenceText": "국내에서도 통계청(2025)의 ‘2025 고령자 통계’는 65세 이상 인구를 고령인구로 구분한다.",
+      "sentenceRects": [
+        [
+          315.9,
+          443.68,
+          449.84,
+          455.53
+        ],
+        [
+          48.04,
+          463.47,
+          361.55,
+          475.32
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 10,
+          "rects": [
+            [
+              315.9,
+              443.68,
+              449.84,
+              455.53
+            ],
+            [
+              48.04,
+              463.47,
+              361.55,
+              475.32
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-031"
+      ],
+      "relatedCitationIds": [
+        "cite-031"
+      ]
     },
     {
       "id": "cite-032",
@@ -3172,7 +4894,60 @@
         "ref-075"
       ],
       "matchStatus": "matched",
-      "relation": "legislation"
+      "relation": "legislation",
+      "sentenceId": "sentence-029",
+      "sentenceText": "「노인복지법」 제26조는 경로우대의 대상을 65세 이상으로 정하지만, 같은 법 시행규칙 제24조는 노인복지관과 노인교실의 이용대상을 원칙적으로 60세 이상으로 정한다.",
+      "sentenceRects": [
+        [
+          372.93,
+          527.86,
+          449.84,
+          538.89
+        ],
+        [
+          48.04,
+          547.65,
+          449.84,
+          559.5
+        ],
+        [
+          48.04,
+          567.43,
+          449.84,
+          579.28
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 10,
+          "rects": [
+            [
+              372.93,
+              527.86,
+              449.84,
+              538.89
+            ],
+            [
+              48.04,
+              547.65,
+              449.84,
+              559.5
+            ],
+            [
+              48.04,
+              567.43,
+              449.84,
+              579.28
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-075"
+      ],
+      "relatedCitationIds": [
+        "cite-032"
+      ]
     },
     {
       "id": "cite-033",
@@ -3190,7 +4965,48 @@
         "ref-073"
       ],
       "matchStatus": "matched",
-      "relation": "legislation"
+      "relation": "legislation",
+      "sentenceId": "sentence-030",
+      "sentenceText": "「국민연금법」 제61조와 법률 제8541호 부칙 제8조에 따른 일반 노령연금의 지급개시연령도 출생연도에 따라 다르다.",
+      "sentenceRects": [
+        [
+          48.04,
+          587.22,
+          449.84,
+          599.07
+        ],
+        [
+          48.04,
+          607.01,
+          254.33,
+          618.85
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 10,
+          "rects": [
+            [
+              48.04,
+              587.22,
+              449.84,
+              599.07
+            ],
+            [
+              48.04,
+              607.01,
+              254.33,
+              618.85
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-073"
+      ],
+      "relatedCitationIds": [
+        "cite-033"
+      ]
     },
     {
       "id": "cite-034",
@@ -3208,7 +5024,48 @@
         "ref-017"
       ],
       "matchStatus": "matched",
-      "relation": "secondary"
+      "relation": "secondary",
+      "sentenceId": "sentence-031",
+      "sentenceText": "Erikson(1963, 변애경·윤창국, 2017에서 재인용)은 노년기의 발달과업을 자아통합과 절망으로 설명하였다.",
+      "sentenceRects": [
+        [
+          48.04,
+          160.56,
+          449.84,
+          172.41
+        ],
+        [
+          48.04,
+          180.35,
+          184.61,
+          192.2
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 11,
+          "rects": [
+            [
+              48.04,
+              160.56,
+              449.84,
+              172.41
+            ],
+            [
+              48.04,
+              180.35,
+              184.61,
+              192.2
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-017"
+      ],
+      "relatedCitationIds": [
+        "cite-034"
+      ]
     },
     {
       "id": "cite-035",
@@ -3226,7 +5083,48 @@
         "ref-015"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-032",
+      "sentenceText": "박응희와 이병준(2009)은 경험과 학습을 통해 노인이 자신과 세상을 어떻게 이해하고 다루는지에 주목하였다.",
+      "sentenceRects": [
+        [
+          233.01,
+          284.2,
+          449.96,
+          296.04
+        ],
+        [
+          48.04,
+          303.98,
+          392.81,
+          315.83
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 11,
+          "rects": [
+            [
+              233.01,
+              284.2,
+              449.96,
+              296.04
+            ],
+            [
+              48.04,
+              303.98,
+              392.81,
+              315.83
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-015"
+      ],
+      "relatedCitationIds": [
+        "cite-035"
+      ]
     },
     {
       "id": "cite-036",
@@ -3245,7 +5143,73 @@
         "ref-022"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-033",
+      "sentenceText": "실제 연구에서도 노인학습자의 범위를 정할 때 연령과 함께 교육 프로그램의 참여 여부나 학습경험을 고려하였으며, 연령 기준은 60세 이상 또는 65세 이상으로 다르게 설정되었다(김예슬, 2018; 이우현, 2026).",
+      "sentenceRects": [
+        [
+          350.29,
+          343.55,
+          449.84,
+          354.59
+        ],
+        [
+          48.04,
+          363.34,
+          449.84,
+          374.37
+        ],
+        [
+          48.04,
+          383.13,
+          449.84,
+          394.97
+        ],
+        [
+          48.04,
+          402.91,
+          215.03,
+          414.76
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 11,
+          "rects": [
+            [
+              350.29,
+              343.55,
+              449.84,
+              354.59
+            ],
+            [
+              48.04,
+              363.34,
+              449.84,
+              374.37
+            ],
+            [
+              48.04,
+              383.13,
+              449.84,
+              394.97
+            ],
+            [
+              48.04,
+              402.91,
+              215.03,
+              414.76
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-005",
+        "ref-022"
+      ],
+      "relatedCitationIds": [
+        "cite-036"
+      ]
     },
     {
       "id": "cite-037",
@@ -3263,7 +5227,60 @@
         "ref-003"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-034",
+      "sentenceText": "60세 기준을 사용한 기영화(2005)는 고등교육기관에서 이루어지는 노인의 평생교육 참여를 탐구하면서 대학의 학위과정과 평생교육원 프로그램 등에서 배우는 60세 이상을 대상으로 삼았다.",
+      "sentenceRects": [
+        [
+          68.04,
+          427.73,
+          449.84,
+          439.58
+        ],
+        [
+          48.04,
+          447.52,
+          449.84,
+          458.55
+        ],
+        [
+          48.04,
+          467.31,
+          237.56,
+          479.15
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 11,
+          "rects": [
+            [
+              68.04,
+              427.73,
+              449.84,
+              439.58
+            ],
+            [
+              48.04,
+              447.52,
+              449.84,
+              458.55
+            ],
+            [
+              48.04,
+              467.31,
+              237.56,
+              479.15
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-003"
+      ],
+      "relatedCitationIds": [
+        "cite-037"
+      ]
     },
     {
       "id": "cite-038",
@@ -3281,7 +5298,60 @@
         "ref-005"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-035",
+      "sentenceText": "김예슬(2018)도 다수의 노인 평생교육기관이 60세 이상을 학습자로 모집한다는 점을 근거로, 해당 기관의 학습 프로그램에 참여하는 60세 이상을 노인학습자로 정의하였다.",
+      "sentenceRects": [
+        [
+          90.09,
+          506.88,
+          449.96,
+          518.73
+        ],
+        [
+          48.04,
+          526.66,
+          449.96,
+          538.51
+        ],
+        [
+          48.04,
+          546.45,
+          167.48,
+          558.3
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 11,
+          "rects": [
+            [
+              90.09,
+              506.88,
+              449.96,
+              518.73
+            ],
+            [
+              48.04,
+              526.66,
+              449.96,
+              538.51
+            ],
+            [
+              48.04,
+              546.45,
+              167.48,
+              558.3
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-005"
+      ],
+      "relatedCitationIds": [
+        "cite-038"
+      ]
     },
     {
       "id": "cite-039",
@@ -3299,7 +5369,59 @@
         "ref-012"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-036",
+      "sentenceText": "65세 기준을 사용한 박소희(2023)는 노인복지법과 사회보장제도에서 복지서비스의 대상 연령을 대체로 65세로 정한다는 점을 들어, 음악 평생교육 경험이 있는 만 65세 이상을 연구대상으로 선정하였다.",
+      "sentenceRects": [
+        [
+          68.04,
+          591.06,
+          449.84,
+          602.91
+        ],
+        [
+          48.04,
+          610.84,
+          449.84,
+          622.69
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 11,
+          "rects": [
+            [
+              68.04,
+              591.06,
+              449.84,
+              602.91
+            ],
+            [
+              48.04,
+              610.84,
+              449.84,
+              622.69
+            ]
+          ]
+        },
+        {
+          "page": 12,
+          "rects": [
+            [
+              48.04,
+              76.38,
+              289.19,
+              88.23
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-012"
+      ],
+      "relatedCitationIds": [
+        "cite-039"
+      ]
     },
     {
       "id": "cite-040",
@@ -3317,7 +5439,60 @@
         "ref-022"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-037",
+      "sentenceText": "이우현(2026)은 통계·제도의 연령 기준과 앞선 노인교육 연구의 대상 범위를 검토하고, 노년기 특성을 반영하면서 연구 간 비교 가능성을 확보하기 위해 65세 기준을 채택하였다.",
+      "sentenceRects": [
+        [
+          295.18,
+          76.38,
+          449.96,
+          88.23
+        ],
+        [
+          48.04,
+          96.17,
+          449.84,
+          108.02
+        ],
+        [
+          48.04,
+          115.95,
+          404.2,
+          127.8
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 12,
+          "rects": [
+            [
+              295.18,
+              76.38,
+              449.96,
+              88.23
+            ],
+            [
+              48.04,
+              96.17,
+              449.84,
+              108.02
+            ],
+            [
+              48.04,
+              115.95,
+              404.2,
+              127.8
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-022"
+      ],
+      "relatedCitationIds": [
+        "cite-040"
+      ]
     },
     {
       "id": "cite-041",
@@ -3343,7 +5518,62 @@
         "ref-022"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-038",
+      "sentenceText": "이상의 논의를 종합하면 노인학습자의 범위는 연령만으로 정해지는 것이 아니라, 연구가 다루는 교육활동과 참여경험을 함께 고려하여 정해진다(김예슬, 2018; 배재윤, 명왕성, 2025; 이우현, 2026).",
+      "sentenceRects": [
+        [
+          68.04,
+          180.35,
+          449.84,
+          191.38
+        ],
+        [
+          48.04,
+          200.13,
+          449.84,
+          211.98
+        ],
+        [
+          48.04,
+          219.92,
+          266.43,
+          231.77
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 12,
+          "rects": [
+            [
+              68.04,
+              180.35,
+              449.84,
+              191.38
+            ],
+            [
+              48.04,
+              200.13,
+              449.84,
+              211.98
+            ],
+            [
+              48.04,
+              219.92,
+              266.43,
+              231.77
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-005",
+        "ref-016",
+        "ref-022"
+      ],
+      "relatedCitationIds": [
+        "cite-041"
+      ]
     },
     {
       "id": "cite-042",
@@ -3364,7 +5594,75 @@
         "ref-022"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-039",
+      "sentenceText": "본 연구는 OECD와 통계청의 고령인구 통계에서 사용하는 65세 기준을 따르고, 노인교육 및 노년기 발레 경험을 다룬 선행연구와 연령 범위를 일치시켜 연구참여자의 범위를 정하고자 한다(OECD, n.d.; 통계청, 2025; 배재윤, 명왕성, 2025; 이우현, 2026).",
+      "sentenceRects": [
+        [
+          273.02,
+          219.92,
+          449.84,
+          231.77
+        ],
+        [
+          48.04,
+          239.71,
+          449.84,
+          251.56
+        ],
+        [
+          48.04,
+          259.49,
+          449.96,
+          270.52
+        ],
+        [
+          48.04,
+          279.28,
+          375.92,
+          291.13
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 12,
+          "rects": [
+            [
+              273.02,
+              219.92,
+              449.84,
+              231.77
+            ],
+            [
+              48.04,
+              239.71,
+              449.84,
+              251.56
+            ],
+            [
+              48.04,
+              259.49,
+              449.96,
+              270.52
+            ],
+            [
+              48.04,
+              279.28,
+              375.92,
+              291.13
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-060",
+        "ref-031",
+        "ref-016",
+        "ref-022"
+      ],
+      "relatedCitationIds": [
+        "cite-042"
+      ]
     },
     {
       "id": "cite-043",
@@ -3382,7 +5680,48 @@
         "ref-033"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-040",
+      "sentenceText": "노년기에는 은퇴와 건강 상태의 변화, 가족과 사회에서 맡는 역할의 변화가 생활에 영향을 미친다(한정란, 2015).",
+      "sentenceRects": [
+        [
+          68.04,
+          405.31,
+          449.84,
+          417.16
+        ],
+        [
+          48.04,
+          425.1,
+          232.88,
+          436.94
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 12,
+          "rects": [
+            [
+              68.04,
+              405.31,
+              449.84,
+              417.16
+            ],
+            [
+              48.04,
+              425.1,
+              232.88,
+              436.94
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-033"
+      ],
+      "relatedCitationIds": [
+        "cite-043"
+      ]
     },
     {
       "id": "cite-044",
@@ -3400,7 +5739,60 @@
         "ref-065"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-041",
+      "sentenceText": "노년기는 생애 전환기에 해당하며 전환기의 적응과 삶의 재구성에는 신체적·심리적·사회적 요인이 복합적으로 작용된다(Schlossberg, 1981).",
+      "sentenceRects": [
+        [
+          239.0,
+          425.1,
+          449.96,
+          436.13
+        ],
+        [
+          48.04,
+          444.88,
+          449.96,
+          456.73
+        ],
+        [
+          48.04,
+          464.67,
+          153.82,
+          476.52
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 12,
+          "rects": [
+            [
+              239.0,
+              425.1,
+              449.96,
+              436.13
+            ],
+            [
+              48.04,
+              444.88,
+              449.96,
+              456.73
+            ],
+            [
+              48.04,
+              464.67,
+              153.82,
+              476.52
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-065"
+      ],
+      "relatedCitationIds": [
+        "cite-044"
+      ]
     },
     {
       "id": "cite-045",
@@ -3418,7 +5810,48 @@
         "ref-039"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-042",
+      "sentenceText": "Baltes와 Baltes(1990)는 노화 과정의 개인차와 개인이 지닌 변화 가능성을 강조하였다.",
+      "sentenceRects": [
+        [
+          160.53,
+          464.67,
+          449.96,
+          476.52
+        ],
+        [
+          48.04,
+          484.45,
+          200.18,
+          496.3
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 12,
+          "rects": [
+            [
+              160.53,
+              464.67,
+              449.96,
+              476.52
+            ],
+            [
+              48.04,
+              484.45,
+              200.18,
+              496.3
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-039"
+      ],
+      "relatedCitationIds": [
+        "cite-045"
+      ]
     },
     {
       "id": "cite-046",
@@ -3436,7 +5869,60 @@
         "ref-022"
       ],
       "matchStatus": "matched",
-      "relation": "secondary"
+      "relation": "secondary",
+      "sentenceId": "sentence-043",
+      "sentenceText": "노년기의 학습은 이러한 변화 속에서 새로운 지식과 기능을 익히고, 자신의 경험을 돌아보며 타인과 교류하는 활동으로 이어진다(박부경, 2018, 이우현, 2026에서 재인용).",
+      "sentenceRects": [
+        [
+          206.05,
+          484.45,
+          449.84,
+          495.49
+        ],
+        [
+          48.04,
+          504.24,
+          449.84,
+          516.09
+        ],
+        [
+          48.04,
+          524.03,
+          279.85,
+          535.87
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 12,
+          "rects": [
+            [
+              206.05,
+              484.45,
+              449.84,
+              495.49
+            ],
+            [
+              48.04,
+              504.24,
+              449.84,
+              516.09
+            ],
+            [
+              48.04,
+              524.03,
+              279.85,
+              535.87
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-022"
+      ],
+      "relatedCitationIds": [
+        "cite-046"
+      ]
     },
     {
       "id": "cite-047",
@@ -3454,7 +5940,60 @@
         "ref-014"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-044",
+      "sentenceText": "박응희(2016)는 노년기의 학습에서 생애경험을 표현하고 감정과 생각을 공유하는 과정에서 자기성찰과 타인 이해가 이루어지는 데 주목하였다.",
+      "sentenceRects": [
+        [
+          286.43,
+          524.03,
+          449.84,
+          535.87
+        ],
+        [
+          48.04,
+          543.81,
+          449.84,
+          554.84
+        ],
+        [
+          48.04,
+          563.6,
+          213.12,
+          575.45
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 12,
+          "rects": [
+            [
+              286.43,
+              524.03,
+              449.84,
+              535.87
+            ],
+            [
+              48.04,
+              543.81,
+              449.84,
+              554.84
+            ],
+            [
+              48.04,
+              563.6,
+              213.12,
+              575.45
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-014"
+      ],
+      "relatedCitationIds": [
+        "cite-047"
+      ]
     },
     {
       "id": "cite-048",
@@ -3472,7 +6011,48 @@
         "ref-005"
       ],
       "matchStatus": "matched",
-      "relation": "secondary"
+      "relation": "secondary",
+      "sentenceId": "sentence-045",
+      "sentenceText": "노인은 노화를 겪으며 외적인 변화와 함께 신체 각 기관의 능력 저하를 겪게 된다(황재연, 2016, 김예슬, 2018에서 재인용).",
+      "sentenceRects": [
+        [
+          48.04,
+          120.99,
+          449.84,
+          132.02
+        ],
+        [
+          48.04,
+          140.78,
+          279.85,
+          152.63
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 13,
+          "rects": [
+            [
+              48.04,
+              120.99,
+              449.84,
+              132.02
+            ],
+            [
+              48.04,
+              140.78,
+              279.85,
+              152.63
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-005"
+      ],
+      "relatedCitationIds": [
+        "cite-048"
+      ]
     },
     {
       "id": "cite-049",
@@ -3490,7 +6070,72 @@
         "ref-033"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-046",
+      "sentenceText": "한정란(2015)은 노년기의 신체적 변화를 근육과 골격, 신체 기능, 감각 등의 측면에서 설명하였으며, 개인별로 차이는 있으나 노인들은 여러 종류의 질환을 갖게 되면서 신체적으로 불리한 위치에 놓이게 된다.",
+      "sentenceRects": [
+        [
+          286.43,
+          140.78,
+          449.84,
+          152.63
+        ],
+        [
+          48.04,
+          160.56,
+          449.84,
+          172.41
+        ],
+        [
+          48.04,
+          180.35,
+          449.84,
+          191.38
+        ],
+        [
+          48.04,
+          200.13,
+          151.06,
+          211.98
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 13,
+          "rects": [
+            [
+              286.43,
+              140.78,
+              449.84,
+              152.63
+            ],
+            [
+              48.04,
+              160.56,
+              449.84,
+              172.41
+            ],
+            [
+              48.04,
+              180.35,
+              449.84,
+              191.38
+            ],
+            [
+              48.04,
+              200.13,
+              151.06,
+              211.98
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-033"
+      ],
+      "relatedCitationIds": [
+        "cite-049"
+      ]
     },
     {
       "id": "cite-050",
@@ -3508,7 +6153,60 @@
         "ref-033"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-047",
+      "sentenceText": "또한 움직임이 많은 활동의 수행과 피로의 정도는 수업시간과 휴식, 활동의 강도에 따라 달라질 수 있다(한정란, 2015).",
+      "sentenceRects": [
+        [
+          427.91,
+          299.06,
+          449.96,
+          310.1
+        ],
+        [
+          48.04,
+          318.85,
+          449.84,
+          330.7
+        ],
+        [
+          48.04,
+          338.64,
+          225.58,
+          350.49
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 13,
+          "rects": [
+            [
+              427.91,
+              299.06,
+              449.96,
+              310.1
+            ],
+            [
+              48.04,
+              318.85,
+              449.84,
+              330.7
+            ],
+            [
+              48.04,
+              338.64,
+              225.58,
+              350.49
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-033"
+      ],
+      "relatedCitationIds": [
+        "cite-050"
+      ]
     },
     {
       "id": "cite-051",
@@ -3526,7 +6224,48 @@
         "ref-064"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-048",
+      "sentenceText": "Salthouse(1996)는 성인기의 인지 수행에서 나타나는 연령 차이를 설명하는 주요 요인으로 정보처리 속도의 감소를 제시하였다.",
+      "sentenceRects": [
+        [
+          197.78,
+          407.95,
+          449.84,
+          419.8
+        ],
+        [
+          48.04,
+          427.73,
+          449.84,
+          439.58
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 13,
+          "rects": [
+            [
+              197.78,
+              407.95,
+              449.84,
+              419.8
+            ],
+            [
+              48.04,
+              427.73,
+              449.84,
+              439.58
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-064"
+      ],
+      "relatedCitationIds": [
+        "cite-051"
+      ]
     },
     {
       "id": "cite-052",
@@ -3550,7 +6289,60 @@
         "ref-033"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-049",
+      "sentenceText": "노년기의 학습 수행에는 과제의 친숙성, 학습과 반응에 허용되는 시간, 건강 상태와 생활경험 등이 함께 관련된다(한정란, 2015).",
+      "sentenceRects": [
+        [
+          229.41,
+          487.09,
+          449.96,
+          498.94
+        ],
+        [
+          48.04,
+          506.88,
+          449.84,
+          518.73
+        ],
+        [
+          48.04,
+          527.48,
+          76.43,
+          538.51
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 13,
+          "rects": [
+            [
+              229.41,
+              487.09,
+              449.96,
+              498.94
+            ],
+            [
+              48.04,
+              506.88,
+              449.84,
+              518.73
+            ],
+            [
+              48.04,
+              527.48,
+              76.43,
+              538.51
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-033"
+      ],
+      "relatedCitationIds": [
+        "cite-052"
+      ]
     },
     {
       "id": "cite-053",
@@ -3568,7 +6360,48 @@
         "ref-009"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-050",
+      "sentenceText": "또한 오랜 경험을 통해 쌓은 지식과 판단은 새로운 내용을 이해하는 자원이 된다(김한별, 2025).",
+      "sentenceRects": [
+        [
+          82.54,
+          526.66,
+          449.96,
+          537.7
+        ],
+        [
+          48.04,
+          546.45,
+          172.99,
+          558.3
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 13,
+          "rects": [
+            [
+              82.54,
+              526.66,
+              449.96,
+              537.7
+            ],
+            [
+              48.04,
+              546.45,
+              172.99,
+              558.3
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-009"
+      ],
+      "relatedCitationIds": [
+        "cite-053"
+      ]
     },
     {
       "id": "cite-054",
@@ -3592,7 +6425,60 @@
         "ref-040"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-051",
+      "sentenceText": "Carstensen, Isaacowitz와 Charles(1999)는 남은 시간을 어떻게 지각하는가에 따라 추구하는 목표의 우선순위가 달라진다고 설명하였다.",
+      "sentenceRects": [
+        [
+          326.21,
+          566.24,
+          449.96,
+          578.08
+        ],
+        [
+          48.04,
+          586.02,
+          449.84,
+          597.87
+        ],
+        [
+          48.04,
+          605.81,
+          208.21,
+          617.66
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 13,
+          "rects": [
+            [
+              326.21,
+              566.24,
+              449.96,
+              578.08
+            ],
+            [
+              48.04,
+              586.02,
+              449.84,
+              597.87
+            ],
+            [
+              48.04,
+              605.81,
+              208.21,
+              617.66
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-040"
+      ],
+      "relatedCitationIds": [
+        "cite-054"
+      ]
     },
     {
       "id": "cite-055",
@@ -3616,7 +6502,60 @@
         "ref-009"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-052",
+      "sentenceText": "김한별(2025)은 노인학습자가 새로운 지식과 기술을 배우고 활용하는 경험을 통해 자신의 능력과 사회적 기여 가능성을 인식할 수 있다고 설명하였다.",
+      "sentenceRects": [
+        [
+          416.89,
+          96.17,
+          449.84,
+          107.2
+        ],
+        [
+          48.04,
+          115.95,
+          449.84,
+          127.8
+        ],
+        [
+          48.04,
+          135.74,
+          383.23,
+          147.59
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 14,
+          "rects": [
+            [
+              416.89,
+              96.17,
+              449.84,
+              107.2
+            ],
+            [
+              48.04,
+              115.95,
+              449.84,
+              127.8
+            ],
+            [
+              48.04,
+              135.74,
+              383.23,
+              147.59
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-009"
+      ],
+      "relatedCitationIds": [
+        "cite-055"
+      ]
     },
     {
       "id": "cite-056",
@@ -3640,7 +6579,60 @@
         "ref-004"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-053",
+      "sentenceText": "김아영과 김효정(2021)의 노인 미술교육 사례에서도 참여자들이 서로 칭찬하고 격려하며 작품을 통해 자신의 가치를 확인하는 모습이 나타났다.",
+      "sentenceRects": [
+        [
+          389.1,
+          135.74,
+          449.84,
+          146.77
+        ],
+        [
+          48.04,
+          155.53,
+          449.84,
+          167.37
+        ],
+        [
+          48.04,
+          175.31,
+          325.25,
+          187.16
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 14,
+          "rects": [
+            [
+              389.1,
+              135.74,
+              449.84,
+              146.77
+            ],
+            [
+              48.04,
+              155.53,
+              449.84,
+              167.37
+            ],
+            [
+              48.04,
+              175.31,
+              325.25,
+              187.16
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-004"
+      ],
+      "relatedCitationIds": [
+        "cite-056"
+      ]
     },
     {
       "id": "cite-057",
@@ -3658,7 +6650,60 @@
         "ref-033"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-054",
+      "sentenceText": "한정란(2015)은 새로운 지위를 얻거나 기존 지위를 떠나는 역할 전환과, 같은 역할에 대한 주변의 기대가 달라지는 역할 변화를 구별하였다.",
+      "sentenceRects": [
+        [
+          151.42,
+          244.62,
+          449.84,
+          256.47
+        ],
+        [
+          48.04,
+          264.41,
+          449.84,
+          276.26
+        ],
+        [
+          48.04,
+          284.2,
+          61.82,
+          296.04
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 14,
+          "rects": [
+            [
+              151.42,
+              244.62,
+              449.84,
+              256.47
+            ],
+            [
+              48.04,
+              264.41,
+              449.84,
+              276.26
+            ],
+            [
+              48.04,
+              284.2,
+              61.82,
+              296.04
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-033"
+      ],
+      "relatedCitationIds": [
+        "cite-057"
+      ]
     },
     {
       "id": "cite-058",
@@ -3676,7 +6721,60 @@
         "ref-065"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-055",
+      "sentenceText": "Schlossberg(1981)는 전환에 대한 적응을 설명하는 환경적 조건으로 대인관계의 지원체계, 기관의 지원, 물리적 환경을 제시하였다.",
+      "sentenceRects": [
+        [
+          289.43,
+          303.98,
+          449.96,
+          315.83
+        ],
+        [
+          48.04,
+          323.77,
+          449.96,
+          335.62
+        ],
+        [
+          48.04,
+          343.55,
+          145.31,
+          355.4
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 14,
+          "rects": [
+            [
+              289.43,
+              303.98,
+              449.96,
+              315.83
+            ],
+            [
+              48.04,
+              323.77,
+              449.96,
+              335.62
+            ],
+            [
+              48.04,
+              343.55,
+              145.31,
+              355.4
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-065"
+      ],
+      "relatedCitationIds": [
+        "cite-058"
+      ]
     },
     {
       "id": "cite-059",
@@ -3694,7 +6792,48 @@
         "ref-005"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-056",
+      "sentenceText": "김예슬(2018)의 노인학습자 연구에서도 주관적 경제상태를 고려한 후 사회적 지지와 성공적 노화의 정적 관계가 나타났다.",
+      "sentenceRects": [
+        [
+          152.02,
+          343.55,
+          449.96,
+          355.4
+        ],
+        [
+          48.04,
+          363.34,
+          377.36,
+          375.19
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 14,
+          "rects": [
+            [
+              152.02,
+              343.55,
+              449.96,
+              355.4
+            ],
+            [
+              48.04,
+              363.34,
+              377.36,
+              375.19
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-005"
+      ],
+      "relatedCitationIds": [
+        "cite-059"
+      ]
     },
     {
       "id": "cite-060",
@@ -3712,7 +6851,48 @@
         "ref-009"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-057",
+      "sentenceText": "김한별(2025)은 노인이 삶에서 습득한 지식과 기술을 동료 노인이나 다른 세대의 학습을 돕는 교육자원으로 설명하였다.",
+      "sentenceRects": [
+        [
+          78.47,
+          402.91,
+          449.84,
+          414.76
+        ],
+        [
+          48.04,
+          422.7,
+          283.32,
+          434.55
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 14,
+          "rects": [
+            [
+              78.47,
+              402.91,
+              449.84,
+              414.76
+            ],
+            [
+              48.04,
+              422.7,
+              283.32,
+              434.55
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-009"
+      ],
+      "relatedCitationIds": [
+        "cite-060"
+      ]
     },
     {
       "id": "cite-061",
@@ -3730,7 +6910,36 @@
         "ref-011"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-058",
+      "sentenceText": "문화예술교육은 문화교육과 예술교육이 결합된 개념이다(민경훈, 2013).",
+      "sentenceRects": [
+        [
+          68.04,
+          155.77,
+          432.23,
+          167.61
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 15,
+          "rects": [
+            [
+              68.04,
+              155.77,
+              432.23,
+              167.61
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-011"
+      ],
+      "relatedCitationIds": [
+        "cite-061"
+      ]
     },
     {
       "id": "cite-062",
@@ -3754,7 +6963,72 @@
         "ref-026"
       ],
       "matchStatus": "matched",
-      "relation": "secondary"
+      "relation": "secondary",
+      "sentenceId": "sentence-059",
+      "sentenceText": "문화교육은 사회집단의 언어와 생활양식, 관습, 학문과 예술 등을 다루며, 예술교육은 음악·미술·무용 등 각 장르의 교육과정과 방법을 통해 이루어진다(노슬기, 2018, 정재성, 2023에서 재인용).",
+      "sentenceRects": [
+        [
+          438.94,
+          155.77,
+          449.96,
+          166.8
+        ],
+        [
+          48.04,
+          175.55,
+          449.84,
+          187.4
+        ],
+        [
+          48.04,
+          195.34,
+          449.84,
+          207.19
+        ],
+        [
+          48.04,
+          215.12,
+          208.45,
+          226.97
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 15,
+          "rects": [
+            [
+              438.94,
+              155.77,
+              449.96,
+              166.8
+            ],
+            [
+              48.04,
+              175.55,
+              449.84,
+              187.4
+            ],
+            [
+              48.04,
+              195.34,
+              449.84,
+              207.19
+            ],
+            [
+              48.04,
+              215.12,
+              208.45,
+              226.97
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-026"
+      ],
+      "relatedCitationIds": [
+        "cite-062"
+      ]
     },
     {
       "id": "cite-063",
@@ -3778,7 +7052,72 @@
         "ref-023"
       ],
       "matchStatus": "matched",
-      "relation": "secondary"
+      "relation": "secondary",
+      "sentenceId": "sentence-060",
+      "sentenceText": "김세훈 외(2004, 이혜림, 2014에서 재인용)는 예술을 통한 상상적 사고와 감성적 인식, 창의적 활동이 문화적 소통 및 비판적·반성적 사고와 상호작용하는 교육으로 문화예술교육을 설명하였다.",
+      "sentenceRects": [
+        [
+          330.76,
+          234.91,
+          449.84,
+          246.76
+        ],
+        [
+          48.04,
+          254.7,
+          449.96,
+          266.54
+        ],
+        [
+          48.04,
+          274.48,
+          449.84,
+          286.33
+        ],
+        [
+          48.04,
+          294.27,
+          94.76,
+          306.12
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 15,
+          "rects": [
+            [
+              330.76,
+              234.91,
+              449.84,
+              246.76
+            ],
+            [
+              48.04,
+              254.7,
+              449.96,
+              266.54
+            ],
+            [
+              48.04,
+              274.48,
+              449.84,
+              286.33
+            ],
+            [
+              48.04,
+              294.27,
+              94.76,
+              306.12
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-023"
+      ],
+      "relatedCitationIds": [
+        "cite-063"
+      ]
     },
     {
       "id": "cite-064",
@@ -3796,7 +7135,48 @@
         "ref-023"
       ],
       "matchStatus": "matched",
-      "relation": "secondary"
+      "relation": "secondary",
+      "sentenceId": "sentence-061",
+      "sentenceText": "황정현 외(2009, 이혜림, 2014에서 재인용)도 교육의 목적과 필요에 따라 문화교육과 예술교육을 유기적으로 연결하는 데 주목하였다.",
+      "sentenceRects": [
+        [
+          101.83,
+          294.27,
+          449.96,
+          306.12
+        ],
+        [
+          48.04,
+          314.05,
+          383.11,
+          325.9
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 15,
+          "rects": [
+            [
+              101.83,
+              294.27,
+              449.96,
+              306.12
+            ],
+            [
+              48.04,
+              314.05,
+              383.11,
+              325.9
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-023"
+      ],
+      "relatedCitationIds": [
+        "cite-064"
+      ]
     },
     {
       "id": "cite-065",
@@ -3814,7 +7194,50 @@
         "ref-076"
       ],
       "matchStatus": "matched",
-      "relation": "legislation"
+      "relation": "legislation",
+      "sentenceId": "sentence-062",
+      "sentenceText": "같은 해 12월 「문화예술교육 지원법」이 제정되면서 학교와 사회의 문화예술교육을 지원하는 근거가 마련되었다(박수아, 2015).",
+      "sentenceRects": [
+        [
+          111.65,
+          437.69,
+          449.84,
+          449.53
+        ],
+        [
+          48.04,
+          457.47,
+          366.7,
+          469.32
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 15,
+          "rects": [
+            [
+              111.65,
+              437.69,
+              449.84,
+              449.53
+            ],
+            [
+              48.04,
+              457.47,
+              366.7,
+              469.32
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-076",
+        "ref-013"
+      ],
+      "relatedCitationIds": [
+        "cite-065",
+        "cite-066"
+      ]
     },
     {
       "id": "cite-066",
@@ -3832,7 +7255,50 @@
         "ref-013"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-062",
+      "sentenceText": "같은 해 12월 「문화예술교육 지원법」이 제정되면서 학교와 사회의 문화예술교육을 지원하는 근거가 마련되었다(박수아, 2015).",
+      "sentenceRects": [
+        [
+          111.65,
+          437.69,
+          449.84,
+          449.53
+        ],
+        [
+          48.04,
+          457.47,
+          366.7,
+          469.32
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 15,
+          "rects": [
+            [
+              111.65,
+              437.69,
+              449.84,
+              449.53
+            ],
+            [
+              48.04,
+              457.47,
+              366.7,
+              469.32
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-076",
+        "ref-013"
+      ],
+      "relatedCitationIds": [
+        "cite-065",
+        "cite-066"
+      ]
     },
     {
       "id": "cite-067",
@@ -3856,7 +7322,60 @@
         "ref-076"
       ],
       "matchStatus": "matched",
-      "relation": "legislation"
+      "relation": "legislation",
+      "sentenceId": "sentence-063",
+      "sentenceText": "「문화예술교육 지원법」 제2조 제1호는 문화예술과 문화산업, 국가유산 및 자연유산을 교육내용으로 삼거나 교육과정에 활용하는 교육을 문화예술교육으로 규정한다.",
+      "sentenceRects": [
+        [
+          373.05,
+          457.47,
+          449.96,
+          468.5
+        ],
+        [
+          48.04,
+          477.26,
+          449.84,
+          489.11
+        ],
+        [
+          48.04,
+          497.04,
+          416.05,
+          508.89
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 15,
+          "rects": [
+            [
+              373.05,
+              457.47,
+              449.96,
+              468.5
+            ],
+            [
+              48.04,
+              477.26,
+              449.84,
+              489.11
+            ],
+            [
+              48.04,
+              497.04,
+              416.05,
+              508.89
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-076"
+      ],
+      "relatedCitationIds": [
+        "cite-067"
+      ]
     },
     {
       "id": "cite-068",
@@ -3874,7 +7393,48 @@
         "ref-068"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-064",
+      "sentenceText": "UNESCO(2006)는 예술 분야 자체를 배우는 접근과 예술을 다른 학습의 방법으로 활용하는 접근을 구별하였다.",
+      "sentenceRects": [
+        [
+          230.13,
+          115.95,
+          449.96,
+          127.8
+        ],
+        [
+          48.04,
+          135.74,
+          392.81,
+          147.59
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 16,
+          "rects": [
+            [
+              230.13,
+              115.95,
+              449.96,
+              127.8
+            ],
+            [
+              48.04,
+              135.74,
+              392.81,
+              147.59
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-068"
+      ],
+      "relatedCitationIds": [
+        "cite-068"
+      ]
     },
     {
       "id": "cite-069",
@@ -3892,7 +7452,48 @@
         "ref-010"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-065",
+      "sentenceText": "남궁홍(2025)은 문화·예술·교육의 관련성을 논하면서 예술을 외적인 성과를 얻기 위한 수단으로만 다루는 관점을 비판하였다.",
+      "sentenceRects": [
+        [
+          48.04,
+          239.71,
+          449.84,
+          251.56
+        ],
+        [
+          48.04,
+          259.49,
+          291.95,
+          271.34
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 16,
+          "rects": [
+            [
+              48.04,
+              239.71,
+              449.84,
+              251.56
+            ],
+            [
+              48.04,
+              259.49,
+              291.95,
+              271.34
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-010"
+      ],
+      "relatedCitationIds": [
+        "cite-069"
+      ]
     },
     {
       "id": "cite-070",
@@ -3910,7 +7511,48 @@
         "ref-077"
       ],
       "matchStatus": "matched",
-      "relation": "legislation"
+      "relation": "legislation",
+      "sentenceId": "sentence-066",
+      "sentenceText": "평생교육에서 문화예술교육은 「평생교육법」 제2조 제1호에 열거된 일곱 교육영역 가운데 하나이다.",
+      "sentenceRects": [
+        [
+          68.04,
+          323.77,
+          449.84,
+          335.62
+        ],
+        [
+          48.04,
+          343.55,
+          186.28,
+          355.4
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 16,
+          "rects": [
+            [
+              68.04,
+              323.77,
+              449.84,
+              335.62
+            ],
+            [
+              48.04,
+              343.55,
+              186.28,
+              355.4
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-077"
+      ],
+      "relatedCitationIds": [
+        "cite-070"
+      ]
     },
     {
       "id": "cite-071",
@@ -3929,7 +7571,61 @@
         "ref-030"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-067",
+      "sentenceText": "평생교육에서 문화예술교육은 문화예술적 상상력과 창의력을 기르고, 예술 활동과 기능을 익히며, 일상생활에서 문화예술을 향유하고 활용하는 능력을 기르는 교육이다(김진화 외, 2010; 조순옥, 2025).",
+      "sentenceRects": [
+        [
+          68.16,
+          422.7,
+          449.84,
+          434.55
+        ],
+        [
+          48.04,
+          442.48,
+          449.96,
+          454.33
+        ],
+        [
+          48.04,
+          462.27,
+          282.36,
+          474.12
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 16,
+          "rects": [
+            [
+              68.16,
+              422.7,
+              449.84,
+              434.55
+            ],
+            [
+              48.04,
+              442.48,
+              449.96,
+              454.33
+            ],
+            [
+              48.04,
+              462.27,
+              282.36,
+              474.12
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-008",
+        "ref-030"
+      ],
+      "relatedCitationIds": [
+        "cite-071"
+      ]
     },
     {
       "id": "cite-072",
@@ -3947,7 +7643,60 @@
         "ref-008"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-068",
+      "sentenceText": "김진화 외(2010)의 분류체제에서는 문화예술교육을 레저생활스포츠, 생활문화예술, 문화예술향상 프로그램으로 구분한다.",
+      "sentenceRects": [
+        [
+          288.11,
+          462.27,
+          449.96,
+          474.12
+        ],
+        [
+          48.04,
+          482.05,
+          449.96,
+          493.9
+        ],
+        [
+          48.04,
+          501.84,
+          94.76,
+          513.69
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 16,
+          "rects": [
+            [
+              288.11,
+              462.27,
+              449.96,
+              474.12
+            ],
+            [
+              48.04,
+              482.05,
+              449.96,
+              493.9
+            ],
+            [
+              48.04,
+              501.84,
+              94.76,
+              513.69
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-008"
+      ],
+      "relatedCitationIds": [
+        "cite-072"
+      ]
     },
     {
       "id": "cite-073",
@@ -3965,7 +7714,60 @@
         "ref-032"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-069",
+      "sentenceText": "한수정 외(2023)는 문화예술교육이 미적 감수성과 창의성을 기르고 전인적 성장을 지향한다고 설명하였다.",
+      "sentenceRects": [
+        [
+          349.21,
+          133.1,
+          449.84,
+          144.95
+        ],
+        [
+          48.04,
+          152.89,
+          449.84,
+          163.92
+        ],
+        [
+          48.04,
+          172.67,
+          105.66,
+          184.52
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 17,
+          "rects": [
+            [
+              349.21,
+              133.1,
+              449.84,
+              144.95
+            ],
+            [
+              48.04,
+              152.89,
+              449.84,
+              163.92
+            ],
+            [
+              48.04,
+              172.67,
+              105.66,
+              184.52
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-032"
+      ],
+      "relatedCitationIds": [
+        "cite-073"
+      ]
     },
     {
       "id": "cite-074",
@@ -3983,7 +7785,60 @@
         "ref-068"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-070",
+      "sentenceText": "UNESCO(2006)는 예술교육이 학습자가 속한 문화를 출발점으로 삼아 다른 문화를 이해하고 존중하도록 구성되어야 한다고 보았다.",
+      "sentenceRects": [
+        [
+          255.17,
+          276.64,
+          449.84,
+          288.49
+        ],
+        [
+          48.04,
+          296.43,
+          449.96,
+          307.46
+        ],
+        [
+          48.04,
+          316.21,
+          123.63,
+          328.06
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 17,
+          "rects": [
+            [
+              255.17,
+              276.64,
+              449.84,
+              288.49
+            ],
+            [
+              48.04,
+              296.43,
+              449.96,
+              307.46
+            ],
+            [
+              48.04,
+              316.21,
+              123.63,
+              328.06
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-068"
+      ],
+      "relatedCitationIds": [
+        "cite-074"
+      ]
     },
     {
       "id": "cite-075",
@@ -4001,7 +7856,60 @@
         "ref-032"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-071",
+      "sentenceText": "한수정 외(2023)도 지역의 전통과 특성을 교육내용으로 다루고 이를 현대적 감각으로 표현하는 문화예술교육의 역할을 설명하였다.",
+      "sentenceRects": [
+        [
+          282.6,
+          336.0,
+          449.84,
+          347.85
+        ],
+        [
+          48.04,
+          355.78,
+          449.84,
+          366.82
+        ],
+        [
+          48.04,
+          375.57,
+          148.43,
+          387.42
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 17,
+          "rects": [
+            [
+              282.6,
+              336.0,
+              449.84,
+              347.85
+            ],
+            [
+              48.04,
+              355.78,
+              449.84,
+              366.82
+            ],
+            [
+              48.04,
+              375.57,
+              148.43,
+              387.42
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-032"
+      ],
+      "relatedCitationIds": [
+        "cite-075"
+      ]
     },
     {
       "id": "cite-076",
@@ -4025,7 +7933,60 @@
         "ref-032"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-072",
+      "sentenceText": "한수정 외(2023)는 여러 예술 영역과 학문을 연결하는 문화예술교육의 통합적 성격을 설명하였다.",
+      "sentenceRects": [
+        [
+          416.89,
+          439.96,
+          449.96,
+          451.0
+        ],
+        [
+          48.04,
+          459.75,
+          449.96,
+          471.6
+        ],
+        [
+          48.04,
+          479.54,
+          105.66,
+          491.39
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 17,
+          "rects": [
+            [
+              416.89,
+              439.96,
+              449.96,
+              451.0
+            ],
+            [
+              48.04,
+              459.75,
+              449.96,
+              471.6
+            ],
+            [
+              48.04,
+              479.54,
+              105.66,
+              491.39
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-032"
+      ],
+      "relatedCitationIds": [
+        "cite-076"
+      ]
     },
     {
       "id": "cite-077",
@@ -4043,7 +8004,48 @@
         "ref-068"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-073",
+      "sentenceText": "UNESCO(2006) 역시 예술의 여러 형식이 하나의 분야에만 속하지 않는다는 점에서 분야 간의 관련성과 공통점에 주목하였다.",
+      "sentenceRects": [
+        [
+          112.13,
+          479.54,
+          449.96,
+          491.39
+        ],
+        [
+          48.04,
+          499.32,
+          358.31,
+          511.17
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 17,
+          "rects": [
+            [
+              112.13,
+              479.54,
+              449.96,
+              491.39
+            ],
+            [
+              48.04,
+              499.32,
+              358.31,
+              511.17
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-068"
+      ],
+      "relatedCitationIds": [
+        "cite-077"
+      ]
     },
     {
       "id": "cite-078",
@@ -4061,7 +8063,48 @@
         "ref-068"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-074",
+      "sentenceText": "UNESCO(2006)는 작품에 관한 학습, 작품·공연과의 직접적인 만남, 예술적 실천을 상호보완적인 교육활동으로 제시하였다.",
+      "sentenceRects": [
+        [
+          48.04,
+          96.17,
+          449.84,
+          108.02
+        ],
+        [
+          48.04,
+          115.95,
+          290.87,
+          127.8
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 18,
+          "rects": [
+            [
+              48.04,
+              96.17,
+              449.84,
+              108.02
+            ],
+            [
+              48.04,
+              115.95,
+              290.87,
+              127.8
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-068"
+      ],
+      "relatedCitationIds": [
+        "cite-078"
+      ]
     },
     {
       "id": "cite-079",
@@ -4079,7 +8122,60 @@
         "ref-004"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-075",
+      "sentenceText": "김아영과 김효정(2021)의 노인 미술교육에서도 참여자가 자신의 그림을 그린 뒤 다른 참여자의 그림을 보며 다시 연습하는 모습이 관찰되었다.",
+      "sentenceRects": [
+        [
+          282.6,
+          195.1,
+          449.84,
+          206.95
+        ],
+        [
+          48.04,
+          214.88,
+          449.84,
+          225.92
+        ],
+        [
+          48.04,
+          234.67,
+          220.91,
+          246.52
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 18,
+          "rects": [
+            [
+              282.6,
+              195.1,
+              449.84,
+              206.95
+            ],
+            [
+              48.04,
+              214.88,
+              449.84,
+              225.92
+            ],
+            [
+              48.04,
+              234.67,
+              220.91,
+              246.52
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-004"
+      ],
+      "relatedCitationIds": [
+        "cite-079"
+      ]
     },
     {
       "id": "cite-080",
@@ -4097,7 +8193,60 @@
         "ref-046"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-076",
+      "sentenceText": "Eisner(2004)는 예술에서 무엇을 표현하는가와 함께 그 내용을 어떠한 형식으로 나타내는지가 중요하다고 설명하였다.",
+      "sentenceRects": [
+        [
+          288.47,
+          279.28,
+          449.84,
+          291.13
+        ],
+        [
+          48.04,
+          299.06,
+          449.96,
+          310.1
+        ],
+        [
+          48.04,
+          318.85,
+          105.66,
+          330.7
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 18,
+          "rects": [
+            [
+              288.47,
+              279.28,
+              449.84,
+              291.13
+            ],
+            [
+              48.04,
+              299.06,
+              449.96,
+              310.1
+            ],
+            [
+              48.04,
+              318.85,
+              105.66,
+              330.7
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-046"
+      ],
+      "relatedCitationIds": [
+        "cite-080"
+      ]
     },
     {
       "id": "cite-081",
@@ -4115,7 +8264,48 @@
         "ref-032"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-077",
+      "sentenceText": "한수정 외(2023)는 자신의 생각과 감정을 표현하고 다른 사람과 교감하는 기회를 문화예술교육의 역할로 설명하였다.",
+      "sentenceRects": [
+        [
+          230.13,
+          462.27,
+          449.84,
+          474.12
+        ],
+        [
+          48.04,
+          482.05,
+          449.84,
+          493.9
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 18,
+          "rects": [
+            [
+              230.13,
+              462.27,
+              449.84,
+              474.12
+            ],
+            [
+              48.04,
+              482.05,
+              449.84,
+              493.9
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-032"
+      ],
+      "relatedCitationIds": [
+        "cite-081"
+      ]
     },
     {
       "id": "cite-082",
@@ -4133,7 +8323,48 @@
         "ref-068"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-078",
+      "sentenceText": "UNESCO(2006)도 다양한 사회적·문화적·역사적 맥락에서 소통하도록 교육의 내용과 방식을 구성할 것을 강조하였다.",
+      "sentenceRects": [
+        [
+          48.04,
+          501.84,
+          449.84,
+          513.69
+        ],
+        [
+          48.04,
+          521.63,
+          261.28,
+          533.48
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 18,
+          "rects": [
+            [
+              48.04,
+              501.84,
+              449.84,
+              513.69
+            ],
+            [
+              48.04,
+              521.63,
+              261.28,
+              533.48
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-068"
+      ],
+      "relatedCitationIds": [
+        "cite-082"
+      ]
     },
     {
       "id": "cite-083",
@@ -4151,7 +8382,48 @@
         "ref-010"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-079",
+      "sentenceText": "남궁홍(2025)의 노인 미술교육에서는 자매인 참여자들이 기억 속 교실을 그린 뒤 서로의 그림을 보여 주며 학창 시절의 기억을 나누었다.",
+      "sentenceRects": [
+        [
+          48.04,
+          561.2,
+          449.96,
+          573.05
+        ],
+        [
+          48.04,
+          580.98,
+          385.39,
+          592.83
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 18,
+          "rects": [
+            [
+              48.04,
+              561.2,
+              449.96,
+              573.05
+            ],
+            [
+              48.04,
+              580.98,
+              385.39,
+              592.83
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-010"
+      ],
+      "relatedCitationIds": [
+        "cite-083"
+      ]
     },
     {
       "id": "cite-084",
@@ -4170,7 +8442,61 @@
         "ref-068"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-080",
+      "sentenceText": "이상을 종합하면 문화예술교육에서는 문화적 맥락과 여러 표현방법의 관련성을 살피고, 감상·표현·탐구를 연결하며, 표현에 관한 판단과 경험의 공유를 중요하게 다룬다(Eisner, 2004; UNESCO, 2006).",
+      "sentenceRects": [
+        [
+          68.04,
+          76.38,
+          449.84,
+          87.41
+        ],
+        [
+          48.04,
+          96.17,
+          449.96,
+          108.02
+        ],
+        [
+          48.04,
+          115.95,
+          336.03,
+          127.8
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 19,
+          "rects": [
+            [
+              68.04,
+              76.38,
+              449.84,
+              87.41
+            ],
+            [
+              48.04,
+              96.17,
+              449.96,
+              108.02
+            ],
+            [
+              48.04,
+              115.95,
+              336.03,
+              127.8
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-046",
+        "ref-068"
+      ],
+      "relatedCitationIds": [
+        "cite-084"
+      ]
     },
     {
       "id": "cite-085",
@@ -4188,7 +8514,60 @@
         "ref-010"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-081",
+      "sentenceText": "또한 교육적 의미는 기능의 향상이나 완성된 결과뿐 아니라 학습자가 예술을 경험하는 과정 자체에서도 찾을 수 있다(남궁홍, 2025).",
+      "sentenceRects": [
+        [
+          344.66,
+          115.95,
+          449.96,
+          126.99
+        ],
+        [
+          48.04,
+          135.74,
+          449.96,
+          146.77
+        ],
+        [
+          48.04,
+          155.53,
+          272.18,
+          167.37
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 19,
+          "rects": [
+            [
+              344.66,
+              115.95,
+              449.96,
+              126.99
+            ],
+            [
+              48.04,
+              135.74,
+              449.96,
+              146.77
+            ],
+            [
+              48.04,
+              155.53,
+              272.18,
+              167.37
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-010"
+      ],
+      "relatedCitationIds": [
+        "cite-085"
+      ]
     },
     {
       "id": "cite-086",
@@ -4206,7 +8585,79 @@
         "ref-044"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-082",
+      "sentenceText": "Dewey(1938)는 경험의 교육적 가치에, Kolb(1984)는 경험의 변형을 통한 지식 형성에, Mezirow(1997)는 경험을 해석하는 준거틀에, Jarvis(2006, 2009)는 사회적 상황에서 학습하는 사람의 변화에 주목하였다.",
+      "sentenceRects": [
+        [
+          255.17,
+          170.52,
+          449.84,
+          182.36
+        ],
+        [
+          48.04,
+          190.3,
+          449.96,
+          202.15
+        ],
+        [
+          48.04,
+          210.09,
+          449.96,
+          221.94
+        ],
+        [
+          48.04,
+          229.87,
+          144.12,
+          241.72
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 20,
+          "rects": [
+            [
+              255.17,
+              170.52,
+              449.84,
+              182.36
+            ],
+            [
+              48.04,
+              190.3,
+              449.96,
+              202.15
+            ],
+            [
+              48.04,
+              210.09,
+              449.96,
+              221.94
+            ],
+            [
+              48.04,
+              229.87,
+              144.12,
+              241.72
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-044",
+        "ref-055",
+        "ref-059",
+        "ref-052",
+        "ref-053"
+      ],
+      "relatedCitationIds": [
+        "cite-086",
+        "cite-087",
+        "cite-088",
+        "cite-089"
+      ]
     },
     {
       "id": "cite-087",
@@ -4224,7 +8675,79 @@
         "ref-055"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-082",
+      "sentenceText": "Dewey(1938)는 경험의 교육적 가치에, Kolb(1984)는 경험의 변형을 통한 지식 형성에, Mezirow(1997)는 경험을 해석하는 준거틀에, Jarvis(2006, 2009)는 사회적 상황에서 학습하는 사람의 변화에 주목하였다.",
+      "sentenceRects": [
+        [
+          255.17,
+          170.52,
+          449.84,
+          182.36
+        ],
+        [
+          48.04,
+          190.3,
+          449.96,
+          202.15
+        ],
+        [
+          48.04,
+          210.09,
+          449.96,
+          221.94
+        ],
+        [
+          48.04,
+          229.87,
+          144.12,
+          241.72
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 20,
+          "rects": [
+            [
+              255.17,
+              170.52,
+              449.84,
+              182.36
+            ],
+            [
+              48.04,
+              190.3,
+              449.96,
+              202.15
+            ],
+            [
+              48.04,
+              210.09,
+              449.96,
+              221.94
+            ],
+            [
+              48.04,
+              229.87,
+              144.12,
+              241.72
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-044",
+        "ref-055",
+        "ref-059",
+        "ref-052",
+        "ref-053"
+      ],
+      "relatedCitationIds": [
+        "cite-086",
+        "cite-087",
+        "cite-088",
+        "cite-089"
+      ]
     },
     {
       "id": "cite-088",
@@ -4242,7 +8765,79 @@
         "ref-059"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-082",
+      "sentenceText": "Dewey(1938)는 경험의 교육적 가치에, Kolb(1984)는 경험의 변형을 통한 지식 형성에, Mezirow(1997)는 경험을 해석하는 준거틀에, Jarvis(2006, 2009)는 사회적 상황에서 학습하는 사람의 변화에 주목하였다.",
+      "sentenceRects": [
+        [
+          255.17,
+          170.52,
+          449.84,
+          182.36
+        ],
+        [
+          48.04,
+          190.3,
+          449.96,
+          202.15
+        ],
+        [
+          48.04,
+          210.09,
+          449.96,
+          221.94
+        ],
+        [
+          48.04,
+          229.87,
+          144.12,
+          241.72
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 20,
+          "rects": [
+            [
+              255.17,
+              170.52,
+              449.84,
+              182.36
+            ],
+            [
+              48.04,
+              190.3,
+              449.96,
+              202.15
+            ],
+            [
+              48.04,
+              210.09,
+              449.96,
+              221.94
+            ],
+            [
+              48.04,
+              229.87,
+              144.12,
+              241.72
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-044",
+        "ref-055",
+        "ref-059",
+        "ref-052",
+        "ref-053"
+      ],
+      "relatedCitationIds": [
+        "cite-086",
+        "cite-087",
+        "cite-088",
+        "cite-089"
+      ]
     },
     {
       "id": "cite-089",
@@ -4261,7 +8856,79 @@
         "ref-053"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-082",
+      "sentenceText": "Dewey(1938)는 경험의 교육적 가치에, Kolb(1984)는 경험의 변형을 통한 지식 형성에, Mezirow(1997)는 경험을 해석하는 준거틀에, Jarvis(2006, 2009)는 사회적 상황에서 학습하는 사람의 변화에 주목하였다.",
+      "sentenceRects": [
+        [
+          255.17,
+          170.52,
+          449.84,
+          182.36
+        ],
+        [
+          48.04,
+          190.3,
+          449.96,
+          202.15
+        ],
+        [
+          48.04,
+          210.09,
+          449.96,
+          221.94
+        ],
+        [
+          48.04,
+          229.87,
+          144.12,
+          241.72
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 20,
+          "rects": [
+            [
+              255.17,
+              170.52,
+              449.84,
+              182.36
+            ],
+            [
+              48.04,
+              190.3,
+              449.96,
+              202.15
+            ],
+            [
+              48.04,
+              210.09,
+              449.96,
+              221.94
+            ],
+            [
+              48.04,
+              229.87,
+              144.12,
+              241.72
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-044",
+        "ref-055",
+        "ref-059",
+        "ref-052",
+        "ref-053"
+      ],
+      "relatedCitationIds": [
+        "cite-086",
+        "cite-087",
+        "cite-088",
+        "cite-089"
+      ]
     },
     {
       "id": "cite-090",
@@ -4279,7 +8946,48 @@
         "ref-044"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-083",
+      "sentenceText": "Dewey(1938)는 교육과 개인의 경험을 연결하면서 경험의 교육적 가치를 구분하였다.",
+      "sentenceRects": [
+        [
+          68.04,
+          254.7,
+          449.84,
+          266.54
+        ],
+        [
+          48.04,
+          274.48,
+          105.66,
+          286.33
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 20,
+          "rects": [
+            [
+              68.04,
+              254.7,
+              449.84,
+              266.54
+            ],
+            [
+              48.04,
+              274.48,
+              105.66,
+              286.33
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-044"
+      ],
+      "relatedCitationIds": [
+        "cite-090"
+      ]
     },
     {
       "id": "cite-091",
@@ -4297,7 +9005,48 @@
         "ref-055"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-084",
+      "sentenceText": "Kolb(1984)는 학습을 경험의 변형을 통해 지식이 만들어지는 과정으로 정의하였다.",
+      "sentenceRects": [
+        [
+          68.04,
+          437.69,
+          449.84,
+          449.53
+        ],
+        [
+          48.04,
+          457.47,
+          105.66,
+          469.32
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 20,
+          "rects": [
+            [
+              68.04,
+              437.69,
+              449.84,
+              449.53
+            ],
+            [
+              48.04,
+              457.47,
+              105.66,
+              469.32
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-055"
+      ],
+      "relatedCitationIds": [
+        "cite-091"
+      ]
     },
     {
       "id": "cite-092",
@@ -4315,7 +9064,36 @@
         "ref-059"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-085",
+      "sentenceText": "Mezirow(1997)는 성인학습에서 경험을 이해하는 준거틀에 주목하였다.",
+      "sentenceRects": [
+        [
+          68.04,
+          140.78,
+          449.84,
+          152.63
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 21,
+          "rects": [
+            [
+              68.04,
+              140.78,
+              449.84,
+              152.63
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-059"
+      ],
+      "relatedCitationIds": [
+        "cite-092"
+      ]
     },
     {
       "id": "cite-093",
@@ -4334,7 +9112,61 @@
         "ref-053"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-086",
+      "sentenceText": "Jarvis(2006, 2009)는 학습을 몸과 마음을 지닌 사람이 사회적 상황에서 겪은 경험을 변형하여 자신의 생애경험에 통합하면서 변화하는 과정으로 정의하였다.",
+      "sentenceRects": [
+        [
+          68.04,
+          264.41,
+          449.84,
+          276.26
+        ],
+        [
+          48.04,
+          284.2,
+          449.84,
+          295.23
+        ],
+        [
+          48.04,
+          303.98,
+          105.66,
+          315.83
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 21,
+          "rects": [
+            [
+              68.04,
+              264.41,
+              449.84,
+              276.26
+            ],
+            [
+              48.04,
+              284.2,
+              449.84,
+              295.23
+            ],
+            [
+              48.04,
+              303.98,
+              105.66,
+              315.83
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-052",
+        "ref-053"
+      ],
+      "relatedCitationIds": [
+        "cite-093"
+      ]
     },
     {
       "id": "cite-094",
@@ -4352,7 +9184,60 @@
         "ref-037"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-087",
+      "sentenceText": "현영섭(2004)은 경험학습을 학습자가 경험을 통해 문제와 상황을 파악하고, 해결을 시도하며, 시도의 경험에 비추어 해결책을 평가하거나 수정하면서 새로운 지식과 행동, 세계관을 형성하는 과정으로 정의하였다.",
+      "sentenceRects": [
+        [
+          48.04,
+          407.95,
+          449.84,
+          419.8
+        ],
+        [
+          48.04,
+          427.73,
+          449.84,
+          439.58
+        ],
+        [
+          48.04,
+          447.52,
+          394.85,
+          459.37
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 21,
+          "rects": [
+            [
+              48.04,
+              407.95,
+              449.84,
+              419.8
+            ],
+            [
+              48.04,
+              427.73,
+              449.84,
+              439.58
+            ],
+            [
+              48.04,
+              447.52,
+              394.85,
+              459.37
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-037"
+      ],
+      "relatedCitationIds": [
+        "cite-094"
+      ]
     },
     {
       "id": "cite-095",
@@ -4376,7 +9261,60 @@
         "ref-029"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-088",
+      "sentenceText": "조미영과 권일남(2011)은 경험학습을 경험을 통해 개인이 성장하고 사회에 적응하며 변화하는 과정으로 설명하였다.",
+      "sentenceRects": [
+        [
+          405.99,
+          447.52,
+          449.96,
+          458.55
+        ],
+        [
+          48.04,
+          467.31,
+          449.84,
+          479.15
+        ],
+        [
+          48.04,
+          487.09,
+          204.49,
+          498.94
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 21,
+          "rects": [
+            [
+              405.99,
+              447.52,
+              449.96,
+              458.55
+            ],
+            [
+              48.04,
+              467.31,
+              449.84,
+              479.15
+            ],
+            [
+              48.04,
+              487.09,
+              204.49,
+              498.94
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-029"
+      ],
+      "relatedCitationIds": [
+        "cite-095"
+      ]
     },
     {
       "id": "cite-096",
@@ -4398,7 +9336,64 @@
         "ref-053"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-089",
+      "sentenceText": "이상의 논의를 종합하면 경험학습은 경험을 통해 지식과 행동, 감정 및 자신과 세계에 대한 이해가 형성되거나 달라지는 과정으로 이해할 수 있다(Dewey, 1938; Kolb, 1984; Mezirow, 1997; Jarvis, 2006, 2009).",
+      "sentenceRects": [
+        [
+          68.04,
+          511.91,
+          449.84,
+          523.76
+        ],
+        [
+          48.04,
+          531.7,
+          449.84,
+          542.73
+        ],
+        [
+          48.04,
+          551.49,
+          375.44,
+          563.33
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 21,
+          "rects": [
+            [
+              68.04,
+              511.91,
+              449.84,
+              523.76
+            ],
+            [
+              48.04,
+              531.7,
+              449.84,
+              542.73
+            ],
+            [
+              48.04,
+              551.49,
+              375.44,
+              563.33
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-044",
+        "ref-055",
+        "ref-059",
+        "ref-052",
+        "ref-053"
+      ],
+      "relatedCitationIds": [
+        "cite-096"
+      ]
     },
     {
       "id": "cite-097",
@@ -4417,7 +9412,49 @@
         "ref-053"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-090",
+      "sentenceText": "Jarvis(2006, 2009)의 경험학습에서 학습의 주체는 몸과 마음을 지닌 사람 전체이다.",
+      "sentenceRects": [
+        [
+          68.04,
+          113.32,
+          449.96,
+          125.16
+        ],
+        [
+          48.04,
+          133.1,
+          94.76,
+          144.95
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 22,
+          "rects": [
+            [
+              68.04,
+              113.32,
+              449.96,
+              125.16
+            ],
+            [
+              48.04,
+              133.1,
+              94.76,
+              144.95
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-052",
+        "ref-053"
+      ],
+      "relatedCitationIds": [
+        "cite-097"
+      ]
     },
     {
       "id": "cite-098",
@@ -4435,7 +9472,48 @@
         "ref-053"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-091",
+      "sentenceText": "Jarvis(2009)는 학습의 정의에 의미를 명시적으로 포함하여, 경험한 내용과 그것을 받아들이는 사람의 변화를 함께 설명한다.",
+      "sentenceRects": [
+        [
+          195.39,
+          212.25,
+          449.84,
+          224.09
+        ],
+        [
+          48.04,
+          232.03,
+          426.72,
+          243.88
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 22,
+          "rects": [
+            [
+              195.39,
+              212.25,
+              449.84,
+              224.09
+            ],
+            [
+              48.04,
+              232.03,
+              426.72,
+              243.88
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-053"
+      ],
+      "relatedCitationIds": [
+        "cite-098"
+      ]
     },
     {
       "id": "cite-099",
@@ -4454,7 +9532,49 @@
         "ref-053"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-092",
+      "sentenceText": "따라서 불일치는 반드시 부정적인 사건을 뜻하지 않으며, 사람과 상황 사이의 관계에서 발생한다(Jarvis, 2006, 2009).",
+      "sentenceRects": [
+        [
+          180.53,
+          336.0,
+          449.84,
+          347.03
+        ],
+        [
+          48.04,
+          355.78,
+          383.11,
+          367.63
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 22,
+          "rects": [
+            [
+              180.53,
+              336.0,
+              449.84,
+              347.03
+            ],
+            [
+              48.04,
+              355.78,
+              383.11,
+              367.63
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-052",
+        "ref-053"
+      ],
+      "relatedCitationIds": [
+        "cite-099"
+      ]
     },
     {
       "id": "cite-100",
@@ -4473,7 +9593,49 @@
         "ref-053"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-093",
+      "sentenceText": "생각·감정·행동은 고정된 순서로 이어지는 단계가 아니라 경험에 대한 서로 관련된 반응이다(Jarvis, 2006, 2009).",
+      "sentenceRects": [
+        [
+          278.77,
+          420.18,
+          449.84,
+          432.03
+        ],
+        [
+          48.04,
+          439.96,
+          446.12,
+          451.81
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 22,
+          "rects": [
+            [
+              278.77,
+              420.18,
+              449.84,
+              432.03
+            ],
+            [
+              48.04,
+              439.96,
+              446.12,
+              451.81
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-052",
+        "ref-053"
+      ],
+      "relatedCitationIds": [
+        "cite-100"
+      ]
     },
     {
       "id": "cite-101",
@@ -4491,7 +9653,60 @@
         "ref-052"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-094",
+      "sentenceText": "Jarvis(2006)는 의도하지 않은 상황에서도 자기이해나 행동이 달라질 수 있으며, 의식적으로 알아차리기 전에 경험한 내용을 익히는 학습도 설명한다.",
+      "sentenceRects": [
+        [
+          383.83,
+          464.67,
+          449.84,
+          476.52
+        ],
+        [
+          48.04,
+          484.45,
+          449.84,
+          496.3
+        ],
+        [
+          48.04,
+          504.24,
+          342.38,
+          516.09
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 22,
+          "rects": [
+            [
+              383.83,
+              464.67,
+              449.84,
+              476.52
+            ],
+            [
+              48.04,
+              484.45,
+              449.84,
+              496.3
+            ],
+            [
+              48.04,
+              504.24,
+              342.38,
+              516.09
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-052"
+      ],
+      "relatedCitationIds": [
+        "cite-101"
+      ]
     },
     {
       "id": "cite-102",
@@ -4510,7 +9725,49 @@
         "ref-053"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-095",
+      "sentenceText": "따라서 경험의 발생, 그 경험에 대한 반응, 학습의 결과는 구분된다(Jarvis, 2006, 2009).",
+      "sentenceRects": [
+        [
+          233.96,
+          563.6,
+          449.84,
+          575.45
+        ],
+        [
+          48.04,
+          583.38,
+          264.99,
+          595.23
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 22,
+          "rects": [
+            [
+              233.96,
+              563.6,
+              449.84,
+              575.45
+            ],
+            [
+              48.04,
+              583.38,
+              264.99,
+              595.23
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-052",
+        "ref-053"
+      ],
+      "relatedCitationIds": [
+        "cite-102"
+      ]
     },
     {
       "id": "cite-103",
@@ -4528,7 +9785,48 @@
         "ref-053"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-096",
+      "sentenceText": "Jarvis(2009)는 이러한 점에서 학습을 사회적 영향을 받는 개인의 과정으로 설명한다.",
+      "sentenceRects": [
+        [
+          217.31,
+          135.74,
+          449.84,
+          147.59
+        ],
+        [
+          48.04,
+          155.53,
+          248.34,
+          167.37
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 23,
+          "rects": [
+            [
+              217.31,
+              135.74,
+              449.84,
+              147.59
+            ],
+            [
+              48.04,
+              155.53,
+              248.34,
+              167.37
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-053"
+      ],
+      "relatedCitationIds": [
+        "cite-103"
+      ]
     },
     {
       "id": "cite-104",
@@ -4546,7 +9844,48 @@
         "ref-052"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-097",
+      "sentenceText": "여기에는 새로운 기능의 습득과 함께 자신의 능력과 감정, 태도를 이해하는 변화도 포함된다(Jarvis, 2006).",
+      "sentenceRects": [
+        [
+          172.87,
+          200.13,
+          449.96,
+          211.17
+        ],
+        [
+          48.04,
+          219.92,
+          327.05,
+          231.77
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 23,
+          "rects": [
+            [
+              172.87,
+              200.13,
+              449.96,
+              211.17
+            ],
+            [
+              48.04,
+              219.92,
+              327.05,
+              231.77
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-052"
+      ],
+      "relatedCitationIds": [
+        "cite-104"
+      ]
     },
     {
       "id": "cite-105",
@@ -4564,7 +9903,60 @@
         "ref-053"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-098",
+      "sentenceText": "다만 회고는 과거를 그대로 재현하지 않으며, 당시 경험을 받아들인 방식과 현재의 이해에 따라 달라진다(Jarvis, 2009).",
+      "sentenceRects": [
+        [
+          344.06,
+          239.71,
+          449.84,
+          250.74
+        ],
+        [
+          48.04,
+          259.49,
+          449.96,
+          271.34
+        ],
+        [
+          48.04,
+          279.28,
+          159.21,
+          291.13
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 23,
+          "rects": [
+            [
+              344.06,
+              239.71,
+              449.84,
+              250.74
+            ],
+            [
+              48.04,
+              259.49,
+              449.96,
+              271.34
+            ],
+            [
+              48.04,
+              279.28,
+              159.21,
+              291.13
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-053"
+      ],
+      "relatedCitationIds": [
+        "cite-105"
+      ]
     },
     {
       "id": "cite-106",
@@ -4582,7 +9974,48 @@
         "ref-058"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-099",
+      "sentenceText": "Markus와 Nurius(1986)는 가능한 자기(possible selves)를 자신이 될 수 있다고 생각하는 모습, 되고 싶은 모습, 되기를 두려워하는 모습으로 설명하였다.",
+      "sentenceRects": [
+        [
+          68.04,
+          155.77,
+          449.96,
+          167.61
+        ],
+        [
+          48.04,
+          175.55,
+          449.84,
+          187.4
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 24,
+          "rects": [
+            [
+              68.04,
+              155.77,
+              449.96,
+              167.61
+            ],
+            [
+              48.04,
+              175.55,
+              449.84,
+              187.4
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-058"
+      ],
+      "relatedCitationIds": [
+        "cite-106"
+      ]
     },
     {
       "id": "cite-107",
@@ -4600,7 +10033,60 @@
         "ref-058"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-100",
+      "sentenceText": "Markus와 Nurius(1986)는 가능한 자기가 과거의 자기 모습에서 비롯되며, 다른 사람과의 비교 및 사회문화적·역사적 맥락에서 접하는 역할과 이미지의 영향을 받는다고 보았다.",
+      "sentenceRects": [
+        [
+          130.1,
+          338.76,
+          449.84,
+          350.61
+        ],
+        [
+          48.04,
+          358.54,
+          449.84,
+          370.39
+        ],
+        [
+          48.04,
+          378.33,
+          224.02,
+          390.18
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 24,
+          "rects": [
+            [
+              130.1,
+              338.76,
+              449.84,
+              350.61
+            ],
+            [
+              48.04,
+              358.54,
+              449.84,
+              370.39
+            ],
+            [
+              48.04,
+              378.33,
+              224.02,
+              390.18
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-058"
+      ],
+      "relatedCitationIds": [
+        "cite-107"
+      ]
     },
     {
       "id": "cite-108",
@@ -4618,7 +10104,48 @@
         "ref-063"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-101",
+      "sentenceText": "Rossiter(2007)는 가능한 자기를 자기개념의 미래지향적인 측면으로 설명하고, 성인학습을 이해하는 관점으로 제시하였다.",
+      "sentenceRects": [
+        [
+          68.04,
+          482.29,
+          449.84,
+          494.14
+        ],
+        [
+          48.04,
+          502.08,
+          287.03,
+          513.93
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 24,
+          "rects": [
+            [
+              68.04,
+              482.29,
+              449.84,
+              494.14
+            ],
+            [
+              48.04,
+              502.08,
+              287.03,
+              513.93
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-063"
+      ],
+      "relatedCitationIds": [
+        "cite-108"
+      ]
     },
     {
       "id": "cite-109",
@@ -4636,7 +10163,48 @@
         "ref-058"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-102",
+      "sentenceText": "가능한 자기에는 자신이 될 수 있다고 생각하는 모습, 되기를 바라는 모습, 되기를 두려워하는 모습이 포함된다(Markus & Nurius, 1986).",
+      "sentenceRects": [
+        [
+          68.04,
+          254.22,
+          449.84,
+          266.07
+        ],
+        [
+          48.04,
+          274.0,
+          383.11,
+          285.85
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 25,
+          "rects": [
+            [
+              68.04,
+              254.22,
+              449.84,
+              266.07
+            ],
+            [
+              48.04,
+              274.0,
+              383.11,
+              285.85
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-058"
+      ],
+      "relatedCitationIds": [
+        "cite-109"
+      ]
     },
     {
       "id": "cite-110",
@@ -4660,7 +10228,60 @@
         "ref-061"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-103",
+      "sentenceText": "Oyserman과 Markus(1990)는 희망하는 자기(hoped-for selves), 기대하는 자기(expected selves), 두려워하는 자기(feared selves)를 구별하여 질문하였다.",
+      "sentenceRects": [
+        [
+          393.77,
+          274.0,
+          449.96,
+          285.85
+        ],
+        [
+          48.04,
+          293.79,
+          449.84,
+          305.64
+        ],
+        [
+          48.04,
+          313.57,
+          322.49,
+          325.42
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 25,
+          "rects": [
+            [
+              393.77,
+              274.0,
+              449.96,
+              285.85
+            ],
+            [
+              48.04,
+              293.79,
+              449.84,
+              305.64
+            ],
+            [
+              48.04,
+              313.57,
+              322.49,
+              325.42
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-061"
+      ],
+      "relatedCitationIds": [
+        "cite-110"
+      ]
     },
     {
       "id": "cite-111",
@@ -4678,7 +10299,48 @@
         "ref-058"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-104",
+      "sentenceText": "Markus와 Nurius(1986)는 성공한 자신, 창의적인 자신, 사랑받고 인정받는 자신 등을 희망하는 가능한 자기의 예로 제시하였다.",
+      "sentenceRects": [
+        [
+          104.7,
+          546.21,
+          449.84,
+          558.06
+        ],
+        [
+          48.04,
+          566.0,
+          370.89,
+          577.84
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 25,
+          "rects": [
+            [
+              104.7,
+              546.21,
+              449.84,
+              558.06
+            ],
+            [
+              48.04,
+              566.0,
+              370.89,
+              577.84
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-058"
+      ],
+      "relatedCitationIds": [
+        "cite-111"
+      ]
     },
     {
       "id": "cite-112",
@@ -4696,7 +10358,60 @@
         "ref-049"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-105",
+      "sentenceText": "Frazier와 Hooker(2006)의 면담 지침에서는 희망하는 자기 가운데 실현 가능성이 높게 느껴지는 모습뿐 아니라, 이루어지기 어렵지만 여전히 가능성으로 생각하는 모습도 포함하였다.",
+      "sentenceRects": [
+        [
+          230.13,
+          120.99,
+          449.84,
+          132.84
+        ],
+        [
+          48.04,
+          140.78,
+          449.84,
+          152.63
+        ],
+        [
+          48.04,
+          160.56,
+          449.84,
+          172.41
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 26,
+          "rects": [
+            [
+              230.13,
+              120.99,
+              449.84,
+              132.84
+            ],
+            [
+              48.04,
+              140.78,
+              449.84,
+              152.63
+            ],
+            [
+              48.04,
+              160.56,
+              449.84,
+              172.41
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-049"
+      ],
+      "relatedCitationIds": [
+        "cite-112"
+      ]
     },
     {
       "id": "cite-113",
@@ -4714,7 +10429,48 @@
         "ref-058"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-106",
+      "sentenceText": "Markus와 Nurius(1986)도 특정 자기 모습이 얼마나 가능하다고 여겨지는지와 얼마나 그렇게 되기를 원하는지를 별도로 질문하였다.",
+      "sentenceRects": [
+        [
+          48.04,
+          180.35,
+          449.84,
+          192.2
+        ],
+        [
+          48.04,
+          200.13,
+          322.13,
+          211.98
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 26,
+          "rects": [
+            [
+              48.04,
+              180.35,
+              449.84,
+              192.2
+            ],
+            [
+              48.04,
+              200.13,
+              322.13,
+              211.98
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-058"
+      ],
+      "relatedCitationIds": [
+        "cite-113"
+      ]
     },
     {
       "id": "cite-114",
@@ -4738,7 +10494,60 @@
         "ref-049"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-107",
+      "sentenceText": "Frazier와 Hooker(2006)는 노년기 연구를 검토하면서 건강과 신체적 기능, 독립성을 유지하려는 바람을 설명하였다.",
+      "sentenceRects": [
+        [
+          407.79,
+          284.2,
+          449.96,
+          296.04
+        ],
+        [
+          48.04,
+          303.98,
+          449.96,
+          315.83
+        ],
+        [
+          48.04,
+          323.77,
+          205.45,
+          335.62
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 26,
+          "rects": [
+            [
+              407.79,
+              284.2,
+              449.96,
+              296.04
+            ],
+            [
+              48.04,
+              303.98,
+              449.96,
+              315.83
+            ],
+            [
+              48.04,
+              323.77,
+              205.45,
+              335.62
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-049"
+      ],
+      "relatedCitationIds": [
+        "cite-114"
+      ]
     },
     {
       "id": "cite-115",
@@ -4756,7 +10565,48 @@
         "ref-061"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-108",
+      "sentenceText": "Oyserman과 Markus(1990)는 참여자에게 다음 해에 실제로 자신에게 나타날 가능성이 가장 높은 모습을 설명하도록 하였다.",
+      "sentenceRects": [
+        [
+          221.74,
+          452.56,
+          449.96,
+          464.4
+        ],
+        [
+          48.04,
+          472.34,
+          449.84,
+          484.19
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 26,
+          "rects": [
+            [
+              221.74,
+              452.56,
+              449.96,
+              464.4
+            ],
+            [
+              48.04,
+              472.34,
+              449.84,
+              484.19
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-061"
+      ],
+      "relatedCitationIds": [
+        "cite-115"
+      ]
     },
     {
       "id": "cite-116",
@@ -4780,7 +10630,48 @@
         "ref-061"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-109",
+      "sentenceText": "Oyserman과 Markus(1990)는 긍정적인 기대와 부정적인 기대를 함께 다루었다.",
+      "sentenceRects": [
+        [
+          393.65,
+          556.4,
+          449.96,
+          568.25
+        ],
+        [
+          48.04,
+          576.19,
+          382.39,
+          588.04
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 26,
+          "rects": [
+            [
+              393.65,
+              556.4,
+              449.96,
+              568.25
+            ],
+            [
+              48.04,
+              576.19,
+              382.39,
+              588.04
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-061"
+      ],
+      "relatedCitationIds": [
+        "cite-116"
+      ]
     },
     {
       "id": "cite-117",
@@ -4804,7 +10695,60 @@
         "ref-058"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-110",
+      "sentenceText": "Markus와 Nurius(1986)는 혼자 남은 자신, 우울한 자신, 무능한 자신 등을 두려워하는 가능한 자기의 예로 설명하였다.",
+      "sentenceRects": [
+        [
+          405.27,
+          185.27,
+          449.96,
+          197.11
+        ],
+        [
+          48.04,
+          205.05,
+          449.84,
+          216.9
+        ],
+        [
+          48.04,
+          224.84,
+          219.71,
+          236.69
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 27,
+          "rects": [
+            [
+              405.27,
+              185.27,
+              449.96,
+              197.11
+            ],
+            [
+              48.04,
+              205.05,
+              449.84,
+              216.9
+            ],
+            [
+              48.04,
+              224.84,
+              219.71,
+              236.69
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-058"
+      ],
+      "relatedCitationIds": [
+        "cite-117"
+      ]
     },
     {
       "id": "cite-118",
@@ -4822,7 +10766,60 @@
         "ref-049"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-111",
+      "sentenceText": "Frazier와 Hooker(2006)는 두려워하는 자기 가운데 실현 가능성이 높게 느껴지는 모습과 낮게 느껴지는 모습이 모두 있을 수 있다고 설명하였다.",
+      "sentenceRects": [
+        [
+          149.03,
+          328.8,
+          449.84,
+          340.65
+        ],
+        [
+          48.04,
+          348.59,
+          449.84,
+          359.62
+        ],
+        [
+          48.04,
+          368.38,
+          105.66,
+          380.22
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 27,
+          "rects": [
+            [
+              149.03,
+              328.8,
+              449.84,
+              340.65
+            ],
+            [
+              48.04,
+              348.59,
+              449.84,
+              359.62
+            ],
+            [
+              48.04,
+              368.38,
+              105.66,
+              380.22
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-049"
+      ],
+      "relatedCitationIds": [
+        "cite-118"
+      ]
     },
     {
       "id": "cite-119",
@@ -4840,7 +10837,48 @@
         "ref-058"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-112",
+      "sentenceText": "Markus와 Nurius(1986)는 가능한 자기의 주요 기능을 미래 행동을 이끄는 기능과 현재의 자신을 평가하고 해석하는 기능으로 설명하였다.",
+      "sentenceRects": [
+        [
+          68.04,
+          76.38,
+          449.96,
+          88.23
+        ],
+        [
+          48.04,
+          96.17,
+          369.09,
+          108.02
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 28,
+          "rects": [
+            [
+              68.04,
+              76.38,
+              449.96,
+              88.23
+            ],
+            [
+              48.04,
+              96.17,
+              369.09,
+              108.02
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-058"
+      ],
+      "relatedCitationIds": [
+        "cite-119"
+      ]
     },
     {
       "id": "cite-120",
@@ -4858,7 +10896,48 @@
         "ref-058"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-113",
+      "sentenceText": "Markus와 Nurius(1986)는 원하는 자기 모습과 함께 그 모습에 이르기 위한 구체적인 계획과 방법의 중요성을 논의하였다.",
+      "sentenceRects": [
+        [
+          122.43,
+          244.62,
+          449.84,
+          256.47
+        ],
+        [
+          48.04,
+          264.41,
+          366.58,
+          276.26
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 28,
+          "rects": [
+            [
+              122.43,
+              244.62,
+              449.84,
+              256.47
+            ],
+            [
+              48.04,
+              264.41,
+              366.58,
+              276.26
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-058"
+      ],
+      "relatedCitationIds": [
+        "cite-120"
+      ]
     },
     {
       "id": "cite-121",
@@ -4876,7 +10955,48 @@
         "ref-061"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-114",
+      "sentenceText": "Oyserman과 Markus(1990)는 같은 생활영역에서 긍정적인 기대하는 자기와 이에 대응하는 두려워하는 자기가 함께 나타나는 경우를 균형으로 설명하였다.",
+      "sentenceRects": [
+        [
+          48.04,
+          388.16,
+          449.84,
+          400.01
+        ],
+        [
+          48.04,
+          407.95,
+          449.84,
+          419.8
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 28,
+          "rects": [
+            [
+              48.04,
+              388.16,
+              449.84,
+              400.01
+            ],
+            [
+              48.04,
+              407.95,
+              449.84,
+              419.8
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-061"
+      ],
+      "relatedCitationIds": [
+        "cite-121"
+      ]
     },
     {
       "id": "cite-122",
@@ -4894,7 +11014,60 @@
         "ref-058"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-115",
+      "sentenceText": "Markus와 Nurius(1986)는 의사가 된 미래의 자신을 생각하는 학생과 그렇지 않은 학생이 유기화학 과목의 좋은 성적에 서로 다른 의미를 부여할 수 있다고 설명하였다.",
+      "sentenceRects": [
+        [
+          225.82,
+          531.7,
+          449.96,
+          543.55
+        ],
+        [
+          48.04,
+          551.49,
+          449.84,
+          562.52
+        ],
+        [
+          48.04,
+          571.27,
+          307.76,
+          583.12
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 28,
+          "rects": [
+            [
+              225.82,
+              531.7,
+              449.96,
+              543.55
+            ],
+            [
+              48.04,
+              551.49,
+              449.84,
+              562.52
+            ],
+            [
+              48.04,
+              571.27,
+              307.76,
+              583.12
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-058"
+      ],
+      "relatedCitationIds": [
+        "cite-122"
+      ]
     },
     {
       "id": "cite-123",
@@ -4912,7 +11085,48 @@
         "ref-063"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-116",
+      "sentenceText": "Rossiter(2007)는 성인이 희망하는 미래의 자기 모습에 비추어 현재 자신과 관련된 사건에 의미와 가치를 부여한다고 설명하였다.",
+      "sentenceRects": [
+        [
+          171.79,
+          120.99,
+          449.96,
+          132.84
+        ],
+        [
+          48.04,
+          140.78,
+          449.84,
+          152.63
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 29,
+          "rects": [
+            [
+              171.79,
+              120.99,
+              449.96,
+              132.84
+            ],
+            [
+              48.04,
+              140.78,
+              449.84,
+              152.63
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-063"
+      ],
+      "relatedCitationIds": [
+        "cite-123"
+      ]
     },
     {
       "id": "cite-124",
@@ -4930,7 +11144,60 @@
         "ref-038"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-117",
+      "sentenceText": "홍지현(2023)은 노인 대상 무용교육 프로그램의 참여 전후를 비교하여 체중과 체지방의 감소를 확인했으나 골격근량에서는 유의한 변화를 확인하지 못하였다.",
+      "sentenceRects": [
+        [
+          116.2,
+          235.27,
+          449.84,
+          247.12
+        ],
+        [
+          48.04,
+          255.06,
+          449.84,
+          266.09
+        ],
+        [
+          48.04,
+          274.84,
+          145.31,
+          286.69
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 30,
+          "rects": [
+            [
+              116.2,
+              235.27,
+              449.84,
+              247.12
+            ],
+            [
+              48.04,
+              255.06,
+              449.84,
+              266.09
+            ],
+            [
+              48.04,
+              274.84,
+              145.31,
+              286.69
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-038"
+      ],
+      "relatedCitationIds": [
+        "cite-124"
+      ]
     },
     {
       "id": "cite-125",
@@ -4948,7 +11215,48 @@
         "ref-054"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-118",
+      "sentenceText": "Johnson 외(2020)는 미국 노인센터 12곳의 참여자 390명을 대상으로 군집 무작위 대조연구를 실시하였다.",
+      "sentenceRects": [
+        [
+          152.02,
+          274.84,
+          449.84,
+          286.69
+        ],
+        [
+          48.04,
+          294.63,
+          296.98,
+          306.48
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 30,
+          "rects": [
+            [
+              152.02,
+              274.84,
+              449.84,
+              286.69
+            ],
+            [
+              48.04,
+              294.63,
+              296.98,
+              306.48
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-054"
+      ],
+      "relatedCitationIds": [
+        "cite-125"
+      ]
     },
     {
       "id": "cite-126",
@@ -4966,7 +11274,60 @@
         "ref-004"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-119",
+      "sentenceText": "김아영과 김효정(2021)은 미술교육 참여자 2명이 낯선 활동에 걱정을 느끼면서도 점차 스스로 선택하고 연습하는 모습을 자아인지와 학습의지의 변화로 설명하였다.",
+      "sentenceRects": [
+        [
+          195.87,
+          418.38,
+          449.84,
+          430.23
+        ],
+        [
+          48.04,
+          438.17,
+          449.96,
+          449.2
+        ],
+        [
+          48.04,
+          457.95,
+          305.6,
+          469.8
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 30,
+          "rects": [
+            [
+              195.87,
+              418.38,
+              449.84,
+              430.23
+            ],
+            [
+              48.04,
+              438.17,
+              449.96,
+              449.2
+            ],
+            [
+              48.04,
+              457.95,
+              305.6,
+              469.8
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-004"
+      ],
+      "relatedCitationIds": [
+        "cite-126"
+      ]
     },
     {
       "id": "cite-127",
@@ -4984,7 +11345,60 @@
         "ref-010"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-120",
+      "sentenceText": "남궁홍(2025)은 시니어 미술교육에서 실력 비교에 따른 열등감과 그림으로 기억과 감정을 나누며 자신을 존중하는 경험을 함께 살폈다.",
+      "sentenceRects": [
+        [
+          324.53,
+          457.95,
+          449.96,
+          469.8
+        ],
+        [
+          48.04,
+          477.74,
+          449.84,
+          488.77
+        ],
+        [
+          48.04,
+          497.52,
+          255.77,
+          509.37
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 30,
+          "rects": [
+            [
+              324.53,
+              457.95,
+              449.96,
+              469.8
+            ],
+            [
+              48.04,
+              477.74,
+              449.84,
+              488.77
+            ],
+            [
+              48.04,
+              497.52,
+              255.77,
+              509.37
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-010"
+      ],
+      "relatedCitationIds": [
+        "cite-127"
+      ]
     },
     {
       "id": "cite-128",
@@ -5002,7 +11416,48 @@
         "ref-071"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-121",
+      "sentenceText": "Wakeling과 Clark(2015)은 영국의 60세 이상 대상 음악·무용 프로그램에서 16개월간 참여관찰을 실시하고 대화와 활동일지를 분석하였다.",
+      "sentenceRects": [
+        [
+          117.04,
+          581.58,
+          449.84,
+          593.43
+        ],
+        [
+          48.04,
+          601.37,
+          449.84,
+          613.22
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 30,
+          "rects": [
+            [
+              117.04,
+              581.58,
+              449.84,
+              593.43
+            ],
+            [
+              48.04,
+              601.37,
+              449.84,
+              613.22
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-071"
+      ],
+      "relatedCitationIds": [
+        "cite-128"
+      ]
     },
     {
       "id": "cite-129",
@@ -5020,7 +11475,60 @@
         "ref-016"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-122",
+      "sentenceText": "배재윤과 명왕성(2025)은 노년기에 발레를 시작한 65세 이상 노인 3명의 경험을 내러티브로 탐구하여 미루었던 동경의 실현, 정체성과 역할의 재구성, 앞으로 무대에 서려는 목표를 설명하였다.",
+      "sentenceRects": [
+        [
+          156.45,
+          76.38,
+          449.84,
+          88.23
+        ],
+        [
+          48.04,
+          96.17,
+          449.84,
+          108.02
+        ],
+        [
+          48.04,
+          115.95,
+          357.95,
+          127.8
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 31,
+          "rects": [
+            [
+              156.45,
+              76.38,
+              449.84,
+              88.23
+            ],
+            [
+              48.04,
+              96.17,
+              449.84,
+              108.02
+            ],
+            [
+              48.04,
+              115.95,
+              357.95,
+              127.8
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-016"
+      ],
+      "relatedCitationIds": [
+        "cite-129"
+      ]
     },
     {
       "id": "cite-130",
@@ -5038,7 +11546,48 @@
         "ref-021"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-123",
+      "sentenceText": "평생교육 연구에서는 학습자의 경험을 그 경험이 이루어진 맥락과 관련지어 이해하는 일이 중요하다(윤창국, 2013).",
+      "sentenceRects": [
+        [
+          79.31,
+          347.39,
+          449.84,
+          358.42
+        ],
+        [
+          48.04,
+          367.18,
+          271.94,
+          379.02
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 32,
+          "rects": [
+            [
+              79.31,
+              347.39,
+              449.84,
+              358.42
+            ],
+            [
+              48.04,
+              367.18,
+              271.94,
+              379.02
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-021"
+      ],
+      "relatedCitationIds": [
+        "cite-130"
+      ]
     },
     {
       "id": "cite-131",
@@ -5063,7 +11612,61 @@
         "ref-072"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-124",
+      "sentenceText": "사례는 시간과 장소, 활동 등으로 범위를 정할 수 있으며 면담, 관찰, 문서와 같은 여러 자료를 활용하여 이해한다(Creswell & Poth, 2021; Yin, 2021).",
+      "sentenceRects": [
+        [
+          152.02,
+          451.36,
+          449.96,
+          463.21
+        ],
+        [
+          48.04,
+          471.14,
+          449.9,
+          482.99
+        ],
+        [
+          48.04,
+          491.75,
+          102.67,
+          502.78
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 32,
+          "rects": [
+            [
+              152.02,
+              451.36,
+              449.96,
+              463.21
+            ],
+            [
+              48.04,
+              471.14,
+              449.9,
+              482.99
+            ],
+            [
+              48.04,
+              491.75,
+              102.67,
+              502.78
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-043",
+        "ref-072"
+      ],
+      "relatedCitationIds": [
+        "cite-131"
+      ]
     },
     {
       "id": "cite-132",
@@ -5081,7 +11684,48 @@
         "ref-072"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-125",
+      "sentenceText": "연구설계는 하나의 사례 안에 개별 학습자의 경험을 하위 분석단위로 두는 복합 분석단위의 단일사례연구에 해당한다(Yin, 2021).",
+      "sentenceRects": [
+        [
+          68.04,
+          264.41,
+          449.84,
+          275.44
+        ],
+        [
+          48.04,
+          284.2,
+          321.54,
+          296.04
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 33,
+          "rects": [
+            [
+              68.04,
+              264.41,
+              449.84,
+              275.44
+            ],
+            [
+              48.04,
+              284.2,
+              321.54,
+              296.04
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-072"
+      ],
+      "relatedCitationIds": [
+        "cite-132"
+      ]
     },
     {
       "id": "cite-133",
@@ -5100,7 +11744,49 @@
         "ref-053"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-126",
+      "sentenceText": "Jarvis(2006, 2009)의 논의에 따라 학습자가 겪은 일, 생각과 감정 및 행동, 이전 경험과의 관련에 주목한다.",
+      "sentenceRects": [
+        [
+          207.37,
+          368.38,
+          449.96,
+          380.22
+        ],
+        [
+          48.04,
+          388.16,
+          344.54,
+          400.01
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 33,
+          "rects": [
+            [
+              207.37,
+              368.38,
+              449.96,
+              380.22
+            ],
+            [
+              48.04,
+              388.16,
+              344.54,
+              400.01
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-052",
+        "ref-053"
+      ],
+      "relatedCitationIds": [
+        "cite-133"
+      ]
     },
     {
       "id": "cite-134",
@@ -5118,7 +11804,60 @@
         "ref-058"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-127",
+      "sentenceText": "가능한 자기 개념을 통해서는 앞으로 되고 싶거나 될 수 있다고 생각하는 모습, 되기를 두려워하는 모습과 그 이유를 살핀다(Markus & Nurius, 1986).",
+      "sentenceRects": [
+        [
+          350.41,
+          388.16,
+          449.96,
+          399.19
+        ],
+        [
+          48.04,
+          407.95,
+          449.84,
+          419.8
+        ],
+        [
+          48.04,
+          427.73,
+          303.45,
+          439.58
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 33,
+          "rects": [
+            [
+              350.41,
+              388.16,
+              449.96,
+              399.19
+            ],
+            [
+              48.04,
+              407.95,
+              449.84,
+              419.8
+            ],
+            [
+              48.04,
+              427.73,
+              303.45,
+              439.58
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-058"
+      ],
+      "relatedCitationIds": [
+        "cite-134"
+      ]
     },
     {
       "id": "cite-135",
@@ -5136,7 +11875,48 @@
         "ref-072"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-128",
+      "sentenceText": "자료의 출처와 작성 목적을 구분하여 경험에 대한 설명과 교육현장의 상황을 함께 확인한다(Yin, 2021).",
+      "sentenceRects": [
+        [
+          233.84,
+          511.91,
+          449.84,
+          522.95
+        ],
+        [
+          48.04,
+          531.7,
+          357.35,
+          543.55
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 33,
+          "rects": [
+            [
+              233.84,
+              511.91,
+              449.84,
+              522.95
+            ],
+            [
+              48.04,
+              531.7,
+              357.35,
+              543.55
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-072"
+      ],
+      "relatedCitationIds": [
+        "cite-135"
+      ]
     },
     {
       "id": "cite-136",
@@ -5154,7 +11934,48 @@
         "ref-019"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-129",
+      "sentenceText": "연구참여자는 연구목적과 관련된 경험을 지닌 사람을 선정하는 의도적 표집으로 모집한다(유기웅 외, 2018).",
+      "sentenceRects": [
+        [
+          68.04,
+          205.29,
+          449.84,
+          216.32
+        ],
+        [
+          48.04,
+          225.08,
+          231.69,
+          236.93
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 34,
+          "rects": [
+            [
+              68.04,
+              205.29,
+              449.84,
+              216.32
+            ],
+            [
+              48.04,
+              225.08,
+              231.69,
+              236.93
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-019"
+      ],
+      "relatedCitationIds": [
+        "cite-136"
+      ]
     },
     {
       "id": "cite-137",
@@ -5172,7 +11993,60 @@
         "ref-074"
       ],
       "matchStatus": "matched",
-      "relation": "legislation"
+      "relation": "legislation",
+      "sentenceId": "sentence-130",
+      "sentenceText": "첫 학습의 연령은 노인복지관과 노인교실의 이용대상을 60세 이상으로 정한 「노인복지법 시행규칙」 제24조를 참고하여 설정하였다.",
+      "sentenceRects": [
+        [
+          267.87,
+          284.44,
+          449.84,
+          295.47
+        ],
+        [
+          48.04,
+          304.22,
+          449.84,
+          316.07
+        ],
+        [
+          48.04,
+          324.01,
+          156.93,
+          335.86
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 34,
+          "rects": [
+            [
+              267.87,
+              284.44,
+              449.84,
+              295.47
+            ],
+            [
+              48.04,
+              304.22,
+              449.84,
+              316.07
+            ],
+            [
+              48.04,
+              324.01,
+              156.93,
+              335.86
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-074"
+      ],
+      "relatedCitationIds": [
+        "cite-137"
+      ]
     },
     {
       "id": "cite-138",
@@ -5190,7 +12064,48 @@
         "ref-057"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-131",
+      "sentenceText": "질적 면담자료의 충분성은 연구목적, 표본의 구체성, 이론의 활용, 대화의 질, 분석방식을 함께 고려하여 판단할 수 있다(Malterud et al., 2016).",
+      "sentenceRects": [
+        [
+          68.04,
+          101.2,
+          449.84,
+          113.05
+        ],
+        [
+          48.04,
+          120.99,
+          429.11,
+          132.84
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 35,
+          "rects": [
+            [
+              68.04,
+              101.2,
+              449.84,
+              113.05
+            ],
+            [
+              48.04,
+              120.99,
+              429.11,
+              132.84
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-057"
+      ],
+      "relatedCitationIds": [
+        "cite-138"
+      ]
     },
     {
       "id": "cite-139",
@@ -5215,7 +12130,61 @@
         "ref-066"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-132",
+      "sentenceText": "면담은 반구조화 방식으로 진행하며 주요 질문을 미리 준비하되 참여자의 설명에 따라 순서와 보충질문을 조정한다(유기웅 외, 2018; Seidman, 2022).",
+      "sentenceRects": [
+        [
+          103.38,
+          318.61,
+          449.96,
+          329.64
+        ],
+        [
+          48.04,
+          338.4,
+          449.72,
+          350.25
+        ],
+        [
+          48.04,
+          359.0,
+          76.43,
+          370.03
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 35,
+          "rects": [
+            [
+              103.38,
+              318.61,
+              449.96,
+              329.64
+            ],
+            [
+              48.04,
+              338.4,
+              449.72,
+              350.25
+            ],
+            [
+              48.04,
+              359.0,
+              76.43,
+              370.03
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-019",
+        "ref-066"
+      ],
+      "relatedCitationIds": [
+        "cite-139"
+      ]
     },
     {
       "id": "cite-140",
@@ -5233,7 +12202,60 @@
         "ref-066"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-133",
+      "sentenceText": "질문의 순서보다 참여자의 설명을 우선하며, “그때 어떤 일이 있었나요?”, “그렇게 생각한 계기는 무엇인가요?”와 같이 경험을 구체화하는 보충질문을 사용한다(Seidman, 2022).",
+      "sentenceRects": [
+        [
+          138.96,
+          481.94,
+          449.96,
+          493.78
+        ],
+        [
+          48.04,
+          501.72,
+          449.96,
+          513.57
+        ],
+        [
+          48.04,
+          521.51,
+          231.09,
+          533.36
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 35,
+          "rects": [
+            [
+              138.96,
+              481.94,
+              449.96,
+              493.78
+            ],
+            [
+              48.04,
+              501.72,
+              449.96,
+              513.57
+            ],
+            [
+              48.04,
+              521.51,
+              231.09,
+              533.36
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-066"
+      ],
+      "relatedCitationIds": [
+        "cite-140"
+      ]
     },
     {
       "id": "cite-141",
@@ -5253,7 +12275,50 @@
         "ref-058"
       ],
       "matchStatus": "matched",
-      "relation": "direct"
+      "relation": "direct",
+      "sentenceId": "sentence-134",
+      "sentenceText": "면담 질문은 두 연구문제와 Jarvis의 경험학습, Markus와 Nurius의 가능한 자기 논의를 바탕으로 구성한다(Jarvis, 2006, 2009; Markus & Nurius, 1986).",
+      "sentenceRects": [
+        [
+          68.04,
+          101.2,
+          449.84,
+          113.05
+        ],
+        [
+          48.04,
+          120.99,
+          449.84,
+          132.84
+        ]
+      ],
+      "sentenceRegions": [
+        {
+          "page": 36,
+          "rects": [
+            [
+              68.04,
+              101.2,
+              449.84,
+              113.05
+            ],
+            [
+              48.04,
+              120.99,
+              449.84,
+              132.84
+            ]
+          ]
+        }
+      ],
+      "sentenceReferenceIds": [
+        "ref-052",
+        "ref-053",
+        "ref-058"
+      ],
+      "relatedCitationIds": [
+        "cite-141"
+      ]
     }
   ]
 }

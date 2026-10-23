@@ -78,6 +78,19 @@ test('Master PostgreSQL integration: namespace isolation, private wrappers, owne
       await mustFail(db.query('select * from master_review_private.notes'),'42501');
       assert.equal((await call('master_review_list_notes',[dataset,null,false])).notes.length,2);
     });
+    await t.test('reference PDF note preserves its source, page beyond thesis length, and coordinates',async()=>{
+      await actor('authenticated',actorA);
+      const sourceId='s-cite-9080327130c81179fd8f';
+      const created=(await call('master_review_create_note',[dataset,{anchorType:'source',sourceId,page:155,x:.37,y:.61,quote:'선택한 원전 구절',text:'원전 위치 검토'}])).note;
+      assert.equal(created.sourceId,sourceId);assert.equal(created.page,155);
+      assert.equal(created.x,.37);assert.equal(created.y,.61);assert.equal(created.noteId,null);
+      assert.equal(created.visibility,'private');
+      const restored=(await call('master_review_list_notes',[dataset,null,false])).notes.find(note=>note.id===created.id);
+      assert.equal(restored.sourceId,sourceId);assert.equal(restored.page,155);
+      assert.equal(restored.x,.37);assert.equal(restored.y,.61);assert.equal(restored.quote,'선택한 원전 구절');
+      await call('master_review_delete_note',[dataset,created.id,{revision:created.revision}]);
+      assert.equal((await call('master_review_list_notes',[dataset,null,false])).notes.length,2);
+    });
     await t.test('B sees only A shared note, cannot edit/delete either A note',async()=>{
       await actor('authenticated',actorB);
       const notes=(await call('master_review_list_notes',[dataset,null,false])).notes;

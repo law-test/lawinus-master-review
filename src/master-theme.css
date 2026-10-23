@@ -1,8 +1,8 @@
 /* Calm academic typography with the official Graduate School of Education logo. */
 :root{--review-ink:#342d2c;--review-muted:#756a66;--review-paper:#fffdf9;--review-line:#dfd7ce;--review-maroon:#8d2f3d;--review-maroon-dark:#7a0029;--review-maroon-light:#f4e9e8;--background:#fffdf9;--foreground:#342d2c}
 .review-app{background:#fffdf9}
-.app-header{height:104px;flex-basis:104px;gap:23px;border-top-color:#8d2f3d;border-bottom-color:#e8dfd6;background:#fffdf9;padding:0 26px}
-.education-wordmark{display:flex;flex-direction:column;flex:0 0 242px;width:242px;min-width:0;justify-content:center;color:#7a0029;line-height:1.25;letter-spacing:.05em;white-space:nowrap}
+.app-header{height:92px;flex-basis:92px;gap:20px;border-top-color:#8d2f3d;border-bottom-color:#e8dfd6;background:#fffdf9;padding:0 25px}
+.education-wordmark{display:flex;flex-direction:column;flex:0 0 210px;width:210px;min-width:0;justify-content:center;color:#7a0029;line-height:1.25;letter-spacing:.05em;white-space:nowrap}
 .education-wordmark>a{display:block;width:100%;line-height:0}
 .education-wordmark img{display:block;width:100%;height:auto;aspect-ratio:287.277/71.212;object-fit:contain}
 .education-wordmark>small{align-self:flex-end;font-size:9px;letter-spacing:.25em;margin-top:6px;color:#88766d}
@@ -10,10 +10,10 @@
 .loading-screen h1{font-size:19px;color:#7a0029}.loading-screen h2{font-size:17px}
 .brand{flex-basis:91px}.brand b{color:#503639;font-size:17px;letter-spacing:.17em}.brand span{font-size:10px;color:#7e716c}
 .header-title{padding-left:24px;border-left-color:#ded1c7}.header-title>span{letter-spacing:.16em;color:#8d2f3d;font-size:10px}
-.header-title h1{font-family:"Batang","Noto Serif KR",serif;font-size:clamp(14px,1.13vw,18px);font-weight:700;line-height:1.6;white-space:normal;word-break:keep-all;overflow-wrap:anywhere}
+.header-title h1{font-family:inherit;font-size:clamp(13px,1.18vw,18px);font-weight:600;line-height:1.6;white-space:normal;word-break:keep-all;overflow-wrap:anywhere}
 .review-app .header-title p{font-size:11px;color:#7c6b65;margin:3px 0 0;line-height:1.4}
 .access-badge{color:#8d2f3d;border-color:#cdb5b6;background:#fffbf5;padding:5px 10px}
-.basis-bar{background:#f3eee5;color:#77695f;border-color:#e0d5c9;min-height:36px;height:36px;flex-basis:36px;font-size:10px}
+.basis-bar{background:#f3eee5;color:#77695f;border-color:#e0d5c9;min-height:40px;height:40px;flex-basis:40px;font-size:10px}
 .basis-bar b{color:#7a0029}.basis-context{white-space:nowrap}.basis-bar i{background:#cfc1b2}
 .workspace-sidebar{background:#f8f4ec;border-color:#e0d5c9}.sidebar-heading{background:#f3ece2;border-color:#e0d5c9;color:#7a0029}
 .sidebar-menu button.active{color:#7a0029;background:#efe2df}.sidebar-menu button.active>span{color:#8d2f3d}
@@ -28,10 +28,10 @@
 .presentation-panel{display:flex;flex-direction:column;flex:1;min-height:0;overflow:hidden}
 .presentation-panel>.pdf-reader{height:auto;min-height:0;flex:1;overflow:hidden}
 .presentation-caption{display:flex;flex:0 0 auto;align-items:center;justify-content:space-between;gap:12px;padding:12px 18px;background:#faf6ee;border-bottom:1px solid #e0d5c9}
-.presentation-caption h2{font-family:"Batang","Noto Serif KR",serif;font-size:16px;line-height:1.6;margin-top:2px;color:#5d343c}
+.presentation-caption h2{font-family:inherit;font-size:16px;line-height:1.6;margin-top:2px;color:#5d343c}
 .presentation-caption .section-eyebrow{font-size:9px;color:#98816f;letter-spacing:.1em}.presentation-caption .download-link{border:1px solid #d8c3bc;font-size:10px;color:#8d2f3d;white-space:nowrap;background:#fffdf9}
 .source-toolbar{border-top:0;border-bottom:1px solid #e0d5c9}
-.panel-heading h2{border-left-color:#8d2f3d;font-family:"Batang","Noto Serif KR",serif}.panel-heading p{line-height:1.8;color:#80716a}
+.panel-heading h2{border-left-color:#8d2f3d;font-family:inherit}.panel-heading p{line-height:1.8;color:#80716a}
 .document-library{display:grid;gap:15px;margin:19px 0 25px}
 .document-card{padding:18px;border:1px solid #ded0c4;border-radius:6px;background:#fffdf8}
 .document-card-top{display:flex;align-items:center;justify-content:space-between;color:#9b887a;font-size:10px;margin-bottom:9px}
@@ -41,6 +41,10 @@
 .document-card-actions button{border:1px solid #dbc5bd;background:#fbf4ed;color:#7a0029;padding:6px 9px}.document-card-actions a{padding:6px 3px;margin-right:auto}
 .reference-availability{padding:15px 17px;border-left:3px solid #c2a58f;background:#f4eee3;color:#837161}
 .reference-availability h3{font-size:12px;color:#725743;margin-bottom:6px}.review-app .reference-availability p{font-size:11px;line-height:1.9;margin-bottom:0}
+.reference-library{border-top:1px solid #dfd3c7;padding-top:20px}.reference-library>h3{display:flex;align-items:center;justify-content:space-between;font-size:17px;color:#7a0029}.reference-library>h3 small{font-size:13px;font-weight:400;color:#887266}.reference-library .document-card-top{align-items:flex-start;gap:10px;font-size:12px}.reference-library .document-card-top>span:last-child{line-height:1.6;text-align:right}.reference-library .document-card h3{font-size:16px;line-height:1.7;overflow-wrap:anywhere}.review-app .reference-library .document-card p{font-size:14px;line-height:1.8}.reference-library .document-card-actions{gap:9px}.reference-library .document-card-actions button{font-size:14px;min-height:40px;padding:8px 11px}.library-panel>.search-input{font-size:14px;min-height:44px}
+.library-view-tabs{display:flex;gap:8px;flex-wrap:wrap;margin:18px 0 14px}.review-app .library-view-tabs button{min-height:42px;padding:9px 13px;border:1px solid #d9c1b3;font-size:14px}
+.citation-library>h3{display:flex;justify-content:space-between;align-items:center;font-size:17px;color:#7a0029;margin:12px 0}.citation-library>h3 small{font-size:13px;font-weight:400;color:#887266}.review-app .citation-library .library-row{font-size:15px;padding:16px 3px;gap:12px}.citation-library .index-number{flex-basis:36px;font-size:12px;color:#8d2f3d}.citation-library .library-row small{font-size:12px;color:#756a66}.citation-library-context{display:block;font-size:14px;color:#655b55;line-height:1.8;margin-top:6px}
+.reference-memo-context{display:flex;align-items:center;gap:10px;flex-wrap:wrap;padding:9px 16px;background:#f8f4ec;border-bottom:1px solid #dfd3c7;font-size:12px;color:#756a66}.review-app .reference-memo-context button{min-height:38px;padding:7px 10px;font-size:14px;border:1px solid #d9c1b3;background:#fffdf9}
 .research-author{display:flex;align-items:center;gap:17px;margin:26px 0 30px}
 .author-initial{display:grid;place-items:center;width:64px;height:72px;flex:0 0 64px;color:#8d2f3d;background:#efe5db;border:1px solid #d9c1b3;font-family:"Batang",serif;font-size:28px}
 .research-author h2{font-family:"Batang",serif;font-size:27px;letter-spacing:.16em;font-weight:500;color:#6b2330}.review-app .research-author p{font-size:11px;line-height:1.8;color:#887266;margin:5px 0 0}
@@ -59,7 +63,7 @@
   .page-footnotes{min-height:36px}.document-page-label{font-size:10px}.page-footnotes a{min-height:34px;display:flex;align-items:center}
   .document-card{padding:16px}.document-card-actions{gap:8px;font-size:12px}.document-card-actions button,.document-card-actions a{min-height:44px;padding:10px 8px}.document-card h3{font-size:16px}.review-app .document-card p,.review-app .reference-availability p{font-size:12px}
   .research-facts>div{grid-template-columns:74px minmax(0,1fr);gap:10px;font-size:12px}.research-author{gap:13px}.research-author h2{font-size:25px}.profile-panel>.research-topic h3{font-size:17px}.research-guidance p{font-size:13px}
-  .mobile-navigation{background:#fffdf8;border-color:#ded0c1}.review-app .mobile-navigation button.active{color:#7a0029;background:#efe2df}
+  .mobile-navigation{grid-template-columns:repeat(5,minmax(0,1fr));background:#fffdf8;border-color:#ded0c1}.review-app .mobile-navigation button.active{color:#7a0029;background:#efe2df}
 }
 @media(max-width:420px){.app-header{gap:6px}.education-wordmark{flex-basis:134px;width:134px}.header-title{padding-left:9px}.header-title h1{font-size:11px}.review-app .header-title p{display:none}.basis-bar i{margin:0 5px}.basis-bar{font-size:8px}.basis-bar>span:last-child{font-size:8px}.document-card-actions{gap:5px}}
 @media(max-width:360px){.education-wordmark{flex-basis:118px;width:118px}}

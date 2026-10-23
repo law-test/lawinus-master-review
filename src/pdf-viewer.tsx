@@ -1,6 +1,6 @@
 import React,{useCallback,useEffect,useLayoutEffect,useMemo,useRef,useState} from 'react';
 import {assetUrl} from './review-api';
-import {measurableViewport,movedPointer,normalizedPoint,pageIndexAt,pageLayout,reflowScrollPosition,targetAt,targetLabel,visiblePageRange,watchDocumentInterruption,type PageSize,type PdfTarget} from './pdf-viewer-model';
+import {measurableViewport,movedPointer,normalizedPoint,pageIndexAt,pageLayout,reflowScrollPosition,targetAt,targetHint,targetLabel,visiblePageRange,watchDocumentInterruption,type PageSize,type PdfTarget} from './pdf-viewer-model';
 import './pdf-viewer.css';
 type Obj=Record<string,any>;
 type Pin={id:string;page:number|null;x:number|null;y:number|null;text:string;status:string;[key:string]:any};
@@ -25,7 +25,7 @@ function PdfPage({doc,page,width,height,highlights,targets,pins,onTarget,onPin,o
   const selectedNote=focused||hover?.noteId;
   const keyboardTargets=useMemo(()=>{const rows=new Map<string,PdfTarget>();for(const t of targets){const old=rows.get(t.noteId);if(!old||old.kind==='body-marker'&&t.kind!=='body-marker')rows.set(t.noteId,t);}return [...rows.values()];},[targets]);
   return <div className={'pdf-sheet continuous-pdf-page'+(hover&&!placing?' has-citation-hover':'')} ref={sheet} data-pdf-page={page} style={{width,height}}
-    title={!placing&&hover?'인용 문헌 보기':undefined}
+    title={!placing&&hover?targetHint(hover):undefined}
     onPointerDown={e=>{gesture.current={x:e.clientX,y:e.clientY};}}
     onPointerMove={e=>{if(!placing&&e.pointerType==='mouse'){const next=targetFromEvent(e);setHover(old=>old?.noteId===next?.noteId&&old?.rect===next?.rect?old:next||null);}}}
     onPointerLeave={()=>setHover(null)} onClick={e=>{
@@ -40,8 +40,8 @@ function PdfPage({doc,page,width,height,highlights,targets,pins,onTarget,onPin,o
     <div className="pdf-overlays">{highlights.map((h,i)=><span key={i} className="pdf-highlight" style={rectStyle(h.rect)}/>)}
       {!placing&&targets.filter(t=>t.noteId===selectedNote).map((t,i)=><span key={'link'+i} className="citation-hover-region" style={rectStyle(t.rect)}/>)}
     </div>
-    {!placing&&keyboardTargets.map(t=><a key={t.noteId} className="citation-keyboard-link" style={rectStyle(t.rect)} href={'#'+t.noteId} aria-label={targetLabel(t)} title="인용 문헌 보기" onFocus={()=>setFocused(t.noteId)} onBlur={()=>setFocused(null)} onClick={e=>{e.preventDefault();onTarget?.(t.noteId);}} onKeyDown={e=>{if(e.key===' '){e.preventDefault();onTarget?.(t.noteId);}}}/>)}
-    {!placing&&hover&&<span className="citation-hover-tooltip" role="tooltip" style={{left:Math.min(hover.rect[0]/dims.width*100,70)+'%',top:hover.rect[3]/dims.height*100+'%'}}>인용 문헌 보기</span>}
+    {!placing&&keyboardTargets.map(t=><a key={t.noteId} className="citation-keyboard-link" style={rectStyle(t.rect)} href={'#'+t.noteId} aria-label={targetLabel(t)} title={targetHint(t)} onFocus={()=>setFocused(t.noteId)} onBlur={()=>setFocused(null)} onClick={e=>{e.preventDefault();onTarget?.(t.noteId);}} onKeyDown={e=>{if(e.key===' '){e.preventDefault();onTarget?.(t.noteId);}}}/>)}
+    {!placing&&hover&&<span className="citation-hover-tooltip" role="tooltip" style={{left:Math.min(hover.rect[0]/dims.width*100,70)+'%',top:hover.rect[3]/dims.height*100+'%'}}>{targetHint(hover)}</span>}
     {!placing&&pins.filter(p=>p.x!=null&&p.y!=null).map((p,i)=><button key={p.id} className={'memo-pin '+(p.status==='resolved'?'resolved':'')} style={{left:p.x!*100+'%',top:p.y!*100+'%'}} title={p.text} aria-label={'메모: '+p.text.slice(0,50)} onClick={e=>{e.stopPropagation();onPin?.(p);}}>{i+1}</button>)}
   </div>;
 }
@@ -81,8 +81,9 @@ export default function PdfPane({id,page,total,zoom=1,pageSizes=NO_PAGE_SIZES,hi
   const onSize=useCallback((p:number,size:PageSize)=>setMeasured(previous=>{const values=previous.id===id?previous.values:{};const old=values[p];return old&&Math.abs(old.width-size.width)<.01&&Math.abs(old.height-size.height)<.01?previous:{id,values:{...values,[p]:size}};}),[id]);
   const visible=visiblePageRange(layout.offsets,Math.max(0,viewport.top-18),viewport.height,1);
   function finishDrag(e:React.PointerEvent){if(drag.current?.pointerId===e.pointerId)cancelDrag();}
+  function enableHandMode(){const selection=window.getSelection();if(selection&&!selection.isCollapsed&&(host.current?.contains(selection.anchorNode)||host.current?.contains(selection.focusNode)))selection.removeAllRanges();setHand(true);}
   return <div className="pdf-reader" aria-label={label}>
-    <div className="pdf-reading-tools"><span>연속 보기</span><div><button className={hand?'selected':''} aria-pressed={hand} onClick={()=>setHand(true)} title="문서를 잡고 위아래로 이동">✋ 이동</button><button className={!hand?'selected':''} aria-pressed={!hand} onClick={()=>setHand(false)} title="글자를 드래그하여 선택·복사">Ⅰ 글자 선택</button></div><span className="pdf-reading-page">{page} / {doc?.numPages||total}</span></div>
+    <div className="pdf-reading-tools"><span>연속 보기</span><div><button className={hand?'selected':''} aria-pressed={hand} onClick={enableHandMode} title="문서를 잡고 위아래로 이동">✋ 이동</button><button className={!hand?'selected':''} aria-pressed={!hand} onClick={()=>setHand(false)} title="글자를 드래그하여 선택·복사">Ⅰ 글자 선택</button></div><span className="pdf-reading-page">{page} / {doc?.numPages||total}</span></div>
     <div className={'pdf-stage continuous-pdf'+(hand?' hand-mode':' selection-mode')+(dragging?' is-dragging':'')+(placing?' placing':'')} ref={host} tabIndex={0} aria-label={`${label} 연속 스크롤`}
       onScroll={e=>{if(hidden.current||resumeScroll.current||!viewportSize(e.currentTarget))return;savedScroll.current={top:e.currentTarget.scrollTop,left:e.currentTarget.scrollLeft};cancelAnimationFrame(frame.current);frame.current=requestAnimationFrame(updateViewport);}}
       onPointerDown={e=>{if(!hand||placing||e.pointerType!=='mouse'||e.button!==0||(e.target as HTMLElement).closest('button,a,input,textarea'))return;e.preventDefault();drag.current={pointerId:e.pointerId,x:e.clientX,y:e.clientY,top:e.currentTarget.scrollTop,left:e.currentTarget.scrollLeft,moved:false};}}

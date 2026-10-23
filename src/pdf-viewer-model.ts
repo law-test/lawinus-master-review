@@ -1,6 +1,7 @@
 export type PdfRect = [number,number,number,number];
 export type PdfTarget = {page:number;rect:PdfRect;noteId:string;number?:number;kind:string;label?:string};
 export function targetLabel(target:PdfTarget):string{return target.label||(target.number!==undefined?`각주 ${target.number} 원전과 검토 내용 열기`:'본문 인용 참고문헌 열기');}
+export function targetHint(target:PdfTarget):string{return target.kind==='citation-sentence'?'문장 관련 문헌 보기':'인용 문헌 보기';}
 type NoteGeometry = {id:string;number:number;clickTargets?:{page:number;rect:number[];kind?:string}[];noteHighlights?:{page:number;rect:number[];kind?:string}[]};
 export type PageSize = {width:number;height:number};
 export function validRect(value:unknown): value is PdfRect {
@@ -18,9 +19,10 @@ export function footnoteTargets(notes:NoteGeometry[]):PdfTarget[]{
   return result;
 }
 export function targetAt(targets:PdfTarget[],x:number,y:number):PdfTarget|undefined{
-  // Prefer the smallest exact region if a marker and its own first line overlap.
+  // An exact author-year click narrows the selection even inside a sentence link.
+  // Other overlapping regions use the smallest printed area, never a union box.
   return targets.filter(t=>x>=t.rect[0]&&x<=t.rect[2]&&y>=t.rect[1]&&y<=t.rect[3])
-    .sort((a,b)=>(a.rect[2]-a.rect[0])*(a.rect[3]-a.rect[1])-(b.rect[2]-b.rect[0])*(b.rect[3]-b.rect[1]))[0];
+    .sort((a,b)=>{if(a.kind==='author-year'&&b.kind==='citation-sentence')return -1;if(a.kind==='citation-sentence'&&b.kind==='author-year')return 1;return (a.rect[2]-a.rect[0])*(a.rect[3]-a.rect[1])-(b.rect[2]-b.rect[0])*(b.rect[3]-b.rect[1]);})[0];
 }
 export function normalizedPoint(clientX:number,clientY:number,box:{left:number;top:number;width:number;height:number}){
   return {x:Math.max(0,Math.min(1,(clientX-box.left)/box.width)),y:Math.max(0,Math.min(1,(clientY-box.top)/box.height))};

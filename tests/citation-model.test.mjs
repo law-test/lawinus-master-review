@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import {test} from 'node:test';
 import {readFileSync} from 'node:fs';
-import {bibliographyPage,citationDatasetMatches,citationTargets,referenceLabel,referencePdf,referencesForCitation,verifiedReferenceUrl} from '../src/citation-model.ts';
+import {bibliographyPage,citationDatasetMatches,citationPurpose,citationSelectionHighlights,citationTargets,defaultCitationDocumentMode,referenceCitationUses,referenceLabel,referencePdf,referencesForCitation,resolveCitationSelection,sourcePageLabel,verifiedReferenceUrl} from '../src/citation-model.ts';
 import {movedPointer,normalizedPoint,targetAt,targetLabel} from '../src/pdf-viewer-model.ts';
 
 const data=JSON.parse(readFileSync(new URL('../src/citation-data.json',import.meta.url),'utf8'));
@@ -61,4 +61,77 @@ test('the attached thesis has the requested Han citation and at least one multi-
   const han=data.citations.find(citation=>citation.text.includes('한정란')&&citation.text.includes('2025'));
   assert.ok(han);const refs=referencesForCitation(han,data.references);assert.ok(refs.some(ref=>ref.authors.includes('한정란')&&ref.year==='2025'));
   assert.ok(data.citations.some(citation=>referencesForCitation(citation,data.references).length>1));
+});
+test('a sentence click collects all its references while a direct author-year click stays specific',()=>{
+  const common={page:4,matchStatus:'matched',sentenceId:'sentence-example',sentenceText:'앞선 연구(가, 2024)와 다른 연구(나, 2025)를 함께 살핀다.',sentenceRegions:[{page:4,rects:[[40,90,450,104],[40,115,190,129]]}],sentenceReferenceIds:['ref-a','ref-b'],relatedCitationIds:['cite-a','cite-b']};
+  const first={...common,id:'cite-a',text:'(가, 2024)',rects:[[100,90,150,104]],referenceIds:['ref-a']};
+  const second={...common,id:'cite-b',text:'(나, 2025)',rects:[[230,90,280,104]],referenceIds:['ref-b']};
+  const citations=[first,second],targets=citationTargets(citations,true,44);
+  assert.equal(targets.filter(target=>target.kind==='citation-sentence').length,2,'shared sentence lines must not be duplicated');
+  assert.equal(targetAt(targets,60,96)?.noteId,'sentence-example');
+  assert.equal(targetAt(targets,120,96)?.noteId,'cite-a');
+  assert.equal(targetAt(targets,250,96)?.noteId,'cite-b');
+  assert.equal(targetAt(targets,250,120),undefined,'blank remainder of the last line remains inert');
+  assert.equal(targetAt(targets,120,109),undefined,'line gaps remain inert');
+  assert.equal(resolveCitationSelection('cite-a',citations),first,'direct citation selection keeps original text and references');
+  const selected=resolveCitationSelection('sentence-example',citations);
+  assert.equal(selected.selectionKind,'sentence');assert.equal(selected.text,common.sentenceText);assert.deepEqual(selected.referenceIds,['ref-a','ref-b']);
+  assert.equal(resolveCitationSelection('missing',citations),undefined);
+});
+test('cross-page sentence targets and persistent highlights preserve each page independently',()=>{
+  const citation={id:'cross',page:5,text:'(나, 2025)',rects:[[200,50,260,63]],referenceIds:['ref-b'],matchStatus:'matched',sentenceId:'cross-sentence',sentenceText:'이 문장은 다음 쪽까지 이어진다(나, 2025).',sentenceRegions:[{page:4,rects:[[80,650,400,663]]},{page:5,rects:[[40,50,280,63]]}],sentenceReferenceIds:['ref-b']};
+  const targets=citationTargets([citation],true,44);
+  assert.equal(targetAt(targets.filter(target=>target.page===4),150,656)?.noteId,'cross-sentence');
+  assert.equal(targetAt(targets.filter(target=>target.page===5),100,56)?.noteId,'cross-sentence');
+  assert.equal(targetAt(targets.filter(target=>target.page===5),220,56)?.noteId,'cross');
+  const selection=resolveCitationSelection('cross-sentence',[citation]);
+  assert.deepEqual(citationSelectionHighlights(selection),[{page:4,rect:[80,650,400,663]},{page:5,rect:[40,50,280,63]}]);
+  assert.deepEqual(citationSelectionHighlights(citation),[{page:5,rect:[200,50,260,63]}]);
+});
+test('direct citations win overlaps even when a sentence segment has a smaller area',()=>{
+  const sentence={page:1,rect:[110,50,135,61],noteId:'sentence',kind:'citation-sentence'};
+  const direct={page:1,rect:[100,49,140,63],noteId:'citation',kind:'author-year'};
+  assert.equal(targetAt([sentence,direct],120,55)?.noteId,'citation');
+  assert.equal(targetAt([direct,sentence],120,55)?.noteId,'citation');
+});
+
+test('static citation purposes follow the selected reference and fall back only to that sentence summary',()=>{
+  const purposes={'sentence-one':{summary:' 문장 전체의 취지 ',referencePurposes:{a:' 문헌 가의 취지 ',b:' '}}};
+  const direct={id:'cite-one',sentenceId:'sentence-one'};
+  assert.equal(citationPurpose(direct,'a',purposes),'문헌 가의 취지');
+  assert.equal(citationPurpose(direct,'b',purposes),'문장 전체의 취지');
+  assert.equal(citationPurpose({id:'sentence-one',selectionKind:'sentence'},'a',purposes),'문헌 가의 취지');
+  assert.equal(citationPurpose({id:'other',sentenceId:'missing'},'a',purposes),undefined);
+  assert.equal(citationPurpose({...direct,selectionKind:'bibliography'},'a',purposes),undefined);
+});
+
+test('reference uses deduplicate a shared sentence, retain cross-page links, and avoid unrelated purposes',()=>{
+  const citations=[
+    {id:'cite-two',page:8,text:'나',referenceIds:['b'],sentenceId:'sentence-two',sentenceText:'나의 문장'},
+    {id:'cite-one-a',page:5,text:'가',referenceIds:['a'],sentenceId:'sentence-one',sentenceText:'가와 나의 문장',sentenceRegions:[{page:4,rects:[]},{page:5,rects:[]}]},
+    {id:'cite-one-b',page:5,text:'가와 나',referenceIds:['a','b'],sentenceId:'sentence-one',sentenceText:'가와 나의 문장',sentenceRegions:[{page:4,rects:[]},{page:5,rects:[]}]},
+  ];
+  const purposes={'sentence-one':{summary:'함께 쓰인 이유',referencePurposes:{a:'가를 쓴 이유'}},'sentence-two':{summary:'나를 쓴 이유'}};
+  const uses=referenceCitationUses('a',citations,purposes);
+  assert.deepEqual(uses,[{id:'sentence-one',sentenceText:'가와 나의 문장',pages:[4,5],purpose:'가를 쓴 이유'}]);
+  assert.deepEqual(referenceCitationUses('b',citations,purposes).map(use=>use.id),['sentence-one','sentence-two']);
+  assert.deepEqual(referenceCitationUses('uncited',citations,purposes),[],'a bibliography-only entry must not receive an invented purpose');
+});
+
+test('a verified HTTPS page is the default only when no registered PDF is available',()=>{
+  const reference={id:'reference',sourceUrl:'https://example.edu/source',verifiedSource:true};
+  assert.equal(defaultCitationDocumentMode(reference,[]),'web');
+  assert.equal(defaultCitationDocumentMode(reference,[{id:'s-reference',referenceId:'reference',pages:10}]),'source');
+  assert.equal(defaultCitationDocumentMode({...reference,verifiedSource:false},[]),'bibliography');
+  assert.equal(defaultCitationDocumentMode({...reference,sourceUrl:'javascript:alert(1)'},[]),'bibliography');
+  assert.equal(defaultCitationDocumentMode(undefined,[]),'bibliography');
+});
+
+test('excerpt page labels use exact verified page-map rows without inventing citation pages or offsets',()=>{
+  const source={pageMap:[{page:1,originalPage:405},{page:2,originalPage:411},{page:3,originalPage:0}]};
+  assert.equal(sourcePageLabel(source,1),'발췌 1쪽 · 원본 PDF 405쪽');
+  assert.equal(sourcePageLabel(source,2),'발췌 2쪽 · 원본 PDF 411쪽');
+  assert.equal(sourcePageLabel(source,3),'PDF 3쪽');
+  assert.equal(sourcePageLabel(source,4),'PDF 4쪽');
+  assert.equal(sourcePageLabel(undefined,1),'PDF 1쪽');
 });

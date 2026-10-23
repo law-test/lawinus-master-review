@@ -145,12 +145,12 @@ export function renderNotesExport(notes: ReviewNote[], format: 'md'|'csv'|'json'
   if (notes.length > 20000) throw new Error('한 번에 내보낼 수 있는 메모 수(20,000개)를 초과했습니다.');
   if (format === 'json') return { mime: 'application/json;charset=utf-8', text: JSON.stringify({ version: 2, datasetId, exportedAt: new Date().toISOString(), notes }, null, 2) };
   if (format === 'csv') {
-    const fields = ['기준본', '메모ID', 'PDF쪽', '각주', '자료', '선택문', '메모', '작성자', '공유', '상태', '작성시각', '수정시각'];
+    const fields = ['기준본', '메모ID', 'PDF쪽', '본문 인용', '자료', '선택문', '메모', '작성자', '공유', '상태', '작성시각', '수정시각'];
     const rows = notes.map(n => [n.datasetId, n.id, n.page, n.noteId, n.sourceId, n.quote, n.text, n.displayName, n.visibility, n.status, n.createdAt, n.updatedAt]);
     return { mime: 'text/csv;charset=utf-8', text: '\ufeff' + [fields, ...rows].map(row => row.map(csvCell).join(',')).join('\r\n') };
   }
   if (format !== 'md') throw new Error('지원하지 않는 내보내기 형식입니다.');
-  const rows = notes.map(n => `## ${n.page ? `PDF ${n.page}쪽` : '전체'}${n.noteId ? ` · 각주 ${n.noteId}` : ''}\n\n기준본: ${n.datasetId} | 메모 ID: ${n.id}${n.sourceId ? ` | 자료: ${n.sourceId}` : ''}\n\n작성자: ${n.displayName.replace(/[\r\n]/g, ' ')} | ${n.visibility === 'private' ? '나만 보기' : '공유'} | ${n.status === 'resolved' ? '해결' : '미해결'}\n\n${n.quote ? n.quote.split('\n').map(line => '> ' + line).join('\n') + '\n\n' : ''}${n.text}\n\n---\n`);
+  const rows = notes.map(n => `## ${n.page ? `PDF ${n.page}쪽` : '전체'}${n.noteId ? ` · 본문 인용 ${n.noteId}` : ''}\n\n기준본: ${n.datasetId} | 메모 ID: ${n.id}${n.sourceId ? ` | 자료: ${n.sourceId}` : ''}\n\n작성자: ${n.displayName.replace(/[\r\n]/g, ' ')} | ${n.visibility === 'private' ? '나만 보기' : '공유'} | ${n.status === 'resolved' ? '해결' : '미해결'}\n\n${n.quote ? n.quote.split('\n').map(line => '> ' + line).join('\n') + '\n\n' : ''}${n.text}\n\n---\n`);
   return { mime: 'text/markdown;charset=utf-8', text: '# 논문 검토 메모\n\n' + rows.join('\n') };
 }
 

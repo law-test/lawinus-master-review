@@ -24,7 +24,7 @@ test('CSV protects formula-looking values, quotes and Korean line breaks',()=>{
 });
 test('exports retain baseline, note, PDF page, source and selected passage',()=>{
   const md=renderNotesExport([note],'md',config.datasetId);
-  assert.match(md.text,/PDF 183쪽/);assert.match(md.text,/각주 fn-192/);assert.match(md.text,/human-1021-1559/);assert.match(md.text,/s-source/);assert.match(md.text,/> 인용 구절/);
+  assert.match(md.text,/PDF 183쪽/);assert.match(md.text,/본문 인용 fn-192/);assert.match(md.text,/human-1021-1559/);assert.match(md.text,/s-source/);assert.match(md.text,/> 인용 구절/);
   const csv=renderNotesExport([note],'csv',config.datasetId);assert.ok(csv.text.startsWith('\ufeff'));assert.match(csv.text,/"183"/);
   const json=JSON.parse(renderNotesExport([note],'json',config.datasetId).text);assert.equal(json.datasetId,config.datasetId);assert.equal(json.notes[0].id,note.id);assert.equal(json.notes[0].visibility,'private');
 });
