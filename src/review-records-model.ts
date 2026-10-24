@@ -55,7 +55,7 @@ export function readingStatus(referenceId:string,records:ReviewRecords,updates:R
   const noun=kind==='book'&&update.textCoverage&&!wholeBookPdf?'본문 전 장 독해':{book:'전권 독해',article:'논문 전문 독해',chapter:'인용 장 독해',web:'웹 자료',law:'인용 조문'}[kind];
   const complete=citedUnitComplete&&!previousVerified,newWholeBookRead=wholeBookPdf&&complete;
   const ranges=update.readRanges.filter(([a,b])=>Number.isInteger(a)&&Number.isInteger(b)&&a>=1&&b>=a&&b<=update.totalPages);
-  const pageScope=update.totalPages>0?`독해한 원문 PDF ${ranges.map(([a,b])=>a===b?a:`${a}–${b}`).join(', ')||'확인 범위 없음'}쪽 · ${readPages} / ${update.totalPages}쪽`:'쪽수 없는 온라인 자료';
+  const pageScope=update.totalPages>0?`독해한 원문 PDF ${ranges.map(([a,b])=>a===b?a:`${a}–${b}`).join(', ')||'확인 범위 없음'}쪽 · ${readPages} / ${update.totalPages}쪽`:fullText?undefined:'쪽수 없는 온라인 자료';
   const textScope=fullText?`온라인 원문 확인 · ${update.textCoverage!.editionNote}`:undefined;
   const label=kind==='book'&&bodyTextComplete&&!citedUnitComplete?`${previousVerified?'이전 본문 전 장 독해 확인 기록 승계':'본문 전 장 독해 확인'} · 판본 대조 미완료`:previousVerified?(citedUnitComplete?`이전 ${noun} 확인 기록 승계`:`이전 ${noun} 범위 승계`):`${noun} ${citedUnitComplete?'확인':'미완료'}`;
   return {label,scope:[update.scopeLabel,textScope,pageScope].filter(Boolean).join(' · '),complete,citedUnitComplete,newWholeBookRead,bodyTextComplete,previousVerified,update,finding:baseline?.finding};
