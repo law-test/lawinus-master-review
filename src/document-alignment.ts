@@ -50,12 +50,13 @@ export function connectDocumentAlignment(container:HTMLElement):()=>void{
   const source=container.querySelector<HTMLElement>('.source-viewer-pane .continuous-pdf');
   observeStages([thesis,source]);
   for(const element of applied.keys())if(element!==thesis&&element!==source)setMargins(element,{top:0,bottom:0});
-  const result=win.innerWidth>=1200&&thesis&&source?calculateDocumentAlignment(bounds(thesis),bounds(source)):zero();
+  const independentHeights=!!container.querySelector('.thesis-toolbar-region[data-manual-height="true"], .source-toolbar-region[data-manual-height="true"], .foreign-document-stack.mode-parallel');
+  const result=!independentHeights&&win.innerWidth>=1200&&thesis&&source?calculateDocumentAlignment(bounds(thesis),bounds(source)):zero();
   if(thesis)setMargins(thesis,result.thesis);
   if(source)setMargins(source,result.source);
  }
  const mutation=new MutationObserver(schedule);
- mutation.observe(container,{subtree:true,childList:true,attributes:true,attributeFilter:['class','hidden']});
+ mutation.observe(container,{subtree:true,childList:true,attributes:true,attributeFilter:['class','hidden','data-manual-height']});
  const fontMutation=new MutationObserver(schedule);
  fontMutation.observe(container.ownerDocument.documentElement,{attributes:true,attributeFilter:['data-text-size','style']});
  win.addEventListener('resize',schedule);

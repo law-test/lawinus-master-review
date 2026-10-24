@@ -41,14 +41,16 @@ test('the controller survives source replacement, font reflow and mobile hiding 
   };
  };
  const left=element(250,910),right=element(290,950),replacement=element(330,930);
- let source=right;
- const container={ownerDocument:document,querySelector:selector=>selector.startsWith('.thesis')?left:source};
+ let source=right,independentHeights=false;
+ const container={ownerDocument:document,querySelector:selector=>selector.includes('data-manual-height')?(independentHeights?{}:null):selector.startsWith('.thesis')?left:source};
  left.parentElement=container;right.parentElement=container;replacement.parentElement=container;container.children=[left,right];
  let cleanup;
  try{
   cleanup=connectDocumentAlignment(container);
   assert.equal(left.vars.get('--document-align-top'),'40px');assert.equal(right.vars.get('--document-align-bottom'),'40px');
   resizers[0].callback();flush();assert.equal(left.vars.get('--document-align-top'),'40px');
+  independentHeights=true;mutations[0].callback();flush();assert.equal(left.vars.size,0);assert.equal(right.vars.size,0,'manual vertical heights and bilingual panels release automatic PDF alignment');
+  independentHeights=false;mutations[0].callback();flush();assert.equal(left.vars.get('--document-align-top'),'40px');
   left.top=320;left.bottom=880;mutations[1].callback();flush();
   assert.equal(left.vars.size,0);assert.equal(right.vars.get('--document-align-top'),'30px');assert.equal(right.vars.get('--document-align-bottom'),'70px');
   source=replacement;container.children=[left,replacement];mutations[0].callback();flush();

@@ -1,0 +1,326 @@
+{
+  "meta": {
+    "thesisSha256": "92b73e8ad50829cd5df52b7b4e40addd8994499be051b663c0286a804938cd2d",
+    "preparedAt": "2026-10-24",
+    "label": "열람용 번역",
+    "note": "제목과 짧은 원문 발췌의 열람용 번역입니다. 출판된 공식 번역이나 원문 전체의 번역이 아닙니다."
+  },
+  "titles": [
+    {
+      "referenceId": "ref-039",
+      "original": "Psychological perspectives on successful aging: The model of selective optimization with compensation",
+      "korean": "성공적 노화에 대한 심리학적 관점: 보상을 수반한 선택적 최적화 모형"
+    },
+    {
+      "referenceId": "ref-040",
+      "original": "Taking time seriously: A theory of socioemotional selectivity",
+      "korean": "시간을 중요하게 고려하기: 사회정서적 선택성 이론"
+    },
+    {
+      "referenceId": "ref-041",
+      "original": "Effectiveness and cost-effectiveness of community singing on mental health-related quality of life of older people: Randomised controlled trial",
+      "korean": "지역사회 합창이 노인의 정신건강 관련 삶의 질에 미치는 효과와 비용 효과성: 무작위 대조시험"
+    },
+    {
+      "referenceId": "ref-042",
+      "original": "The role of musical possible selves in supporting subjective well-being in later life",
+      "korean": "노년기 주관적 안녕감을 지원하는 음악적 가능한 자기의 역할"
+    },
+    {
+      "referenceId": "ref-044",
+      "original": "Experience and education",
+      "korean": "경험과 교육"
+    },
+    {
+      "referenceId": "ref-045",
+      "original": "Art as experience",
+      "korean": "경험으로서의 예술"
+    },
+    {
+      "referenceId": "ref-046",
+      "original": "What can education learn from the arts about the practice of education?",
+      "korean": "교육은 교육 실천에 관해 예술에서 무엇을 배울 수 있는가?"
+    },
+    {
+      "referenceId": "ref-047",
+      "original": "Narrating future selves: Perspectives on ageing from a Scottish cohort born in 1936",
+      "korean": "미래의 자기를 이야기하기: 1936년생 스코틀랜드 코호트의 노화에 대한 관점"
+    },
+    {
+      "referenceId": "ref-048",
+      "original": "Contemporary dance as being and becoming in the age of aging: Existential aspects of (arts) education among elderly amateur dancers",
+      "korean": "고령화 시대의 존재와 되어감으로서의 현대무용: 고령 아마추어 무용수의 (예술)교육에 담긴 실존적 측면"
+    },
+    {
+      "referenceId": "ref-049",
+      "original": "Possible selves in adult development: Linking theory and research",
+      "korean": "성인 발달에서의 가능한 자기: 이론과 연구의 연결"
+    },
+    {
+      "referenceId": "ref-050",
+      "original": "Continuity and change in possible selves in later life: A 5-year longitudinal study",
+      "korean": "노년기 가능한 자기의 연속성과 변화: 5년 종단연구"
+    },
+    {
+      "referenceId": "ref-051",
+      "original": "Linking possible selves and behavior: Do domain-specific hopes and fears translate into daily activities in very old age?",
+      "korean": "가능한 자기와 행동의 연결: 초고령기에 영역별 희망과 두려움은 일상 활동으로 이어지는가?"
+    },
+    {
+      "referenceId": "ref-052",
+      "original": "Towards a comprehensive theory of human learning",
+      "korean": "인간 학습의 포괄적 이론을 향하여"
+    },
+    {
+      "referenceId": "ref-053",
+      "original": "Learning to be a person in society",
+      "korean": "사회 속에서 한 사람이 되어가는 배움"
+    },
+    {
+      "referenceId": "ref-054",
+      "original": "A community choir intervention to promote well-being among diverse older adults: Results from the Community of Voices trial",
+      "korean": "다양한 노인의 안녕감 증진을 위한 지역사회 합창단 중재: Community of Voices 시험 결과"
+    },
+    {
+      "referenceId": "ref-055",
+      "original": "Experiential learning: Experience as the source of learning and development",
+      "korean": "경험학습: 학습과 발달의 원천으로서의 경험"
+    },
+    {
+      "referenceId": "ref-056",
+      "original": "Popular music as a resource for exploring later-life identities in music",
+      "korean": "노년기 음악적 정체성 탐색을 위한 자원으로서의 대중음악"
+    },
+    {
+      "referenceId": "ref-057",
+      "original": "Sample size in qualitative interview studies: Guided by information power",
+      "korean": "질적 면담연구의 표본 크기: 정보력을 기준으로"
+    },
+    {
+      "referenceId": "ref-058",
+      "original": "Possible selves",
+      "korean": "가능한 자기"
+    },
+    {
+      "referenceId": "ref-059",
+      "original": "Transformative learning: Theory to practice",
+      "korean": "전환학습: 이론에서 실천으로"
+    },
+    {
+      "referenceId": "ref-060",
+      "original": "Elderly population",
+      "korean": "고령 인구"
+    },
+    {
+      "referenceId": "ref-061",
+      "original": "Possible selves and delinquency",
+      "korean": "가능한 자기와 비행"
+    },
+    {
+      "referenceId": "ref-062",
+      "original": "Senior women’s dance: From pleasure to emancipation",
+      "korean": "노년 여성의 춤: 즐거움에서 해방으로"
+    },
+    {
+      "referenceId": "ref-063",
+      "original": "Possible selves: An adult education perspective",
+      "korean": "가능한 자기: 성인교육의 관점"
+    },
+    {
+      "referenceId": "ref-064",
+      "original": "The processing-speed theory of adult age differences in cognition",
+      "korean": "성인 인지의 연령 차이에 관한 처리속도 이론"
+    },
+    {
+      "referenceId": "ref-065",
+      "original": "A model for analyzing human adaptation to transition",
+      "korean": "전환에 대한 인간의 적응을 분석하기 위한 모형"
+    },
+    {
+      "referenceId": "ref-067",
+      "original": "The dynamics of possible selves in old age",
+      "korean": "노년기 가능한 자기의 역동성"
+    },
+    {
+      "referenceId": "ref-068",
+      "original": "Road map for arts education",
+      "korean": "예술교육 로드맵"
+    },
+    {
+      "referenceId": "ref-069",
+      "original": "World population ageing 2017: Highlights (ST/ESA/SER.A/397)",
+      "korean": "세계 인구 고령화 2017: 주요 내용 (ST/ESA/SER.A/397)"
+    },
+    {
+      "referenceId": "ref-070",
+      "original": "World population ageing 2019: Highlights (ST/ESA/SER.A/430)",
+      "korean": "세계 인구 고령화 2019: 주요 내용 (ST/ESA/SER.A/430)"
+    },
+    {
+      "referenceId": "ref-071",
+      "original": "Beyond health and well-being: Transformation, memory and the virtual in older people’s music and dance",
+      "korean": "건강과 안녕감을 넘어: 노인의 음악과 춤에서의 변형, 기억, 잠재적인 것"
+    }
+  ],
+  "excerpts": [
+    {
+      "id": "translation-001",
+      "referenceId": "ref-058",
+      "sourceId": "s-cite-bbe309b0ee2e4f6d2fcf",
+      "sourceSha256": "bbe309b0ee2e4f6d2fcf1ce343bf194c57d55e1165ca6eb2827c3bf2548a7542",
+      "page": 1,
+      "printed": "954",
+      "sentenceIds": [
+        "sentence-019",
+        "sentence-022",
+        "sentence-099",
+        "sentence-102",
+        "sentence-104",
+        "sentence-110",
+        "sentence-127",
+        "sentence-134"
+      ],
+      "original": "Possible selves represent individuals' ideas of what they might become, what they would like to become, and what they are afraid of becoming",
+      "korean": "가능한 자기는 자신이 어떤 사람이 될 수 있는지, 어떤 사람이 되고 싶은지, 어떤 사람이 되기를 두려워하는지에 관한 개인의 생각을 나타낸다."
+    },
+    {
+      "id": "translation-002",
+      "referenceId": "ref-058",
+      "sourceId": "s-cite-bbe309b0ee2e4f6d2fcf",
+      "sourceSha256": "bbe309b0ee2e4f6d2fcf1ce343bf194c57d55e1165ca6eb2827c3bf2548a7542",
+      "page": 2,
+      "printed": "955",
+      "sentenceIds": [
+        "sentence-017",
+        "sentence-022",
+        "sentence-112"
+      ],
+      "original": "they provide an evaluative and interpretive context for the current view of self.",
+      "korean": "가능한 자기는 현재의 자기 모습을 평가하고 해석하는 맥락을 제공한다."
+    },
+    {
+      "id": "translation-003",
+      "referenceId": "ref-052",
+      "sourceId": "s-cite-cefb0231cbfe367dadb8",
+      "sourceSha256": "cefb0231cbfe367dadb8f14892321b53dae810330aa347fd28fd526ef9dadb33",
+      "page": 29,
+      "printed": "13",
+      "sentenceIds": [
+        "sentence-020",
+        "sentence-082",
+        "sentence-086",
+        "sentence-089",
+        "sentence-090",
+        "sentence-095",
+        "sentence-126",
+        "sentence-134"
+      ],
+      "original": "experiences a social situation, the perceived content of which is then transformed cognitively, emotively or practically (or through any combination)",
+      "korean": "사회적 상황을 경험하며, 그 상황에서 지각한 내용은 인지적·정서적·실천적 방식으로 또는 이들의 조합을 통해 변형된다."
+    },
+    {
+      "id": "translation-004",
+      "referenceId": "ref-040",
+      "sourceId": "s-cite-6365fa161023250e6f10",
+      "sourceSha256": "6365fa161023250e6f1021419e8d9eb1e6acf080fd535c6dbcbd15d0cf0eb639",
+      "page": 1,
+      "printed": "165",
+      "sentenceIds": [
+        "sentence-051"
+      ],
+      "original": "When time is perceived as open-ended, knowledge-related goals are prioritized. In contrast, when time is perceived as limited, emotional goals assume primacy.",
+      "korean": "시간을 끝이 정해지지 않은 것으로 지각하면 지식 관련 목표가 우선된다. 반대로 시간을 제한된 것으로 지각하면 정서적 목표가 우선된다."
+    },
+    {
+      "id": "translation-005",
+      "referenceId": "ref-057",
+      "sourceId": "s-cite-275e37107083ac3bf019",
+      "sourceSha256": "275e37107083ac3bf0190d93fce6a427973626a246a18c31d40184028752d065",
+      "page": 1,
+      "printed": "1753",
+      "sentenceIds": [
+        "sentence-131"
+      ],
+      "original": "(a) the aim of the study, (b) sample specificity, (c) use of established theory, (d) quality of dialogue, and (e) analysis strategy.",
+      "korean": "(a) 연구목적, (b) 표본의 특수성, (c) 기존 이론의 활용, (d) 대화의 질, (e) 분석 전략."
+    },
+    {
+      "id": "translation-006",
+      "referenceId": "ref-042",
+      "sourceId": "s-cite-ef8f394f78c4dc094411",
+      "sourceSha256": "ef8f394f78c4dc0944115a7a50f21073a18b06b2f48e16b9843e5e3450d6c17a",
+      "page": 3,
+      "sentenceIds": [
+        "sentence-016"
+      ],
+      "original": "active music-making may act as a medium through which older people may develop possible musical selves with the potential to contribute to underlying dimensions of subjective well-being",
+      "korean": "능동적인 음악 활동은 노인이 음악적 가능한 자기를 발전시켜 나가는 매개가 될 수 있으며, 이러한 자기는 주관적 안녕감의 기초를 이루는 측면들에 기여할 가능성이 있다."
+    },
+    {
+      "id": "translation-007",
+      "referenceId": "ref-049",
+      "sourceId": "s-cite-466425b229cde0a1e6cb",
+      "sourceSha256": "466425b229cde0a1e6cba567544e82d30d227d1fe0dbe68d18f759e1245b2709",
+      "page": 18,
+      "sentenceIds": [
+        "sentence-105"
+      ],
+      "original": "Others seem quite farfetched but are still possible, for example, one of mine is to win the lottery and become a millionaire.",
+      "korean": "다른 자기 모습은 상당히 실현되기 어려워 보이지만 여전히 가능하다. 예를 들어, 나에게는 복권에 당첨되어 백만장자가 되는 모습이 있다.",
+      "printed": "58"
+    },
+    {
+      "id": "translation-008",
+      "referenceId": "ref-050",
+      "sourceId": "s-cite-d99b8bd429f2a070b889",
+      "sourceSha256": "d99b8bd429f2a070b8896749c8ccd283bc6aac44fdfa3755bcff2c06d3e24dc3",
+      "page": 2,
+      "sentenceIds": [
+        "sentence-015"
+      ],
+      "original": "This study explored how older adults’ possible selves (i.e., images of the self in the future) are influenced by the passage of time.",
+      "korean": "이 연구는 노인의 가능한 자기, 즉 미래의 자기 모습이 시간의 흐름에 따라 어떤 영향을 받는지 탐색하였다.",
+      "printed": "237"
+    },
+    {
+      "id": "translation-009",
+      "referenceId": "ref-063",
+      "sourceId": "s-cite-37777b684fa72857968f",
+      "sourceSha256": "37777b684fa72857968fe11e2eed54fc1aac96bc8bdd2ea8f8ded0e9b5ff453f",
+      "page": 2,
+      "sentenceIds": [
+        "sentence-017",
+        "sentence-023"
+      ],
+      "original": "Possible selves also function as a context for the interpretation of the current self. That is, an individual gives a particular meaning and value to self-relevant events of the present in the light of particular hoped-for future selves.",
+      "korean": "가능한 자기는 현재의 자기를 해석하는 맥락으로도 기능한다. 즉, 개인은 자신이 바라는 특정한 미래의 자기 모습에 비추어 현재의 자기 관련 사건에 특정한 의미와 가치를 부여한다.",
+      "printed": "6"
+    },
+    {
+      "id": "translation-010",
+      "referenceId": "ref-067",
+      "sourceId": "s-cite-05323aa19217faea2f3f",
+      "sourceSha256": "05323aa19217faea2f3f95f784c3296844acacb87b7b3108af7d4a7023857f55",
+      "page": 1,
+      "sentenceIds": [
+        "sentence-015"
+      ],
+      "original": "We examined cross-sectional age differences and patterns of stability and change over a period of 4 years.",
+      "korean": "우리는 횡단적으로 나타나는 연령 차이와 4년 동안의 안정성 및 변화 양상을 조사하였다.",
+      "printed": "P492"
+    },
+    {
+      "id": "translation-011",
+      "referenceId": "ref-071",
+      "sourceId": "s-cite-40ac892019c513122221",
+      "sourceSha256": "40ac892019c513122221dbc7213845a1415cd3f454ef6d3b8a067daf4490603e",
+      "page": 3,
+      "sentenceIds": [
+        "sentence-121"
+      ],
+      "original": "Carried out over 16 months, this fieldwork combined ethnographic ‘‘participant observation’’ with a phenomenological analysis of group discussion and interviews, alongside a personal diary project undertaken by participants.",
+      "korean": "16개월 동안 수행한 이 현장연구는 민족지적 ‘참여관찰’에 집단토의와 면담의 현상학적 분석을 결합하고, 참여자들이 수행한 개인 일기 프로젝트를 함께 진행하였다.",
+      "printed": "9"
+    }
+  ]
+}
