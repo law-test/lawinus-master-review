@@ -4,6 +4,8 @@ import ReviewWorkspace from './review-workspace';
 import {loadReviewConfig} from './review-api';
 import EducationWordmark from './education-wordmark';
 import './globals.css';
+import {applyTextSize,readTextSize} from './text-size';
+applyTextSize(readTextSize(),false);
 
 function App() {
   const [state, setState] = useState<'loading'|'ready'|'setup'>('loading');

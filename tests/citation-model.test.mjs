@@ -223,10 +223,10 @@ test('adding a reviewed web link does not alter verified PDF evidence or its sta
   assert.deepEqual(result.webSources,[{url:'https://example.edu/source',label:'확인한 근거 페이지'}]);
 });
 
-test('reviewed Korean web evidence and PubMed partial evidence expose their actual confirmed pages',()=>{
+test('reviewed Korean evidence and publisher full text expose their confirmed locations',()=>{
   const evidence=JSON.parse(readFileSync(new URL('../src/citation-evidence.json',import.meta.url),'utf8'));
   const sources=JSON.parse(readFileSync(new URL('../src/reference-sources.json',import.meta.url),'utf8'));
-  for(const [sentenceId,referenceId,host,status] of [['sentence-025','ref-002','www.korean.go.kr','web'],['sentence-058','ref-011','www.kci.go.kr','web'],['sentence-062','ref-013','arte365.kr','web'],['sentence-012','ref-054','pubmed.ncbi.nlm.nih.gov','partial']]){
+  for(const [sentenceId,referenceId,host,status] of [['sentence-025','ref-002','www.korean.go.kr','web'],['sentence-058','ref-011','www.kci.go.kr','web'],['sentence-062','ref-013','arte365.kr','web'],['sentence-012','ref-054','oup.silverchair-cdn.com','partial']]){
     const citation=resolveCitationSelection(sentenceId,data.citations),reference=data.references.find(reference=>reference.id===referenceId);
     const result=citationEvidenceForSelection(citation,referenceId,referencePdf(reference,sources)?.source,evidence,data.meta.pdfSha256);
     assert.equal(result.status,status);assert.equal(new URL(result.webSources[0].url).hostname,host);assert.deepEqual(result.locators,[]);

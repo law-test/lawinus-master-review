@@ -48,6 +48,11 @@ function connection() {
   return { config, client };
 }
 
+export async function getReviewConnection() {
+  await loadReviewConfig();
+  return connection();
+}
+
 function errorMessage(error: { message?: string; code?: string }): Error {
   if (error.code === 'PT409') return new Error('다른 화면에서 메모가 변경됐습니다. 새로 불러온 뒤 다시 수정해 주세요.');
   if (error.code === 'PT404') return new Error('수정할 수 있는 메모가 없습니다. 메모를 작성한 브라우저에서 다시 열어 주세요.');

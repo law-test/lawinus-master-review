@@ -1,0 +1,130 @@
+/* Shared reading-room layout from paper; master keeps its education identity and evidence. */
+.four-pane-app{--review-ink:#333;--review-muted:#666;--review-paper:#fff;--review-line:#dadada;--review-maroon:#8d2f3d;--review-maroon-dark:#7a0029;--review-maroon-light:#f7e9ed;background:#fff;color:var(--review-ink)}
+.four-pane-app .app-header{background:#fff;border-top-color:var(--review-maroon);border-bottom-color:#e3e3e3;gap:20px}
+.four-pane-app .education-wordmark{flex:0 0 210px;width:210px;max-width:100%;letter-spacing:normal}
+.four-pane-app .education-wordmark>small{color:#777;font-size:calc(7px * var(--review-font-scale,1.5));letter-spacing:.16em}
+.four-pane-app .header-title{border-left-color:#ddd}
+.four-pane-app .header-title>span{color:var(--review-maroon);font-size:calc(9px * var(--review-font-scale,1.5))}
+.four-pane-app .header-title h1{font-size:calc(13px * var(--review-font-scale,1.5));line-height:1.55;font-weight:600}
+.four-pane-app .header-title p{font-size:calc(9px * var(--review-font-scale,1.5));color:#666;line-height:1.5}
+.four-pane-app .brand b{font-size:calc(13px * var(--review-font-scale,1.5));color:#343434}
+.four-pane-app .brand span{font-size:calc(8px * var(--review-font-scale,1.5));color:#777}
+.four-pane-app .access-badge{background:#fff;color:var(--review-maroon-dark);border-color:#cdb6bd}
+.four-pane-app .basis-bar{height:auto;min-height:40px;flex-basis:auto;flex-wrap:wrap;gap:6px 14px;padding-top:6px;padding-bottom:6px;background:#f6f6f6;border-color:#ddd;color:#666;font-size:calc(10px * var(--review-font-scale,1.5))}
+.four-pane-app .basis-bar>span{min-width:0;overflow-wrap:anywhere}
+.four-pane-app .basis-bar i{background:#d7d7d7}
+.four-pane-app .basis-bar b{color:var(--review-maroon-dark)}
+.four-pane-app .workspace-sidebar{background:#f7f7f7;border-color:#dadada}
+.four-pane-app .sidebar-heading{background:#f7f7f7;border-color:#e2e2e2}
+.four-pane-app .sidebar-menu button{color:#444}
+.four-pane-app .sidebar-menu button.active{background:#f1e5e8;color:var(--review-maroon-dark)}
+.four-pane-app .sidebar-outline-toggle{background:#f7f7f7!important}
+.four-pane-app .sidebar-footnote{border-color:#ddd;color:#666;font-size:calc(8px * var(--review-font-scale,1.5))}
+.four-pane-app .sidebar-footnote span{color:#888;font-size:calc(7px * var(--review-font-scale,1.5))}
+.four-pane-app .reference-heading,.four-pane-app .pane-toolbar,.four-pane-app .citation-layout-toolbar,.four-pane-app .reference-pane,.four-pane-app .scroll-panel,.four-pane-app .profile-panel{background:#fff;border-color:#dadada}
+.four-pane-app .thesis-pane,.four-pane-app .pdf-reader,.four-pane-app .pdf-stage{background:#e9e6e1}
+.four-pane-app .pane-resizer,.four-pane-app .split-divider{background:#dadada}
+.four-pane-app .pane-resizer>span,.four-pane-app .split-divider>span{background:var(--review-maroon)}
+.four-pane-app .page-footnotes{background:#fafafa;border-color:#ddd;color:#666}
+.four-pane-app .page-footnotes a{font-size:calc(10px * var(--review-font-scale,1.5))}
+.four-pane-app .current-page-revisions{background:#fff;border-color:#ddd;color:var(--review-maroon-dark);font-size:calc(10px * var(--review-font-scale,1.5))}
+.four-pane-app .current-page-revisions>span{font-size:calc(9px * var(--review-font-scale,1.5));color:#777}
+.four-pane-app .current-page-revisions button{border-color:#d7c8cc;font-size:inherit;min-height:32px}
+.four-pane-app .citation-actions,.four-pane-app .presentation-caption,.four-pane-app .reference-memo-context{background:#fafafa;border-color:#ddd}
+.four-pane-app .citation-source-caption,.four-pane-app .citation-summary,.four-pane-app .citation-context,.four-pane-app .citation-purpose,.four-pane-app .citation-reading-check{border-color:#ddd}
+.four-pane-app .citation-source-caption{background:#fff}
+.four-pane-app .citation-source-caption h2,.four-pane-app .citation-reference-entry h2,.four-pane-app .selected-citation-text{color:#432e34}
+.four-pane-app .citation-major-pages{background:#fafafa;border-color:#ddd}
+.four-pane-app .citation-major-pages button,.four-pane-app .citation-page-links button,.four-pane-app .citation-reference-choices button,.four-pane-app .citation-use-pages button{background:#fff;border-color:#d7c8cc;color:#6f3545}
+.four-pane-app .citation-major-pages button.selected,.four-pane-app .citation-page-links button.selected,.four-pane-app .selected{background:#f7e9ed;color:var(--review-maroon-dark);border-color:#c9a8b1}
+.four-pane-app .citation-detail-pane .citation-evidence,.four-pane-app .citation-correction{background:#fffaf2;border-color:#e1d7c7}
+.four-pane-app .citation-detail-pane .citation-summary p,.four-pane-app .citation-detail-pane .citation-summary blockquote{color:#444}
+.four-pane-app .citation-detail-pane .citation-summary .review-disclaimer,.four-pane-app .citation-purpose-basis,.four-pane-app .review-disclaimer{color:#777}
+.four-pane-app .citation-document-label,.four-pane-app .citation-page-links,.four-pane-app .citation-web-hint{background:#f6f6f6;border-color:#ddd;color:#666}
+.four-pane-app .document-card,.four-pane-app .revision-list-item{background:#fff;border-color:#ddd}
+.four-pane-app .document-card-actions{border-color:#e2e2e2}
+.four-pane-app .document-card-actions button,.four-pane-app .revision-actions button,.four-pane-app .revision-citation-links button,.four-pane-app .revision-location button,.four-pane-app .library-view-tabs button{background:#fff;border-color:#d7c8cc;color:var(--review-maroon-dark)}
+.four-pane-app .document-card h3,.four-pane-app .reference-library>h3,.four-pane-app .citation-library>h3{color:#432e34}
+.four-pane-app .document-card p,.four-pane-app .document-card-top,.four-pane-app .citation-library-context,.four-pane-app .citation-library .library-row small{color:#666}
+.four-pane-app .file-format{background:#f7e9ed;border-color:#e1cbd2;color:var(--review-maroon-dark)}
+.four-pane-app .revision-detail{border-color:#e1e1e1}
+.four-pane-app .revision-detail blockquote{background:#f7f7f7;border-left-color:#c7c7c7}
+.four-pane-app .revision-detail .proposed-text{background:#faf0f3;border-left-color:var(--review-maroon)}
+.four-pane-app .revision-detail .revision-assessment,.four-pane-app .reading-finding{border-color:#ddd}
+.four-pane-app .research-author p,.four-pane-app .research-facts dt,.four-pane-app .research-facts dd,.four-pane-app .research-guidance p{color:#666}
+.four-pane-app .author-initial,.four-pane-app .research-topic{background:#faf7f8;border-color:#ddd}
+.four-pane-app .research-facts>div{border-color:#e2e2e2}
+.four-pane-app .presentation-caption h2{font-size:calc(13px * var(--review-font-scale,1.5));color:#432e34}
+.four-pane-app .presentation-caption .section-eyebrow,.four-pane-app .presentation-caption .download-link{font-size:calc(9px * var(--review-font-scale,1.5))}
+.four-pane-app .presentation-caption .download-link{background:#fff;border-color:#d7c8cc}
+.four-pane-app .metadata-pane .right-tabs{height:auto;min-height:48px;flex-basis:auto;overflow-x:auto;flex-wrap:nowrap;padding:0 8px}
+.four-pane-app .metadata-pane .right-tabs button{flex:1 0 auto;max-width:none;min-height:44px;font-size:calc(10px * var(--review-font-scale,1.5));padding:8px 10px}
+
+/* Lift the citation reader's existing document and evidence panes into the shared grid. */
+.four-pane-app .citation-panel.workspace-citation-layout{display:contents!important}
+.four-pane-app .workspace-citation-layout>.citation-layout-toolbar{display:none}
+.four-pane-app .four-pane-workspace>.thesis-pane{grid-column:1;grid-row:1}
+.four-pane-app .four-pane-workspace .citation-document-pane{grid-column:3;grid-row:1;display:flex;flex-direction:column;min-width:0;min-height:0;overflow:hidden}
+.four-pane-app .four-pane-workspace .citation-detail-pane{grid-column:5;grid-row:1;min-width:0;min-height:0;overflow:hidden}
+.four-pane-app .four-pane-workspace>.source-viewer-pane{grid-column:3;grid-row:1}
+.four-pane-app .four-pane-workspace>.metadata-pane{grid-column:5;grid-row:1}
+.four-pane-app .four-pane-workspace>.document-divider,.four-pane-app .four-pane-workspace>.thesis-divider,.four-pane-app .four-pane-workspace>.thesis-source-divider{grid-column:2;grid-row:1}
+.four-pane-app .four-pane-workspace .citation-detail-divider,.four-pane-app .four-pane-workspace>.metadata-divider,.four-pane-app .four-pane-workspace .source-metadata-divider{grid-column:4;grid-row:1}
+.four-pane-app .citation-metadata-scroll{flex:1;min-width:0;min-height:0;overflow:auto;overscroll-behavior:contain;scrollbar-width:thin}
+.four-pane-app .metadata-pane>.reference-heading{flex:0 0 auto}
+.four-pane-app.metadata-collapsed .citation-detail-pane,.four-pane-app.metadata-collapsed .citation-detail-divider,.four-pane-app.metadata-collapsed .metadata-divider{display:none!important}
+.four-pane-app .metadata-pane>.revision-detail{flex:1;min-height:0;overflow:auto}
+.four-pane-app .source-viewer-pane .presentation-panel{flex:1;min-height:0}
+.four-pane-app .source-viewer-pane .presentation-panel>.pdf-reader,.four-pane-app .citation-document-pane>.pdf-reader{flex:1;min-height:0;height:auto;max-height:none}
+.four-pane-app.view-hide-tools .citation-document-pane>.pane-toolbar,.four-pane-app.view-hide-tools .citation-document-label,.four-pane-app.view-hide-tools .citation-major-pages,.four-pane-app.view-hide-tools .presentation-caption,.four-pane-app.view-hide-tools .current-page-revisions{display:none}
+.four-pane-app.view-hide-footnotes .citation-page-links{display:none}
+.four-pane-app.view-hide-footnotes .citation-document-pane>.page-footnotes{display:none}
+
+@media screen and (min-width:1200px){
+ .four-pane-app .app-header{height:auto;min-height:92px;flex-basis:auto;padding-top:8px;padding-bottom:8px}
+ .four-pane-app .workspace-citation-layout>.citation-detail-divider{display:block!important}
+ .four-pane-app.metadata-collapsed .workspace-citation-layout>.citation-detail-divider{display:none!important}
+ .four-pane-app .workspace-citation-layout>.citation-document-pane,.four-pane-app .workspace-citation-layout>.citation-detail-pane{display:flex!important}
+ .four-pane-app .workspace-citation-layout>.citation-detail-pane{flex-direction:column}
+ .four-pane-app.metadata-collapsed .workspace-citation-layout>.citation-detail-pane{display:none!important}
+}
+@media screen and (max-width:1199px){
+ .four-pane-app .education-wordmark{width:146px;flex:0 1 146px;min-width:85px;max-width:calc(100vw - 184px)}
+ .four-pane-app .education-wordmark img{max-height:42px;width:100%;object-fit:contain}
+ .four-pane-app .education-wordmark>small{font-size:8px;line-height:1.2;letter-spacing:.1em;margin-top:3px}
+ .four-pane-app .basis-bar{max-height:76px;min-height:0;padding:4px 8px;gap:2px 8px;font-size:calc(10px * var(--review-font-scale,1.5));overflow:auto}
+ .four-pane-app .basis-context{white-space:normal}
+ .four-pane-app .text-size-control{margin-left:auto}
+ .four-pane-app .mobile-navigation{grid-template-columns:repeat(4,minmax(0,1fr));background:#fff;border-color:#ddd}
+ .four-pane-app .mobile-navigation button.active{background:#f7e9ed;color:var(--review-maroon-dark)}
+ .four-pane-app .workspace-citation-layout>.citation-document-pane,.four-pane-app .workspace-citation-layout>.citation-detail-pane{display:none!important;flex:1;height:100%;min-height:0}
+ .four-pane-app.mobile-show-source .workspace-citation-layout>.citation-document-pane{display:flex!important}
+ .four-pane-app.mobile-show-metadata .workspace-citation-layout>.citation-detail-pane{display:flex!important;flex-direction:column}
+ .four-pane-app .workspace-citation-layout>.citation-detail-divider{display:none!important}
+ .four-pane-app .citation-document-pane>.pane-toolbar,.four-pane-app .citation-toolbar{flex-wrap:nowrap;height:auto;min-height:48px;max-height:56px;overflow-x:auto;overflow-y:hidden;gap:3px;padding:2px 6px;white-space:nowrap;flex:0 0 auto}
+ .four-pane-app .citation-document-pane>.pane-toolbar>*{flex-shrink:0}
+ .four-pane-app .citation-document-pane .citation-toolbar>button,.four-pane-app .citation-document-pane .citation-toolbar .pager input{min-height:44px;height:44px}
+ .four-pane-app .citation-source-caption{max-height:112px;overflow:auto;padding:8px 12px}
+ .four-pane-app .citation-major-pages{max-height:64px;min-height:44px;flex-wrap:nowrap;overflow-x:auto;overflow-y:hidden;white-space:nowrap}
+ .four-pane-app .citation-major-pages>*{flex-shrink:0}
+ .four-pane-app .citation-major-pages button,.four-pane-app .citation-page-links button{min-height:40px}
+ .four-pane-app .citation-page-links,.four-pane-app .citation-document-pane>.page-footnotes{max-height:48px;height:48px;min-height:48px;flex:0 0 auto}
+ .four-pane-app .citation-web-hint{max-height:78px;overflow:auto;font-size:12px}
+ .four-pane-app .citation-summary{height:auto;max-height:none;overflow:visible}
+ .four-pane-app .metadata-pane .citation-summary,.four-pane-app .citation-detail-pane .citation-summary{flex:0 0 auto}
+ .four-pane-app .citation-detail-pane .citation-evidence{max-height:none;overflow:visible}
+ .four-pane-app .metadata-pane>.reference-heading{max-height:106px;overflow:auto;flex:0 0 auto}
+ .four-pane-app .metadata-pane .right-tabs{flex:0 0 auto;max-height:64px}
+ .four-pane-app .source-viewer-pane .presentation-caption{padding:6px 12px;max-height:112px;overflow:auto;flex:0 0 auto}
+ .four-pane-app .source-viewer-pane .reference-memo-context{max-height:96px;overflow:auto;flex:0 0 auto}
+ .four-pane-app .current-page-revisions{max-height:48px;overflow:auto;flex-wrap:nowrap;white-space:nowrap}
+ .four-pane-app .current-page-revisions>*{flex-shrink:0}
+}
+@media screen and (max-width:1199px) and (max-height:540px){
+ .four-pane-app .basis-bar{max-height:48px}
+ .four-pane-app .education-wordmark img{max-height:38px}
+ .four-pane-app .education-wordmark>small{display:none}
+ .four-pane-app .citation-source-caption,.four-pane-app .presentation-caption{max-height:72px}
+ .four-pane-app .citation-major-pages{max-height:48px}
+}
+@media print{.four-pane-app .citation-document-pane,.four-pane-app .citation-detail-pane{display:none!important}}
