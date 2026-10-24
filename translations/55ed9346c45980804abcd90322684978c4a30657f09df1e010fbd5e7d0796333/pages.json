@@ -1,0 +1,217 @@
+{
+  "referenceId": "ref-053",
+  "sourceId": "supplement-55ed9346c45980804abc",
+  "sourceSha256": "55ed9346c45980804abcd90322684978c4a30657f09df1e010fbd5e7d0796333",
+  "pageCount": 2,
+  "translationType": "machine",
+  "engine": "NLLB-200 distilled 600M / CTranslate2",
+  "modelRevision": "f8d333a098d19b4fd9a8b18f94170487ad3f821d",
+  "pages": [
+    {
+      "page": 1,
+      "sourceText": "basis of certain forms of research and which is even the basis of the conjectures of those scholars who think that most\nof our learning is hard-wired into our brains. However, an episode is much harder to capture in a laboratory experiment\nand so the longer time frame actually casts doubt upon the idea that we are hard-wired before birth and places much\nmore focus on learning from continuing conscious experiences through which we construct our biography. Experiences\nare both single events and elongated episodes and we learn from both.\nPart 4: Experience as expertise\nAn expert is one who ‘has extensive skill or knowledge in a particular field’ or someone who is ‘skilful or\nknowledgeable’ (\n). Perhaps the dictionary should also have offered the possibility that an\nCollins English Dictionary\nexpert is both skilful and knowledgeable. More recently, Gardner (2007: 82), writing about the creating mind, suggests\nthat:\nFor every talented writer or composer who breaks new ground, however, hundreds are content – or resigned – to be\n‘mere’ experts. An expert is an individual who, after a decade or more of training, has reached the pinnacle of\npractice in her chosen domain. The world depends on experts.\nAlthough the world depends on experts, this is still a restricted definition, but nearly everybody is an expert in the art\nof living in society. Nevertheless, it would be true to say that for a number of years the word ‘expert’ has fallen into\nsomething like disrepute in some parts of the world as terms such as ‘competency’ have dominated the vocabulary of\npolitical correctness in both work and education. But we should not expect people to stop learning just because they\nhave achieved the state of competence – it is a low expectation of achievement in social living, and this should not be an\naim in education. We have all been witnesses to this growth of political correctness in UK that downplays the expert,\nwho is better than others, and yet the sum total of every individual’s practice is their experience – their expertise – in this\nor that area of behaviour. We learn our expertise through experiencing and learning from the experience.\nOne becomes an expert not simply by absorbing explicit knowledge of the type found in text-books, but through\nexperience, that is, through repeated trials, ‘failing, succeeding, wasting time and effort … getting a feel for the\nproblem, learning when to go by the book and when to break the rules’. Human experts gradually absorb ‘a repertory\nof working rules of thumb, or ‘heuristics’, that combined with book knowledge, make them expert practitioners. This\npractical, heuristic knowledge, as attempts to simulate it on the machine have shown, is ‘hardest to get at because\nexperts – or anyone else – rarely have the self-awareness to recognize what it is. So it must be mined out of their\nheads painstakingly, one jewel at a time (all quotations from Feigenbaum and McCorduck, 1984).\n(Nyiri, 1988: 20–1)\nThe whole point here is that we just cannot apply theory to practice: the practice situation is a new learning situation\nand in it we have to find out if the theory can be utilised in any way, but primarily we have to learn from the situation\nitself. There is no logical connection between \n and \n. We have to generate our own practical\nknowing how\nbeing able to\nskill and the ensuing knowledge and ultimately our own practical theories (Jarvis, 1999), which may be a combination of\nbook knowledge and what we have learned from the years in practice, often repeating similar manoeuvres and\nprocedures many times but in each learning and reinforcing our learning. It is those years of experience that constitute\nthe basis of expertise, and expertise is specific to the situation – in many cases it may be a generalisable technique that\ncan be replaced by a machine but in others it is specific to the type of situation in which the actor performs.\nJarvis, Peter. Learning to Be a Person in Society, Taylor & Francis Group, 2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?docID=981931.\nCreated from snulibrary-ebooks on 2026-10-08 03:50:46.\nCopyright © 2009. Taylor & Francis Group. All rights reserved.\nEbook pages 75-76 | Printed page 1 of 2\n",
+      "translationText": "이것은 특정 형태의 연구의 기초이며 심지어 우리의 학습의 대부분은 우리의 뇌에 연결되어 있다고 생각하는 학자들의 추측의 기초이기도 합니다.\n\n그러나 실험실 실험에서 에피소드를 캡처하는 것은 훨씬 더 어렵기 때문에 더 긴 기간은 실제로 우리가 태어나기 전에 단단히 연결된다는 생각에 의문을 제기하고 우리의 생사를 구성하는 지속적인 의식적 경험에서 배우는 것에 훨씬 더 초점을 맞추고 있습니다.\n\n경험은 단 하나의 사건과 긴 에피소드입니다. 그리고 우리는 둘 다에서 배울 수 있습니다.\n\n제4부: 전문 지식으로서의 경험 전문가란 특정 분야에 대한 폭넓은 기술이나 지식을 가진 사람 또는 전문적이거나 숙련된 사람 ().\n\n아마도 사전은 또한 콜린스 영어 사전 전문가가 능숙하고 지식이 풍부하다는 가능성을 제공했을 것입니다.\n\n최근에, 가드너 (2007: 82) 는 창조적 정신에 대해 글을 쓰고, 다음과 같이 제안합니다: 그러나 새로운 경로를 개척하는 모든 재능있는 작가 또는 작곡가에게는 수백 명이 만족합니다  또는 사퇴합니다  단순한 전문가입니다.\n\n전문가는 10년 이상의 훈련 후 자신이 선택한 영역에서 최고 수준의 실습에 도달한 개인입니다.\n\n세상은 전문가들에 의존합니다.\n\n비록 세계는 전문가들에 의존하지만, 이것은 여전히 제한된 정의이지만, 거의 모든 사람들은 사회생활의 예술에 전문가입니다.\n\n그럼에도 불구하고, 몇 년 동안  전문가라는 단어는 세계 일부 지역에서 불명예를 안았으며,  역량과 같은 용어는 직업과 교육에서 정치적 올바름의 어휘에 지배적이었다는 것은 사실이다.\n\n하지만 우리는 사람들이 능력의 수준을 달성했기 때문에 학습을 중단하기를 기대해서는 안 됩니다. 사회 생활에서 성취를 기대하는 것은 낮고, 이것은 교육의 목표가 될 수 없습니다.\n\n우리는 모두 다른 사람들보다 우월한 전문가들을 과소평가하는 영국에서의 정치적 올바름의 성장에 목격했습니다. 그럼에도 불구하고 모든 개인들의 실무의 총액은 그들의 경험입니다.\n\n우리는 경험과 경험을 통해 우리의 전문성을 배우게 됩니다.\n\n단순히 교과서에서 발견되는 유형의 뚜렷한 지식을 흡수하는 것이 아니라 경험으로, 즉 반복적인 시도, 실패, 성공, 시간과 노력을 낭비하는 것으로 전문가입니다.\n\n인간 전문가들은 점진적으로 책 지식과 결합하여 전문적인 실무자들로 만드는 엄지손가락의 규칙이나 유리스틱스의 레퍼토리를 흡수합니다.\n\n이 실용적이고 유리스틱한 지식은 기계에서 그것을 시뮬레이션하려는 시도가 보여준 것처럼, 전문가 또는 다른 사람이 그것을 인식할 수 있는 자기 인식이 거의 없기 때문에 가장 어려운 것입니다.\n\n그래서 그들은 한 번에 하나의 보석으로 그들의 머릿속을 철저히 채굴해야 합니다 (Feiigenbaum와 McCorduck의 모든 인용구, 1984).\n\n(Nyiri, 1988: 201)\n\n여기서 중요한 것은 이론을 실제로 적용할 수 없다는 것입니다. 실제 상황은 새로운 학습 상황이고 그 안에서 우리는 이론을 어떤 방식으로든 활용할 수 있는지 확인해야 하지만 무엇보다도 우리는 그 상황으로부터 배워야 합니다.\n\n그리고 사이에 논리적인 연관성이 없습니다 .\n\n우리는 자신의 실무적 지식을 생성해야 합니다. 어떻게 기술을 습득할 수 있는지 그리고 그에 따른 지식을 그리고 궁극적으로 우리의 실제적인 이론을 생성해야 합니다 (Jarvis, 1999), 이는 책 지식과 우리가 연습에서 배운 것을 조합하는 것일 수 있습니다. 종종 비슷한 운동과 절차를 여러 번 반복하지만 모든 학습에서 우리의 학습을 강화합니다.\n\n전문 지식의 기초가 되는 것은 그러한 수년간의 경험이며, 전문 지식은 상황에 특이하다 많은 경우 기계가 대체할 수 있는 일반화 가능한 기술일 수 있지만 다른 경우에는 행위자가 수행하는 상황에 특이합니다.\n\n자르비스, 피터\n\n사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009\n\n이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?\n\n문명: 981931\n\n2026년 10월 8일 03:50:46에 출간된\n\n저작권 © 2009.\n\n테일러 앤 프랜시스 그룹\n\n모든 권리가 있습니다.\n\n전자책 75-76 페이지 인쇄된 2 페이지 중 1 페이지",
+      "status": "translated",
+      "sourceTextSha256": "56df2938762139033767d77549f859ca85367151a8d15a162ee05112cf79ad47",
+      "segments": [
+        {
+          "source": "basis of certain forms of research and which is even the basis of the conjectures of those scholars who think that most of our learning is hard-wired into our brains.",
+          "translation": "이것은 특정 형태의 연구의 기초이며 심지어 우리의 학습의 대부분은 우리의 뇌에 연결되어 있다고 생각하는 학자들의 추측의 기초이기도 합니다."
+        },
+        {
+          "source": "However, an episode is much harder to capture in a laboratory experiment and so the longer time frame actually casts doubt upon the idea that we are hard-wired before birth and places much more focus on learning from continuing conscious experiences through which we construct our biography.",
+          "translation": "그러나 실험실 실험에서 에피소드를 캡처하는 것은 훨씬 더 어렵기 때문에 더 긴 기간은 실제로 우리가 태어나기 전에 단단히 연결된다는 생각에 의문을 제기하고 우리의 생사를 구성하는 지속적인 의식적 경험에서 배우는 것에 훨씬 더 초점을 맞추고 있습니다."
+        },
+        {
+          "source": "Experiences are both single events and elongated episodes and we learn from both.",
+          "translation": "경험은 단 하나의 사건과 긴 에피소드입니다. 그리고 우리는 둘 다에서 배울 수 있습니다."
+        },
+        {
+          "source": "Part 4: Experience as expertise An expert is one who ‘has extensive skill or knowledge in a particular field’ or someone who is ‘skilful or knowledgeable’ ( ).",
+          "translation": "제4부: 전문 지식으로서의 경험 전문가란 특정 분야에 대한 폭넓은 기술이나 지식을 가진 사람 또는 전문적이거나 숙련된 사람 ()."
+        },
+        {
+          "source": "Perhaps the dictionary should also have offered the possibility that an Collins English Dictionary expert is both skilful and knowledgeable.",
+          "translation": "아마도 사전은 또한 콜린스 영어 사전 전문가가 능숙하고 지식이 풍부하다는 가능성을 제공했을 것입니다."
+        },
+        {
+          "source": "More recently, Gardner (2007: 82), writing about the creating mind, suggests that: For every talented writer or composer who breaks new ground, however, hundreds are content – or resigned – to be ‘mere’ experts.",
+          "translation": "최근에, 가드너 (2007: 82) 는 창조적 정신에 대해 글을 쓰고, 다음과 같이 제안합니다: 그러나 새로운 경로를 개척하는 모든 재능있는 작가 또는 작곡가에게는 수백 명이 만족합니다  또는 사퇴합니다  단순한 전문가입니다."
+        },
+        {
+          "source": "An expert is an individual who, after a decade or more of training, has reached the pinnacle of practice in her chosen domain.",
+          "translation": "전문가는 10년 이상의 훈련 후 자신이 선택한 영역에서 최고 수준의 실습에 도달한 개인입니다."
+        },
+        {
+          "source": "The world depends on experts.",
+          "translation": "세상은 전문가들에 의존합니다."
+        },
+        {
+          "source": "Although the world depends on experts, this is still a restricted definition, but nearly everybody is an expert in the art of living in society.",
+          "translation": "비록 세계는 전문가들에 의존하지만, 이것은 여전히 제한된 정의이지만, 거의 모든 사람들은 사회생활의 예술에 전문가입니다."
+        },
+        {
+          "source": "Nevertheless, it would be true to say that for a number of years the word ‘expert’ has fallen into something like disrepute in some parts of the world as terms such as ‘competency’ have dominated the vocabulary of political correctness in both work and education.",
+          "translation": "그럼에도 불구하고, 몇 년 동안  전문가라는 단어는 세계 일부 지역에서 불명예를 안았으며,  역량과 같은 용어는 직업과 교육에서 정치적 올바름의 어휘에 지배적이었다는 것은 사실이다."
+        },
+        {
+          "source": "But we should not expect people to stop learning just because they have achieved the state of competence – it is a low expectation of achievement in social living, and this should not be an aim in education.",
+          "translation": "하지만 우리는 사람들이 능력의 수준을 달성했기 때문에 학습을 중단하기를 기대해서는 안 됩니다. 사회 생활에서 성취를 기대하는 것은 낮고, 이것은 교육의 목표가 될 수 없습니다."
+        },
+        {
+          "source": "We have all been witnesses to this growth of political correctness in UK that downplays the expert, who is better than others, and yet the sum total of every individual’s practice is their experience – their expertise – in this or that area of behaviour.",
+          "translation": "우리는 모두 다른 사람들보다 우월한 전문가들을 과소평가하는 영국에서의 정치적 올바름의 성장에 목격했습니다. 그럼에도 불구하고 모든 개인들의 실무의 총액은 그들의 경험입니다."
+        },
+        {
+          "source": "We learn our expertise through experiencing and learning from the experience.",
+          "translation": "우리는 경험과 경험을 통해 우리의 전문성을 배우게 됩니다."
+        },
+        {
+          "source": "One becomes an expert not simply by absorbing explicit knowledge of the type found in text-books, but through experience, that is, through repeated trials, ‘failing, succeeding, wasting time and effort … getting a feel for the problem, learning when to go by the book and when to break the rules’.",
+          "translation": "단순히 교과서에서 발견되는 유형의 뚜렷한 지식을 흡수하는 것이 아니라 경험으로, 즉 반복적인 시도, 실패, 성공, 시간과 노력을 낭비하는 것으로 전문가입니다."
+        },
+        {
+          "source": "Human experts gradually absorb ‘a repertory of working rules of thumb, or ‘heuristics’, that combined with book knowledge, make them expert practitioners.",
+          "translation": "인간 전문가들은 점진적으로 책 지식과 결합하여 전문적인 실무자들로 만드는 엄지손가락의 규칙이나 유리스틱스의 레퍼토리를 흡수합니다."
+        },
+        {
+          "source": "This practical, heuristic knowledge, as attempts to simulate it on the machine have shown, is ‘hardest to get at because experts – or anyone else – rarely have the self-awareness to recognize what it is.",
+          "translation": "이 실용적이고 유리스틱한 지식은 기계에서 그것을 시뮬레이션하려는 시도가 보여준 것처럼, 전문가 또는 다른 사람이 그것을 인식할 수 있는 자기 인식이 거의 없기 때문에 가장 어려운 것입니다."
+        },
+        {
+          "source": "So it must be mined out of their heads painstakingly, one jewel at a time (all quotations from Feigenbaum and McCorduck, 1984).",
+          "translation": "그래서 그들은 한 번에 하나의 보석으로 그들의 머릿속을 철저히 채굴해야 합니다 (Feiigenbaum와 McCorduck의 모든 인용구, 1984)."
+        },
+        {
+          "source": "(Nyiri, 1988: 20–1)",
+          "translation": "(Nyiri, 1988: 201)"
+        },
+        {
+          "source": "The whole point here is that we just cannot apply theory to practice: the practice situation is a new learning situation and in it we have to find out if the theory can be utilised in any way, but primarily we have to learn from the situation itself.",
+          "translation": "여기서 중요한 것은 이론을 실제로 적용할 수 없다는 것입니다. 실제 상황은 새로운 학습 상황이고 그 안에서 우리는 이론을 어떤 방식으로든 활용할 수 있는지 확인해야 하지만 무엇보다도 우리는 그 상황으로부터 배워야 합니다."
+        },
+        {
+          "source": "There is no logical connection between and .",
+          "translation": "그리고 사이에 논리적인 연관성이 없습니다 ."
+        },
+        {
+          "source": "We have to generate our own practical knowing how being able to skill and the ensuing knowledge and ultimately our own practical theories (Jarvis, 1999), which may be a combination of book knowledge and what we have learned from the years in practice, often repeating similar manoeuvres and procedures many times but in each learning and reinforcing our learning.",
+          "translation": "우리는 자신의 실무적 지식을 생성해야 합니다. 어떻게 기술을 습득할 수 있는지 그리고 그에 따른 지식을 그리고 궁극적으로 우리의 실제적인 이론을 생성해야 합니다 (Jarvis, 1999), 이는 책 지식과 우리가 연습에서 배운 것을 조합하는 것일 수 있습니다. 종종 비슷한 운동과 절차를 여러 번 반복하지만 모든 학습에서 우리의 학습을 강화합니다."
+        },
+        {
+          "source": "It is those years of experience that constitute the basis of expertise, and expertise is specific to the situation – in many cases it may be a generalisable technique that can be replaced by a machine but in others it is specific to the type of situation in which the actor performs.",
+          "translation": "전문 지식의 기초가 되는 것은 그러한 수년간의 경험이며, 전문 지식은 상황에 특이하다 많은 경우 기계가 대체할 수 있는 일반화 가능한 기술일 수 있지만 다른 경우에는 행위자가 수행하는 상황에 특이합니다."
+        },
+        {
+          "source": "Jarvis, Peter.",
+          "translation": "자르비스, 피터"
+        },
+        {
+          "source": "Learning to Be a Person in Society, Taylor & Francis Group, 2009.",
+          "translation": "사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009"
+        },
+        {
+          "source": "ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?",
+          "translation": "이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?"
+        },
+        {
+          "source": "docID=981931.",
+          "translation": "문명: 981931"
+        },
+        {
+          "source": "Created from snulibrary-ebooks on 2026-10-08 03:50:46.",
+          "translation": "2026년 10월 8일 03:50:46에 출간된"
+        },
+        {
+          "source": "Copyright © 2009.",
+          "translation": "저작권 © 2009."
+        },
+        {
+          "source": "Taylor & Francis Group.",
+          "translation": "테일러 앤 프랜시스 그룹"
+        },
+        {
+          "source": "All rights reserved.",
+          "translation": "모든 권리가 있습니다."
+        },
+        {
+          "source": "Ebook pages 75-76 | Printed page 1 of 2",
+          "translation": "전자책 75-76 페이지 인쇄된 2 페이지 중 1 페이지"
+        }
+      ],
+      "unitId": "page-1",
+      "unitLabel": "PDF 1쪽"
+    },
+    {
+      "page": 2,
+      "sourceText": "As the years go by the experts not only gain knowledge and skills, they might also gain wisdom, but we learn this pre-\nconsciously – and this is one of the fundamental problems in seeking to understand experiential learning. But expertise\nmay not be associated with time in this simple manner because we can repeat behaviours and not learn from them\nbecause we do not pay attention to them or to the small differences similar situations have or the slightly different\nproblems each situation poses – only if we treat every experience as an individual learning experience can we gain\nexpertise. Consequently, when we praise someone for their experience we are basically praising them for having\ncontinually gained expertise, learned from their experience.\nConcluding discussion\nFrom the above discussion, it can be seen that learning is not just a psychological problem, it is a human one, and the\nstudy of learning is an existential one. However, we did not start with Descartes’ assertion that ‘I think, therefore I am’;\nrather, we reversed it and started with being and the claim that ‘I am, therefore I think’ or rather, and more accurately, ‘I\nam, therefore I experience’, which, in the light of pre-conscious experience, is the more correct claim. Experience, then,\nis mostly about consciousness\nJarvis, Peter. Learning to Be a Person in Society, Taylor & Francis Group, 2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?docID=981931.\nCreated from snulibrary-ebooks on 2026-10-08 03:50:46.\nCopyright © 2009. Taylor & Francis Group. All rights reserved.\nEbook pages 75-76 | Printed page 2 of 2\n",
+      "translationText": "세월이 흐르면서 전문가들은 지식과 기술을 얻는 것뿐만 아니라 지혜도 얻을 수 있습니다. 하지만 우리는 이것을 미리 의식적으로 배운다. 이것은 경험학습을 이해하려는 근본적인 문제 중 하나입니다.\n\n하지만 전문성은 이렇게 간단하게 시간과 연관되지 않을 수 있습니다. 왜냐하면 우리는 행동들을 반복할 수 있고, 그것으로부터 배울 수 없기 때문입니다. 왜냐하면 우리는 그것이나 비슷한 상황들이 가지고 있는 작은 차이점이나 각각의 상황이 제기하는 약간 다른 문제들에 주목하지 않기 때문입니다.\n\n따라서 우리가 누군가에게 그들의 경험에 대해 칭찬을 할 때 우리는 기본적으로 그들의 경험에서 배운 전문 지식을 지속적으로 얻은 것에 대해 칭찬을 하고 있습니다.\n\n결론 토론 위의 논의에서 학습은 단순히 심리적인 문제가 아니라 인간적인 문제이며 학습을 연구하는 것은 실존적인 문제라는 것을 알 수 있습니다.\n\n하지만, 우리는 데카르트의 주장을 시작하지 않았습니다. \"나는 생각한다, 그래서 나는 있다\"는 주장이 아니라, 우리는 그것을 뒤집어서 존재와 함께 시작했고, \"나는있다\"는 주장을 시작했고, 더 정확하게 말하자면, \"나는 있다\"는 말은, \"그러므로 나는 경험한다\"는 주장입니다.\n\n경험은 대부분 의식에 관한 것입니다.\n\n사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009\n\n이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?\n\n문명: 981931\n\n2026년 10월 8일 03:50:46에 출간된\n\n저작권 © 2009.\n\n테일러 앤 프랜시스 그룹\n\n모든 권리가 있습니다.\n\n전자책 75-76 페이지 인쇄 2 페이지 2",
+      "status": "translated",
+      "sourceTextSha256": "93c5bf193815847b05a5c6d568da1a8b5ef3b2f57e97678b641af7103f777529",
+      "segments": [
+        {
+          "source": "As the years go by the experts not only gain knowledge and skills, they might also gain wisdom, but we learn this preconsciously – and this is one of the fundamental problems in seeking to understand experiential learning.",
+          "translation": "세월이 흐르면서 전문가들은 지식과 기술을 얻는 것뿐만 아니라 지혜도 얻을 수 있습니다. 하지만 우리는 이것을 미리 의식적으로 배운다. 이것은 경험학습을 이해하려는 근본적인 문제 중 하나입니다."
+        },
+        {
+          "source": "But expertise may not be associated with time in this simple manner because we can repeat behaviours and not learn from them because we do not pay attention to them or to the small differences similar situations have or the slightly different problems each situation poses – only if we treat every experience as an individual learning experience can we gain expertise.",
+          "translation": "하지만 전문성은 이렇게 간단하게 시간과 연관되지 않을 수 있습니다. 왜냐하면 우리는 행동들을 반복할 수 있고, 그것으로부터 배울 수 없기 때문입니다. 왜냐하면 우리는 그것이나 비슷한 상황들이 가지고 있는 작은 차이점이나 각각의 상황이 제기하는 약간 다른 문제들에 주목하지 않기 때문입니다."
+        },
+        {
+          "source": "Consequently, when we praise someone for their experience we are basically praising them for having continually gained expertise, learned from their experience.",
+          "translation": "따라서 우리가 누군가에게 그들의 경험에 대해 칭찬을 할 때 우리는 기본적으로 그들의 경험에서 배운 전문 지식을 지속적으로 얻은 것에 대해 칭찬을 하고 있습니다."
+        },
+        {
+          "source": "Concluding discussion From the above discussion, it can be seen that learning is not just a psychological problem, it is a human one, and the study of learning is an existential one.",
+          "translation": "결론 토론 위의 논의에서 학습은 단순히 심리적인 문제가 아니라 인간적인 문제이며 학습을 연구하는 것은 실존적인 문제라는 것을 알 수 있습니다."
+        },
+        {
+          "source": "However, we did not start with Descartes’ assertion that ‘I think, therefore I am’; rather, we reversed it and started with being and the claim that ‘I am, therefore I think’ or rather, and more accurately, ‘I am, therefore I experience’, which, in the light of pre-conscious experience, is the more correct claim.",
+          "translation": "하지만, 우리는 데카르트의 주장을 시작하지 않았습니다. \"나는 생각한다, 그래서 나는 있다\"는 주장이 아니라, 우리는 그것을 뒤집어서 존재와 함께 시작했고, \"나는있다\"는 주장을 시작했고, 더 정확하게 말하자면, \"나는 있다\"는 말은, \"그러므로 나는 경험한다\"는 주장입니다."
+        },
+        {
+          "source": "Experience, then, is mostly about consciousness Jarvis, Peter.",
+          "translation": "경험은 대부분 의식에 관한 것입니다."
+        },
+        {
+          "source": "Learning to Be a Person in Society, Taylor & Francis Group, 2009.",
+          "translation": "사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009"
+        },
+        {
+          "source": "ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?",
+          "translation": "이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?"
+        },
+        {
+          "source": "docID=981931.",
+          "translation": "문명: 981931"
+        },
+        {
+          "source": "Created from snulibrary-ebooks on 2026-10-08 03:50:46.",
+          "translation": "2026년 10월 8일 03:50:46에 출간된"
+        },
+        {
+          "source": "Copyright © 2009.",
+          "translation": "저작권 © 2009."
+        },
+        {
+          "source": "Taylor & Francis Group.",
+          "translation": "테일러 앤 프랜시스 그룹"
+        },
+        {
+          "source": "All rights reserved.",
+          "translation": "모든 권리가 있습니다."
+        },
+        {
+          "source": "Ebook pages 75-76 | Printed page 2 of 2",
+          "translation": "전자책 75-76 페이지 인쇄 2 페이지 2"
+        }
+      ],
+      "unitId": "page-2",
+      "unitLabel": "PDF 2쪽"
+    }
+  ],
+  "kind": "pdf-partial-supplement",
+  "label": "Jarvis 발췌 · 전문성으로서의 경험",
+  "sourceType": "pdf",
+  "coverageNote": "추가 확보한 2쪽 발췌본입니다. 다른 발췌 파일과 일부 내용이 겹칠 수 있습니다."
+}

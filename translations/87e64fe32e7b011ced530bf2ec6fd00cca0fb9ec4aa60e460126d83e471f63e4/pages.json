@@ -1,0 +1,764 @@
+{
+  "referenceId": "ref-059",
+  "sourceId": "s-cite-87e64fe32e7b011ced53",
+  "sourceSha256": "87e64fe32e7b011ced530bf2ec6fd00cca0fb9ec4aa60e460126d83e471f63e4",
+  "pageCount": 8,
+  "translationType": "machine",
+  "engine": "NLLB-200 distilled 600M / CTranslate2",
+  "modelRevision": "f8d333a098d19b4fd9a8b18f94170487ad3f821d",
+  "pages": [
+    {
+      "page": 1,
+      "sourceText": "This chapter summarizes the transformation theory of adult learning,\nexplains the relationship of transformative learning to autonomous,\nresponsible thinking (viewed as the central goal of adult education),\nand discusses practical implications for educators.\nTransformative Learning: \nTheory to Practice\nJack Mezirow\nA defining condition of being human is that we have to understand the meaning of our experience. For some, any uncritically assimilated explanation by an\nauthority figure will suffice. But in contemporary societies we must learn to\nmake our own interpretations rather than act on the purposes, beliefs, judgments, and feelings of others. Facilitating such understanding is the cardinal goal\nof adult education. Transformative learning develops autonomous thinking.\nTransformative Learning Theory\nTransformative learning (Mezirow, 1991, 1995, 1996; Cranton, 1994, 1996)\nis the process of effecting change in a frame of reference. Adults have acquired\na coherent body of experience—associations, concepts, values, feelings, conditioned responses—frames of reference that define their life world. Frames of\nreference are the structures of assumptions through which we understand our\nexperiences. They selectively shape and delimit expectations, perceptions, cognition, and feelings. They set our “line of action.” Once set, we automatically\nmove from one specific activity (mental or behavioral) to another. We have a\nstrong tendency to reject ideas that fail to fit our preconceptions, labeling those\nideas as unworthy of consideration—aberrations, nonsense, irrelevant, weird,\nor mistaken. When circumstances permit, transformative learners move toward\na frame of reference that is more inclusive, discriminating, self-reflective, and\nintegrative of experience.\nA frame of reference encompasses cognitive, conative, and emotional components, and is composed of two dimensions: habits of mind and a point of view.\nHabits of mind are broad, abstract, orienting, habitual ways of thinking, feeling,\nNEW DIRECTIONS FOR ADULT AND CONTINUING EDUCATION, no. 74, Summer 1997 © Jossey-Bass Publishers\n5",
+      "translationText": "이 장은 성인 학습의 변환 이론을 요약하고, 전환학습과 자율적이고 책임있는 사고의 관계를 설명하고 (성년 교육의 중심 목표로 간주됩니다) 그리고 교육자들에게 실질적인 영향을 논의합니다.\n\n트랜스포메티브 학습: 이론과 실천 잭 메지로우 인간으로서의 결정적인 조건은 우리가 경험의 의미를 이해해야 한다는 것입니다.\n\n어떤 사람들에게는 권위 있는 인물에 의해 비판적으로 받아들여지지 않은 어떤 설명도 충분할 것이다.\n\n하지만 현대 사회에서는 타인의 목적, 신념, 판단, 그리고 감정에 따라 행동하기보다는 우리 자신의 해석을 하는 법을 배워야 합니다.\n\n그러한 이해를 촉진하는 것은 성인 교육의 핵심 목표입니다.\n\n전환학습은 자율적인 사고를 발전시킵니다.\n\n전환학습 이론: 전환학습(Mezirow, 1991, 1995, 1996; Cranton, 1994, 1996)은 준거 틀의 변화를 일으키는 과정이다.\n\n성인들은 경험의 일관된 체계를 습득했습니다.\n\n참조 프레임은 우리의 경험을 이해하는 가정의 구조입니다.\n\n그들은 선택적으로 기대, 인식, 인지, 그리고 감정을 형성하고 정의합니다.\n\n그들은 우리의 행동 라인을 설정했습니다.\n\n일단 설정되면, 우리는 자동으로 특정 활동 (정신적 또는 행동적) 에서 다른 활동으로 이동합니다.\n\n우리는 우리의 편견에 맞지 않는 아이디어를 거부하는 경향이 강하고, 그러한 아이디어를 고려할 가치가 없는 것으로 표시합니다.\n\n환경이 허락할 때, 변혁적 학습자들은 더 포괄적이고 차별적이며 자기 반영적이고 통합적인 경험의 기준으로 이동합니다.\n\n참고자료는 인지적, 상식적, 감정적 요소를 포함하고 있으며 두 가지 차원에서 구성되어 있습니다. 마음의 습관과 관점.\n\n정신 습관은 광범위하고 추상적인, 방향성, 습관적 사고방식, 감정, 성인 및 지속적인 교육에 대한 새로운 방향, 제 74호, 1997 년 여름 © jossey-bass 출판사 5",
+      "status": "translated",
+      "sourceTextSha256": "35209abc55e4e1743db810d8436964c2d4b99202983277996799dc2ff9b5d27c",
+      "segments": [
+        {
+          "source": "This chapter summarizes the transformation theory of adult learning, explains the relationship of transformative learning to autonomous, responsible thinking (viewed as the central goal of adult education), and discusses practical implications for educators.",
+          "translation": "이 장은 성인 학습의 변환 이론을 요약하고, 전환학습과 자율적이고 책임있는 사고의 관계를 설명하고 (성년 교육의 중심 목표로 간주됩니다) 그리고 교육자들에게 실질적인 영향을 논의합니다."
+        },
+        {
+          "source": "Transformative Learning: Theory to Practice Jack Mezirow A defining condition of being human is that we have to understand the meaning of our experience.",
+          "translation": "트랜스포메티브 학습: 이론과 실천 잭 메지로우 인간으로서의 결정적인 조건은 우리가 경험의 의미를 이해해야 한다는 것입니다."
+        },
+        {
+          "source": "For some, any uncritically assimilated explanation by an authority figure will suffice.",
+          "translation": "어떤 사람들에게는 권위 있는 인물에 의해 비판적으로 받아들여지지 않은 어떤 설명도 충분할 것이다."
+        },
+        {
+          "source": "But in contemporary societies we must learn to make our own interpretations rather than act on the purposes, beliefs, judgments, and feelings of others.",
+          "translation": "하지만 현대 사회에서는 타인의 목적, 신념, 판단, 그리고 감정에 따라 행동하기보다는 우리 자신의 해석을 하는 법을 배워야 합니다."
+        },
+        {
+          "source": "Facilitating such understanding is the cardinal goal of adult education.",
+          "translation": "그러한 이해를 촉진하는 것은 성인 교육의 핵심 목표입니다."
+        },
+        {
+          "source": "Transformative learning develops autonomous thinking.",
+          "translation": "전환학습은 자율적인 사고를 발전시킵니다."
+        },
+        {
+          "source": "Transformative Learning Theory Transformative learning (Mezirow, 1991, 1995, 1996; Cranton, 1994, 1996) is the process of effecting change in a frame of reference.",
+          "translation": "전환학습 이론: 전환학습(Mezirow, 1991, 1995, 1996; Cranton, 1994, 1996)은 준거 틀의 변화를 일으키는 과정이다.",
+          "reviewed": true
+        },
+        {
+          "source": "Adults have acquired a coherent body of experience—associations, concepts, values, feelings, conditioned responses—frames of reference that define their life world.",
+          "translation": "성인들은 경험의 일관된 체계를 습득했습니다."
+        },
+        {
+          "source": "Frames of reference are the structures of assumptions through which we understand our experiences.",
+          "translation": "참조 프레임은 우리의 경험을 이해하는 가정의 구조입니다."
+        },
+        {
+          "source": "They selectively shape and delimit expectations, perceptions, cognition, and feelings.",
+          "translation": "그들은 선택적으로 기대, 인식, 인지, 그리고 감정을 형성하고 정의합니다."
+        },
+        {
+          "source": "They set our “line of action.”",
+          "translation": "그들은 우리의 행동 라인을 설정했습니다."
+        },
+        {
+          "source": "Once set, we automatically move from one specific activity (mental or behavioral) to another.",
+          "translation": "일단 설정되면, 우리는 자동으로 특정 활동 (정신적 또는 행동적) 에서 다른 활동으로 이동합니다."
+        },
+        {
+          "source": "We have a strong tendency to reject ideas that fail to fit our preconceptions, labeling those ideas as unworthy of consideration—aberrations, nonsense, irrelevant, weird, or mistaken.",
+          "translation": "우리는 우리의 편견에 맞지 않는 아이디어를 거부하는 경향이 강하고, 그러한 아이디어를 고려할 가치가 없는 것으로 표시합니다."
+        },
+        {
+          "source": "When circumstances permit, transformative learners move toward a frame of reference that is more inclusive, discriminating, self-reflective, and integrative of experience.",
+          "translation": "환경이 허락할 때, 변혁적 학습자들은 더 포괄적이고 차별적이며 자기 반영적이고 통합적인 경험의 기준으로 이동합니다."
+        },
+        {
+          "source": "A frame of reference encompasses cognitive, conative, and emotional components, and is composed of two dimensions: habits of mind and a point of view.",
+          "translation": "참고자료는 인지적, 상식적, 감정적 요소를 포함하고 있으며 두 가지 차원에서 구성되어 있습니다. 마음의 습관과 관점."
+        },
+        {
+          "source": "Habits of mind are broad, abstract, orienting, habitual ways of thinking, feeling, NEW DIRECTIONS FOR ADULT AND CONTINUING EDUCATION, no. 74, Summer 1997 © Jossey-Bass Publishers 5",
+          "translation": "정신 습관은 광범위하고 추상적인, 방향성, 습관적 사고방식, 감정, 성인 및 지속적인 교육에 대한 새로운 방향, 제 74호, 1997 년 여름 © jossey-bass 출판사 5"
+        }
+      ],
+      "printed": "5",
+      "textQuality": "text"
+    },
+    {
+      "page": 2,
+      "sourceText": "6\nTRANSFORMATIVE LEARNING IN ACTION\nand acting influenced by assumptions that constitute a set of codes. These codes\nmay be cultural, social, educational, economic, political, or psychological. Habits\nof mind become articulated in a specific point of view—the constellation of belief,\nvalue judgment, attitude, and feeling that shapes a particular interpretation.\nAn example of a habit of mind is ethnocentrism, the predisposition to\nregard others outside one’s own group as inferior. A resulting point of view is\nthe complex of feelings, beliefs, judgments, and attitudes we have regarding\nspecific individuals or groups (for example, homosexuals, welfare recipients,\npeople of color, or women).\nFrames of reference are primarily the result of cultural assimilation and\nthe idiosyncratic influences of primary caregivers. Habits of mind are more\ndurable than points of view. Points of view are subject to continuing change as\nwe reflect on either the content or process by which we solve problems and\nidentify the need to modify assumptions. This happens whenever we try to\nunderstand actions that do not work the way we anticipated. We can try out\nanother person’s point of view and appropriate it, but we cannot do this with\na habit of mind. Points of view are more accessible to awareness and to feedback from others.\nJürgen Habermas (1981) has helped us to understand that problem solving and learning may be instrumental—learning to manipulate or control the\nenvironment or other people to enhance efficacy in improving performance;\nimpressionistic—learning to enhance one’s impression on others, to present oneself; normative—learning oriented to common values and a normative sense of\nentitlement (members of the group are entitled to expect certain behavior); or\ncommunicative—learning to understand the meaning of what is being communicated. Communicative learning involves at least two persons striving to\nreach an understanding of the meaning of an interpretation or the justification\nfor a belief. Ideally, communicative learning involves reaching a consensus.\nIn instrumental learning, the truth of an assertion may be established\nthrough empirical testing. But communicative learning involves understanding\npurposes, values, beliefs, and feelings and is less amenable to empirical tests. In\ncommunicative learning, it becomes essential for learners to become critically\nreflective of the assumptions underlying intentions, values, beliefs, and feelings.\nIf someone claims he loves you, how authentic is the expression of affection? Is the intent of a friendly stranger to sell you something, to proselytize,\nor make a sexual overture? Is an acquaintance being truthful? Is what is communicated only a rationalization? Is it meant to be taken literally or as a\nmetaphor? Is the message of a play what you interpret it to be? To resolve these\nquestions of assumption, we rely on a tentative best judgment among those\nwhom we believe to be informed, rational, and objective. We engage in discourse to validate what is being communicated. Our only other recourse is to\nturn to an authority or tradition to make a judgment for us.\nDiscourse, as used here, is a dialogue devoted to assessing reasons presented in support of competing interpretations, by critically examining evidence, arguments, and alternative points of view. The more interpretations of",
+      "translationText": "6 행동 으로 변화 시키는 학습 과 행동 은 일련 의 코드 를 구성 하는 가설 에 의해 영향 을 받는 것 이다.\n\n이러한 코드는 문화, 사회, 교육, 경제, 정치 또는 심리적일 수 있습니다.\n\n마음의 습관은 특정한 관점에서 표현됩니다. 특정 해석을 형성하는 믿음, 가치 판단, 태도 및 감정의 별자리입니다.\n\n정신의 습관에 대한 예는 민족중심주의입니다. 자신의 그룹 이외의 다른 사람들을 열등하다고 생각하는 경향이 있습니다.\n\n그 결과의 견해는 특정 개인이나 집단 (예를 들어 동성애자, 복지자, 색인 사람, 또는 여성) 에 대한 우리의 감정, 신념, 판단, 그리고 태도들의 복합이다.\n\n참조 프레임은 주로 문화적 흡수성과 초등 보호자의 특유의 영향의 결과입니다.\n\n정신 습관은 관점보다 더 오래 지속됩니다.\n\n우리는 문제들을 해결하는 내용이나 과정을 반영하고 가정들을 수정할 필요성을 파악함에 따라 시점들은 계속 변화할 수 있습니다.\n\n우리가 예상했던 대로 작동하지 않는 행동을 이해하려고 할 때마다 이런 일이 발생합니다.\n\n우리는 다른 사람의 견해를 시도하고 그것을 적절히 받아들일 수 있지만, 우리는 정신의 습관을 가지고 그렇게 할 수 없습니다.\n\n관점들은 인식과 다른 사람들의 피드백에 더 쉽게 접근할 수 있습니다.\n\nJürgen Habermas(1981)는 문제해결과 학습이 다음과 같은 형태를 취할 수 있음을 이해하는 데 기여하였다. 도구적 학습은 수행을 개선하는 효과성을 높이기 위해 환경이나 다른 사람을 조작하거나 통제하는 것을 배우는 것이다. 인상관리적 학습은 다른 사람에게 주는 인상을 개선하고 자신을 드러내는 것을 배우는 것이다. 규범적 학습은 공동의 가치와 규범적으로 인정되는 권리에 대한 감각을 지향한다. 여기서 집단 구성원에게는 특정한 행동을 기대할 권리가 있다. 의사소통적 학습은 전달되는 것의 의미를 이해하는 것을 배우는 것이다.\n\n의사소통 학습은 적어도 두 사람이 해석의 의미 또는 신념의 정당성을 이해하려고 노력하는 것을 포함한다.\n\n이상적으로 의사소통 학습은 합의에 도달하는 것을 포함한다.\n\n도구적 학습에서 주장의 진실은 경험적 테스트를 통해 확립될 수 있습니다.\n\n하지만 의사소통 학습은 목적, 가치, 신념, 그리고 감정을 이해하는 것을 포함하고 경험적 테스트에 덜 적합합니다.\n\n의사소통 학습에서는 학습자가 의도, 가치, 신념 및 감정에 기반을 둔 가정에 대해 비판적으로 반영하는 것이 필수적입니다.\n\n만약 누군가가 당신을 사랑한다고 주장한다면, 애정이 얼마나 진실한 표현일까요?\n\n친근 한 낯선 사람 의 의도는 당신 에게 어떤 것 을 팔거나 교신 을 전개 하거나 성관계를 개척 하는 것 인가?\n\n아는 사람이 진실한 사람이냐?\n\n전달되는 것은 단지 합리화일 뿐인가?\n\n그것은 문자 그대로 또는 은유적 으로 받아들여져야 하는가?\n\n연극의 메시지는 당신이 해석하는 것과 같습니까?\n\n이러한 가정의 문제를 해결하기 위해, 우리는 정보, 합리적이고 객관적이라고 믿는 사람들 사이에서 임시 최고의 판단에 의존합니다.\n\n우리는 전달되는 것을 확인하기 위해 연설에 참여합니다.\n\n우리의 유일한 다른 수단은 권위자나 전통을 찾아서 우리를 판단하는 것입니다.\n\n여기서 사용되는 대화는 증거, 주장 및 대체적인 관점을 비판적으로 검토함으로써 경쟁적 해석을 뒷받침하기 위해 제시된 이유를 평가하는 데 전념되는 대화입니다.\n\n더 많은 해석",
+      "status": "translated",
+      "sourceTextSha256": "92dc1ef8f07bc5516c1b373151011a35af1ce84e7a558a35a5dc4101097ed2e2",
+      "segments": [
+        {
+          "source": "6 TRANSFORMATIVE LEARNING IN ACTION and acting influenced by assumptions that constitute a set of codes.",
+          "translation": "6 행동 으로 변화 시키는 학습 과 행동 은 일련 의 코드 를 구성 하는 가설 에 의해 영향 을 받는 것 이다."
+        },
+        {
+          "source": "These codes may be cultural, social, educational, economic, political, or psychological.",
+          "translation": "이러한 코드는 문화, 사회, 교육, 경제, 정치 또는 심리적일 수 있습니다."
+        },
+        {
+          "source": "Habits of mind become articulated in a specific point of view—the constellation of belief, value judgment, attitude, and feeling that shapes a particular interpretation.",
+          "translation": "마음의 습관은 특정한 관점에서 표현됩니다. 특정 해석을 형성하는 믿음, 가치 판단, 태도 및 감정의 별자리입니다."
+        },
+        {
+          "source": "An example of a habit of mind is ethnocentrism, the predisposition to regard others outside one’s own group as inferior.",
+          "translation": "정신의 습관에 대한 예는 민족중심주의입니다. 자신의 그룹 이외의 다른 사람들을 열등하다고 생각하는 경향이 있습니다."
+        },
+        {
+          "source": "A resulting point of view is the complex of feelings, beliefs, judgments, and attitudes we have regarding specific individuals or groups (for example, homosexuals, welfare recipients, people of color, or women).",
+          "translation": "그 결과의 견해는 특정 개인이나 집단 (예를 들어 동성애자, 복지자, 색인 사람, 또는 여성) 에 대한 우리의 감정, 신념, 판단, 그리고 태도들의 복합이다."
+        },
+        {
+          "source": "Frames of reference are primarily the result of cultural assimilation and the idiosyncratic influences of primary caregivers.",
+          "translation": "참조 프레임은 주로 문화적 흡수성과 초등 보호자의 특유의 영향의 결과입니다."
+        },
+        {
+          "source": "Habits of mind are more durable than points of view.",
+          "translation": "정신 습관은 관점보다 더 오래 지속됩니다."
+        },
+        {
+          "source": "Points of view are subject to continuing change as we reflect on either the content or process by which we solve problems and identify the need to modify assumptions.",
+          "translation": "우리는 문제들을 해결하는 내용이나 과정을 반영하고 가정들을 수정할 필요성을 파악함에 따라 시점들은 계속 변화할 수 있습니다."
+        },
+        {
+          "source": "This happens whenever we try to understand actions that do not work the way we anticipated.",
+          "translation": "우리가 예상했던 대로 작동하지 않는 행동을 이해하려고 할 때마다 이런 일이 발생합니다."
+        },
+        {
+          "source": "We can try out another person’s point of view and appropriate it, but we cannot do this with a habit of mind.",
+          "translation": "우리는 다른 사람의 견해를 시도하고 그것을 적절히 받아들일 수 있지만, 우리는 정신의 습관을 가지고 그렇게 할 수 없습니다."
+        },
+        {
+          "source": "Points of view are more accessible to awareness and to feedback from others.",
+          "translation": "관점들은 인식과 다른 사람들의 피드백에 더 쉽게 접근할 수 있습니다."
+        },
+        {
+          "source": "Jürgen Habermas (1981) has helped us to understand that problem solving and learning may be instrumental—learning to manipulate or control the environment or other people to enhance efficacy in improving performance; impressionistic—learning to enhance one’s impression on others, to present oneself; normative—learning oriented to common values and a normative sense of entitlement (members of the group are entitled to expect certain behavior); or communicative—learning to understand the meaning of what is being communicated.",
+          "translation": "Jürgen Habermas(1981)는 문제해결과 학습이 다음과 같은 형태를 취할 수 있음을 이해하는 데 기여하였다. 도구적 학습은 수행을 개선하는 효과성을 높이기 위해 환경이나 다른 사람을 조작하거나 통제하는 것을 배우는 것이다. 인상관리적 학습은 다른 사람에게 주는 인상을 개선하고 자신을 드러내는 것을 배우는 것이다. 규범적 학습은 공동의 가치와 규범적으로 인정되는 권리에 대한 감각을 지향한다. 여기서 집단 구성원에게는 특정한 행동을 기대할 권리가 있다. 의사소통적 학습은 전달되는 것의 의미를 이해하는 것을 배우는 것이다.",
+          "reviewed": true
+        },
+        {
+          "source": "Communicative learning involves at least two persons striving to reach an understanding of the meaning of an interpretation or the justification for a belief.",
+          "translation": "의사소통 학습은 적어도 두 사람이 해석의 의미 또는 신념의 정당성을 이해하려고 노력하는 것을 포함한다."
+        },
+        {
+          "source": "Ideally, communicative learning involves reaching a consensus.",
+          "translation": "이상적으로 의사소통 학습은 합의에 도달하는 것을 포함한다."
+        },
+        {
+          "source": "In instrumental learning, the truth of an assertion may be established through empirical testing.",
+          "translation": "도구적 학습에서 주장의 진실은 경험적 테스트를 통해 확립될 수 있습니다."
+        },
+        {
+          "source": "But communicative learning involves understanding purposes, values, beliefs, and feelings and is less amenable to empirical tests.",
+          "translation": "하지만 의사소통 학습은 목적, 가치, 신념, 그리고 감정을 이해하는 것을 포함하고 경험적 테스트에 덜 적합합니다."
+        },
+        {
+          "source": "In communicative learning, it becomes essential for learners to become critically reflective of the assumptions underlying intentions, values, beliefs, and feelings.",
+          "translation": "의사소통 학습에서는 학습자가 의도, 가치, 신념 및 감정에 기반을 둔 가정에 대해 비판적으로 반영하는 것이 필수적입니다."
+        },
+        {
+          "source": "If someone claims he loves you, how authentic is the expression of affection?",
+          "translation": "만약 누군가가 당신을 사랑한다고 주장한다면, 애정이 얼마나 진실한 표현일까요?"
+        },
+        {
+          "source": "Is the intent of a friendly stranger to sell you something, to proselytize, or make a sexual overture?",
+          "translation": "친근 한 낯선 사람 의 의도는 당신 에게 어떤 것 을 팔거나 교신 을 전개 하거나 성관계를 개척 하는 것 인가?"
+        },
+        {
+          "source": "Is an acquaintance being truthful?",
+          "translation": "아는 사람이 진실한 사람이냐?"
+        },
+        {
+          "source": "Is what is communicated only a rationalization?",
+          "translation": "전달되는 것은 단지 합리화일 뿐인가?"
+        },
+        {
+          "source": "Is it meant to be taken literally or as a metaphor?",
+          "translation": "그것은 문자 그대로 또는 은유적 으로 받아들여져야 하는가?"
+        },
+        {
+          "source": "Is the message of a play what you interpret it to be?",
+          "translation": "연극의 메시지는 당신이 해석하는 것과 같습니까?"
+        },
+        {
+          "source": "To resolve these questions of assumption, we rely on a tentative best judgment among those whom we believe to be informed, rational, and objective.",
+          "translation": "이러한 가정의 문제를 해결하기 위해, 우리는 정보, 합리적이고 객관적이라고 믿는 사람들 사이에서 임시 최고의 판단에 의존합니다."
+        },
+        {
+          "source": "We engage in discourse to validate what is being communicated.",
+          "translation": "우리는 전달되는 것을 확인하기 위해 연설에 참여합니다."
+        },
+        {
+          "source": "Our only other recourse is to turn to an authority or tradition to make a judgment for us.",
+          "translation": "우리의 유일한 다른 수단은 권위자나 전통을 찾아서 우리를 판단하는 것입니다."
+        },
+        {
+          "source": "Discourse, as used here, is a dialogue devoted to assessing reasons presented in support of competing interpretations, by critically examining evidence, arguments, and alternative points of view.",
+          "translation": "여기서 사용되는 대화는 증거, 주장 및 대체적인 관점을 비판적으로 검토함으로써 경쟁적 해석을 뒷받침하기 위해 제시된 이유를 평가하는 데 전념되는 대화입니다."
+        },
+        {
+          "source": "The more interpretations of",
+          "translation": "더 많은 해석"
+        }
+      ],
+      "printed": "6",
+      "textQuality": "text"
+    },
+    {
+      "page": 3,
+      "sourceText": "7\nTRANSFORMATIVE LEARNING: THEORY TO PRACTICE\na belief available, the greater the likelihood of finding a more dependable interpretation or synthesis. We learn together by analyzing the related experiences\nof others to arrive at a common understanding that holds until new evidence\nor arguments present themselves.\nWe transform our frames of reference through critical reflection on the\nassumptions upon which our interpretations, beliefs, and habits of mind or\npoints of view are based. We can become critically reflective of the assumptions we or others make when we learn to solve problems instrumentally or\nwhen we are involved in communicative learning. We may be critically reflective of assumptions when reading a book, hearing a point of view, engaging in\ntask-oriented problem solving (objective reframing), or self-reflectively assessing our own ideas and beliefs (subjective reframing). Self-reflection can lead\nto significant personal transformations.\nCritically explored assumptions may be in the autobiographical context\nof a belief, or they may be supporting a social, cultural, economic, political,\neducational, or psychological system. Transformations in frames of reference\ntake place through critical reflection and transformation of a habit of mind, or\nthey may result from an accretion of transformations in points of view.\nThere are four processes of learning. Referring to the ethnocentric example, one process is to elaborate an existing point of view—we can seek further\nevidence to support our initial bias regarding a group and expand the range or\nintensity of our point of view.\nA second way we learn is to establish new points of view. We can\nencounter a new group and create new negative meaning schemes for them by\nfocusing on their perceived shortcomings, as dictated by our propensity for\nethnocentricity.\nA third way we learn is to transform our point of view. We can have an\nexperience in another culture that results in our critically reflecting on our misconceptions of this particular group. The result may be a change in point of\nview toward the group involved. As a result, we may become more tolerant or\nmore accepting of members of that group. If this happens over and over again\nwith a number of different groups, it can lead to a transformation by accretion\nin our governing habit of mind.\nFinally, we may transform our ethnocentric habit of mind by becoming\naware and critically reflective of our generalized bias in the way we view groups\nother than our own. Such epochal transformations are less common and more\ndifficult. We do not make transformative changes in the way we learn as long\nas what we learn fits comfortably in our existing frames of reference.\nAutonomous Thinking\nThinking as an autonomous and responsible agent is essential for full citizenship in democracy and for moral decision making in situations of rapid\nchange. The identified learning needs of the workforce implicitly recognize the\ncentrality of autonomous learning.",
+      "translationText": "7 변혁적 인 학습: 이론 을 실천 하기 위한 믿음 은 더 신뢰할 수 있는 해석 이나 합성 을 찾을 확률 이 높습니다.\n\n우리는 다른 사람들의 관련 경험을 분석하여 새로운 증거나 주장이 나타나기 전까지 지속되는 공통된 이해에 도달하기 위해 함께 학습합니다.\n\n우리는 우리의 해석, 신념, 그리고 사고방식 또는 관점의 습관이 바탕이 되는 가정에 대해 비판적으로 회상함으로써 우리의 참조 프레임워크를 변화시킵니다.\n\n우리는 도구로 문제를 해결하는 것을 배우거나 의사소통 학습에 관여할 때 우리가 또는 다른 사람들이 하는 가정에 대해 비판적으로 반영할 수 있습니다.\n\n우리는 책을 읽거나, 관점을 듣고, 과제 중심의 문제 해결 (목적 재구성) 에 참여하거나, 자신의 생각과 신념을 자제적으로 평가할 때 가정들을 비판적으로 반영할 수 있습니다.\n\n자기성찰은 중대한 개인적 변화로 이어질 수 있습니다.\n\n비판적으로 탐구된 가정은 신념의 자전적 맥락에 있을 수도 있고, 사회, 문화, 경제, 정치, 교육 또는 심리적 시스템을 지원할 수도 있습니다.\n\n참조 프레임의 변환은 비판적 반영과 마음의 습관의 변환을 통해 이루어집니다. 또는 관점의 변화의 증가로 인해 발생할 수 있습니다.\n\n학습은 네 가지 과정으로 이루어집니다.\n\n민족중심적인 예를 참고하면, 하나의 과정은 기존의 관점을 정립하는 것입니다. 우리는 그룹에 대한 우리의 초기 편견을 뒷받침하고 우리의 관점의 범위 또는 강도를 확장하기 위해 더 많은 증거를 찾을 수 있습니다.\n\n두 번째 방법 은 새로운 견해 를 확립 하는 것 이다.\n\n우리는 새로운 그룹을 만나고 민족중심에 대한 우리의 성향에 의해 정해져 있는 그들의 인식된 결핍에 초점을 맞추어 그들에게 새로운 부정적인 의미 계획을 만들 수 있습니다.\n\n세 번째 방법은 우리의 시각을 변화시키는 것입니다.\n\n우리는 다른 문화에서 경험할 수 있습니다. 그 결과 우리는 이 특정 집단에 대한 잘못된 인식에 대해 비판적으로 생각해 볼 수 있습니다.\n\n그 결과, 그 집단에 대한 견해가 바뀌게 될 수 있습니다.\n\n그 결과, 우리 는 그 집단 의 구성원 들 을 더 용납하거나 더 받아들이게 될 수 있습니다.\n\n만약 이런 일이 여러 집단과 반복적으로 일어나면, 우리의 지배적 사고방식에 대한 변화로 이어질 수 있습니다.\n\n마지막으로, 우리는 우리의 민족중심적 사고방식을 변화시킬 수 있습니다. 우리 자신 이외의 다른 집단들을 바라보는 방식에서 우리의 일반적 편견을 인식하고 비판적으로 반영함으로써요.\n\n이러한 시대적 변화는 덜 흔하고 더 어렵습니다.\n\n학습하는 내용이 기존의 준거 틀에 무리 없이 들어맞는 한, 우리는 학습 방식에 전환적인 변화를 일으키지 않는다.\n\n자율적인 사고 자율적이고 책임있는 요인으로 생각하는 것은 민주주의의 완전한 시민권과 급변하는 상황에서 도덕적 의사결정을 위해서는 필수적입니다.\n\n노동력의 식별된 학습 욕구는 자율적인 학습의 중추성을 직시적으로 인식합니다.",
+      "status": "translated",
+      "sourceTextSha256": "80021e717fc07b3d113f790df9d2384fd6e35d7865f238c3604a9a0f75768678",
+      "segments": [
+        {
+          "source": "7 TRANSFORMATIVE LEARNING: THEORY TO PRACTICE a belief available, the greater the likelihood of finding a more dependable interpretation or synthesis.",
+          "translation": "7 변혁적 인 학습: 이론 을 실천 하기 위한 믿음 은 더 신뢰할 수 있는 해석 이나 합성 을 찾을 확률 이 높습니다."
+        },
+        {
+          "source": "We learn together by analyzing the related experiences of others to arrive at a common understanding that holds until new evidence or arguments present themselves.",
+          "translation": "우리는 다른 사람들의 관련 경험을 분석하여 새로운 증거나 주장이 나타나기 전까지 지속되는 공통된 이해에 도달하기 위해 함께 학습합니다."
+        },
+        {
+          "source": "We transform our frames of reference through critical reflection on the assumptions upon which our interpretations, beliefs, and habits of mind or points of view are based.",
+          "translation": "우리는 우리의 해석, 신념, 그리고 사고방식 또는 관점의 습관이 바탕이 되는 가정에 대해 비판적으로 회상함으로써 우리의 참조 프레임워크를 변화시킵니다."
+        },
+        {
+          "source": "We can become critically reflective of the assumptions we or others make when we learn to solve problems instrumentally or when we are involved in communicative learning.",
+          "translation": "우리는 도구로 문제를 해결하는 것을 배우거나 의사소통 학습에 관여할 때 우리가 또는 다른 사람들이 하는 가정에 대해 비판적으로 반영할 수 있습니다."
+        },
+        {
+          "source": "We may be critically reflective of assumptions when reading a book, hearing a point of view, engaging in task-oriented problem solving (objective reframing), or self-reflectively assessing our own ideas and beliefs (subjective reframing).",
+          "translation": "우리는 책을 읽거나, 관점을 듣고, 과제 중심의 문제 해결 (목적 재구성) 에 참여하거나, 자신의 생각과 신념을 자제적으로 평가할 때 가정들을 비판적으로 반영할 수 있습니다."
+        },
+        {
+          "source": "Self-reflection can lead to significant personal transformations.",
+          "translation": "자기성찰은 중대한 개인적 변화로 이어질 수 있습니다."
+        },
+        {
+          "source": "Critically explored assumptions may be in the autobiographical context of a belief, or they may be supporting a social, cultural, economic, political, educational, or psychological system.",
+          "translation": "비판적으로 탐구된 가정은 신념의 자전적 맥락에 있을 수도 있고, 사회, 문화, 경제, 정치, 교육 또는 심리적 시스템을 지원할 수도 있습니다."
+        },
+        {
+          "source": "Transformations in frames of reference take place through critical reflection and transformation of a habit of mind, or they may result from an accretion of transformations in points of view.",
+          "translation": "참조 프레임의 변환은 비판적 반영과 마음의 습관의 변환을 통해 이루어집니다. 또는 관점의 변화의 증가로 인해 발생할 수 있습니다."
+        },
+        {
+          "source": "There are four processes of learning.",
+          "translation": "학습은 네 가지 과정으로 이루어집니다."
+        },
+        {
+          "source": "Referring to the ethnocentric example, one process is to elaborate an existing point of view—we can seek further evidence to support our initial bias regarding a group and expand the range or intensity of our point of view.",
+          "translation": "민족중심적인 예를 참고하면, 하나의 과정은 기존의 관점을 정립하는 것입니다. 우리는 그룹에 대한 우리의 초기 편견을 뒷받침하고 우리의 관점의 범위 또는 강도를 확장하기 위해 더 많은 증거를 찾을 수 있습니다."
+        },
+        {
+          "source": "A second way we learn is to establish new points of view.",
+          "translation": "두 번째 방법 은 새로운 견해 를 확립 하는 것 이다."
+        },
+        {
+          "source": "We can encounter a new group and create new negative meaning schemes for them by focusing on their perceived shortcomings, as dictated by our propensity for ethnocentricity.",
+          "translation": "우리는 새로운 그룹을 만나고 민족중심에 대한 우리의 성향에 의해 정해져 있는 그들의 인식된 결핍에 초점을 맞추어 그들에게 새로운 부정적인 의미 계획을 만들 수 있습니다."
+        },
+        {
+          "source": "A third way we learn is to transform our point of view.",
+          "translation": "세 번째 방법은 우리의 시각을 변화시키는 것입니다."
+        },
+        {
+          "source": "We can have an experience in another culture that results in our critically reflecting on our misconceptions of this particular group.",
+          "translation": "우리는 다른 문화에서 경험할 수 있습니다. 그 결과 우리는 이 특정 집단에 대한 잘못된 인식에 대해 비판적으로 생각해 볼 수 있습니다."
+        },
+        {
+          "source": "The result may be a change in point of view toward the group involved.",
+          "translation": "그 결과, 그 집단에 대한 견해가 바뀌게 될 수 있습니다."
+        },
+        {
+          "source": "As a result, we may become more tolerant or more accepting of members of that group.",
+          "translation": "그 결과, 우리 는 그 집단 의 구성원 들 을 더 용납하거나 더 받아들이게 될 수 있습니다."
+        },
+        {
+          "source": "If this happens over and over again with a number of different groups, it can lead to a transformation by accretion in our governing habit of mind.",
+          "translation": "만약 이런 일이 여러 집단과 반복적으로 일어나면, 우리의 지배적 사고방식에 대한 변화로 이어질 수 있습니다."
+        },
+        {
+          "source": "Finally, we may transform our ethnocentric habit of mind by becoming aware and critically reflective of our generalized bias in the way we view groups other than our own.",
+          "translation": "마지막으로, 우리는 우리의 민족중심적 사고방식을 변화시킬 수 있습니다. 우리 자신 이외의 다른 집단들을 바라보는 방식에서 우리의 일반적 편견을 인식하고 비판적으로 반영함으로써요."
+        },
+        {
+          "source": "Such epochal transformations are less common and more difficult.",
+          "translation": "이러한 시대적 변화는 덜 흔하고 더 어렵습니다."
+        },
+        {
+          "source": "We do not make transformative changes in the way we learn as long as what we learn fits comfortably in our existing frames of reference.",
+          "translation": "학습하는 내용이 기존의 준거 틀에 무리 없이 들어맞는 한, 우리는 학습 방식에 전환적인 변화를 일으키지 않는다.",
+          "reviewed": true
+        },
+        {
+          "source": "Autonomous Thinking Thinking as an autonomous and responsible agent is essential for full citizenship in democracy and for moral decision making in situations of rapid change.",
+          "translation": "자율적인 사고 자율적이고 책임있는 요인으로 생각하는 것은 민주주의의 완전한 시민권과 급변하는 상황에서 도덕적 의사결정을 위해서는 필수적입니다."
+        },
+        {
+          "source": "The identified learning needs of the workforce implicitly recognize the centrality of autonomous learning.",
+          "translation": "노동력의 식별된 학습 욕구는 자율적인 학습의 중추성을 직시적으로 인식합니다."
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 4,
+      "sourceText": "8\nTRANSFORMATIVE LEARNING IN ACTION\nThe U.S. Department of Labor’s SCANS report (1991) identifies acquiring and using information, identifying and organizing resources, working with\nothers, interpreting information, and understanding complex interrelationships\nas essential competencies and skills.\nSimilarly, the “key competencies” for workforce preparation identified by\nthe Australian government, employers, and academics include analyzing information, communicating ideas, planning and organizing activities, using mathematical ideas and technology, working in teams, solving problems, and using\ncultural understandings (Gonzi and others, 1995).\nThe common presumption in these lists is that the essential learning\nrequired to prepare a productive and responsible worker for the twenty-first\ncentury must empower the individual to think as an autonomous agent in a\ncollaborative context rather than to uncritically act on the received ideas and\njudgments of others. Workers will have to become autonomous, socially\nresponsible thinkers.\nAs we move into the next century and more technologically sophisticated\nindustry and service sectors, work becomes more abstract, depending on\nunderstanding and manipulating information rather than merely acquiring it.\nNew forms of skill and knowledge are required. There is a growing consensus\npertaining to the essential understandings, skills, and dispositions required for\nan adult learner to become an effective member of the workforce of the future.\nEconomists recognize that resources should be directed toward creating a\nworkforce that can adapt to changing conditions of employment, exercise critical judgement as it manages technology systems, and flexibly engage in more\neffective collaborative decision making.\nAdult learners themselves view learning to think as autonomous, responsible persons as an important educational objective. For example, the U.S.\nNational Institute for Literacy (Stein, 1995) found that those who participate\nin literacy programs do so to (1) gain access to information so they can orient\nthemselves in the world; (2) give voice to their ideas, with the confidence they\nwill be heard; (3) make decisions and act independently; and (4) build a bridge\nto the future by learning how to learn.\nTheir goal is to become autonomous, responsible thinkers. Often, adult\nlearners’ immediate focus is on practical, short-term objectives—to be able to\nqualify for a driver’s license, get a job or promotion, or teach a child to read. It\nis crucial to recognize that learning needs must be defined so as to recognize\nboth short-term objectives and long-term goals. The learner’s immediate objectives may be described in terms of subject matter mastery, attainment of specific competencies, or other job-related objectives, but his or her goal is to\nbecome a socially responsible autonomous thinker.\nThe adult educator must recognize both the learner’s objectives and goal. The\neducator’s responsibility is to help learners reach their objectives in such a way\nthat they will function as more autonomous, socially responsible thinkers. Helping people learn to achieve a specific short-term objective may involve instrumental learning. For them to achieve their goal requires communicative learning.",
+      "translationText": "8 행동 에서 변형적 인 학습 미국 노동부  SCANS 보고서 (1991) 는 정보 획득 및 사용, 자원 식별 및 조직, 다른 사람 들 과 협력, 정보 해석 및 복잡한 상호 관계 를 이해하는 것 을 필수적 인 능력 과 기술 으로 규정 한다.\n\n마찬가지로, 호주 정부, 고용주 및 학자들에 의해 확인된 노동력 준비에 대한 핵심 역량에는 정보 분석, 아이디어를 전달, 계획 및 조직 활동, 수학 아이디어와 기술을 사용하여, 팀에서 작업, 문제를 해결하고 문화적 이해를 사용하는 것이 포함됩니다 (Gonzi 및 기타, 1995).\n\n이 목록의 일반적인 가정은 21세기에 생산적이고 책임있는 근로자를 준비하는 데 필요한 필수적인 학습이 다른 사람들의 수신된 아이디어와 판단에 대해 비평적으로 행동하기보다는 협력적인 맥락에서 자율적인 요인으로 생각할 수 있도록 해야 한다는 것입니다.\n\n노동자들은 자율적이고 사회적으로 책임있는 사상가들이 되어야 합니다.\n\n우리는 다음 세기에 진입하면서 기술적으로 더 정교한 산업과 서비스 분야로 접어들면서 업무는 단순히 정보를 습득하는 것보다는 정보를 이해하고 조작하는 것에 의존하여 더 추상화되고 있습니다.\n\n새로운 기술과 지식의 형태가 필요합니다.\n\n성인 학습자가 미래의 노동력의 효과적인 구성원이 되기 위해 필요한 필수적인 이해, 기술 및 조율에 관한 합의가 증가하고 있습니다.\n\n경제학자들은 자원들이 고용의 변화하는 조건에 적응할 수 있는 노동력을 창출하는 데 목적이 있어야 하며, 기술 시스템을 관리하면서 비판적인 판단력을 행사하고, 보다 효과적인 협동적 의사결정에 유연하게 참여해야 한다고 인식한다.\n\n성인 학습자 스스로는 자율적이고 책임있는 사람으로 생각하는 법을 배우는 것을 중요한 교육 목표로 간주합니다.\n\n예를 들어, 미국 국립 문맹 연구소 (스테인, 1995) 는 문맹 프로그램 에 참여 하는 사람 들 은 이렇게 하는 것 을 발견 한 것 은 (1) 자신 들 이 세상 에 지향 할 수 있도록 정보 를 얻을 수 있게 하기 위하여, (2) 자신 들 이 듣게 될 자신감 을 가지고 자신 들 의 생각 들 에 목소리를 내기 위해, (3) 자신 들 의 의사 결정 을 하고 독립적 으로 행동 하기 위해, 그리고 (4) 학습 을 배우는 것 으로 미래 를 위한 교량 을 구축 하기 위해서다.\n\n그들의 목표는 자율적이고 책임있는 사상가들이 되는 것입니다.\n\n종종, 성인 학습자들은 운전면허증을 취득하거나 직장을 취득하거나 승진하거나 어린이에게 독서를 가르칠 수 있는 실용적이고 단기적인 목표에 집중한다.\n\n단기적 목표와 장기적 목표 모두를 인식하기 위해 학습 욕구를 정의해야 한다는 것을 인식하는 것이 중요합니다.\n\n학습자의 즉각적인 목표는 주체 숙달, 특정 역량 성취 또는 직업과 관련된 다른 목표에 의해 설명될 수 있지만 그의 목표는 사회적으로 책임있는 자율적인 사상가로 성장하는 것입니다.\n\n성인 교육자는 학습자의 목표와 목표를 모두 인식해야 합니다.\n\n교육자의 책임은 학습자가 자신의 목표를 달성할 수 있도록 도와주는 것이므로 그들은 더 자율적이고 사회적으로 책임있는 사상가로서 기능할 수 있습니다.\n\n특정 단기 목표 달성을 배우는 데 도움을 주는 것은 도구 학습을 포함할 수 있습니다.\n\n그들의 목표를 달성하기 위해서는 의사소통적 학습이 필요합니다.",
+      "status": "translated",
+      "sourceTextSha256": "92b54791b819c9c80a3dd7cbda2e9aaddeffa0653c0d036d691fcf85bf3224a3",
+      "segments": [
+        {
+          "source": "8 TRANSFORMATIVE LEARNING IN ACTION The U.S. Department of Labor’s SCANS report (1991) identifies acquiring and using information, identifying and organizing resources, working with others, interpreting information, and understanding complex interrelationships as essential competencies and skills.",
+          "translation": "8 행동 에서 변형적 인 학습 미국 노동부  SCANS 보고서 (1991) 는 정보 획득 및 사용, 자원 식별 및 조직, 다른 사람 들 과 협력, 정보 해석 및 복잡한 상호 관계 를 이해하는 것 을 필수적 인 능력 과 기술 으로 규정 한다."
+        },
+        {
+          "source": "Similarly, the “key competencies” for workforce preparation identified by the Australian government, employers, and academics include analyzing information, communicating ideas, planning and organizing activities, using mathematical ideas and technology, working in teams, solving problems, and using cultural understandings (Gonzi and others, 1995).",
+          "translation": "마찬가지로, 호주 정부, 고용주 및 학자들에 의해 확인된 노동력 준비에 대한 핵심 역량에는 정보 분석, 아이디어를 전달, 계획 및 조직 활동, 수학 아이디어와 기술을 사용하여, 팀에서 작업, 문제를 해결하고 문화적 이해를 사용하는 것이 포함됩니다 (Gonzi 및 기타, 1995)."
+        },
+        {
+          "source": "The common presumption in these lists is that the essential learning required to prepare a productive and responsible worker for the twenty-first century must empower the individual to think as an autonomous agent in a collaborative context rather than to uncritically act on the received ideas and judgments of others.",
+          "translation": "이 목록의 일반적인 가정은 21세기에 생산적이고 책임있는 근로자를 준비하는 데 필요한 필수적인 학습이 다른 사람들의 수신된 아이디어와 판단에 대해 비평적으로 행동하기보다는 협력적인 맥락에서 자율적인 요인으로 생각할 수 있도록 해야 한다는 것입니다."
+        },
+        {
+          "source": "Workers will have to become autonomous, socially responsible thinkers.",
+          "translation": "노동자들은 자율적이고 사회적으로 책임있는 사상가들이 되어야 합니다."
+        },
+        {
+          "source": "As we move into the next century and more technologically sophisticated industry and service sectors, work becomes more abstract, depending on understanding and manipulating information rather than merely acquiring it.",
+          "translation": "우리는 다음 세기에 진입하면서 기술적으로 더 정교한 산업과 서비스 분야로 접어들면서 업무는 단순히 정보를 습득하는 것보다는 정보를 이해하고 조작하는 것에 의존하여 더 추상화되고 있습니다."
+        },
+        {
+          "source": "New forms of skill and knowledge are required.",
+          "translation": "새로운 기술과 지식의 형태가 필요합니다."
+        },
+        {
+          "source": "There is a growing consensus pertaining to the essential understandings, skills, and dispositions required for an adult learner to become an effective member of the workforce of the future.",
+          "translation": "성인 학습자가 미래의 노동력의 효과적인 구성원이 되기 위해 필요한 필수적인 이해, 기술 및 조율에 관한 합의가 증가하고 있습니다."
+        },
+        {
+          "source": "Economists recognize that resources should be directed toward creating a workforce that can adapt to changing conditions of employment, exercise critical judgement as it manages technology systems, and flexibly engage in more effective collaborative decision making.",
+          "translation": "경제학자들은 자원들이 고용의 변화하는 조건에 적응할 수 있는 노동력을 창출하는 데 목적이 있어야 하며, 기술 시스템을 관리하면서 비판적인 판단력을 행사하고, 보다 효과적인 협동적 의사결정에 유연하게 참여해야 한다고 인식한다."
+        },
+        {
+          "source": "Adult learners themselves view learning to think as autonomous, responsible persons as an important educational objective.",
+          "translation": "성인 학습자 스스로는 자율적이고 책임있는 사람으로 생각하는 법을 배우는 것을 중요한 교육 목표로 간주합니다."
+        },
+        {
+          "source": "For example, the U.S. National Institute for Literacy (Stein, 1995) found that those who participate in literacy programs do so to (1) gain access to information so they can orient themselves in the world; (2) give voice to their ideas, with the confidence they will be heard; (3) make decisions and act independently; and (4) build a bridge to the future by learning how to learn.",
+          "translation": "예를 들어, 미국 국립 문맹 연구소 (스테인, 1995) 는 문맹 프로그램 에 참여 하는 사람 들 은 이렇게 하는 것 을 발견 한 것 은 (1) 자신 들 이 세상 에 지향 할 수 있도록 정보 를 얻을 수 있게 하기 위하여, (2) 자신 들 이 듣게 될 자신감 을 가지고 자신 들 의 생각 들 에 목소리를 내기 위해, (3) 자신 들 의 의사 결정 을 하고 독립적 으로 행동 하기 위해, 그리고 (4) 학습 을 배우는 것 으로 미래 를 위한 교량 을 구축 하기 위해서다."
+        },
+        {
+          "source": "Their goal is to become autonomous, responsible thinkers.",
+          "translation": "그들의 목표는 자율적이고 책임있는 사상가들이 되는 것입니다."
+        },
+        {
+          "source": "Often, adult learners’ immediate focus is on practical, short-term objectives—to be able to qualify for a driver’s license, get a job or promotion, or teach a child to read.",
+          "translation": "종종, 성인 학습자들은 운전면허증을 취득하거나 직장을 취득하거나 승진하거나 어린이에게 독서를 가르칠 수 있는 실용적이고 단기적인 목표에 집중한다."
+        },
+        {
+          "source": "It is crucial to recognize that learning needs must be defined so as to recognize both short-term objectives and long-term goals.",
+          "translation": "단기적 목표와 장기적 목표 모두를 인식하기 위해 학습 욕구를 정의해야 한다는 것을 인식하는 것이 중요합니다."
+        },
+        {
+          "source": "The learner’s immediate objectives may be described in terms of subject matter mastery, attainment of specific competencies, or other job-related objectives, but his or her goal is to become a socially responsible autonomous thinker.",
+          "translation": "학습자의 즉각적인 목표는 주체 숙달, 특정 역량 성취 또는 직업과 관련된 다른 목표에 의해 설명될 수 있지만 그의 목표는 사회적으로 책임있는 자율적인 사상가로 성장하는 것입니다."
+        },
+        {
+          "source": "The adult educator must recognize both the learner’s objectives and goal.",
+          "translation": "성인 교육자는 학습자의 목표와 목표를 모두 인식해야 합니다."
+        },
+        {
+          "source": "The educator’s responsibility is to help learners reach their objectives in such a way that they will function as more autonomous, socially responsible thinkers.",
+          "translation": "교육자의 책임은 학습자가 자신의 목표를 달성할 수 있도록 도와주는 것이므로 그들은 더 자율적이고 사회적으로 책임있는 사상가로서 기능할 수 있습니다."
+        },
+        {
+          "source": "Helping people learn to achieve a specific short-term objective may involve instrumental learning.",
+          "translation": "특정 단기 목표 달성을 배우는 데 도움을 주는 것은 도구 학습을 포함할 수 있습니다."
+        },
+        {
+          "source": "For them to achieve their goal requires communicative learning.",
+          "translation": "그들의 목표를 달성하기 위해서는 의사소통적 학습이 필요합니다."
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 5,
+      "sourceText": "9\nTRANSFORMATIVE LEARNING: THEORY TO PRACTICE\nAutonomy here refers to the understanding, skills, and disposition necessary to become critically reflective of one’s own assumptions and to engage\neffectively in discourse to validate one’s beliefs through the experiences of others who share universal values.\nTransformation theory holds that moral values are legitimized by agreement through discourse. The universality of such values as truth, justice, and\nfreedom is based on the claim that they have been found to result in more beneficial action than their alternatives. The Declaration of Human Rights by the\nUnited Nations attests to this. The claim is that if everyone could participate\nin a discourse, under the ideal conditions of discourse, there would be a universal rational consensus concerning these values.\nThere is an egregious assumption that the acquisition of knowledge or\nattainment of competencies will somehow automatically generate the understandings, skills, and dispositions involved in learning to think autonomously.\nHowever, there are different processes of learning involved and different forms\nof appropriate educational intervention.\nFoundations\nChildren commonly acquire a foundation of the specific learning required to\nthink autonomously. This includes the ability and disposition to (1) recognize\ncause-effect relationships, (2) use informal logic in making analogies and generalizations, (3) become aware of and control their own emotions, (4) become\nempathic of others, (5) use imagination to construct narratives, and (6) think\nabstractly. Adolescents may learn to (7) think hypothetically, and (8) become\ncritically reflective of what they read, see, and hear.\nIn adulthood, the task is to strengthen and build on this foundation in\norder to assist the learner to understand new subject content, but, in the\nprocess of doing so, to become (1) more aware and critical in assessing\nassumptions—both those of others and those governing one’s own beliefs, values, judgments, and feelings; (2) more aware of and better able to recognize\nframes of reference and paradigms (collective frames of reference) and to imagine alternatives; and (3) more responsible and effective at working with others\nto collectively assess reasons, pose and solve problems, and arrive at a tentative best judgment regarding contested beliefs.\nBecoming critically reflective of the assumptions of others is fundamental\nto effective collaborative problem posing and solving. Becoming critically\nreflective of one’s own assumptions is the key to transforming one’s taken-forgranted frame of reference, an indispensable dimension of learning for adapting to change.\nEducation for Transformative Learning\nAdult educators need to understand that transformative learning can take several\nforms involving either objective or subjective reframing. Transformative learning",
+      "translationText": "9 변형적 인 학습: 이론 을 실천 하기 위한 자율성 은 여기서 자기 의 가정 을 비판적 으로 반영 하기 위해 필요 한 이해, 기술, 그리고 성향 을 가리키는 것 이며, 보편적 가치 를 공유 하는 다른 사람 들 의 경험 을 통해 자기 의 신념 을 검증 하기 위한 대화 에 효과적으로 참여 하는 것 이다.\n\n변혁 이론은 도덕적 가치는 대화에 의해 합의에 의해 합법화된다는 것을 주장합니다.\n\n진실, 정의, 자유와 같은 가치의 보편성은 그 가치의 대안보다 더 유익한 행동으로 이어지는 것으로 밝혀진 주장에 기초한다.\n\n국제 연합 의 인권 선언 은 이것 을 증명 한다.\n\n이 주장은 모든 사람이 연설에 참여할 수 있다면, 연설의 이상적인 조건에서, 이러한 가치에 대한 보편적 합리적 합의가 있을 것이라고 주장합니다.\n\n지식의 습득이나 능력의 획득은 어떤 식으로든 자율적으로 자율적으로 사고하는 법을 배우는 데 관련된 이해, 기술, 그리고 조율을 생성할 것이라는 엄청난 가정이 있습니다.\n\n그러나 학습 과정과 적절한 교육 개입의 형태는 다르다.\n\n기초 어린이들은 일반적으로 자율적으로 생각하기 위해 필요한 특정 학습의 기초를 습득합니다.\n\n이것은 (1) 원인과 결과 관계를 인식하는 능력과 성향을 포함하고 있으며, (2) 비유와 일반화를 할 때 비공식적 논리를 사용하는 능력, (3) 자신의 감정을 인식하고 통제하는 능력, (4) 다른 사람들을 공감하는 능력, (5) 이야기를 구성하기 위해 상상력을 사용하는 능력, 그리고 (6) 추상적 사고를 한다.\n\n청소년 들 은 (7) 가설적 으로 생각 하고 (8) 읽거나 보는 것, 듣는 것 을 비판적 으로 반영 하는 것 을 배울 수 있다.\n\n성인이 되면, 학습자가 새로운 주제 내용을 이해하는 데 도움을 주기 위해 이 기초를 강화하고 구축하는 것이 목표가 되지만, 이를 수행하는 과정에서 (1) 다른 사람의 가정과 자신의 신념, 가치, 판단, 감정에 지배하는 가정을 평가하는 데 더 의식적이고 비판적이게 되는 것; (2) 참조와 패러다임 (공동적 참조 프레임) 을 인식하고 더 잘 인식하고 대안을 상상할 수 있는 것; 그리고 (3) 다른 사람들과 협력하는 데 더 책임적이고 효과적인 것\n\n공동으로 이유를 평가하고 문제를 제기하고 해결하고 논쟁의 여지가 있는 신념에 대한 임시 최고의 판단에 도달합니다.\n\n다른 사람들의 가정에 대해 비판적으로 반영하는 것이 효과적인 협력적 문제 제기 및 해결에 필수적입니다.\n\n자신의 가정들을 비판적으로 반영하는 것은 변화에 적응하기 위한 학습의 필수적인 차원인, 받아들여진 참조 틀을 변화시키는 열쇠입니다.\n\n변형 학습을 위한 교육 성인 교육자는 변형 학습이 객관적 또는 주관적 재편을 포함하는 여러 형태를 취할 수 있음을 이해해야합니다.\n\n변형 학습",
+      "status": "translated",
+      "sourceTextSha256": "0e3ac80f151aee924410d98d32b5ab51339f6b04a0a10be584d4f59bd145d2b1",
+      "segments": [
+        {
+          "source": "9 TRANSFORMATIVE LEARNING: THEORY TO PRACTICE Autonomy here refers to the understanding, skills, and disposition necessary to become critically reflective of one’s own assumptions and to engage effectively in discourse to validate one’s beliefs through the experiences of others who share universal values.",
+          "translation": "9 변형적 인 학습: 이론 을 실천 하기 위한 자율성 은 여기서 자기 의 가정 을 비판적 으로 반영 하기 위해 필요 한 이해, 기술, 그리고 성향 을 가리키는 것 이며, 보편적 가치 를 공유 하는 다른 사람 들 의 경험 을 통해 자기 의 신념 을 검증 하기 위한 대화 에 효과적으로 참여 하는 것 이다."
+        },
+        {
+          "source": "Transformation theory holds that moral values are legitimized by agreement through discourse.",
+          "translation": "변혁 이론은 도덕적 가치는 대화에 의해 합의에 의해 합법화된다는 것을 주장합니다."
+        },
+        {
+          "source": "The universality of such values as truth, justice, and freedom is based on the claim that they have been found to result in more beneficial action than their alternatives.",
+          "translation": "진실, 정의, 자유와 같은 가치의 보편성은 그 가치의 대안보다 더 유익한 행동으로 이어지는 것으로 밝혀진 주장에 기초한다."
+        },
+        {
+          "source": "The Declaration of Human Rights by the United Nations attests to this.",
+          "translation": "국제 연합 의 인권 선언 은 이것 을 증명 한다."
+        },
+        {
+          "source": "The claim is that if everyone could participate in a discourse, under the ideal conditions of discourse, there would be a universal rational consensus concerning these values.",
+          "translation": "이 주장은 모든 사람이 연설에 참여할 수 있다면, 연설의 이상적인 조건에서, 이러한 가치에 대한 보편적 합리적 합의가 있을 것이라고 주장합니다."
+        },
+        {
+          "source": "There is an egregious assumption that the acquisition of knowledge or attainment of competencies will somehow automatically generate the understandings, skills, and dispositions involved in learning to think autonomously.",
+          "translation": "지식의 습득이나 능력의 획득은 어떤 식으로든 자율적으로 자율적으로 사고하는 법을 배우는 데 관련된 이해, 기술, 그리고 조율을 생성할 것이라는 엄청난 가정이 있습니다."
+        },
+        {
+          "source": "However, there are different processes of learning involved and different forms of appropriate educational intervention.",
+          "translation": "그러나 학습 과정과 적절한 교육 개입의 형태는 다르다."
+        },
+        {
+          "source": "Foundations Children commonly acquire a foundation of the specific learning required to think autonomously.",
+          "translation": "기초 어린이들은 일반적으로 자율적으로 생각하기 위해 필요한 특정 학습의 기초를 습득합니다."
+        },
+        {
+          "source": "This includes the ability and disposition to (1) recognize cause-effect relationships, (2) use informal logic in making analogies and generalizations, (3) become aware of and control their own emotions, (4) become empathic of others, (5) use imagination to construct narratives, and (6) think abstractly.",
+          "translation": "이것은 (1) 원인과 결과 관계를 인식하는 능력과 성향을 포함하고 있으며, (2) 비유와 일반화를 할 때 비공식적 논리를 사용하는 능력, (3) 자신의 감정을 인식하고 통제하는 능력, (4) 다른 사람들을 공감하는 능력, (5) 이야기를 구성하기 위해 상상력을 사용하는 능력, 그리고 (6) 추상적 사고를 한다."
+        },
+        {
+          "source": "Adolescents may learn to (7) think hypothetically, and (8) become critically reflective of what they read, see, and hear.",
+          "translation": "청소년 들 은 (7) 가설적 으로 생각 하고 (8) 읽거나 보는 것, 듣는 것 을 비판적 으로 반영 하는 것 을 배울 수 있다."
+        },
+        {
+          "source": "In adulthood, the task is to strengthen and build on this foundation in order to assist the learner to understand new subject content, but, in the process of doing so, to become (1) more aware and critical in assessing assumptions—both those of others and those governing one’s own beliefs, values, judgments, and feelings; (2) more aware of and better able to recognize frames of reference and paradigms (collective frames of reference) and to imagine alternatives; and (3) more responsible and effective at working with others to",
+          "translation": "성인이 되면, 학습자가 새로운 주제 내용을 이해하는 데 도움을 주기 위해 이 기초를 강화하고 구축하는 것이 목표가 되지만, 이를 수행하는 과정에서 (1) 다른 사람의 가정과 자신의 신념, 가치, 판단, 감정에 지배하는 가정을 평가하는 데 더 의식적이고 비판적이게 되는 것; (2) 참조와 패러다임 (공동적 참조 프레임) 을 인식하고 더 잘 인식하고 대안을 상상할 수 있는 것; 그리고 (3) 다른 사람들과 협력하는 데 더 책임적이고 효과적인 것"
+        },
+        {
+          "source": "collectively assess reasons, pose and solve problems, and arrive at a tentative best judgment regarding contested beliefs.",
+          "translation": "공동으로 이유를 평가하고 문제를 제기하고 해결하고 논쟁의 여지가 있는 신념에 대한 임시 최고의 판단에 도달합니다."
+        },
+        {
+          "source": "Becoming critically reflective of the assumptions of others is fundamental to effective collaborative problem posing and solving.",
+          "translation": "다른 사람들의 가정에 대해 비판적으로 반영하는 것이 효과적인 협력적 문제 제기 및 해결에 필수적입니다."
+        },
+        {
+          "source": "Becoming critically reflective of one’s own assumptions is the key to transforming one’s taken-forgranted frame of reference, an indispensable dimension of learning for adapting to change.",
+          "translation": "자신의 가정들을 비판적으로 반영하는 것은 변화에 적응하기 위한 학습의 필수적인 차원인, 받아들여진 참조 틀을 변화시키는 열쇠입니다."
+        },
+        {
+          "source": "Education for Transformative Learning Adult educators need to understand that transformative learning can take several forms involving either objective or subjective reframing.",
+          "translation": "변형 학습을 위한 교육 성인 교육자는 변형 학습이 객관적 또는 주관적 재편을 포함하는 여러 형태를 취할 수 있음을 이해해야합니다."
+        },
+        {
+          "source": "Transformative learning",
+          "translation": "변형 학습"
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 6,
+      "sourceText": "10\nTRANSFORMATIVE LEARNING IN ACTION\nis rooted in the way human beings communicate and is a common learning\nexperience not exclusively concerned with significant personal transformations.\nTo facilitate transformative learning, educators must help learners become\naware and critical of their own and others’ assumptions. Learners need practice\nin recognizing frames of reference and using their imaginations to redefine problems from a different perspective. Finally, learners need to be assisted to participate effectively in discourse. Discourse is necessary to validate what and how\none understands, or to arrive at a best judgment regarding a belief. In this sense,\nlearning is a social process, and discourse becomes central to making meaning.\nEffective discourse depends on how well the educator can create a situation in which those participating have full information; are free from coercion;\nhave equal opportunity to assume the various roles of discourse (to advance\nbeliefs, challenge, defend, explain, assess evidence, and judge arguments);\nbecome critically reflective of assumptions; are empathic and open to other\nperspectives; are willing to listen and to search for common ground or a synthesis of different points of view; and can make a tentative best judgment to\nguide action. These ideal conditions of discourse are also ideal conditions of\nadult learning and of education.\nTransformative learning requires a form of education very different from\nthat commonly associated with children. New information is only a resource\nin the adult learning process. To become meaningful, learning requires that\nnew information be incorporated by the learner into an already well-developed\nsymbolic frame of reference, an active process involving thought, feelings, and\ndisposition. The learner may also have to be helped to transform his or her\nframe of reference to fully understand the experience.\nEducators must assume responsibility for setting objectives that explicitly\ninclude autonomous thinking and recognize that this requires experiences\ndesigned to foster critical reflectivity and experience in discourse.\nEducation that fosters critically reflective thought, imaginative problem\nposing, and discourse is learner-centered, participatory, and interactive, and it\ninvolves group deliberation and group problem solving. Instructional materials reflect the real-life experiences of the learners and are designed to foster\nparticipation in small-group discussion to assess reasons, examine evidence,\nand arrive at a reflective judgment. Learning takes place through discovery and\nthe imaginative use of metaphors to solve and redefine problems.\nTo promote discovery learning, the educator often reframes learner questions in terms of the learner’s current level of understanding. Learning contracts, group projects, role play, case studies, and simulations are classroom\nmethods associated with transformative education. The key idea is to help the\nlearners actively engage the concepts presented in the context of their own\nlives and collectively critically assess the justification of new knowledge.\nTogether, learners undertake action research projects. They are frequently challenged to identify and examine assumptions, including their own.\nMethods that have been found useful include critical incidents, metaphor\nanalysis, concept mapping, consciousness raising, life histories, repertory\ngrids, and participation in social action (Mezirow and Associates, 1990).",
+      "translationText": "10 행동 으로 변화 시키는 학습 은 인간 의 의사 소통 방식 에 뿌리를 두고 있으며, 이는 비단 의미 있는 개인적 변화 에 관한 일반적 인 학습 경험 이다.\n\n변형적인 학습을 촉진하기 위해, 교육자는 학습자가 자신의 가정과 다른 사람들의 가정에 대해 인식하고 비판적으로 이해하도록 도와야 합니다.\n\n학습자들은 다른 관점에서 문제를 재정립하기 위해 참조 프레임워크를 인식하고 상상력을 사용하는 연습이 필요합니다.\n\n마지막으로, 학습자가 연설에 효과적으로 참여할 수 있도록 도움을 받아야 합니다.\n\n대화는 어떤 것을 어떻게 이해하고 있는지 확인하거나 어떤 신념에 대한 최선의 판단에 도달하기 위해 필요합니다.\n\n이런 의미에서 학습은 사회적 과정이고, 연설은 의미를 만드는 핵심이 됩니다.\n\n효과적인 담론은 교육자가 참여자들이 완전한 정보를 가지고 있는 상황을 얼마나 잘 만들 수 있는지에 달려 있습니다. 강압으로부터 자유로워지고 있습니다. 다양한 담론의 역할을 수행할 수 있는 동등한 기회를 가질 수 있습니다. (믿음, 도전, 방어, 설명, 증거 평가 및 주장을 판단하기 위해); 가정에 대해 비판적으로 반영 할 수 있습니다.\n\n이 이상적인 대화 조건은 또한 성인 교육과 교육의 이상적인 조건입니다.\n\n전환학습은 어린이들과 일반적으로 연관된 교육과는 매우 다른 형태의 교육을 필요로 합니다.\n\n새로운 정보는 성인 학습 과정의 자원일 뿐이다.\n\n의미 있는 학습이 되기 위해서는 학습자가 이미 잘 발달한 상징적 참조 틀에 새로운 정보를 포함시켜야 하며, 생각, 감정, 그리고 성향을 포함하는 활동적인 과정이 필요합니다.\n\n또한 학습자 는 경험 을 완전히 이해 하기 위해 자기 의 참조 체계를 변화 시키기 위해 도움 을 받아야 할 수도 있다.\n\n교육자는 자율적인 사고를 명시적으로 포함하는 목표를 설정하는 책임을 져야 하며, 이는 비판적 반성력과 대화에서의 경험을 촉진하기 위해 설계된 경험을 필요로 한다는 것을 인식해야 한다.\n\n비판적으로 반영된 사고, 상상력 있는 문제 제기, 그리고 담론을 촉진하는 교육은 학습자 중심, 참여적이고 상호작용적이며, 집단 심의와 집단 문제 해결을 포함합니다.\n\n교육 자료는 학습자의 실생활 경험을 반영하고, 이유를 평가하고 증거를 조사하고 반영된 판단에 도달하기 위해 소규모 토론에 참여하도록 설계되었습니다.\n\n학습은 발견과 문제들을 해결하고 재정립하기 위해 비유를 상상력 있게 사용함으로써 이루어집니다.\n\n발견 학습을 촉진하기 위해, 교육자는 종종 학습자의 현재의 이해 수준에 따라 학습자의 질문을 재구성합니다.\n\n학습 계약, 그룹 프로젝트, 역할 플레이, 사례 연구 및 시뮬레이션은 변혁적 교육과 관련된 수업 방법입니다.\n\n핵심 아이디어는 학습자가 자신의 삶의 맥락에서 제시된 개념을 적극적으로 참여하도록 돕고 새로운 지식의 정당성을 집단적으로 비판적으로 평가하는 것입니다.\n\n학습자들은 함께 행동 연구 프로젝트를 수행합니다.\n\n그들은 종종 자신의 가설을 포함하여 가설을 식별하고 조사하는 데 도전됩니다.\n\n유용하게 발견된 방법은 비판적인 사건, 은유 분석, 개념 지도, 의식 인증, 삶의 역사, 레퍼토리 네트워크 및 사회적 행동 참여 (Mezirow and Associates, 1990).",
+      "status": "translated",
+      "sourceTextSha256": "4bc97c008b9fbebe08ce9ed9adafdab8769435d13f2f7f5aa8c02bc6cd01ae1b",
+      "segments": [
+        {
+          "source": "10 TRANSFORMATIVE LEARNING IN ACTION is rooted in the way human beings communicate and is a common learning experience not exclusively concerned with significant personal transformations.",
+          "translation": "10 행동 으로 변화 시키는 학습 은 인간 의 의사 소통 방식 에 뿌리를 두고 있으며, 이는 비단 의미 있는 개인적 변화 에 관한 일반적 인 학습 경험 이다."
+        },
+        {
+          "source": "To facilitate transformative learning, educators must help learners become aware and critical of their own and others’ assumptions.",
+          "translation": "변형적인 학습을 촉진하기 위해, 교육자는 학습자가 자신의 가정과 다른 사람들의 가정에 대해 인식하고 비판적으로 이해하도록 도와야 합니다."
+        },
+        {
+          "source": "Learners need practice in recognizing frames of reference and using their imaginations to redefine problems from a different perspective.",
+          "translation": "학습자들은 다른 관점에서 문제를 재정립하기 위해 참조 프레임워크를 인식하고 상상력을 사용하는 연습이 필요합니다."
+        },
+        {
+          "source": "Finally, learners need to be assisted to participate effectively in discourse.",
+          "translation": "마지막으로, 학습자가 연설에 효과적으로 참여할 수 있도록 도움을 받아야 합니다."
+        },
+        {
+          "source": "Discourse is necessary to validate what and how one understands, or to arrive at a best judgment regarding a belief.",
+          "translation": "대화는 어떤 것을 어떻게 이해하고 있는지 확인하거나 어떤 신념에 대한 최선의 판단에 도달하기 위해 필요합니다."
+        },
+        {
+          "source": "In this sense, learning is a social process, and discourse becomes central to making meaning.",
+          "translation": "이런 의미에서 학습은 사회적 과정이고, 연설은 의미를 만드는 핵심이 됩니다."
+        },
+        {
+          "source": "Effective discourse depends on how well the educator can create a situation in which those participating have full information; are free from coercion; have equal opportunity to assume the various roles of discourse (to advance beliefs, challenge, defend, explain, assess evidence, and judge arguments); become critically reflective of assumptions; are empathic and open to other perspectives; are willing to listen and to search for common ground or a synthesis of different points of view; and can make a tentative best judgment to guide action.",
+          "translation": "효과적인 담론은 교육자가 참여자들이 완전한 정보를 가지고 있는 상황을 얼마나 잘 만들 수 있는지에 달려 있습니다. 강압으로부터 자유로워지고 있습니다. 다양한 담론의 역할을 수행할 수 있는 동등한 기회를 가질 수 있습니다. (믿음, 도전, 방어, 설명, 증거 평가 및 주장을 판단하기 위해); 가정에 대해 비판적으로 반영 할 수 있습니다."
+        },
+        {
+          "source": "These ideal conditions of discourse are also ideal conditions of adult learning and of education.",
+          "translation": "이 이상적인 대화 조건은 또한 성인 교육과 교육의 이상적인 조건입니다."
+        },
+        {
+          "source": "Transformative learning requires a form of education very different from that commonly associated with children.",
+          "translation": "전환학습은 어린이들과 일반적으로 연관된 교육과는 매우 다른 형태의 교육을 필요로 합니다."
+        },
+        {
+          "source": "New information is only a resource in the adult learning process.",
+          "translation": "새로운 정보는 성인 학습 과정의 자원일 뿐이다."
+        },
+        {
+          "source": "To become meaningful, learning requires that new information be incorporated by the learner into an already well-developed symbolic frame of reference, an active process involving thought, feelings, and disposition.",
+          "translation": "의미 있는 학습이 되기 위해서는 학습자가 이미 잘 발달한 상징적 참조 틀에 새로운 정보를 포함시켜야 하며, 생각, 감정, 그리고 성향을 포함하는 활동적인 과정이 필요합니다."
+        },
+        {
+          "source": "The learner may also have to be helped to transform his or her frame of reference to fully understand the experience.",
+          "translation": "또한 학습자 는 경험 을 완전히 이해 하기 위해 자기 의 참조 체계를 변화 시키기 위해 도움 을 받아야 할 수도 있다."
+        },
+        {
+          "source": "Educators must assume responsibility for setting objectives that explicitly include autonomous thinking and recognize that this requires experiences designed to foster critical reflectivity and experience in discourse.",
+          "translation": "교육자는 자율적인 사고를 명시적으로 포함하는 목표를 설정하는 책임을 져야 하며, 이는 비판적 반성력과 대화에서의 경험을 촉진하기 위해 설계된 경험을 필요로 한다는 것을 인식해야 한다."
+        },
+        {
+          "source": "Education that fosters critically reflective thought, imaginative problem posing, and discourse is learner-centered, participatory, and interactive, and it involves group deliberation and group problem solving.",
+          "translation": "비판적으로 반영된 사고, 상상력 있는 문제 제기, 그리고 담론을 촉진하는 교육은 학습자 중심, 참여적이고 상호작용적이며, 집단 심의와 집단 문제 해결을 포함합니다."
+        },
+        {
+          "source": "Instructional materials reflect the real-life experiences of the learners and are designed to foster participation in small-group discussion to assess reasons, examine evidence, and arrive at a reflective judgment.",
+          "translation": "교육 자료는 학습자의 실생활 경험을 반영하고, 이유를 평가하고 증거를 조사하고 반영된 판단에 도달하기 위해 소규모 토론에 참여하도록 설계되었습니다."
+        },
+        {
+          "source": "Learning takes place through discovery and the imaginative use of metaphors to solve and redefine problems.",
+          "translation": "학습은 발견과 문제들을 해결하고 재정립하기 위해 비유를 상상력 있게 사용함으로써 이루어집니다."
+        },
+        {
+          "source": "To promote discovery learning, the educator often reframes learner questions in terms of the learner’s current level of understanding.",
+          "translation": "발견 학습을 촉진하기 위해, 교육자는 종종 학습자의 현재의 이해 수준에 따라 학습자의 질문을 재구성합니다."
+        },
+        {
+          "source": "Learning contracts, group projects, role play, case studies, and simulations are classroom methods associated with transformative education.",
+          "translation": "학습 계약, 그룹 프로젝트, 역할 플레이, 사례 연구 및 시뮬레이션은 변혁적 교육과 관련된 수업 방법입니다."
+        },
+        {
+          "source": "The key idea is to help the learners actively engage the concepts presented in the context of their own lives and collectively critically assess the justification of new knowledge.",
+          "translation": "핵심 아이디어는 학습자가 자신의 삶의 맥락에서 제시된 개념을 적극적으로 참여하도록 돕고 새로운 지식의 정당성을 집단적으로 비판적으로 평가하는 것입니다."
+        },
+        {
+          "source": "Together, learners undertake action research projects.",
+          "translation": "학습자들은 함께 행동 연구 프로젝트를 수행합니다."
+        },
+        {
+          "source": "They are frequently challenged to identify and examine assumptions, including their own.",
+          "translation": "그들은 종종 자신의 가설을 포함하여 가설을 식별하고 조사하는 데 도전됩니다."
+        },
+        {
+          "source": "Methods that have been found useful include critical incidents, metaphor analysis, concept mapping, consciousness raising, life histories, repertory grids, and participation in social action (Mezirow and Associates, 1990).",
+          "translation": "유용하게 발견된 방법은 비판적인 사건, 은유 분석, 개념 지도, 의식 인증, 삶의 역사, 레퍼토리 네트워크 및 사회적 행동 참여 (Mezirow and Associates, 1990)."
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 7,
+      "sourceText": "11\nTRANSFORMATIVE LEARNING: THEORY TO PRACTICE\nThese methods encourage critical reflection and experience in discourse. The\nfocus is on discovering the context of ideas and the belief systems that shape\nthe way we think about their sources, nature, and consequences, and on\nimagining alternative perspectives.\nIn fostering self-direction, the emphasis is on creating an environment in\nwhich learners become increasingly adept at learning from each other and at\nhelping each other learn in problem-solving groups. The educator functions\nas a facilitator and provocateur rather than as an authority on subject matter.\nThe facilitator encourages learners to create norms that accept order, justice,\nand civility in the classroom and respect and responsibility for helping each\nother learn; to welcome diversity; to foster peer collaboration; and to provide\nequal opportunity for participation. The facilitator models the critically reflective role expected of learners. Ideally, the facilitator works herself out of the\njob of authority figure to become a colearner by progressively transferring her\nleadership to the group as it becomes more self-directive. These are familiar\nconcepts in adult education.\nTransformative learning is not an add-on. It is the essence of adult education. With this premise in mind, it becomes clear that the goal of adult education is implied by the nature of adult learning and communication: to help\nthe individual become a more autonomous thinker by learning to negotiate his\nor her own values, meanings, and purposes rather than to uncritically act on\nthose of others. This goal cannot be taken for granted; educational interventions are necessary to ensure that the learner acquires the understandings,\nskills, and dispositions essential for transformative learning. Critical reflection,\nawareness of frames of reference, and participation in discourse become significant elements in defining learning needs, setting educational objectives,\ndesigning materials and methods, and in evaluating learner growth using nontraditional methods such as portfolios.\nConclusion\nFrom the perspective of transformation theory, the nature of adult learning\nimplies a set of ideal conditions for its full realization that may serve as standards for judging both the quality of adult education and the sociopolitical\nconditions that facilitate or impede learning. From the perspective of transformation theory, there are ideal conditions for the full realization of adult\nlearning; these conditions can serve as standards for judging both the quality\nof adult education and the sociopolitical conditions that facilitate or impede\nlearning. The position here is that there is an inherent logic, ideal, and purpose in the process of transformative learning. The process involves transforming frames of reference through critical reflection of assumptions,\nvalidating contested beliefs through discourse, taking action on one’s reflective insight, and critically assessing it. This understanding of the nature of significant adult learning provides the educator with a rationale for selecting\nappropriate educational practices and actively resisting social and cultural\nforces that distort and delimit adult learning.",
+      "translationText": "11 변형적 인 학습: 이론 을 실천 하는 방법\n\n아이디어와 신념 체계의 맥락을 발견하고 그 원천, 자연 및 결과에 대해 생각하는 방식을 형성하고 대안적 관점을 상상하는 데 초점을 맞추고 있습니다.\n\n자율주행을 촉진하는 데 있어서, 학습자들이 서로 배울 수 있는 환경을 만들고 문제 해결 그룹에서 서로 배울 수 있도록 돕는 데 중점을 둔다.\n\n교육자는 주제에 대한 권위자로서가 아니라 촉진자와 도발자로 기능한다.\n\n촉진자는 학습자들이 교실에서 질서와 정의와 문명성을 인정하고 서로를 돕는 존중과 책임을 인정하는 규범을 만들도록 격려하고, 다양성을 환영하고, 동료 협력을 촉진하고, 참여에 동등한 기회를 제공하도록 한다.\n\n촉진자는 학습자들에 의해 기대되는 비판적으로 반영된 역할을 모델링한다.\n\n이상적으로, 촉진자는 자신의 리더십을 점점 더 자기 주도적인 그룹으로 옮기면서 동료 학습자가 되기 위해 권위있는 인물의 직무를 스스로 수행합니다.\n\n이것은 성인 교육에 익숙한 개념입니다.\n\n전환학습은 추가적인 것이 아닙니다.\n\n그것은 성인 교육의 본질입니다.\n\n이러한 전제를 염두에 두고, 성인 교육의 목표는 성인 교육과 의사소통의 본질에 의해 함유되어 있다는 것은 분명합니다. 개인이 자신의 가치, 의미 및 목적을 협상하는 것을 배우는 것이 아니라 타인의 가치에 대해 비평적으로 행동하는 것을 배우는 것으로 더 자율적인 사고자가 될 수 있도록 돕는 것입니다.\n\n이러한 목표는 당연한 것으로 받아들일 수 없습니다. 교육적 개입은 학습자가 전환학습에 필수적인 이해, 기술 및 조율을 습득할 수 있도록 해야 합니다.\n\n비판적인 성찰, 참조 프레임에 대한 인식, 그리고 연설에 참여는 학습 욕구를 정의하고 교육 목표를 설정하고, 자료와 방법을 설계하고, 포트폴리오와 같은 비전통적인 방법을 사용하여 학습자의 성장을 평가하는 중요한 요소가 됩니다.\n\n결론 변환 이론의 관점에서, 성인 학습의 본질은 성인 교육의 질과 학습을 촉진하거나 방해하는 사회정치적 조건을 판단하는 기준으로 작용할 수 있는 완전한 실현을 위한 이상적인 조건의 집합을 의미한다.\n\n변혁 이론의 관점에서 성인 교육의 완전한 실현을 위한 이상적인 조건이 있다. 이러한 조건은 성인 교육의 질과 학습을 촉진하거나 방해하는 사회정치적 조건을 판단하는 기준으로 작용할 수 있다.\n\n여기서의 입장은 전환학습 과정에 본질적인 논리, 이상, 그리고 목적이 있다는 것입니다.\n\n이 과정은 가정의 비판적 반영을 통해 참조 프레임을 변화시키고, 논쟁의 신념을 담론을 통해 검증하고, 반영적 인 통찰에 대한 조치를 취하고, 비판적으로 평가하는 것을 포함한다.\n\n중요한 성인 학습의 본질에 대한 이러한 이해는 교육자에게 적절한 교육 관습을 선택하고 성인 학습을 왜곡하고 제한하는 사회적 및 문화적 힘을 적극적으로 저항할 수 있는 합리적인 근거를 제공합니다.",
+      "status": "translated",
+      "sourceTextSha256": "57c251bf590ca31468f262303aae7206b85246cb4ff69ee18f5c4abf08552029",
+      "segments": [
+        {
+          "source": "11 TRANSFORMATIVE LEARNING: THEORY TO PRACTICE These methods encourage critical reflection and experience in discourse.",
+          "translation": "11 변형적 인 학습: 이론 을 실천 하는 방법"
+        },
+        {
+          "source": "The focus is on discovering the context of ideas and the belief systems that shape the way we think about their sources, nature, and consequences, and on imagining alternative perspectives.",
+          "translation": "아이디어와 신념 체계의 맥락을 발견하고 그 원천, 자연 및 결과에 대해 생각하는 방식을 형성하고 대안적 관점을 상상하는 데 초점을 맞추고 있습니다."
+        },
+        {
+          "source": "In fostering self-direction, the emphasis is on creating an environment in which learners become increasingly adept at learning from each other and at helping each other learn in problem-solving groups.",
+          "translation": "자율주행을 촉진하는 데 있어서, 학습자들이 서로 배울 수 있는 환경을 만들고 문제 해결 그룹에서 서로 배울 수 있도록 돕는 데 중점을 둔다."
+        },
+        {
+          "source": "The educator functions as a facilitator and provocateur rather than as an authority on subject matter.",
+          "translation": "교육자는 주제에 대한 권위자로서가 아니라 촉진자와 도발자로 기능한다."
+        },
+        {
+          "source": "The facilitator encourages learners to create norms that accept order, justice, and civility in the classroom and respect and responsibility for helping each other learn; to welcome diversity; to foster peer collaboration; and to provide equal opportunity for participation.",
+          "translation": "촉진자는 학습자들이 교실에서 질서와 정의와 문명성을 인정하고 서로를 돕는 존중과 책임을 인정하는 규범을 만들도록 격려하고, 다양성을 환영하고, 동료 협력을 촉진하고, 참여에 동등한 기회를 제공하도록 한다."
+        },
+        {
+          "source": "The facilitator models the critically reflective role expected of learners.",
+          "translation": "촉진자는 학습자들에 의해 기대되는 비판적으로 반영된 역할을 모델링한다."
+        },
+        {
+          "source": "Ideally, the facilitator works herself out of the job of authority figure to become a colearner by progressively transferring her leadership to the group as it becomes more self-directive.",
+          "translation": "이상적으로, 촉진자는 자신의 리더십을 점점 더 자기 주도적인 그룹으로 옮기면서 동료 학습자가 되기 위해 권위있는 인물의 직무를 스스로 수행합니다."
+        },
+        {
+          "source": "These are familiar concepts in adult education.",
+          "translation": "이것은 성인 교육에 익숙한 개념입니다."
+        },
+        {
+          "source": "Transformative learning is not an add-on.",
+          "translation": "전환학습은 추가적인 것이 아닙니다."
+        },
+        {
+          "source": "It is the essence of adult education.",
+          "translation": "그것은 성인 교육의 본질입니다."
+        },
+        {
+          "source": "With this premise in mind, it becomes clear that the goal of adult education is implied by the nature of adult learning and communication: to help the individual become a more autonomous thinker by learning to negotiate his or her own values, meanings, and purposes rather than to uncritically act on those of others.",
+          "translation": "이러한 전제를 염두에 두고, 성인 교육의 목표는 성인 교육과 의사소통의 본질에 의해 함유되어 있다는 것은 분명합니다. 개인이 자신의 가치, 의미 및 목적을 협상하는 것을 배우는 것이 아니라 타인의 가치에 대해 비평적으로 행동하는 것을 배우는 것으로 더 자율적인 사고자가 될 수 있도록 돕는 것입니다."
+        },
+        {
+          "source": "This goal cannot be taken for granted; educational interventions are necessary to ensure that the learner acquires the understandings, skills, and dispositions essential for transformative learning.",
+          "translation": "이러한 목표는 당연한 것으로 받아들일 수 없습니다. 교육적 개입은 학습자가 전환학습에 필수적인 이해, 기술 및 조율을 습득할 수 있도록 해야 합니다."
+        },
+        {
+          "source": "Critical reflection, awareness of frames of reference, and participation in discourse become significant elements in defining learning needs, setting educational objectives, designing materials and methods, and in evaluating learner growth using nontraditional methods such as portfolios.",
+          "translation": "비판적인 성찰, 참조 프레임에 대한 인식, 그리고 연설에 참여는 학습 욕구를 정의하고 교육 목표를 설정하고, 자료와 방법을 설계하고, 포트폴리오와 같은 비전통적인 방법을 사용하여 학습자의 성장을 평가하는 중요한 요소가 됩니다."
+        },
+        {
+          "source": "Conclusion From the perspective of transformation theory, the nature of adult learning implies a set of ideal conditions for its full realization that may serve as standards for judging both the quality of adult education and the sociopolitical conditions that facilitate or impede learning.",
+          "translation": "결론 변환 이론의 관점에서, 성인 학습의 본질은 성인 교육의 질과 학습을 촉진하거나 방해하는 사회정치적 조건을 판단하는 기준으로 작용할 수 있는 완전한 실현을 위한 이상적인 조건의 집합을 의미한다."
+        },
+        {
+          "source": "From the perspective of transformation theory, there are ideal conditions for the full realization of adult learning; these conditions can serve as standards for judging both the quality of adult education and the sociopolitical conditions that facilitate or impede learning.",
+          "translation": "변혁 이론의 관점에서 성인 교육의 완전한 실현을 위한 이상적인 조건이 있다. 이러한 조건은 성인 교육의 질과 학습을 촉진하거나 방해하는 사회정치적 조건을 판단하는 기준으로 작용할 수 있다."
+        },
+        {
+          "source": "The position here is that there is an inherent logic, ideal, and purpose in the process of transformative learning.",
+          "translation": "여기서의 입장은 전환학습 과정에 본질적인 논리, 이상, 그리고 목적이 있다는 것입니다."
+        },
+        {
+          "source": "The process involves transforming frames of reference through critical reflection of assumptions, validating contested beliefs through discourse, taking action on one’s reflective insight, and critically assessing it.",
+          "translation": "이 과정은 가정의 비판적 반영을 통해 참조 프레임을 변화시키고, 논쟁의 신념을 담론을 통해 검증하고, 반영적 인 통찰에 대한 조치를 취하고, 비판적으로 평가하는 것을 포함한다."
+        },
+        {
+          "source": "This understanding of the nature of significant adult learning provides the educator with a rationale for selecting appropriate educational practices and actively resisting social and cultural forces that distort and delimit adult learning.",
+          "translation": "중요한 성인 학습의 본질에 대한 이러한 이해는 교육자에게 적절한 교육 관습을 선택하고 성인 학습을 왜곡하고 제한하는 사회적 및 문화적 힘을 적극적으로 저항할 수 있는 합리적인 근거를 제공합니다."
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 8,
+      "sourceText": "12\nTRANSFORMATIVE LEARNING IN ACTION\nReferences\nCranton, P. Understanding and Promoting Transformative Learning: A Guide for Educators of\nAdults. San Francisco: Jossey-Bass, 1994.\nCranton, P. Professional Development as Transformative Learning: New Perspectives for Teachers of Adults. San Francisco: Jossey-Bass, 1996.\nGonzi, A., and others. Key Competencies in On the Job Training. Sydney: University of Technology and Science and Department of Industrial Relations, Employment and Training,\n1995.\nHabermas, J. The Theory of Communicative Action. Vol. 1: Reason and the Realization of Society. Boston: Beacon Press, 1981.\nMezirow, J. Transformative Dimensions of Adult Learning. San Francisco: Jossey-Bass, 1991.\nMezirow, J. “Transformative Theory of Adult Learning.” In M. Welton (ed.), In Defense of\nthe Lifeworld. Albany: State University of New York Press, 1995.\nMezirow, J. “Contemporary Paradigms of Learning.” Adult Education Quarterly, 1996, 46 (3),\n158–172.\nMezirow, J., and Associates (eds.). Fostering Critical Reflection in Adulthood. San Francisco:\nJossey-Bass, 1990.\nStein, S. Equipped for the Future: A Customer Driven Vision for Adult Literacy and Lifelong\nLearning. Washington, D.C.: National Institute for Literacy, 1995.\nU.S. Department of Labor. What Work Requires of Schools: A SCANS Report for America 2000.\nWashington, D.C.: U.S. Government Printing Office, 1991.\nJACK MEZIROW is emeritus professor of adult education, Teachers College, Columbia\nUniversity.",
+      "translationText": "12 트랜스포메이티브 러닝 인 액션 참조 크랜턴, P. 트랜스프로메이티브러닝을 이해하고 촉진하는 것: 성인 교육자 가이드\n\n샌프란시스코: 조시-바스, 1994\n\n크랜턴, P. 트랜스포메이션 학습으로서의 전문 개발: 성인 교사들에 대한 새로운 전망\n\n샌프란시스코: jossey-bass, 1996\n\n곤지, 에이 등\n\n직업 교육에 관한 주요 역량\n\n시드니: 기술과 과학 대학교 및 산업 관계, 고용 및 교육 학부, 1995.\n\n하버마스, J. 커뮤니케이션 행동 이론\n\n부.\n\n1: 사유와 사회 실현.\n\n보스턴: 비콘 프레스, 1981\n\nMezirow, J. 성인 학습의 변혁적 차원\n\n샌프란시스코: 조시-바스, 1991\n\n메지로, J.  성인 학습의 변형 이론.\n\nM. Welton (편집) 에서, 생명세계의 방어에서.\n\n알바니: 뉴욕 주립 대학 출판사, 1995년\n\n메지로, J. 학습의 현대적 패러다임\n\n성인 교육 쿼터리, 1996, 46 (3), 158172.\n\n메지로프, J., 및 협동자 (red.).\n\n성인 때 비판적 인 반성 을 도모 하는 것\n\n샌프란시스코: 조시-바스, 1990\n\n스태인, S. 미래를 위한 장비: 성인 문맹과 평생 학습에 대한 고객 중심의 비전.\n\n워싱턴, DC: 국립 문맹 연구소, 1995 년.\n\n미국 고용노동부\n\n학교가 해야 할 일: 미국 2000년 SCANS 보고서\n\n워싱턴 D.C.: 1991 년 미국 정부 인쇄국\n\n잭 메지로우는 컬럼비아 대학교 교사대학 성인교육의 명예교수입니다.",
+      "status": "translated",
+      "sourceTextSha256": "e561ffcda850573754dd180ff116f3ec197d37fe52dc678fc957c0e05e6c9ceb",
+      "segments": [
+        {
+          "source": "12 TRANSFORMATIVE LEARNING IN ACTION References Cranton, P. Understanding and Promoting Transformative Learning: A Guide for Educators of Adults.",
+          "translation": "12 트랜스포메이티브 러닝 인 액션 참조 크랜턴, P. 트랜스프로메이티브러닝을 이해하고 촉진하는 것: 성인 교육자 가이드"
+        },
+        {
+          "source": "San Francisco: Jossey-Bass, 1994.",
+          "translation": "샌프란시스코: 조시-바스, 1994"
+        },
+        {
+          "source": "Cranton, P. Professional Development as Transformative Learning: New Perspectives for Teachers of Adults.",
+          "translation": "크랜턴, P. 트랜스포메이션 학습으로서의 전문 개발: 성인 교사들에 대한 새로운 전망"
+        },
+        {
+          "source": "San Francisco: Jossey-Bass, 1996.",
+          "translation": "샌프란시스코: jossey-bass, 1996"
+        },
+        {
+          "source": "Gonzi, A., and others.",
+          "translation": "곤지, 에이 등"
+        },
+        {
+          "source": "Key Competencies in On the Job Training.",
+          "translation": "직업 교육에 관한 주요 역량"
+        },
+        {
+          "source": "Sydney: University of Technology and Science and Department of Industrial Relations, Employment and Training, 1995.",
+          "translation": "시드니: 기술과 과학 대학교 및 산업 관계, 고용 및 교육 학부, 1995."
+        },
+        {
+          "source": "Habermas, J. The Theory of Communicative Action.",
+          "translation": "하버마스, J. 커뮤니케이션 행동 이론"
+        },
+        {
+          "source": "Vol.",
+          "translation": "부."
+        },
+        {
+          "source": "1: Reason and the Realization of Society.",
+          "translation": "1: 사유와 사회 실현."
+        },
+        {
+          "source": "Boston: Beacon Press, 1981.",
+          "translation": "보스턴: 비콘 프레스, 1981"
+        },
+        {
+          "source": "Mezirow, J. Transformative Dimensions of Adult Learning.",
+          "translation": "Mezirow, J. 성인 학습의 변혁적 차원"
+        },
+        {
+          "source": "San Francisco: Jossey-Bass, 1991.",
+          "translation": "샌프란시스코: 조시-바스, 1991"
+        },
+        {
+          "source": "Mezirow, J. “Transformative Theory of Adult Learning.”",
+          "translation": "메지로, J.  성인 학습의 변형 이론."
+        },
+        {
+          "source": "In M. Welton (ed.), In Defense of the Lifeworld.",
+          "translation": "M. Welton (편집) 에서, 생명세계의 방어에서."
+        },
+        {
+          "source": "Albany: State University of New York Press, 1995.",
+          "translation": "알바니: 뉴욕 주립 대학 출판사, 1995년"
+        },
+        {
+          "source": "Mezirow, J. “Contemporary Paradigms of Learning.”",
+          "translation": "메지로, J. 학습의 현대적 패러다임"
+        },
+        {
+          "source": "Adult Education Quarterly, 1996, 46 (3), 158–172.",
+          "translation": "성인 교육 쿼터리, 1996, 46 (3), 158172."
+        },
+        {
+          "source": "Mezirow, J., and Associates (eds.).",
+          "translation": "메지로프, J., 및 협동자 (red.)."
+        },
+        {
+          "source": "Fostering Critical Reflection in Adulthood.",
+          "translation": "성인 때 비판적 인 반성 을 도모 하는 것"
+        },
+        {
+          "source": "San Francisco: Jossey-Bass, 1990.",
+          "translation": "샌프란시스코: 조시-바스, 1990"
+        },
+        {
+          "source": "Stein, S. Equipped for the Future: A Customer Driven Vision for Adult Literacy and Lifelong Learning.",
+          "translation": "스태인, S. 미래를 위한 장비: 성인 문맹과 평생 학습에 대한 고객 중심의 비전."
+        },
+        {
+          "source": "Washington, D.C.: National Institute for Literacy, 1995.",
+          "translation": "워싱턴, DC: 국립 문맹 연구소, 1995 년."
+        },
+        {
+          "source": "U.S. Department of Labor.",
+          "translation": "미국 고용노동부"
+        },
+        {
+          "source": "What Work Requires of Schools: A SCANS Report for America 2000.",
+          "translation": "학교가 해야 할 일: 미국 2000년 SCANS 보고서"
+        },
+        {
+          "source": "Washington, D.C.: U.S. Government Printing Office, 1991.",
+          "translation": "워싱턴 D.C.: 1991 년 미국 정부 인쇄국"
+        },
+        {
+          "source": "JACK MEZIROW is emeritus professor of adult education, Teachers College, Columbia University.",
+          "translation": "잭 메지로우는 컬럼비아 대학교 교사대학 성인교육의 명예교수입니다."
+        }
+      ],
+      "textQuality": "text"
+    }
+  ]
+}

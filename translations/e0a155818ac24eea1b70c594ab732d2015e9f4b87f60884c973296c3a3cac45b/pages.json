@@ -1,0 +1,1417 @@
+{
+  "referenceId": "ref-053",
+  "sourceId": "supplement-e0a155818ac24eea1b70",
+  "sourceSha256": "e0a155818ac24eea1b70c594ab732d2015e9f4b87f60884c973296c3a3cac45b",
+  "pageCount": 11,
+  "translationType": "machine",
+  "engine": "NLLB-200 distilled 600M / CTranslate2",
+  "modelRevision": "f8d333a098d19b4fd9a8b18f94170487ad3f821d",
+  "pages": [
+    {
+      "page": 1,
+      "sourceText": "Chapter 1\nA person in society\nOf course, everyone becomes a person in society: we cannot stop this. And, so, why write a book about learning to be a\nperson in society? Perhaps this is an obvious question, but the answer is much more difficult – it does not just happen by\nbirth or by chance; we actually learn to become the people we are. I learn to be me! You learn to be you! But we do not\njust learn to be us during our schooling. Learning is much broader than education – learning is a lifelong process and we\nare the result of our own learning. It is this that we are going to try to understand in this book. And, so, in this first\nchapter we are going to examine some of the fundamental concepts underlying this complex social process, and we will\nsee that this is both a psychological and a sociological study of learning, although it must necessarily incorporate\nphilosophical aspects since learning is, in one sense, a humanistic process. The approach of any one discipline to\nlearning is insufficient for our understanding of learning to be a person in society but we will rely very heavily on\npsychological studies, especially of early childhood.\nThis first chapter seeks to clarify the concepts and examine the implications of our thinking – it has three parts: the\nfirst part looks at the concept of the person, the second at society and the third at the person in society.\nPart 1: The concept of the person\nIn the contemporary world, one which has experienced the genetic revolution in the past quarter of a century, we do well\nto ask ‘What is the person?’, ‘What makes us human?’. It is incontrovertible that we human beings are members of the\nape family – DNA research has demonstrated just how much we are members of this family, and so the question is\n‘What makes us human?’. Are we only great apes (Dunbar, 2007)? Dunbar, amongst many others, argues that the\nfundamental difference is ‘the theory of mind’ – ‘the capacity to imagine another individual’s mind states’ (Dunbar,\n2007: 40). First-order intentionality is the term used to cover these mind states, and Dunbar (ibid.: 41) suggests that there\nis no evidence to suggest that any animals apart from chimpanzees (and perhaps other of the great apes) have a theory of\nmind. If they do so, he suggests that the level to which they have evolved is about the same level as children aged four or\nfive years. But human beings have more sophisticated levels of intentionality; the human mind, he suggests, has been in\nexistence for only about 200,000 years – a short time when we consider that our last common ancestor with the apes\nprobably lived about five and a half million years ago. This is a very similar position to that taken by Tomasello (1999:\n55), who writes:\nWe have at most only 6 million years, but more likely only one-quarter of a million years, to create uniquely human\ncognition, and this is simply not sufficient, under any plausible evolutionary scenario, for genetic variation and\nnatural selection to have created many different and independent uniquely human modules.\nTomasello (ibid.: 54) argues that human cultural inheritance rests on twin pillars:\nJarvis, Peter. Learning to Be a Person in Society, Taylor & Francis Group, 2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?docID=981931.\nCreated from snulibrary-ebooks on 2026-10-08 03:48:10.\nCopyright © 2009. Taylor & Francis Group. All rights reserved.\nEbook pages 14-29 | Printed page 1 of 11\n",
+      "translationText": "1장 사회에서 사람이 물론 모든 사람이 사회에서 사람이 됩니다. 우리는 이것을 막을 수 없습니다.\n\n그렇다면 왜 사회에서 사람이 되는 법을 배우는 책을 써야 할까요?\n\n어쩌면 이것은 명백한 질문일지도 모르지만 그 답은 훨씬 더 어렵습니다. 그것은 단지 태어날 때나 우연히 일어나는 것이 아니라 실제로 우리가 있는 사람이 되는 법을 배우는 것입니다.\n\n나로움을 배우게 됐어!\n\n자기 자신이 되는 법을 배워!\n\n하지만 우리는 학교를 다니면서 스스로가 되는 법을 배우지 않습니다.\n\n학습은 교육보다 훨씬 넓습니다. 학습은 평생 과정이며 우리는 우리 자신의 학습의 결과입니다.\n\n우리는 이 책에서 이해하려고 노력할 것입니다.\n\n그래서, 이 첫 번째 장에서 우리는 이 복잡한 사회 과정의 근본적인 개념을 살펴볼 것입니다. 우리는 이것이 학습에 대한 심리적 연구와 사회학적 연구라는 것을 보게 될 것입니다. 비록 학습은 한 의미에서 인문적 과정이기 때문에 필연적으로 철학적 측면을 포함해야 합니다.\n\n학습에 대한 어떤 학문의 접근은 사회에서 사람이 되는 법을 배우는 것에 대한 우리의 이해에 충분하지 않지만 특히 어린 시절의 심리학 연구에 매우 많이 의존할 것입니다.\n\n이 첫 장에서는 개념을 명료하게 하고 우리의 사고가 함의하는 바를 검토하고자 한다. 이 장은 세 부분으로 구성된다. 첫째 부분에서는 인간이라는 개념을, 둘째에서는 사회를, 셋째에서는 사회 속의 인간을 살펴본다.\n\n제1부: 사람의 개념 현대 세계에서, 지난 25세기 동안 유전 혁명을 경험한 세계에서, 우리는 '사람은 무엇인가?', '우리가 인간이 되는 것은 무엇인가?'라는 질문을 하는 것이 좋습니다.\n\n우리는 인간들이 원숭이 가문의 일원이라는 것은 의심의 여지가 없습니다. DNA 연구는 우리가 이 가문의 일원이 얼마나 많은지를 증명했습니다. 그래서 질문은 우리가 인간으로 만드는 것은 무엇인가요.\n\n우리는 그저 큰 원숭이들일 뿐인가 (Dunbar, 2007)?\n\n바르는 다른 많은 사람들 중에서도 근본적인 차이점은 다른 개인의 마음 상태를 상상할 수 있는 능력이라고 주장합니다 (Dunbar, 2007: 40).\n\n첫 번째 순위 의의성은 이러한 정신 상태를 다루기 위해 사용되는 용어이며 덩바르 (ibid.: 41) 는 침팬지 (그리고 아마도 다른 큰 원숭이) 를 제외한 어떤 동물도 정신 이론을 가지고 있다고 제안하는 증거가 없다는 것을 제안합니다.\n\n만약 그들이 그렇게 한다면, 그는 그들이 진화한 수준은 4세 또는 5세 어린이와 비슷한 수준이라고 제안한다.\n\n하지만 인간은 더 정교한 의도적인 수준이 있습니다. 그는 인간의 마음은 약 200,000년 동안만 존재해왔다고 제안합니다. 우리가 고려하면 마지막 공통의 조상인 원숭이들은 아마도 약 5백만 년 반 전에 살았을 것입니다.\n\n이는 Tomasello(1999: 55)의 입장과 매우 유사하다. 그는 다음과 같이 쓴다. 인간 고유의 인지가 만들어지는 데 주어진 시간은 많아야 600만 년에 불과하며, 실제로는 25만 년에 불과했을 가능성이 더 크다. 설득력 있는 어떤 진화 시나리오를 적용하더라도, 이 시간은 유전적 변이와 자연선택이 서로 다르고 독립적인 인간 고유의 모듈을 여럿 만들어 내기에 충분하지 않다.\n\n토마셀로 (ibid.: 54) 는 인간의 문화적 유산이 쌍둥이 기둥에 바탕을 두고 있다고 주장한다: 자르비스, 피터.\n\n사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009\n\n이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?\n\n문명: 981931\n\n2026년 10월 08일 03:48:10.\n\n저작권 © 2009.\n\n테일러 앤 프랜시스 그룹\n\n모든 권리가 있습니다.\n\n전자책 14~29페이지",
+      "status": "translated",
+      "sourceTextSha256": "0d3728672ef7e4d81b6f905c3bc12ec71dd6c0c0ac7d9485026157dab5a3b6d0",
+      "segments": [
+        {
+          "source": "Chapter 1 A person in society Of course, everyone becomes a person in society: we cannot stop this.",
+          "translation": "1장 사회에서 사람이 물론 모든 사람이 사회에서 사람이 됩니다. 우리는 이것을 막을 수 없습니다."
+        },
+        {
+          "source": "And, so, why write a book about learning to be a person in society?",
+          "translation": "그렇다면 왜 사회에서 사람이 되는 법을 배우는 책을 써야 할까요?"
+        },
+        {
+          "source": "Perhaps this is an obvious question, but the answer is much more difficult – it does not just happen by birth or by chance; we actually learn to become the people we are.",
+          "translation": "어쩌면 이것은 명백한 질문일지도 모르지만 그 답은 훨씬 더 어렵습니다. 그것은 단지 태어날 때나 우연히 일어나는 것이 아니라 실제로 우리가 있는 사람이 되는 법을 배우는 것입니다."
+        },
+        {
+          "source": "I learn to be me!",
+          "translation": "나로움을 배우게 됐어!"
+        },
+        {
+          "source": "You learn to be you!",
+          "translation": "자기 자신이 되는 법을 배워!"
+        },
+        {
+          "source": "But we do not just learn to be us during our schooling.",
+          "translation": "하지만 우리는 학교를 다니면서 스스로가 되는 법을 배우지 않습니다."
+        },
+        {
+          "source": "Learning is much broader than education – learning is a lifelong process and we are the result of our own learning.",
+          "translation": "학습은 교육보다 훨씬 넓습니다. 학습은 평생 과정이며 우리는 우리 자신의 학습의 결과입니다."
+        },
+        {
+          "source": "It is this that we are going to try to understand in this book.",
+          "translation": "우리는 이 책에서 이해하려고 노력할 것입니다."
+        },
+        {
+          "source": "And, so, in this first chapter we are going to examine some of the fundamental concepts underlying this complex social process, and we will see that this is both a psychological and a sociological study of learning, although it must necessarily incorporate philosophical aspects since learning is, in one sense, a humanistic process.",
+          "translation": "그래서, 이 첫 번째 장에서 우리는 이 복잡한 사회 과정의 근본적인 개념을 살펴볼 것입니다. 우리는 이것이 학습에 대한 심리적 연구와 사회학적 연구라는 것을 보게 될 것입니다. 비록 학습은 한 의미에서 인문적 과정이기 때문에 필연적으로 철학적 측면을 포함해야 합니다."
+        },
+        {
+          "source": "The approach of any one discipline to learning is insufficient for our understanding of learning to be a person in society but we will rely very heavily on psychological studies, especially of early childhood.",
+          "translation": "학습에 대한 어떤 학문의 접근은 사회에서 사람이 되는 법을 배우는 것에 대한 우리의 이해에 충분하지 않지만 특히 어린 시절의 심리학 연구에 매우 많이 의존할 것입니다."
+        },
+        {
+          "source": "This first chapter seeks to clarify the concepts and examine the implications of our thinking – it has three parts: the first part looks at the concept of the person, the second at society and the third at the person in society.",
+          "translation": "이 첫 장에서는 개념을 명료하게 하고 우리의 사고가 함의하는 바를 검토하고자 한다. 이 장은 세 부분으로 구성된다. 첫째 부분에서는 인간이라는 개념을, 둘째에서는 사회를, 셋째에서는 사회 속의 인간을 살펴본다.",
+          "reviewed": true
+        },
+        {
+          "source": "Part 1: The concept of the person In the contemporary world, one which has experienced the genetic revolution in the past quarter of a century, we do well to ask ‘What is the person?’, ‘What makes us human?’.",
+          "translation": "제1부: 사람의 개념 현대 세계에서, 지난 25세기 동안 유전 혁명을 경험한 세계에서, 우리는 '사람은 무엇인가?', '우리가 인간이 되는 것은 무엇인가?'라는 질문을 하는 것이 좋습니다."
+        },
+        {
+          "source": "It is incontrovertible that we human beings are members of the ape family – DNA research has demonstrated just how much we are members of this family, and so the question is ‘What makes us human?’.",
+          "translation": "우리는 인간들이 원숭이 가문의 일원이라는 것은 의심의 여지가 없습니다. DNA 연구는 우리가 이 가문의 일원이 얼마나 많은지를 증명했습니다. 그래서 질문은 우리가 인간으로 만드는 것은 무엇인가요."
+        },
+        {
+          "source": "Are we only great apes (Dunbar, 2007)?",
+          "translation": "우리는 그저 큰 원숭이들일 뿐인가 (Dunbar, 2007)?"
+        },
+        {
+          "source": "Dunbar, amongst many others, argues that the fundamental difference is ‘the theory of mind’ – ‘the capacity to imagine another individual’s mind states’ (Dunbar, 2007: 40).",
+          "translation": "바르는 다른 많은 사람들 중에서도 근본적인 차이점은 다른 개인의 마음 상태를 상상할 수 있는 능력이라고 주장합니다 (Dunbar, 2007: 40)."
+        },
+        {
+          "source": "First-order intentionality is the term used to cover these mind states, and Dunbar (ibid.: 41) suggests that there is no evidence to suggest that any animals apart from chimpanzees (and perhaps other of the great apes) have a theory of mind.",
+          "translation": "첫 번째 순위 의의성은 이러한 정신 상태를 다루기 위해 사용되는 용어이며 덩바르 (ibid.: 41) 는 침팬지 (그리고 아마도 다른 큰 원숭이) 를 제외한 어떤 동물도 정신 이론을 가지고 있다고 제안하는 증거가 없다는 것을 제안합니다."
+        },
+        {
+          "source": "If they do so, he suggests that the level to which they have evolved is about the same level as children aged four or five years.",
+          "translation": "만약 그들이 그렇게 한다면, 그는 그들이 진화한 수준은 4세 또는 5세 어린이와 비슷한 수준이라고 제안한다."
+        },
+        {
+          "source": "But human beings have more sophisticated levels of intentionality; the human mind, he suggests, has been in existence for only about 200,000 years – a short time when we consider that our last common ancestor with the apes probably lived about five and a half million years ago.",
+          "translation": "하지만 인간은 더 정교한 의도적인 수준이 있습니다. 그는 인간의 마음은 약 200,000년 동안만 존재해왔다고 제안합니다. 우리가 고려하면 마지막 공통의 조상인 원숭이들은 아마도 약 5백만 년 반 전에 살았을 것입니다."
+        },
+        {
+          "source": "This is a very similar position to that taken by Tomasello (1999: 55), who writes: We have at most only 6 million years, but more likely only one-quarter of a million years, to create uniquely human cognition, and this is simply not sufficient, under any plausible evolutionary scenario, for genetic variation and natural selection to have created many different and independent uniquely human modules.",
+          "translation": "이는 Tomasello(1999: 55)의 입장과 매우 유사하다. 그는 다음과 같이 쓴다. 인간 고유의 인지가 만들어지는 데 주어진 시간은 많아야 600만 년에 불과하며, 실제로는 25만 년에 불과했을 가능성이 더 크다. 설득력 있는 어떤 진화 시나리오를 적용하더라도, 이 시간은 유전적 변이와 자연선택이 서로 다르고 독립적인 인간 고유의 모듈을 여럿 만들어 내기에 충분하지 않다.",
+          "reviewed": true
+        },
+        {
+          "source": "Tomasello (ibid.: 54) argues that human cultural inheritance rests on twin pillars: Jarvis, Peter.",
+          "translation": "토마셀로 (ibid.: 54) 는 인간의 문화적 유산이 쌍둥이 기둥에 바탕을 두고 있다고 주장한다: 자르비스, 피터."
+        },
+        {
+          "source": "Learning to Be a Person in Society, Taylor & Francis Group, 2009.",
+          "translation": "사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009"
+        },
+        {
+          "source": "ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?",
+          "translation": "이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?"
+        },
+        {
+          "source": "docID=981931.",
+          "translation": "문명: 981931"
+        },
+        {
+          "source": "Created from snulibrary-ebooks on 2026-10-08 03:48:10.",
+          "translation": "2026년 10월 08일 03:48:10."
+        },
+        {
+          "source": "Copyright © 2009.",
+          "translation": "저작권 © 2009."
+        },
+        {
+          "source": "Taylor & Francis Group.",
+          "translation": "테일러 앤 프랜시스 그룹"
+        },
+        {
+          "source": "All rights reserved.",
+          "translation": "모든 권리가 있습니다."
+        },
+        {
+          "source": "Ebook pages 14-29 | Printed page 1 of 11",
+          "translation": "전자책 14~29페이지"
+        }
+      ],
+      "unitId": "page-1",
+      "unitLabel": "PDF 1쪽"
+    },
+    {
+      "page": 2,
+      "sourceText": "sociogenesis, by means of which most cultural artefacts and practices are created, and cultural learning, by means of\nwhich these creations and the human intentions and perspectives that lie behind them are internalized by developing\nyoungsters.\nAnd so we can see that from within an evolutionary framework, it is still meaningful to enquire about the nature of\npersonhood since we may locate ourselves as being at the pinnacle of the process of evolution whilst still acknowledging\nthat we are by our genetic inheritance members of the ape family, but discussion about the nature of the person has to\nleave the evolutionary perspective and begin to look at the phenomenon from a more humanistic perspective.\nThe person, like society, has a common-sense usage, but in order to clarify our thinking we do need to explore the\nseveral meanings of the term. It is perhaps significant that the term ‘person’ does not occur in the index of Rogers’\n(1961) classic \n, although he does discuss ‘personal constructs’ and has a whole section on the\nOn Becoming a Person\nphilosophy of the person from a therapist’s perception. This illustrates the position from which Rogers is approaching\nthis topic and, although therapy throws considerable light on the subject, not all individuals become persons as a result\nof therapy. But we will also find a lot more from Rogers in his \n studies (Rogers, 1983; Rogers and\nFreedom to Learn\nFreiberg, 1994); even here his main focus is therapeutic although he claims that the goal of learning and therapy is to be\n‘a fully functioning person’. This is clearly the end-product of his therapeutic process, but it is also the aim of many\npsychological studies and policy statements on learning. Other psychologists have tried in a variety of ways to capture\nthe complexity of becoming a fully functioning person: for instance, Maslow’s (1968) famous hierarchy of needs –\nphysiological, safety, love and belonging, self-esteem and self-actualisation – illustrates this position.\nMcAdams’ (2001) full study of the person, to which we will make reference from time to time throughout this book,\ntells us more about the personality traits and characteristics than it does about the concept of the person itself. Haslam’s\n(2007) introduction to personality is also referred to throughout this book. Apter (1989) suggests that the person has\ndistinctness, continuity and autonomy. MacMurray (1979 [1961]: 27), however, suggests that ‘the term “person” fulfils\nthe same function from the standpoint of the agent as the term “self” does in traditional philosophy, which thinks from\nthe standpoint of the subject’. But we do use the word in a variety of different ways, as Collins English Dictionary\nshows:\n•  an individual human being;\n•  the body of a human being, e.g. ‘on his/her person’;\n•  a grammatical category, e.g. singular or plural;\n•  an individual having certain rights and obligations in law;\n•  a being characterised by personality, consciousness, rationality, morality and self-awareness;\n•  a role or guise;\n•  actually present, e.g. in person.\nAlmost all of these usages are open to considerable debate, and we will return to these shortly. However, when we\nconsult a philosophical dictionary (Speake, 1984) we are confronted with a short discussion which points us to Locke’s\nwork. Locke wrote that a person is:\nA thinking intelligent being that has reason and reflection and can consider itself as itself, the same thinking thing in\ndifferent times and places; which it does only by that consciousness which is inseparable from thinking and, as it\nseems to me, essential to it: it is impossible for anyone to perceive without perceiving that he does perceive. When\nwe see, hear, small, taste, feel meditate or will anything, we know that we do so. Thus it is always to our present\nJarvis, Peter. Learning to Be a Person in Society, Taylor & Francis Group, 2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?docID=981931.\nCreated from snulibrary-ebooks on 2026-10-08 03:48:10.\nCopyright © 2009. Taylor & Francis Group. All rights reserved.\nEbook pages 14-29 | Printed page 2 of 11\n",
+      "translationText": "대부분의 문화예술과 관행이 만들어지는 사회생태, 그리고 이러한 창조와 그 뒤에 있는 인간의 의도와 관점들이 발달하는 청소년들에 의해 내부화되는 문화 학습.\n\n그래서 우리는 진화적 틀에서 여전히 개성의 본질에 대해 질문하는 것이 의미가 있다는 것을 알 수 있습니다. 왜냐하면 우리는 진화 과정의 꼭대기에 있다는 것을 인정하면서도 우리 유전적 유산으로 원숭이 가족의 구성원임을 인정하면서도,\n\n사회와 마찬가지로 사람은 상식적인 사용법을 가지고 있지만 우리의 사고방식을 명확히 하기 위해서는 이 용어의 여러 가지 의미를 탐구해야 합니다.\n\n아마도 사람이라는 용어는 로저스 (1961) 고전의 지표에서 나타나지 않는 것이 중요하지만, 그는 개인 구조를 논의하고 치료사의 인식에서 사람의 인격화 철학에 대한 전체 섹션을 가지고 있습니다.\n\n이것은 로저스가 이 주제에 접근하는 입장을 보여줍니다. 치료가 이 주제에 대해 상당한 빛을 던지는 반면, 치료의 결과로 모든 개인이 개인이 되는 것은 아닙니다.\n\n그러나 우리는 또한 그의 연구에서 로저스에서 훨씬 더 많은 것을 찾을 수 있습니다 (로저스, 1983; 로저스 및 자유의 학습 프라이버그, 1994); 심지어 여기서 그의 주요 초점은 치료법이지만 그는 학습과 치료의 목표는 완전히 기능하는 사람이라는 것을 주장합니다.\n\n이것은 분명히 그의 치료 과정의 최종 결과물이지만, 그것은 또한 학습에 대한 많은 심리학적 연구와 정책 진술의 목표입니다.\n\n다른 심리학자들은 다양한 방법으로 완전히 기능하는 사람이 되는 복잡성을 포착하려고 시도했습니다. 예를 들어, 마슬로스 (1968) 는 생리학적, 안전, 사랑과 소속, 자존감 및 자아실현의 유명한 hierarchy이 이러한 입장을 보여준다.\n\n맥 애덤스 (McAdams)  (2001) 이 책을 통해 때때로 언급할 수 있는 사람에 대한 완전한 연구는 개인에 대한 개념보다 성격 특성과 특징에 대해 더 많은 것을 알려줍니다.\n\n이 책 전체에 걸쳐 Haslams (2007) 의 성격에 대한 소개도 언급되어 있습니다.\n\n애프터 (1989) 는 개인이 차별성과 연속성과 자율성을 가지고 있다고 제안한다.\n\n맥 머레이 (1979년 [1961]: 27), 그러나 명칭은 주체의 입장에서 생각하는 전통적인 철학에서 자신칭과 같은 역할을 담당자의 입장에서 수행한다고 제안합니다.\n\n하지만 우리는 이 단어를 다양하게 사용한다는 것을 볼 수 있습니다. 콜린스 영어 사전은 다음과 같이 보여준다: • 개인 인간; • 사람의 신체, 예를 들어, 그의/그녀의 사람; • 문법적 카테고리, 예를 들어 singular 또는 plural; • 법률에서 특정 권리와 의무를 가진 개인; • 성격, 의식, 합리성, 도덕성 및 자기 인식에 의해 특징인 존재; • 역할 또는 외모; • 실제로 존재, 예를 들어 개인적으로.\n\n거의 이 모든 사용법들은 상당한 논쟁을 할 수 있으며, 우리는 곧 이들에 대해 다시 이야기 할 것입니다.\n\n하지만, 철학 사전 (스피크, 1984) 을 참조할 때, 로크의 저작을 가리키는 짧은 토론에 직면하게 됩니다.\n\n로크는 사람이라는 것을 썼습니다: 사유와 반성을 가진 사고 지능적인 존재이며 스스로를 다른 시간과 장소에서 같은 생각의 존재로 간주 할 수 있습니다. 그것은 생각과 분리되지 않는 의식에 의해서만 수행됩니다.\n\n우리가 보고, 듣고, 작은 것, 맛을 씹고, 마음속으로 생각하거나 어떤 것도 할 때, 우리는 그렇게 한다는 것을 알고 있습니다.\n\n현재 자르비스인 피터도 마찬가지입니다.\n\n사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009\n\n이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?\n\n문명: 981931\n\n2026년 10월 08일 03:48:10.\n\n저작권 © 2009.\n\n테일러 앤 프랜시스 그룹\n\n모든 권리가 있습니다.\n\n전자책 14~29페이지",
+      "status": "translated",
+      "sourceTextSha256": "4c4b550287fd22d010d9824ab7dcb1602f00f4928665b6998a6ef92cfb04ae0a",
+      "segments": [
+        {
+          "source": "sociogenesis, by means of which most cultural artefacts and practices are created, and cultural learning, by means of which these creations and the human intentions and perspectives that lie behind them are internalized by developing youngsters.",
+          "translation": "대부분의 문화예술과 관행이 만들어지는 사회생태, 그리고 이러한 창조와 그 뒤에 있는 인간의 의도와 관점들이 발달하는 청소년들에 의해 내부화되는 문화 학습."
+        },
+        {
+          "source": "And so we can see that from within an evolutionary framework, it is still meaningful to enquire about the nature of personhood since we may locate ourselves as being at the pinnacle of the process of evolution whilst still acknowledging that we are by our genetic inheritance members of the ape family, but discussion about the nature of the person has to leave the evolutionary perspective and begin to look at the phenomenon from a more humanistic perspective.",
+          "translation": "그래서 우리는 진화적 틀에서 여전히 개성의 본질에 대해 질문하는 것이 의미가 있다는 것을 알 수 있습니다. 왜냐하면 우리는 진화 과정의 꼭대기에 있다는 것을 인정하면서도 우리 유전적 유산으로 원숭이 가족의 구성원임을 인정하면서도,"
+        },
+        {
+          "source": "The person, like society, has a common-sense usage, but in order to clarify our thinking we do need to explore the several meanings of the term.",
+          "translation": "사회와 마찬가지로 사람은 상식적인 사용법을 가지고 있지만 우리의 사고방식을 명확히 하기 위해서는 이 용어의 여러 가지 의미를 탐구해야 합니다."
+        },
+        {
+          "source": "It is perhaps significant that the term ‘person’ does not occur in the index of Rogers’ (1961) classic , although he does discuss ‘personal constructs’ and has a whole section on the On Becoming a Person philosophy of the person from a therapist’s perception.",
+          "translation": "아마도 사람이라는 용어는 로저스 (1961) 고전의 지표에서 나타나지 않는 것이 중요하지만, 그는 개인 구조를 논의하고 치료사의 인식에서 사람의 인격화 철학에 대한 전체 섹션을 가지고 있습니다."
+        },
+        {
+          "source": "This illustrates the position from which Rogers is approaching this topic and, although therapy throws considerable light on the subject, not all individuals become persons as a result of therapy.",
+          "translation": "이것은 로저스가 이 주제에 접근하는 입장을 보여줍니다. 치료가 이 주제에 대해 상당한 빛을 던지는 반면, 치료의 결과로 모든 개인이 개인이 되는 것은 아닙니다."
+        },
+        {
+          "source": "But we will also find a lot more from Rogers in his studies (Rogers, 1983; Rogers and Freedom to Learn Freiberg, 1994); even here his main focus is therapeutic although he claims that the goal of learning and therapy is to be ‘a fully functioning person’.",
+          "translation": "그러나 우리는 또한 그의 연구에서 로저스에서 훨씬 더 많은 것을 찾을 수 있습니다 (로저스, 1983; 로저스 및 자유의 학습 프라이버그, 1994); 심지어 여기서 그의 주요 초점은 치료법이지만 그는 학습과 치료의 목표는 완전히 기능하는 사람이라는 것을 주장합니다."
+        },
+        {
+          "source": "This is clearly the end-product of his therapeutic process, but it is also the aim of many psychological studies and policy statements on learning.",
+          "translation": "이것은 분명히 그의 치료 과정의 최종 결과물이지만, 그것은 또한 학습에 대한 많은 심리학적 연구와 정책 진술의 목표입니다."
+        },
+        {
+          "source": "Other psychologists have tried in a variety of ways to capture the complexity of becoming a fully functioning person: for instance, Maslow’s (1968) famous hierarchy of needs – physiological, safety, love and belonging, self-esteem and self-actualisation – illustrates this position.",
+          "translation": "다른 심리학자들은 다양한 방법으로 완전히 기능하는 사람이 되는 복잡성을 포착하려고 시도했습니다. 예를 들어, 마슬로스 (1968) 는 생리학적, 안전, 사랑과 소속, 자존감 및 자아실현의 유명한 hierarchy이 이러한 입장을 보여준다."
+        },
+        {
+          "source": "McAdams’ (2001) full study of the person, to which we will make reference from time to time throughout this book, tells us more about the personality traits and characteristics than it does about the concept of the person itself.",
+          "translation": "맥 애덤스 (McAdams)  (2001) 이 책을 통해 때때로 언급할 수 있는 사람에 대한 완전한 연구는 개인에 대한 개념보다 성격 특성과 특징에 대해 더 많은 것을 알려줍니다."
+        },
+        {
+          "source": "Haslam’s (2007) introduction to personality is also referred to throughout this book.",
+          "translation": "이 책 전체에 걸쳐 Haslams (2007) 의 성격에 대한 소개도 언급되어 있습니다."
+        },
+        {
+          "source": "Apter (1989) suggests that the person has distinctness, continuity and autonomy.",
+          "translation": "애프터 (1989) 는 개인이 차별성과 연속성과 자율성을 가지고 있다고 제안한다."
+        },
+        {
+          "source": "MacMurray (1979 [1961]: 27), however, suggests that ‘the term “person” fulfils the same function from the standpoint of the agent as the term “self” does in traditional philosophy, which thinks from the standpoint of the subject’.",
+          "translation": "맥 머레이 (1979년 [1961]: 27), 그러나 명칭은 주체의 입장에서 생각하는 전통적인 철학에서 자신칭과 같은 역할을 담당자의 입장에서 수행한다고 제안합니다."
+        },
+        {
+          "source": "But we do use the word in a variety of different ways, as Collins English Dictionary shows: • an individual human being; • the body of a human being, e.g. ‘on his/her person’; • a grammatical category, e.g. singular or plural; • an individual having certain rights and obligations in law; • a being characterised by personality, consciousness, rationality, morality and self-awareness; • a role or guise; • actually present, e.g. in person.",
+          "translation": "하지만 우리는 이 단어를 다양하게 사용한다는 것을 볼 수 있습니다. 콜린스 영어 사전은 다음과 같이 보여준다: • 개인 인간; • 사람의 신체, 예를 들어, 그의/그녀의 사람; • 문법적 카테고리, 예를 들어 singular 또는 plural; • 법률에서 특정 권리와 의무를 가진 개인; • 성격, 의식, 합리성, 도덕성 및 자기 인식에 의해 특징인 존재; • 역할 또는 외모; • 실제로 존재, 예를 들어 개인적으로."
+        },
+        {
+          "source": "Almost all of these usages are open to considerable debate, and we will return to these shortly.",
+          "translation": "거의 이 모든 사용법들은 상당한 논쟁을 할 수 있으며, 우리는 곧 이들에 대해 다시 이야기 할 것입니다."
+        },
+        {
+          "source": "However, when we consult a philosophical dictionary (Speake, 1984) we are confronted with a short discussion which points us to Locke’s work.",
+          "translation": "하지만, 철학 사전 (스피크, 1984) 을 참조할 때, 로크의 저작을 가리키는 짧은 토론에 직면하게 됩니다."
+        },
+        {
+          "source": "Locke wrote that a person is: A thinking intelligent being that has reason and reflection and can consider itself as itself, the same thinking thing in different times and places; which it does only by that consciousness which is inseparable from thinking and, as it seems to me, essential to it: it is impossible for anyone to perceive without perceiving that he does perceive.",
+          "translation": "로크는 사람이라는 것을 썼습니다: 사유와 반성을 가진 사고 지능적인 존재이며 스스로를 다른 시간과 장소에서 같은 생각의 존재로 간주 할 수 있습니다. 그것은 생각과 분리되지 않는 의식에 의해서만 수행됩니다."
+        },
+        {
+          "source": "When we see, hear, small, taste, feel meditate or will anything, we know that we do so.",
+          "translation": "우리가 보고, 듣고, 작은 것, 맛을 씹고, 마음속으로 생각하거나 어떤 것도 할 때, 우리는 그렇게 한다는 것을 알고 있습니다."
+        },
+        {
+          "source": "Thus it is always to our present Jarvis, Peter.",
+          "translation": "현재 자르비스인 피터도 마찬가지입니다."
+        },
+        {
+          "source": "Learning to Be a Person in Society, Taylor & Francis Group, 2009.",
+          "translation": "사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009"
+        },
+        {
+          "source": "ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?",
+          "translation": "이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?"
+        },
+        {
+          "source": "docID=981931.",
+          "translation": "문명: 981931"
+        },
+        {
+          "source": "Created from snulibrary-ebooks on 2026-10-08 03:48:10.",
+          "translation": "2026년 10월 08일 03:48:10."
+        },
+        {
+          "source": "Copyright © 2009.",
+          "translation": "저작권 © 2009."
+        },
+        {
+          "source": "Taylor & Francis Group.",
+          "translation": "테일러 앤 프랜시스 그룹"
+        },
+        {
+          "source": "All rights reserved.",
+          "translation": "모든 권리가 있습니다."
+        },
+        {
+          "source": "Ebook pages 14-29 | Printed page 2 of 11",
+          "translation": "전자책 14~29페이지"
+        }
+      ],
+      "unitId": "page-2",
+      "unitLabel": "PDF 2쪽"
+    },
+    {
+      "page": 3,
+      "sourceText": "sensations and perceptions, and by this everyone is to himself that which he calls a \n: it is not being considered in\nself\nthis case whether the same \n be continued in the same or diverse substances.\nself\n(Locke, 1947: 180, italics in original)\nImmediately we are confronted with the concept of ‘self’ here. This is a term to which we will return but, following\nMacMurray, I see ‘self’ as the nearest equivalent to the person in relation to this study. One other feature that emerges\nimmediately is that the self may be ‘of the mind’ but whether it is of ‘the brain’ is more controversial. Indeed, we have\nto note immediately that there is a controversy about the nature of the person as body and mind, in which the self is a\nconstruct of the mind, and so on. It is an unresolved debate, but the position adopted here is that the self is learned, as is\nthe mind, and that there is a very complex relationship between body/brain and mind. Indeed, I agree with Feser (2006:\n211) when he concludes that ‘Descartes’ basic contention that the mind is irreducible to the brain or body has not been\nrefuted’. But we can at least begin to see that even a simple term such as ‘person’ is open to much more debate than is\napparent on the surface.\nIt is significant in all these formulations that the ability to do – to act, create and relate – is hardly present in this\ndiscussion although many contemporary scholars see this at the heart of our humanity. Arendt (1958) opens her classic\nwork on the human condition by discussing \n, in which she says there are three dimensions – labour, work and\nviva activa\naction. Labour is the basic human condition – it is the bodily processes; work corresponds to the unnaturalness of the\nhuman condition – it is the artificial world of production; action is the activity that goes on between people, especially\nthe political elements that enable people to live together – it is relating. In a similar way, Archer (2000: 154–90) sees the\npractical as pivotal in her arguments about being human. Doing is at the heart of being human, but creating is the\nprocess of building our world and making it a better place for us all to live: we all need to become experts in doing and\ncreating – we should not be content with mere competencies – in our contribution to the world. Consequently, we need\nto include this dimension in any understanding that we have of the person – the ego.\nFor the moment let us accept that the person is an individual capable of doing, thinking and sensing in a wide variety\nof ways. I will return to this discussion at the end of this work. However, the person is not fully formed at birth – what I\nam arguing here is that the person is learned in the process of human living and, therefore, the self only emerges out of\nthis process and so unlike many experientialists the self is a problematic in this process. Newman (2008: 288) comments\nthat ‘most experiential learning starts with the self as a given’ and, although his assertion might have some validity, it is\nnot true for all experiential learning theorists and so it is a pity that he did not widen the scope of his investigation and\nstart with consciousness. But there is another problem: most experiential learning theories start with the adult whereas,\nin this book, we start with the fetus! The person is individual, and it is important from the outset of this study to\nrecognise that the Enlightenment focused on the individual to such an extent that it became central to a great deal of our\nthinking; however, in this contemporary society, modernity is regarded being as flawed (Gray, 1995; Jarvis, 2008) and\nso the focus of our study can no longer be on the isolated individual because the person lives in relationship. Individuals\nemerge out of relationship.\nPart 2: The concept of society\nMargaret Thatcher, when she was prime minister of the UK, famously exclaimed that ‘there is no such thing as society’.\nOf course, if she was looking for an empirical reality, such as a house, or even a world, then she was perfectly correct.\nBut there are many things that cannot be reified, such as light, a black hole, and so on. Society is another such concept: it\ncannot be reified but that does not mean that it does not exist, and so it is now necessary for us to explore the\nJarvis, Peter. Learning to Be a Person in Society, Taylor & Francis Group, 2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?docID=981931.\nCreated from snulibrary-ebooks on 2026-10-08 03:48:10.\nCopyright © 2009. Taylor & Francis Group. All rights reserved.\nEbook pages 14-29 | Printed page 3 of 11\n",
+      "translationText": "감각과 인식, 그리고 이것으로 모든 사람은 자신에게 자신이 말하는 것을 말한다: 이 경우 동일한 물질 또는 다양한 물질에 계속되는 것이 자체적으로 고려되지 않습니다.\n\n자존감 (Locke, 1947: 180, 본래의 자존감) 바로 여기서 우리는 '자존감'이라는 개념에 직면하게 됩니다.\n\n이것은 우리가 다시 돌아온 용어이지만, 맥 머레이에 따라, 저는 이 연구와 관련하여 가장 가까운 대칭이라고 생각합니다.\n\n또 다른 특징은 곧바로 나타납니다. 자아는 정신의 존재일 수 있지만 뇌의 존재 여부는 더 논란이 되고 있습니다.\n\n사실, 우리는 즉시 사람이 몸과 정신으로서의 본질에 대한 논쟁이 있다는 것을 주목해야 합니다.\n\n이것은 아직 해결되지 않은 논쟁이지만, 여기서 채택된 입장은 자아와 같은 정신이 학습되고 있으며, 몸/뇌와 정신 사이에 매우 복잡한 관계가 있다는 것입니다.\n\n사실, 저는 페저 (2006: 211) 와 동의합니다. 그는 데스카르트의 기본 주장이 뇌나 신체에 불완전하다는 것은 반박되지 않았다고 결론을 내립니다.\n\n하지만 우리는 적어도 person과 같은 간단한 용어도 겉으로 보이는 것보다 훨씬 더 많은 논쟁에 열려 있음을 알 수 있습니다.\n\n이 모든 공식에서 를 할 수 있는 능력, 행동, 창조, 관계의 능력은 이 논의에서 거의 존재하지 않지만 많은 현대 학자들은 이것이 우리 인류의 중심에 있다고 생각합니다.\n\n아렌트 (Arendt, 1958) 는 인간의 상태에 대한 그녀의 고전적인 작품을 논의함으로써 시작합니다.\n\n노동(labour)은 인간의 기본 조건으로서 신체적 과정이다. 작업(work)은 인간 조건의 비자연성에 상응하며, 생산의 인공적 세계를 이룬다. 행위(action)는 사람들 사이에서 이루어지는 활동, 특히 사람들이 함께 살아갈 수 있게 하는 정치적 요소를 가리키며, 관계 맺기이다.\n\n비슷한 방식으로, 아처 (2000: 15490) 는 인간에 대한 그녀의 주장에서 실용적인 것을 중추적인 것으로 본다.\n\n창조하는 것은 인간으로서의 핵심이지만 창조하는 것은 우리의 세상을 만들고 우리 모두가 살기 좋은 곳으로 만드는 과정입니다. 우리는 모두 창조하는 데에 전문가가 되어야 합니다. 우리는 단순한 역량으로만 만족해서는 안 됩니다.\n\n따라서 우리는 이 차원을 우리가 가진 모든 이해에 포함시켜야 합니다.\n\n현재 우리는 그 사람이 다양한 방식으로 행동, 사고, 감각을 할 수 있는 개인이라는 것을 받아들일 수 있습니다.\n\n이 작업이 끝나면 다시 이 논의에 올 것입니다.\n\n그러나 인간은 태어나면서 완전히 형성되지 않습니다. 제가 주장하는 것은 사람이 인간 생활의 과정에서 배운다는 것입니다. 따라서, 자아는 이 과정에서 나온다. 그래서 많은 경험주의자들와는 달리 자아는 이 과정에서 문제가 있습니다.\n\n뉴먼 (2008: 288) 은 대부분의 경험학습은 주어진 자아와 시작된다는 것을 언급하고 있으며, 그의 주장은 약간의 유효성을 가질 수 있지만, 모든 경험학습 이론가에게는 사실이 아니며 따라서 그는 자신의 조사의 범위를 넓히지 않고 의식으로 시작하지 않았다는 것은 아쉽습니다.\n\n하지만 또 다른 문제도 있습니다. 대부분의 경험학습 이론은 성인에게서 시작되지만, 이 책에서는 태아로부터 시작됩니다.\n\n사람은 개인이고, 이 연구의 시작부터 깨달음은 개인에 초점을 맞추어 우리 사고의 중심이 되었음을 인식하는 것이 중요합니다. 그러나, 현대 사회에서는 현대성이 결함이 있다고 간주됩니다 (Gray, 1995; Jarvis, 2008) 따라서 우리의 연구의 초점은 더 이상 개인이 고립되어 있지 않을 수 있습니다. 왜냐하면 사람이 관계 속에서 살고 있기 때문입니다.\n\n개인은 관계에서 벗어납니다.\n\n제2부: 사회 개념 마거릿 대처 영국 총리 시절,\n\n물론, 그녀가 집이나 세계 같은 경험적 현실을 찾고 있다면, 그녀는 완전히 옳았죠.\n\n하지만 빛, 블랙홀 등으로 변할 수 없는 많은 것들이 있습니다.\n\n사회는 또 다른 그런 개념입니다: 그것은 재현될 수 없지만 그것이 존재하지 않는다는 것을 의미하지는 않습니다. 그래서 우리는 이제 Jarvis을 탐구해야 합니다.\n\n사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009\n\n이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?\n\n문명: 981931\n\n2026년 10월 08일 03:48:10.\n\n저작권 © 2009.\n\n테일러 앤 프랜시스 그룹\n\n모든 권리가 있습니다.\n\n전자책 14~29페이지",
+      "status": "translated",
+      "sourceTextSha256": "3258663da0a130a10060f9fff458963650f5d09bd6b1e97d4fb9acb1142cec1f",
+      "segments": [
+        {
+          "source": "sensations and perceptions, and by this everyone is to himself that which he calls a : it is not being considered in self this case whether the same be continued in the same or diverse substances.",
+          "translation": "감각과 인식, 그리고 이것으로 모든 사람은 자신에게 자신이 말하는 것을 말한다: 이 경우 동일한 물질 또는 다양한 물질에 계속되는 것이 자체적으로 고려되지 않습니다."
+        },
+        {
+          "source": "self (Locke, 1947: 180, italics in original) Immediately we are confronted with the concept of ‘self’ here.",
+          "translation": "자존감 (Locke, 1947: 180, 본래의 자존감) 바로 여기서 우리는 '자존감'이라는 개념에 직면하게 됩니다."
+        },
+        {
+          "source": "This is a term to which we will return but, following MacMurray, I see ‘self’ as the nearest equivalent to the person in relation to this study.",
+          "translation": "이것은 우리가 다시 돌아온 용어이지만, 맥 머레이에 따라, 저는 이 연구와 관련하여 가장 가까운 대칭이라고 생각합니다."
+        },
+        {
+          "source": "One other feature that emerges immediately is that the self may be ‘of the mind’ but whether it is of ‘the brain’ is more controversial.",
+          "translation": "또 다른 특징은 곧바로 나타납니다. 자아는 정신의 존재일 수 있지만 뇌의 존재 여부는 더 논란이 되고 있습니다."
+        },
+        {
+          "source": "Indeed, we have to note immediately that there is a controversy about the nature of the person as body and mind, in which the self is a construct of the mind, and so on.",
+          "translation": "사실, 우리는 즉시 사람이 몸과 정신으로서의 본질에 대한 논쟁이 있다는 것을 주목해야 합니다."
+        },
+        {
+          "source": "It is an unresolved debate, but the position adopted here is that the self is learned, as is the mind, and that there is a very complex relationship between body/brain and mind.",
+          "translation": "이것은 아직 해결되지 않은 논쟁이지만, 여기서 채택된 입장은 자아와 같은 정신이 학습되고 있으며, 몸/뇌와 정신 사이에 매우 복잡한 관계가 있다는 것입니다."
+        },
+        {
+          "source": "Indeed, I agree with Feser (2006: 211) when he concludes that ‘Descartes’ basic contention that the mind is irreducible to the brain or body has not been refuted’.",
+          "translation": "사실, 저는 페저 (2006: 211) 와 동의합니다. 그는 데스카르트의 기본 주장이 뇌나 신체에 불완전하다는 것은 반박되지 않았다고 결론을 내립니다."
+        },
+        {
+          "source": "But we can at least begin to see that even a simple term such as ‘person’ is open to much more debate than is apparent on the surface.",
+          "translation": "하지만 우리는 적어도 person과 같은 간단한 용어도 겉으로 보이는 것보다 훨씬 더 많은 논쟁에 열려 있음을 알 수 있습니다."
+        },
+        {
+          "source": "It is significant in all these formulations that the ability to do – to act, create and relate – is hardly present in this discussion although many contemporary scholars see this at the heart of our humanity.",
+          "translation": "이 모든 공식에서 를 할 수 있는 능력, 행동, 창조, 관계의 능력은 이 논의에서 거의 존재하지 않지만 많은 현대 학자들은 이것이 우리 인류의 중심에 있다고 생각합니다."
+        },
+        {
+          "source": "Arendt (1958) opens her classic work on the human condition by discussing , in which she says there are three dimensions – labour, work and viva activa action.",
+          "translation": "아렌트 (Arendt, 1958) 는 인간의 상태에 대한 그녀의 고전적인 작품을 논의함으로써 시작합니다."
+        },
+        {
+          "source": "Labour is the basic human condition – it is the bodily processes; work corresponds to the unnaturalness of the human condition – it is the artificial world of production; action is the activity that goes on between people, especially the political elements that enable people to live together – it is relating.",
+          "translation": "노동(labour)은 인간의 기본 조건으로서 신체적 과정이다. 작업(work)은 인간 조건의 비자연성에 상응하며, 생산의 인공적 세계를 이룬다. 행위(action)는 사람들 사이에서 이루어지는 활동, 특히 사람들이 함께 살아갈 수 있게 하는 정치적 요소를 가리키며, 관계 맺기이다.",
+          "reviewed": true
+        },
+        {
+          "source": "In a similar way, Archer (2000: 154–90) sees the practical as pivotal in her arguments about being human.",
+          "translation": "비슷한 방식으로, 아처 (2000: 15490) 는 인간에 대한 그녀의 주장에서 실용적인 것을 중추적인 것으로 본다."
+        },
+        {
+          "source": "Doing is at the heart of being human, but creating is the process of building our world and making it a better place for us all to live: we all need to become experts in doing and creating – we should not be content with mere competencies – in our contribution to the world.",
+          "translation": "창조하는 것은 인간으로서의 핵심이지만 창조하는 것은 우리의 세상을 만들고 우리 모두가 살기 좋은 곳으로 만드는 과정입니다. 우리는 모두 창조하는 데에 전문가가 되어야 합니다. 우리는 단순한 역량으로만 만족해서는 안 됩니다."
+        },
+        {
+          "source": "Consequently, we need to include this dimension in any understanding that we have of the person – the ego.",
+          "translation": "따라서 우리는 이 차원을 우리가 가진 모든 이해에 포함시켜야 합니다."
+        },
+        {
+          "source": "For the moment let us accept that the person is an individual capable of doing, thinking and sensing in a wide variety of ways.",
+          "translation": "현재 우리는 그 사람이 다양한 방식으로 행동, 사고, 감각을 할 수 있는 개인이라는 것을 받아들일 수 있습니다."
+        },
+        {
+          "source": "I will return to this discussion at the end of this work.",
+          "translation": "이 작업이 끝나면 다시 이 논의에 올 것입니다."
+        },
+        {
+          "source": "However, the person is not fully formed at birth – what I am arguing here is that the person is learned in the process of human living and, therefore, the self only emerges out of this process and so unlike many experientialists the self is a problematic in this process.",
+          "translation": "그러나 인간은 태어나면서 완전히 형성되지 않습니다. 제가 주장하는 것은 사람이 인간 생활의 과정에서 배운다는 것입니다. 따라서, 자아는 이 과정에서 나온다. 그래서 많은 경험주의자들와는 달리 자아는 이 과정에서 문제가 있습니다."
+        },
+        {
+          "source": "Newman (2008: 288) comments that ‘most experiential learning starts with the self as a given’ and, although his assertion might have some validity, it is not true for all experiential learning theorists and so it is a pity that he did not widen the scope of his investigation and start with consciousness.",
+          "translation": "뉴먼 (2008: 288) 은 대부분의 경험학습은 주어진 자아와 시작된다는 것을 언급하고 있으며, 그의 주장은 약간의 유효성을 가질 수 있지만, 모든 경험학습 이론가에게는 사실이 아니며 따라서 그는 자신의 조사의 범위를 넓히지 않고 의식으로 시작하지 않았다는 것은 아쉽습니다."
+        },
+        {
+          "source": "But there is another problem: most experiential learning theories start with the adult whereas, in this book, we start with the fetus!",
+          "translation": "하지만 또 다른 문제도 있습니다. 대부분의 경험학습 이론은 성인에게서 시작되지만, 이 책에서는 태아로부터 시작됩니다."
+        },
+        {
+          "source": "The person is individual, and it is important from the outset of this study to recognise that the Enlightenment focused on the individual to such an extent that it became central to a great deal of our thinking; however, in this contemporary society, modernity is regarded being as flawed (Gray, 1995; Jarvis, 2008) and so the focus of our study can no longer be on the isolated individual because the person lives in relationship.",
+          "translation": "사람은 개인이고, 이 연구의 시작부터 깨달음은 개인에 초점을 맞추어 우리 사고의 중심이 되었음을 인식하는 것이 중요합니다. 그러나, 현대 사회에서는 현대성이 결함이 있다고 간주됩니다 (Gray, 1995; Jarvis, 2008) 따라서 우리의 연구의 초점은 더 이상 개인이 고립되어 있지 않을 수 있습니다. 왜냐하면 사람이 관계 속에서 살고 있기 때문입니다."
+        },
+        {
+          "source": "Individuals emerge out of relationship.",
+          "translation": "개인은 관계에서 벗어납니다."
+        },
+        {
+          "source": "Part 2: The concept of society Margaret Thatcher, when she was prime minister of the UK, famously exclaimed that ‘there is no such thing as society’.",
+          "translation": "제2부: 사회 개념 마거릿 대처 영국 총리 시절,"
+        },
+        {
+          "source": "Of course, if she was looking for an empirical reality, such as a house, or even a world, then she was perfectly correct.",
+          "translation": "물론, 그녀가 집이나 세계 같은 경험적 현실을 찾고 있다면, 그녀는 완전히 옳았죠."
+        },
+        {
+          "source": "But there are many things that cannot be reified, such as light, a black hole, and so on.",
+          "translation": "하지만 빛, 블랙홀 등으로 변할 수 없는 많은 것들이 있습니다."
+        },
+        {
+          "source": "Society is another such concept: it cannot be reified but that does not mean that it does not exist, and so it is now necessary for us to explore the Jarvis, Peter.",
+          "translation": "사회는 또 다른 그런 개념입니다: 그것은 재현될 수 없지만 그것이 존재하지 않는다는 것을 의미하지는 않습니다. 그래서 우리는 이제 Jarvis을 탐구해야 합니다."
+        },
+        {
+          "source": "Learning to Be a Person in Society, Taylor & Francis Group, 2009.",
+          "translation": "사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009"
+        },
+        {
+          "source": "ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?",
+          "translation": "이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?"
+        },
+        {
+          "source": "docID=981931.",
+          "translation": "문명: 981931"
+        },
+        {
+          "source": "Created from snulibrary-ebooks on 2026-10-08 03:48:10.",
+          "translation": "2026년 10월 08일 03:48:10."
+        },
+        {
+          "source": "Copyright © 2009.",
+          "translation": "저작권 © 2009."
+        },
+        {
+          "source": "Taylor & Francis Group.",
+          "translation": "테일러 앤 프랜시스 그룹"
+        },
+        {
+          "source": "All rights reserved.",
+          "translation": "모든 권리가 있습니다."
+        },
+        {
+          "source": "Ebook pages 14-29 | Printed page 3 of 11",
+          "translation": "전자책 14~29페이지"
+        }
+      ],
+      "unitId": "page-3",
+      "unitLabel": "PDF 3쪽"
+    },
+    {
+      "page": 4,
+      "sourceText": "complexities of this common concept in precisely the same way as we have for person. This will form the first part of\nthis section and in the second we will examine the concept of culture, which has been regarded in the past as something\nthat is society-wide.\nSociety\nOnce more \n provides a starting point:\nCollins English Dictionary\n•  the totality of relationships among organised groups of human beings or animals;\n•  a system of human organisation generating distinctive cultural patterns and institutions;\n•  a system of human beings with reference to its social and economic organisation;\n•  those with whom one has companionship;\n•  an organised group of people associating for some specific purpose;\n•  a privileged class of people;\n•  the social life of such a privileged class;\n•  companionship;\n•  a small community of plants within a larger association.\nThese are very general descriptions of forms of human relationship and organisation. A sociological dictionary suggests\nthat sociologists, while accepting the above definitions, also treat it as in some ways equivalent to the nation state\n(Abercrombie \n., 2000), which in the light of globalisation and other social processes has ceased to be a simple,\net al\nsingle political entity. Globalisation is a theme that has occupied many books (Jarvis, 2007a) but it is not the processes\nof recent globalisation or global culture that are the major issues for our purposes: it is the nature of the culture of a\nsociety that is significant, and we can see that there is now no ‘pure’ single racial or ethnic culture even if there was in\nthe past. We are confronted with a global society through the media, and in most areas in which we live there are\nrepresentatives of a number of ethnic groups, so that the more general dictionary definitions might reflect the reality of\nthe society in which many, if not most, people live. It is a multicultural society and in the West it is a society that is\ndominated by the culture of modernity.\nAlthough the nation state has lost the idea of sovereign independence, governments still have certain forms of\njurisdiction over specific territories, and these countries are organised regionally and locally; they have forms of\ngovernance over the population irrespective of the different people’s ethnic origins. In this sense, society is now\nseparated from the idea of a single culture and people live in their own ‘life-worlds’, which is the term some sociologists\nprefer to convey the idea of the person in society; however, before we discuss this idea we need to look at the concept of\nculture.\nCulture\nLike the first two concepts that we have examined, culture is a word common to everyday life and so once again we will\nstart by looking at \n definitions:\nCollins English Dictionary’s\n•  the total of the inherited ideas, beliefs, values and knowledge, which constitutes the shared basis of social action;\n•  the shared traditions which are transmitted and reinforced by members of a social group;\n•  a particular civilisation;\n•  the artistic and social pursuits, expressions and tastes valued by a society;\n•  the enlightenment or refinement resulting from these pursuits;\nJarvis, Peter. Learning to Be a Person in Society, Taylor & Francis Group, 2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?docID=981931.\nCreated from snulibrary-ebooks on 2026-10-08 03:48:10.\nCopyright © 2009. Taylor & Francis Group. All rights reserved.\nEbook pages 14-29 | Printed page 4 of 11\n",
+      "translationText": "이 일반적인 개념의 복잡성은 우리가 인간에 대해 가지고 있는 것과 정확히 같은 방식으로 있습니다.\n\n이것은 이 섹션의 첫 번째 부분을 구성하고, 두 번째에서는 과거에는 사회 전반적인 개념으로 여겨졌던 문화 개념을 살펴볼 것입니다.\n\n사회\n다시 한번 Collins English Dictionary를 출발점으로 삼을 수 있다.\n• 인간이나 동물의 조직된 집단들 사이에 존재하는 관계의 총체\n• 독특한 문화적 양식과 제도를 만들어 내는 인간 조직의 체계\n• 사회적·경제적 조직을 중심으로 본 인간의 체계\n• 함께 교제하는 사람들\n• 특정 목적을 위해 결합한 조직된 사람들의 집단\n• 특권을 지닌 사람들의 계층\n• 그러한 특권층의 사회생활\n• 교제\n• 더 큰 …안에 있는 소규모 식물 군집\n\n협회\n\n이것은 인간 관계와 조직의 형태에 대한 매우 일반적인 설명입니다.\n\n사회학 사전은 사회학자들이 위의 정의를 받아들이는 동시에 어떤 면에서는 국가 국가 (Abercrombie ., 2000) 와 동등하게 취급한다고 제안한다.\n\n세계화는 많은 책에서 다룬 주제이다(Jarvis, 2007a). 그러나 여기서 우리의 목적에 비추어 핵심이 되는 문제는 최근의 세계화 과정이나 세계 문화가 아니라 한 사회의 문화가 지닌 성격이다. 과거에 존재했을지는 몰라도, 오늘날에는 ‘순수한’ 단일 인종 문화나 단일 민족 문화가 없다는 점을 알 수 있다.\n\n우리는 언론을 통해 글로벌 사회에 직면하고 있습니다. 우리가 살고 있는 대부분의 지역에서는 여러 민족의 대표자들이 있습니다. 그래서 더 일반적인 사전 정의는 많은 사람들이 살고 있는 사회의 현실을 반영할 수 있습니다.\n\n그것은 다문화적인 사회이고 서양에서는 현대 문화가 지배하는 사회입니다.\n\n국가 국가는 주권 독립의 아이디어를 잃었지만, 정부는 여전히 특정 영토에 대한 특정 형태의 관할권을 가지고 있으며, 이러한 국가들은 지역 및 지역적으로 조직되어 있습니다. 그들은 다른 사람들의 민족적 기원에 관계없이 인구에 대한 통치 형태를 가지고 있습니다.\n\n이런 의미에서 사회는 이제 하나의 문화의 생각에서 분리되어 있고 사람들은 그들 자신의 \"생명 세계\"에서 살고 있습니다. 사회학자들은 사회에서의 사람의 아이디어를 전달하는 것을 선호합니다. 그러나 우리는 이 아이디어를 논의하기 전에 문화의 개념을 살펴볼 필요가 있습니다.\n\n문화는 우리가 본 두 가지 개념과 마찬가지로 일상 생활에 공통된 단어이기 때문에 다시 한번 정의를 살펴볼 것입니다: 콜린스 영어 사전s • 사회적 행동의 공유 기반을 구성하는 상속된 아이디어, 신념, 가치 및 지식의 총체; • 사회 집단의 구성원들에 의해 전달되고 강화되는 공유된 전통; • 특정 문명; • 사회에서 가치있는 예술적 및 사회적 추구, 표현 및 취향; • 깨달음 또는\n\n이러한 추구로 인한 정밀화.\n\n사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009\n\n이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?\n\n문명: 981931\n\n2026년 10월 08일 03:48:10.\n\n저작권 © 2009.\n\n테일러 앤 프랜시스 그룹\n\n모든 권리가 있습니다.\n\n전자책 14~29페이지 인쇄된 11장의 4페이지",
+      "status": "translated",
+      "sourceTextSha256": "8181b45eeb9e5f4b6f9648a5dcf97cbcb69f9afcc5ab31ff240bda9f9b596372",
+      "segments": [
+        {
+          "source": "complexities of this common concept in precisely the same way as we have for person.",
+          "translation": "이 일반적인 개념의 복잡성은 우리가 인간에 대해 가지고 있는 것과 정확히 같은 방식으로 있습니다."
+        },
+        {
+          "source": "This will form the first part of this section and in the second we will examine the concept of culture, which has been regarded in the past as something that is society-wide.",
+          "translation": "이것은 이 섹션의 첫 번째 부분을 구성하고, 두 번째에서는 과거에는 사회 전반적인 개념으로 여겨졌던 문화 개념을 살펴볼 것입니다."
+        },
+        {
+          "source": "Society Once more provides a starting point: Collins English Dictionary • the totality of relationships among organised groups of human beings or animals; • a system of human organisation generating distinctive cultural patterns and institutions; • a system of human beings with reference to its social and economic organisation; • those with whom one has companionship; • an organised group of people associating for some specific purpose; • a privileged class of people; • the social life of such a privileged class; • companionship; • a small community of plants within a larger",
+          "translation": "사회\n다시 한번 Collins English Dictionary를 출발점으로 삼을 수 있다.\n• 인간이나 동물의 조직된 집단들 사이에 존재하는 관계의 총체\n• 독특한 문화적 양식과 제도를 만들어 내는 인간 조직의 체계\n• 사회적·경제적 조직을 중심으로 본 인간의 체계\n• 함께 교제하는 사람들\n• 특정 목적을 위해 결합한 조직된 사람들의 집단\n• 특권을 지닌 사람들의 계층\n• 그러한 특권층의 사회생활\n• 교제\n• 더 큰 …안에 있는 소규모 식물 군집",
+          "reviewed": true
+        },
+        {
+          "source": "association.",
+          "translation": "협회"
+        },
+        {
+          "source": "These are very general descriptions of forms of human relationship and organisation.",
+          "translation": "이것은 인간 관계와 조직의 형태에 대한 매우 일반적인 설명입니다."
+        },
+        {
+          "source": "A sociological dictionary suggests that sociologists, while accepting the above definitions, also treat it as in some ways equivalent to the nation state (Abercrombie ., 2000), which in the light of globalisation and other social processes has ceased to be a simple, et al single political entity.",
+          "translation": "사회학 사전은 사회학자들이 위의 정의를 받아들이는 동시에 어떤 면에서는 국가 국가 (Abercrombie ., 2000) 와 동등하게 취급한다고 제안한다."
+        },
+        {
+          "source": "Globalisation is a theme that has occupied many books (Jarvis, 2007a) but it is not the processes of recent globalisation or global culture that are the major issues for our purposes: it is the nature of the culture of a society that is significant, and we can see that there is now no ‘pure’ single racial or ethnic culture even if there was in the past.",
+          "translation": "세계화는 많은 책에서 다룬 주제이다(Jarvis, 2007a). 그러나 여기서 우리의 목적에 비추어 핵심이 되는 문제는 최근의 세계화 과정이나 세계 문화가 아니라 한 사회의 문화가 지닌 성격이다. 과거에 존재했을지는 몰라도, 오늘날에는 ‘순수한’ 단일 인종 문화나 단일 민족 문화가 없다는 점을 알 수 있다.",
+          "reviewed": true
+        },
+        {
+          "source": "We are confronted with a global society through the media, and in most areas in which we live there are representatives of a number of ethnic groups, so that the more general dictionary definitions might reflect the reality of the society in which many, if not most, people live.",
+          "translation": "우리는 언론을 통해 글로벌 사회에 직면하고 있습니다. 우리가 살고 있는 대부분의 지역에서는 여러 민족의 대표자들이 있습니다. 그래서 더 일반적인 사전 정의는 많은 사람들이 살고 있는 사회의 현실을 반영할 수 있습니다."
+        },
+        {
+          "source": "It is a multicultural society and in the West it is a society that is dominated by the culture of modernity.",
+          "translation": "그것은 다문화적인 사회이고 서양에서는 현대 문화가 지배하는 사회입니다."
+        },
+        {
+          "source": "Although the nation state has lost the idea of sovereign independence, governments still have certain forms of jurisdiction over specific territories, and these countries are organised regionally and locally; they have forms of governance over the population irrespective of the different people’s ethnic origins.",
+          "translation": "국가 국가는 주권 독립의 아이디어를 잃었지만, 정부는 여전히 특정 영토에 대한 특정 형태의 관할권을 가지고 있으며, 이러한 국가들은 지역 및 지역적으로 조직되어 있습니다. 그들은 다른 사람들의 민족적 기원에 관계없이 인구에 대한 통치 형태를 가지고 있습니다."
+        },
+        {
+          "source": "In this sense, society is now separated from the idea of a single culture and people live in their own ‘life-worlds’, which is the term some sociologists prefer to convey the idea of the person in society; however, before we discuss this idea we need to look at the concept of culture.",
+          "translation": "이런 의미에서 사회는 이제 하나의 문화의 생각에서 분리되어 있고 사람들은 그들 자신의 \"생명 세계\"에서 살고 있습니다. 사회학자들은 사회에서의 사람의 아이디어를 전달하는 것을 선호합니다. 그러나 우리는 이 아이디어를 논의하기 전에 문화의 개념을 살펴볼 필요가 있습니다."
+        },
+        {
+          "source": "Culture Like the first two concepts that we have examined, culture is a word common to everyday life and so once again we will start by looking at definitions: Collins English Dictionary’s • the total of the inherited ideas, beliefs, values and knowledge, which constitutes the shared basis of social action; • the shared traditions which are transmitted and reinforced by members of a social group; • a particular civilisation; • the artistic and social pursuits, expressions and tastes valued by a society; • the enlightenment or",
+          "translation": "문화는 우리가 본 두 가지 개념과 마찬가지로 일상 생활에 공통된 단어이기 때문에 다시 한번 정의를 살펴볼 것입니다: 콜린스 영어 사전s • 사회적 행동의 공유 기반을 구성하는 상속된 아이디어, 신념, 가치 및 지식의 총체; • 사회 집단의 구성원들에 의해 전달되고 강화되는 공유된 전통; • 특정 문명; • 사회에서 가치있는 예술적 및 사회적 추구, 표현 및 취향; • 깨달음 또는"
+        },
+        {
+          "source": "refinement resulting from these pursuits; Jarvis, Peter.",
+          "translation": "이러한 추구로 인한 정밀화."
+        },
+        {
+          "source": "Learning to Be a Person in Society, Taylor & Francis Group, 2009.",
+          "translation": "사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009"
+        },
+        {
+          "source": "ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?",
+          "translation": "이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?"
+        },
+        {
+          "source": "docID=981931.",
+          "translation": "문명: 981931"
+        },
+        {
+          "source": "Created from snulibrary-ebooks on 2026-10-08 03:48:10.",
+          "translation": "2026년 10월 08일 03:48:10."
+        },
+        {
+          "source": "Copyright © 2009.",
+          "translation": "저작권 © 2009."
+        },
+        {
+          "source": "Taylor & Francis Group.",
+          "translation": "테일러 앤 프랜시스 그룹"
+        },
+        {
+          "source": "All rights reserved.",
+          "translation": "모든 권리가 있습니다."
+        },
+        {
+          "source": "Ebook pages 14-29 | Printed page 4 of 11",
+          "translation": "전자책 14~29페이지 인쇄된 11장의 4페이지"
+        }
+      ],
+      "unitId": "page-4",
+      "unitLabel": "PDF 4쪽"
+    },
+    {
+      "page": 5,
+      "sourceText": "•  the cultivation of plants;\n•  the experimental growth of micro-organisms …\n(There are several other usages given in the dictionary – all referring to topics that do not concern this study, such as\nagriculture.)\nOnce again, this is not a reifiable concept although there is a tendency to treat it as a thing. It is about practices and\nbeliefs and values, and so on. When we turn to the sociological dictionary (Abercrombie \n., 2000) we find a more\net al\ncomplex discussion, but one essential to our study. Culture is:\n•  contrasted with the biological – the non-biological aspects of human society;\n•  contrasted with nature – it is to do with civilisation rather than barbarism;\n•  contrasted with structure – it is the social cement which keeps the institutions of society intact;\n•  contrasted with the material – it is the realm of beliefs etc. influenced by society’s substructure;\n•  a way of life – each society had a common culture;\n•  contrasts between ways of life – high and popular culture, with the former being elitist.\nThe widest of these definitions contrasts culture to the biological and so we will adopt this wide definition here –\nculture is ‘the word we give to … (the) world of images, stories, objects and ways of acting to which we have recourse\nin our struggle to exist. But culture is not what determines the acting, or the need to act. These are existential\nimperatives’ (Jackson, 2005: 103). The obvious point to make here is that the person is a combination of these broad\nperspectives – both biological and cultural – and the study of both is important for us if we are to begin to understand\nhuman learning. Gehlen (1988: 29) reached a similar conclusion from an anthropological perspective years earlier when\nhe wrote (italics in original):\nIn order to survive, he [humankind] must master and recreate nature, and for this reason man must \n the\nexperience\nworld. He acts because he is unspecialized and deprived of a natural environment to which he is adapted. The\nepitome of nature restructured to serve his needs is called \n and the culture world is the human world …\nculture\nCulture, therefore, is ‘second nature’ – man’s restructured nature.\nBut unlike the animals, humans may have minimal instincts although they have many predispositions and inclinations\nas a result of their evolution and their learning in the womb and so they have to learn this second nature and pass it on\nfrom generation to generation, so that children’s education is often seen as transmitting the most worthwhile knowledge\nfrom one generation to the succeeding one. In this sense, education is ‘from above’ since the dominant forces in the\nolder generation decide what should be included in the curriculum – one way of viewing curriculum is that it is a\nselection from culture. However, culture does not remain a static phenomenon, and Wexler (2006: 185) suggests\nhistorically culture would have remained rudimentary until the advent of a developed language. Tomasello (1999: 5) has\nargued:\nBasically none of the most complex human artefacts or practices – including tool industries, symbolic\ncommunication, and social institutions – were invented once and for all at a single moment by any one individual or\ngroup of individuals. Rather, what happened was that some individual or group first invented a primitive version of\nthe artefact or practice, and then some later user or users made a modification or ‘improvement,’ that others then\nJarvis, Peter. Learning to Be a Person in Society, Taylor & Francis Group, 2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?docID=981931.\nCreated from snulibrary-ebooks on 2026-10-08 03:48:10.\nCopyright © 2009. Taylor & Francis Group. All rights reserved.\nEbook pages 14-29 | Printed page 5 of 11\n",
+      "translationText": "• 식물의 재배, • 미생물들의 실험적 성장... (언어사에서 다른 여러 가지 사용이 있습니다. 모두 이 연구와 관련되지 않는 주제에 관한 것입니다. 농업과 같은.)\n\n그것은 관습과 신념과 가치관 등에 관한 것입니다.\n\n사회학 사전 (Abercrombie ., 2000) 를 보면 좀 더 복잡한 논의가 있지만 우리의 연구에 필수적인 논의가 있습니다.\n\n문화는 다음과 같이 이해된다.\n• 생물학적인 것과 대비된다. 인간 사회의 비생물학적 측면이다.\n• 자연과 대비된다. 야만보다는 문명과 관련된다.\n• 구조와 대비된다. 사회의 제도들이 온전히 유지되도록 결속하는 사회적 접착제이다.\n• 물질적인 것과 대비된다. 사회의 하부구조에 영향을 받는 신념 등의 영역이다.\n• 하나의 생활 방식이다. 각 사회에는 공통 문화가 있었다.\n• 생활 방식들 사이의 대비를 나타낸다. 고급문화와 대중문화 등이 그 예이다.\n\n전자는 엘리트주의자였죠.\n\n이 정의들 중 가장 넓은 것은 문화와 생물학적 것을 대조하고 따라서 우리는 이 넓은 정의를 채택할 것입니다. 문화는 우리가 존재하기 위해 투쟁하는 이미지, 이야기, 물체 및 행동 방식의 세계에 의존하는 단어입니다. 그러나 문화는 행동이나 행동의 필요성을 결정하는 것이 아닙니다. 이것들은 실존적 요구 사항입니다. (잭슨, 2005: 103).\n\n여기서 명백하게 지적해야 할 점은 사람이 이러한 광범위한 관점의 조합이라는 것입니다. 생물학적과 문화적 양쪽 모두입니다. 그리고 인간의 학습을 이해하기 위해서는 두 가지의 연구는 우리에게 중요합니다.\n\n게헬렌 (1988:29) 은 몇 년 전 에 인류학적 관점에서 비슷한 결론 을 내렸으며 (원래의 일탈릭) 이 이렇게 썼습니다. 생존하기 위해, 그는 [인간]은 자연을 숙달하고 재창조해야 하며, 이 때문에 인간은 세상을 경험해야 합니다.\n\n그가 행동하는 이유는 그가 특화되지 않았기 때문이고 그가 적응한 자연환경으로부터 박탈당했기 때문입니다.\n\n그의 필요를 충족시키기 위해 재구성된 자연의 형상이라고 불립니다. 문화 세계는 인간의 세계입니다. 문화 문화는 따라서 인간의 재구성 된 자연입니다.\n\n하지만 동물과 달리 인간은 최소한의 본능을 가지고 있지만 진화와 자궁에서의 학습의 결과로 많은 성향과 성향을 가지고 있습니다. 그래서 그들은 이 두 번째 자연을 배우고 세대에서 세대로 전달해야 합니다. 그래서 아이들의 교육은 종종 가장 가치있는 지식을 한 세대에서 다음 세대로 전달하는 것으로 간주됩니다.\n\n이러한 의미에서 교육은  위에서, 왜냐하면 노인 세대에서 지배적인 세력이 교육과정에 무엇을 포함해야 하는지 결정하기 때문에 교육과정을 보는 방법 중 하나는 문화에서 선택된다는 것입니다.\n\n그러나 문화는 정적 현상으로 남아 있지 않으며, 벡슬러 (2006: 185) 는 역사적으로 문화는 발달된 언어의 등장까지 원시적인 것으로 남아있을 것이라고 제안합니다.\n\n토마셀로 (1999: 5) 는 이렇게 주장했습니다. 도구 산업, 상징적 의사소통 및 사회적 기관을 포함한 가장 복잡한 인간 유물이나 관습은 기본적으로 어떤 개인이나 집단이 한 순간에 한 번이나 영원히 발명되지 않았습니다.\n\n오히려 어떤 개인이나 집단이 먼저 유물이나 실습의 원시적인 버전을 발명했고, 나중에 어떤 사용자나 사용자는 수정이나 개선을 했고, 다른 사람들은 그 후에 Jarvis, Peter를 만들었습니다.\n\n사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009\n\n이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?\n\n문명: 981931\n\n2026년 10월 08일 03:48:10.\n\n저작권 © 2009.\n\n테일러 앤 프랜시스 그룹\n\n모든 권리가 있습니다.\n\n전자책 14~29 페이지 인쇄된 11장의 5페이지",
+      "status": "translated",
+      "sourceTextSha256": "0909360c64f6bc30e3d97b9b6c1ad9b6ca432f8b8fb15c80a09db8cc1437898a",
+      "segments": [
+        {
+          "source": "• the cultivation of plants; • the experimental growth of micro-organisms … (There are several other usages given in the dictionary – all referring to topics that do not concern this study, such as agriculture.) Once again, this is not a reifiable concept although there is a tendency to treat it as a thing.",
+          "translation": "• 식물의 재배, • 미생물들의 실험적 성장... (언어사에서 다른 여러 가지 사용이 있습니다. 모두 이 연구와 관련되지 않는 주제에 관한 것입니다. 농업과 같은.)"
+        },
+        {
+          "source": "It is about practices and beliefs and values, and so on.",
+          "translation": "그것은 관습과 신념과 가치관 등에 관한 것입니다."
+        },
+        {
+          "source": "When we turn to the sociological dictionary (Abercrombie ., 2000) we find a more et al complex discussion, but one essential to our study.",
+          "translation": "사회학 사전 (Abercrombie ., 2000) 를 보면 좀 더 복잡한 논의가 있지만 우리의 연구에 필수적인 논의가 있습니다."
+        },
+        {
+          "source": "Culture is: • contrasted with the biological – the non-biological aspects of human society; • contrasted with nature – it is to do with civilisation rather than barbarism; • contrasted with structure – it is the social cement which keeps the institutions of society intact; • contrasted with the material – it is the realm of beliefs etc. influenced by society’s substructure; • a way of life – each society had a common culture; • contrasts between ways of life – high and popular culture,",
+          "translation": "문화는 다음과 같이 이해된다.\n• 생물학적인 것과 대비된다. 인간 사회의 비생물학적 측면이다.\n• 자연과 대비된다. 야만보다는 문명과 관련된다.\n• 구조와 대비된다. 사회의 제도들이 온전히 유지되도록 결속하는 사회적 접착제이다.\n• 물질적인 것과 대비된다. 사회의 하부구조에 영향을 받는 신념 등의 영역이다.\n• 하나의 생활 방식이다. 각 사회에는 공통 문화가 있었다.\n• 생활 방식들 사이의 대비를 나타낸다. 고급문화와 대중문화 등이 그 예이다.",
+          "reviewed": true
+        },
+        {
+          "source": "with the former being elitist.",
+          "translation": "전자는 엘리트주의자였죠."
+        },
+        {
+          "source": "The widest of these definitions contrasts culture to the biological and so we will adopt this wide definition here – culture is ‘the word we give to … (the) world of images, stories, objects and ways of acting to which we have recourse in our struggle to exist. But culture is not what determines the acting, or the need to act. These are existential imperatives’ (Jackson, 2005: 103).",
+          "translation": "이 정의들 중 가장 넓은 것은 문화와 생물학적 것을 대조하고 따라서 우리는 이 넓은 정의를 채택할 것입니다. 문화는 우리가 존재하기 위해 투쟁하는 이미지, 이야기, 물체 및 행동 방식의 세계에 의존하는 단어입니다. 그러나 문화는 행동이나 행동의 필요성을 결정하는 것이 아닙니다. 이것들은 실존적 요구 사항입니다. (잭슨, 2005: 103)."
+        },
+        {
+          "source": "The obvious point to make here is that the person is a combination of these broad perspectives – both biological and cultural – and the study of both is important for us if we are to begin to understand human learning.",
+          "translation": "여기서 명백하게 지적해야 할 점은 사람이 이러한 광범위한 관점의 조합이라는 것입니다. 생물학적과 문화적 양쪽 모두입니다. 그리고 인간의 학습을 이해하기 위해서는 두 가지의 연구는 우리에게 중요합니다."
+        },
+        {
+          "source": "Gehlen (1988: 29) reached a similar conclusion from an anthropological perspective years earlier when he wrote (italics in original): In order to survive, he [humankind] must master and recreate nature, and for this reason man must the experience world.",
+          "translation": "게헬렌 (1988:29) 은 몇 년 전 에 인류학적 관점에서 비슷한 결론 을 내렸으며 (원래의 일탈릭) 이 이렇게 썼습니다. 생존하기 위해, 그는 [인간]은 자연을 숙달하고 재창조해야 하며, 이 때문에 인간은 세상을 경험해야 합니다."
+        },
+        {
+          "source": "He acts because he is unspecialized and deprived of a natural environment to which he is adapted.",
+          "translation": "그가 행동하는 이유는 그가 특화되지 않았기 때문이고 그가 적응한 자연환경으로부터 박탈당했기 때문입니다."
+        },
+        {
+          "source": "The epitome of nature restructured to serve his needs is called and the culture world is the human world … culture Culture, therefore, is ‘second nature’ – man’s restructured nature.",
+          "translation": "그의 필요를 충족시키기 위해 재구성된 자연의 형상이라고 불립니다. 문화 세계는 인간의 세계입니다. 문화 문화는 따라서 인간의 재구성 된 자연입니다."
+        },
+        {
+          "source": "But unlike the animals, humans may have minimal instincts although they have many predispositions and inclinations as a result of their evolution and their learning in the womb and so they have to learn this second nature and pass it on from generation to generation, so that children’s education is often seen as transmitting the most worthwhile knowledge from one generation to the succeeding one.",
+          "translation": "하지만 동물과 달리 인간은 최소한의 본능을 가지고 있지만 진화와 자궁에서의 학습의 결과로 많은 성향과 성향을 가지고 있습니다. 그래서 그들은 이 두 번째 자연을 배우고 세대에서 세대로 전달해야 합니다. 그래서 아이들의 교육은 종종 가장 가치있는 지식을 한 세대에서 다음 세대로 전달하는 것으로 간주됩니다."
+        },
+        {
+          "source": "In this sense, education is ‘from above’ since the dominant forces in the older generation decide what should be included in the curriculum – one way of viewing curriculum is that it is a selection from culture.",
+          "translation": "이러한 의미에서 교육은  위에서, 왜냐하면 노인 세대에서 지배적인 세력이 교육과정에 무엇을 포함해야 하는지 결정하기 때문에 교육과정을 보는 방법 중 하나는 문화에서 선택된다는 것입니다."
+        },
+        {
+          "source": "However, culture does not remain a static phenomenon, and Wexler (2006: 185) suggests historically culture would have remained rudimentary until the advent of a developed language.",
+          "translation": "그러나 문화는 정적 현상으로 남아 있지 않으며, 벡슬러 (2006: 185) 는 역사적으로 문화는 발달된 언어의 등장까지 원시적인 것으로 남아있을 것이라고 제안합니다."
+        },
+        {
+          "source": "Tomasello (1999: 5) has argued: Basically none of the most complex human artefacts or practices – including tool industries, symbolic communication, and social institutions – were invented once and for all at a single moment by any one individual or group of individuals.",
+          "translation": "토마셀로 (1999: 5) 는 이렇게 주장했습니다. 도구 산업, 상징적 의사소통 및 사회적 기관을 포함한 가장 복잡한 인간 유물이나 관습은 기본적으로 어떤 개인이나 집단이 한 순간에 한 번이나 영원히 발명되지 않았습니다."
+        },
+        {
+          "source": "Rather, what happened was that some individual or group first invented a primitive version of the artefact or practice, and then some later user or users made a modification or ‘improvement,’ that others then Jarvis, Peter.",
+          "translation": "오히려 어떤 개인이나 집단이 먼저 유물이나 실습의 원시적인 버전을 발명했고, 나중에 어떤 사용자나 사용자는 수정이나 개선을 했고, 다른 사람들은 그 후에 Jarvis, Peter를 만들었습니다."
+        },
+        {
+          "source": "Learning to Be a Person in Society, Taylor & Francis Group, 2009.",
+          "translation": "사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009"
+        },
+        {
+          "source": "ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?",
+          "translation": "이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?"
+        },
+        {
+          "source": "docID=981931.",
+          "translation": "문명: 981931"
+        },
+        {
+          "source": "Created from snulibrary-ebooks on 2026-10-08 03:48:10.",
+          "translation": "2026년 10월 08일 03:48:10."
+        },
+        {
+          "source": "Copyright © 2009.",
+          "translation": "저작권 © 2009."
+        },
+        {
+          "source": "Taylor & Francis Group.",
+          "translation": "테일러 앤 프랜시스 그룹"
+        },
+        {
+          "source": "All rights reserved.",
+          "translation": "모든 권리가 있습니다."
+        },
+        {
+          "source": "Ebook pages 14-29 | Printed page 5 of 11",
+          "translation": "전자책 14~29 페이지 인쇄된 11장의 5페이지"
+        }
+      ],
+      "unitId": "page-5",
+      "unitLabel": "PDF 5쪽"
+    },
+    {
+      "page": 6,
+      "sourceText": "adopted perhaps without change for many generations, at which point some other individual or group of individuals\nmade another modification, which was then learned and used by others, and so on over historical time in what has\nsometimes been dubbed ‘the ratchet effect’.\nHence, culture has undergone a process of cumulative evolution but, although it differs between East and West, it\nremains all the knowledge, skills, attitudes, beliefs, values and emotions that we, as human beings, have added to our\nbiological base and which we externalise as a result of our learning. Culture is a social phenomenon; it is what we as a\nsociety, or a people, share and which enables us to live as society. In order for a society to survive, it is necessary that\nwe should each learn our own culture and appreciate the cultures of others. Learning, then, becomes necessary for the\nsurvival of societies and in the process we, as human beings, learn to be.\nBut culture differs from country to country, although some of the main cultural differences are between those which\nstem from the Judeo-Greek–European heritage countries, i.e. Western civilisation, and those that emanate from\nConfucian heritage countries, i.e. Eastern civilisation. Nisbett (2003: xv) notes that before he started his studies into\ncomparative cultures he had assumed universality and hard-wiring of the brain, and so he was very surprised when there\nwere major differences between countries and that individuals could be trained: his studies led to the significant\nconclusion: ‘Human cognition is not everywhere the same’ (ibid.: xvii) and these cultural groupings have significant\ndifferences. This conclusion is also echoed by Donald (2001: 274), when he suggests that language ‘is a collective\nproduct and must have evolved as a group adaptation in the context of mimetic, expressive culture’. Such conclusions\nare fundamentally significant for learning theory.\nCulture, then, is society-wide or at least social group- or ethnic group-wide, so that we can talk of British culture,\nAmerican culture, Chinese culture, and so on, but they are no longer ‘pure’ because as a result of migration, the media,\ntravel, and so on, the cultures of the world are dissipated and fused together in different ways in different parts of each\ncountry. Globalisation and rapid social change have affected the nature of society, and most societies are now\nmulticultural. We all live in multicultural life-worlds that are gradually reflecting the locality, so that there is a certain\nmyth about the unity of culture, which is the danger of reification to which we alluded above. Archer (1988) calls this\nthe myth of cultural integration, and she goes on to show why she considers it a myth, although we may individually and\nsubjectively integrate those cultures to which we are exposed through our learning processes – but we integrate them\ninto our own biographies. We are aware of the fact that because of industrialisation, globalisation, migration, and so on,\ncultural homogeneity is probably restricted to pre-industrial peoples and small rural communities. Consequently, a\nnumber of different cultures exist in most urban societies in the West that are now regarded as multicultural and this\nphenomenon is exacerbated by the media. This might well result in some persons not acquiring the same sense of\nsecurity, sense of community membership and self-identity as people did in previous generations, which, in turn, has\ngiven rise to identity crisis, what Giddens (1991) refers to as ‘existential anxiety’.\nIt is also necessary to recognise that within complex societies there are different lifestyles, patterns of social living,\norganisations and so on, so that it is common practice to refer to the cultures of subgroups or sections of society as\nsubcultures. Consequently, we can talk of the subculture of the school or the subculture of the work organisation, and so\non, and now we can begin to see why sociologists have so many different perspectives on culture.\nPart 3: The person in society\nPeople no longer live in a single cultural society: they live in life-worlds which consist of a unique combination of\ncultural practices, depending on where people live and on their social position – amongst other things. Society is a\nJarvis, Peter. Learning to Be a Person in Society, Taylor & Francis Group, 2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?docID=981931.\nCreated from snulibrary-ebooks on 2026-10-08 03:48:10.\nCopyright © 2009. Taylor & Francis Group. All rights reserved.\nEbook pages 14-29 | Printed page 6 of 11\n",
+      "translationText": "아마도 여러 세대에 걸쳐 변화 없이 채택되었는데, 그 시점에는 다른 개인이나 집단이 또 다른 변화를 일으켰고, 그 후 다른 사람들이 학습하고 사용하게 되었으며, 역사적인 시간에 걸쳐서 래시트 효과라고 불리기도 했습니다.\n\n따라서 문화는 축적된 진화 과정을 거쳤지만, 동서양의 차이에도 불구하고, 그것은 우리가 인간으로서 우리의 생물학적 기반에 추가한 모든 지식, 기술, 태도, 신념, 가치 및 감정이 남아 있으며, 우리의 학습의 결과로 외부화됩니다.\n\n문화는 사회적 현상입니다. 사회나 민족으로서 우리가 공유하고 사회로 살아갈 수 있게 하는 것입니다.\n\n사회가 살아남기 위해서는 우리 각자가 우리 자신의 문화를 배우고 다른 사람들의 문화를 소중히 여기는 것이 필요합니다.\n\n따라서 학습은 사회의 생존을 위해 필요하게 되고 그 과정에서 우리는 인간으로서\n\n그러나 문화는 국가마다 다르지만, 주요 문화적 차이점은 유대-그리스·유럽 문화유산 국가, 즉 서양 문명에서 비롯된 문화와 콘푸시우스 문화유산 국가에서 비롯된 문화, 즉 동양 문명 사이에 있습니다.\n\n니스베트 (2003: xv) 는 비교 문화에 대한 연구를 시작하기 전에 그는 보편성과 뇌의 하드 와이어링을 가정했으며, 따라서 국가들 사이에 큰 차이가 있고 개인이 훈련받을 수 있다는 것을 매우 놀라웠다고 지적합니다. 그의 연구는 중요한 결론으로 이어졌습니다.\n\n이 결론은 도널드 (2001: 274) 에서도 반복된다. 그는 언어는 집단적인 제품이며 모형적이고 표현적인 문화의 맥락에서 집단적 적응으로 진화한 것이어야 한다고 제안한다.\n\n이러한 결론은 학습 이론에 근본적으로 중요합니다.\n\n문화는 사회 전체 또는 적어도 사회 집단 또는 민족 집단 전체입니다. 그래서 우리는 영국 문화, 미국 문화, 중국 문화 등에 대해 이야기 할 수 있습니다. 하지만 그들은 더 이상 순수하지 않습니다. 왜냐하면 이주, 미디어, 여행 등으로 인해 세계의 문화가 각 나라의 다른 지역에서 서로 다른 방식으로 흩어지고 합쳐지기 때문입니다.\n\n세계화와 급속한 사회 변화는 사회의 본질에 영향을 미쳤고 대부분의 사회는 이제 다문화적입니다.\n\n우리 모두는 다문화적인 삶의 세계 속에서 살고 있습니다. 그 지역은 점차적으로 반영되고 있습니다. 그래서 문화의 통일에 대한 특정 신화가 있습니다.\n\n아처 (1988) 는 이것을 문화적 통합의 신화라고 부릅니다. 그녀는 왜 그것을 신화라고 생각하는지 보여줍니다. 비록 우리는 우리의 학습 과정을 통해 우리가 노출되는 문화들을 개별적이고 주관적으로 통합할 수 있지만, 우리는 그것들을 우리 자신의 생애에 통합합니다.\n\n우리는 산업화, 세계화, 이주 등으로 인해 문화적 균일성은 아마도 산업 이전 민족과 작은 농촌 지역사회에 국한되어 있다는 사실을 알고 있습니다.\n\n따라서 서구의 대부분의 도시 사회에는 여러 가지 다른 문화가 존재하며, 현재는 다문화적이라고 여겨지고 있으며, 이러한 현상은 언론에 의해 더욱 심화되고 있습니다.\n\n이것은 어떤 사람들이 이전 세대와 같은 안전감, 공동체 구성원감 및 자기 정체성을 획득하지 못하도록 초래할 수 있습니다. 이는 결과적으로 정체성 위기를 초래했습니다.\n\n또한 복잡한 사회 내에서 다양한 생활양식, 사회 생활 패턴, 조직 등이 존재한다는 것을 인정하는 것이 필요하기 때문에 하위 집단이나 사회 부류의 문화를 하위 문화라고 부르는 것이 일반적인 관행이다.\n\n따라서 우리는 학교의 자문화나 노동 조직의 자문화에 대해 이야기할 수 있습니다. 그리고 이제 우리는 사회학자들이 문화에 대해 왜 이렇게 다양한 관점을 가지고 있는지 알 수 있습니다.\n\n3부: 사회에서의 개인 사람들은 더 이상 하나의 문화 사회에서 살고 있지 않습니다. 그들은 다른 것들 중 사람들이 살고 있는 곳과 사회적 위치에 따라 문화 관행의 독특한 조합으로 구성된 생활세계에서 살고 있습니다.\n\n사회는 자르비스야, 피터\n\n사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009\n\n이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?\n\n문명: 981931\n\n2026년 10월 08일 03:48:10.\n\n저작권 © 2009.\n\n테일러 앤 프랜시스 그룹\n\n모든 권리가 있습니다.\n\n전자책 14~29페이지 인쇄된 11장의 6페이지",
+      "status": "translated",
+      "sourceTextSha256": "6b05d2ef8116d47f250e7f0ad418739d23100d97a1ead1379d540f118750d3ef",
+      "segments": [
+        {
+          "source": "adopted perhaps without change for many generations, at which point some other individual or group of individuals made another modification, which was then learned and used by others, and so on over historical time in what has sometimes been dubbed ‘the ratchet effect’.",
+          "translation": "아마도 여러 세대에 걸쳐 변화 없이 채택되었는데, 그 시점에는 다른 개인이나 집단이 또 다른 변화를 일으켰고, 그 후 다른 사람들이 학습하고 사용하게 되었으며, 역사적인 시간에 걸쳐서 래시트 효과라고 불리기도 했습니다."
+        },
+        {
+          "source": "Hence, culture has undergone a process of cumulative evolution but, although it differs between East and West, it remains all the knowledge, skills, attitudes, beliefs, values and emotions that we, as human beings, have added to our biological base and which we externalise as a result of our learning.",
+          "translation": "따라서 문화는 축적된 진화 과정을 거쳤지만, 동서양의 차이에도 불구하고, 그것은 우리가 인간으로서 우리의 생물학적 기반에 추가한 모든 지식, 기술, 태도, 신념, 가치 및 감정이 남아 있으며, 우리의 학습의 결과로 외부화됩니다."
+        },
+        {
+          "source": "Culture is a social phenomenon; it is what we as a society, or a people, share and which enables us to live as society.",
+          "translation": "문화는 사회적 현상입니다. 사회나 민족으로서 우리가 공유하고 사회로 살아갈 수 있게 하는 것입니다."
+        },
+        {
+          "source": "In order for a society to survive, it is necessary that we should each learn our own culture and appreciate the cultures of others.",
+          "translation": "사회가 살아남기 위해서는 우리 각자가 우리 자신의 문화를 배우고 다른 사람들의 문화를 소중히 여기는 것이 필요합니다."
+        },
+        {
+          "source": "Learning, then, becomes necessary for the survival of societies and in the process we, as human beings, learn to be.",
+          "translation": "따라서 학습은 사회의 생존을 위해 필요하게 되고 그 과정에서 우리는 인간으로서"
+        },
+        {
+          "source": "But culture differs from country to country, although some of the main cultural differences are between those which stem from the Judeo-Greek–European heritage countries, i.e. Western civilisation, and those that emanate from Confucian heritage countries, i.e. Eastern civilisation.",
+          "translation": "그러나 문화는 국가마다 다르지만, 주요 문화적 차이점은 유대-그리스·유럽 문화유산 국가, 즉 서양 문명에서 비롯된 문화와 콘푸시우스 문화유산 국가에서 비롯된 문화, 즉 동양 문명 사이에 있습니다."
+        },
+        {
+          "source": "Nisbett (2003: xv) notes that before he started his studies into comparative cultures he had assumed universality and hard-wiring of the brain, and so he was very surprised when there were major differences between countries and that individuals could be trained: his studies led to the significant conclusion: ‘Human cognition is not everywhere the same’ (ibid.: xvii) and these cultural groupings have significant differences.",
+          "translation": "니스베트 (2003: xv) 는 비교 문화에 대한 연구를 시작하기 전에 그는 보편성과 뇌의 하드 와이어링을 가정했으며, 따라서 국가들 사이에 큰 차이가 있고 개인이 훈련받을 수 있다는 것을 매우 놀라웠다고 지적합니다. 그의 연구는 중요한 결론으로 이어졌습니다."
+        },
+        {
+          "source": "This conclusion is also echoed by Donald (2001: 274), when he suggests that language ‘is a collective product and must have evolved as a group adaptation in the context of mimetic, expressive culture’.",
+          "translation": "이 결론은 도널드 (2001: 274) 에서도 반복된다. 그는 언어는 집단적인 제품이며 모형적이고 표현적인 문화의 맥락에서 집단적 적응으로 진화한 것이어야 한다고 제안한다."
+        },
+        {
+          "source": "Such conclusions are fundamentally significant for learning theory.",
+          "translation": "이러한 결론은 학습 이론에 근본적으로 중요합니다."
+        },
+        {
+          "source": "Culture, then, is society-wide or at least social group- or ethnic group-wide, so that we can talk of British culture, American culture, Chinese culture, and so on, but they are no longer ‘pure’ because as a result of migration, the media, travel, and so on, the cultures of the world are dissipated and fused together in different ways in different parts of each country.",
+          "translation": "문화는 사회 전체 또는 적어도 사회 집단 또는 민족 집단 전체입니다. 그래서 우리는 영국 문화, 미국 문화, 중국 문화 등에 대해 이야기 할 수 있습니다. 하지만 그들은 더 이상 순수하지 않습니다. 왜냐하면 이주, 미디어, 여행 등으로 인해 세계의 문화가 각 나라의 다른 지역에서 서로 다른 방식으로 흩어지고 합쳐지기 때문입니다."
+        },
+        {
+          "source": "Globalisation and rapid social change have affected the nature of society, and most societies are now multicultural.",
+          "translation": "세계화와 급속한 사회 변화는 사회의 본질에 영향을 미쳤고 대부분의 사회는 이제 다문화적입니다."
+        },
+        {
+          "source": "We all live in multicultural life-worlds that are gradually reflecting the locality, so that there is a certain myth about the unity of culture, which is the danger of reification to which we alluded above.",
+          "translation": "우리 모두는 다문화적인 삶의 세계 속에서 살고 있습니다. 그 지역은 점차적으로 반영되고 있습니다. 그래서 문화의 통일에 대한 특정 신화가 있습니다."
+        },
+        {
+          "source": "Archer (1988) calls this the myth of cultural integration, and she goes on to show why she considers it a myth, although we may individually and subjectively integrate those cultures to which we are exposed through our learning processes – but we integrate them into our own biographies.",
+          "translation": "아처 (1988) 는 이것을 문화적 통합의 신화라고 부릅니다. 그녀는 왜 그것을 신화라고 생각하는지 보여줍니다. 비록 우리는 우리의 학습 과정을 통해 우리가 노출되는 문화들을 개별적이고 주관적으로 통합할 수 있지만, 우리는 그것들을 우리 자신의 생애에 통합합니다."
+        },
+        {
+          "source": "We are aware of the fact that because of industrialisation, globalisation, migration, and so on, cultural homogeneity is probably restricted to pre-industrial peoples and small rural communities.",
+          "translation": "우리는 산업화, 세계화, 이주 등으로 인해 문화적 균일성은 아마도 산업 이전 민족과 작은 농촌 지역사회에 국한되어 있다는 사실을 알고 있습니다."
+        },
+        {
+          "source": "Consequently, a number of different cultures exist in most urban societies in the West that are now regarded as multicultural and this phenomenon is exacerbated by the media.",
+          "translation": "따라서 서구의 대부분의 도시 사회에는 여러 가지 다른 문화가 존재하며, 현재는 다문화적이라고 여겨지고 있으며, 이러한 현상은 언론에 의해 더욱 심화되고 있습니다."
+        },
+        {
+          "source": "This might well result in some persons not acquiring the same sense of security, sense of community membership and self-identity as people did in previous generations, which, in turn, has given rise to identity crisis, what Giddens (1991) refers to as ‘existential anxiety’.",
+          "translation": "이것은 어떤 사람들이 이전 세대와 같은 안전감, 공동체 구성원감 및 자기 정체성을 획득하지 못하도록 초래할 수 있습니다. 이는 결과적으로 정체성 위기를 초래했습니다."
+        },
+        {
+          "source": "It is also necessary to recognise that within complex societies there are different lifestyles, patterns of social living, organisations and so on, so that it is common practice to refer to the cultures of subgroups or sections of society as subcultures.",
+          "translation": "또한 복잡한 사회 내에서 다양한 생활양식, 사회 생활 패턴, 조직 등이 존재한다는 것을 인정하는 것이 필요하기 때문에 하위 집단이나 사회 부류의 문화를 하위 문화라고 부르는 것이 일반적인 관행이다."
+        },
+        {
+          "source": "Consequently, we can talk of the subculture of the school or the subculture of the work organisation, and so on, and now we can begin to see why sociologists have so many different perspectives on culture.",
+          "translation": "따라서 우리는 학교의 자문화나 노동 조직의 자문화에 대해 이야기할 수 있습니다. 그리고 이제 우리는 사회학자들이 문화에 대해 왜 이렇게 다양한 관점을 가지고 있는지 알 수 있습니다."
+        },
+        {
+          "source": "Part 3: The person in society People no longer live in a single cultural society: they live in life-worlds which consist of a unique combination of cultural practices, depending on where people live and on their social position – amongst other things.",
+          "translation": "3부: 사회에서의 개인 사람들은 더 이상 하나의 문화 사회에서 살고 있지 않습니다. 그들은 다른 것들 중 사람들이 살고 있는 곳과 사회적 위치에 따라 문화 관행의 독특한 조합으로 구성된 생활세계에서 살고 있습니다."
+        },
+        {
+          "source": "Society is a Jarvis, Peter.",
+          "translation": "사회는 자르비스야, 피터"
+        },
+        {
+          "source": "Learning to Be a Person in Society, Taylor & Francis Group, 2009.",
+          "translation": "사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009"
+        },
+        {
+          "source": "ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?",
+          "translation": "이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?"
+        },
+        {
+          "source": "docID=981931.",
+          "translation": "문명: 981931"
+        },
+        {
+          "source": "Created from snulibrary-ebooks on 2026-10-08 03:48:10.",
+          "translation": "2026년 10월 08일 03:48:10."
+        },
+        {
+          "source": "Copyright © 2009.",
+          "translation": "저작권 © 2009."
+        },
+        {
+          "source": "Taylor & Francis Group.",
+          "translation": "테일러 앤 프랜시스 그룹"
+        },
+        {
+          "source": "All rights reserved.",
+          "translation": "모든 권리가 있습니다."
+        },
+        {
+          "source": "Ebook pages 14-29 | Printed page 6 of 11",
+          "translation": "전자책 14~29페이지 인쇄된 11장의 6페이지"
+        }
+      ],
+      "unitId": "page-6",
+      "unitLabel": "PDF 6쪽"
+    },
+    {
+      "page": 7,
+      "sourceText": "combination of systems and life-worlds and the life-world is multicultural. In his discussions of the life-world,\nHabermas (1987: 117, italics in original) suggests that:\nNo matter whether one starts with Mead from basic concepts of social interaction or with Durkheim from basic\nconcepts of collective representation, in either case society is conceived from the perspective of acting subjects as\nthe \n. In contrast, from the observer’s perspective as someone not involved society can be\nlifeworld of the social group\nconceived only as a \n such that each action has a functional significance according to its contribution\nsystem of actions\nto the maintenance of the system.\nHabermas argues that societies can be conceived as both system and life-worlds, but from the learners’ perspective we\ncan take the first part of this quote although we would want to add that the life-world and the society are not the same\nphenomenon. Society consists of many overlapping and intersecting life-worlds and we all construct our own life-worlds.\nThe life-world is something to be mastered according to my particular interests. I project my plans into the life-\nworld, and it resists the realization of my goals, in terms of which some things become feasible to me and others do\nnot. From the outset, however, I find in my life-world fellow men who appear not merely as organisms but rather as\nbodies endowed with consciousness, as men ‘like me’. A fellow-man’s behaviour is not, if you will, a spatiotemporal\nevent, but rather action ‘like mine’.\n(Schutz and Luckmann, 1974: 15)\nOur life-worlds are about practical living in the everyday and so our learning is about action in a pragmatic manner in\norder to achieve certain goals and behaviours. In this sense, most of our everyday learning is action learning – learning\ntheoretical knowledge occurs at specified times, such as attending educational institutions, devoting time to reading and\nwriting, and so on: it is about primary rather than secondary experience. For the most part we are dealing with practical\nknowledge and utilising our own experience (remembered biographical learning – we will return to the topic of\nexperience in \n), and so it is not hard to see why the learning of the elders was in bygone generations regarded\nChapter 5\nas wisdom. Our life-world is one with which we are familiar and so our behaviour can be taken for granted. As Schutz\nand Luckmann (ibid.: 7) write:\nI trust that the world as it has been known by me up until now will continue further and that consequently the stock\nof knowledge obtained from my fellow-men and formed from my own experiences will continue to preserve its\nfundamental validity … From this assumption follows the further one: that I can repeat my past successful acts. So\nlong as the structure of the world can be taken as constant, as long as my previous experience is valid, my ability to\nact upon the world in this and that manner remains in principle preserved. As Husserl has shown, the further ideality\nof the ‘I can always do it again’ is developed correlative of the ideality of the ‘and so forth’.\nIn a sense, we are ‘at home’ in our life-world and we learn to take pleasure in it: we can take our world for granted\nand it is perceived to be true because we are in harmony with it and our internal and external worlds are congruent and\nwe are also at one with the individuals in our life-world – our personal community, as it were. There is a sense of unity\nand harmony – solidarity, if you like. But as we develop this personal community changes: as we go through our various\nsocialisation processes, so our horizons change and expand. Our life-world is not a static phenomenon and is dependent\nupon our own biography and our own learning. Our life-world is dependent upon our use of appropriate language and\nculture, and our own learning and as we change from one situation to another, so we find we move from one domain to\nanother. As Habermas (1987: 125) puts it:\nJarvis, Peter. Learning to Be a Person in Society, Taylor & Francis Group, 2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?docID=981931.\nCreated from snulibrary-ebooks on 2026-10-08 03:48:10.\nCopyright © 2009. Taylor & Francis Group. All rights reserved.\nEbook pages 14-29 | Printed page 7 of 11\n",
+      "translationText": "시스템과 생명세계와 생명세계의 결합은 다문화적입니다.\n\n생명세계에 대한 그의 논의에서, 하버마스 (1987: 117, 원본에서 줄기) 는 다음과 같이 제안한다: 사회 상호작용의 기본적인 개념에서 메드 또는 집단 표현의 기본 개념에서 더크헤임과 함께 시작하는 것이 상관없이, 두 경우 모두 사회는 주체로서 행동하는 관점에서 개념됩니다.\n\n반면, 사회가 관여하지 않는 사람으로서 관찰자의 관점에서 사회는 사회 집단의 생활세계가 될 수 있으며, 각각의 행위는 체계의 유지에 기여하는 행동 체계에 따라 기능적 의미를 갖는 것으로만 생각된다.\n\n하버마스는 사회는 시스템과 생명세계 모두라고 생각할 수 있다고 주장하지만, 학습자의 관점에서 우리는 이 인용구의 첫 번째 부분을 취할 수 있지만 생명세계와 사회는 같은 현상이 아니라는 것을 추가하고 싶습니다.\n\n사회는 서로 겹치는 여러 생명세계로 이루어져 있고 우리 모두는 우리 자신의 생명세계를 만들어냅니다.\n\n생명세계는 제 관심사에 따라 숙달되어야 합니다.\n\n저는 제 계획들을 삶의 세계에 투영합니다. 그리고 그것은 제 목표의 실현에 저항합니다. 어떤 것들은 저에게 실현 가능하고 다른 것들은 불가능합니다.\n\n하지만 처음부터 내 삶의 세상에는 단지 유기체일 뿐 아니라 의식이 있는 몸들, 나 같은 인간들처럼 보이는 동료들을 찾습니다.\n\n동료의 행동은 공간과 시간적인 사건이 아니라, 제 행동과 같은 행동입니다.\n\n(슈츠 와 럭만, 1974: 15)\n\n우리의 생활세계는 일상생활에서 실질적인 삶을 영위하는 것이고, 따라서 우리의 학습은 특정한 목표와 행동을 달성하기 위해 실용적인 방식으로 행동하는 것입니다.\n\n이러한 의미에서, 우리의 일상 학습의 대부분은 행동 학습입니다. 이론적 지식을 배우는 것은 특정 시간에 이루어집니다. 예를 들어, 교육 기관에 진학, 읽기 및 쓰기에 시간을 할애하는 등: 그것은 초등 rather than 중등 경험에 관한 것입니다.\n\n대부분의 경우 우리는 실무적인 지식과 자신의 경험을 활용하고 있습니다 (기억한 생체 학습  우리는 에서 경험의 주제로 돌아갑니다), 그래서 왜 이전 세대의 학부모들의 학습이 5 장을 지혜로 간주되었는지 이해하기 어렵지 않습니다.\n\n우리 삶의 세계는 우리가 익숙한 세계이기 때문에 우리의 행동은 당연한 것으로 받아들여질 수 있습니다.\n\n슈츠와 럭만 (ibid.: 7) 는 이렇게 썼습니다. \"나는 지금까지 내가 알고 있던 세상이 더 계속 지속될 것이라고 믿습니다. 따라서 내 동료들로부터 얻은 지식과 내 자신의 경험에서 형성된 지식은 그 근본적인 유효성을 계속 유지할 것입니다. ...이 가정에서 다음의 가정은 다음과 같습니다: 나는 과거의 성공적인 행동을 반복할 수 있습니다.\n\n세계의 구조가 일정하다고 여겨질 수 있는 한, 나의 이전 경험이 유효한 한, 이 방법과 그 방식으로 세상을 행동하는 나의 능력은 원칙적으로 보존되어 있습니다.\n\nHusserl가 보여준 바와 같이, I can always do it again의 추가 이상성은  등의 이상성에 상관관계가 있습니다.\n\n어떤 의미에서, 우리는 우리 삶의 세계에서 \"집에\" 있고, 그것에 즐거움을 느끼기를 배우고 있습니다. 우리는 우리의 세계를 당연하게 받아들일 수 있고, 그것이 진실이라고 인식됩니다. 왜냐하면 우리는 그것에 조화되어 있고, 우리의 내부와 외부 세계는 일치하고, 우리는 또한 우리 삶의 세계의 개인들과 함께 있습니다.\n\n통일과 조화를 느낄 수 있습니다.\n\n하지만 우리가 이 개인적인 공동체를 발전시키면서 변화합니다. 우리가 다양한 사회화 과정을 거치면서 우리의 지평은 변화하고 확장됩니다.\n\n우리 삶의 세계는 정적적인 현상이 아니라 우리 자신의 생애와 학습에 의존합니다.\n\n우리 삶의 세계는 적절한 언어와 문화를 사용하는 것과 우리 자신의 학습에 달려 있습니다. 그리고 우리는 한 상황에서 다른 상황으로 변화함에 따라, 우리는 한 영역에서 다른 영역으로 이동하는 것을 발견합니다.\n\n하버마스 (1987: 125) 의 말처럼: 자르비스, 피터.\n\n사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009\n\n이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?\n\n문명: 981931\n\n2026년 10월 08일 03:48:10.\n\n저작권 © 2009.\n\n테일러 앤 프랜시스 그룹\n\n모든 권리가 있습니다.\n\n전자책 14~29페이지",
+      "status": "translated",
+      "sourceTextSha256": "b34aaf52f765eda04ce2e0e348de57963ae64060185e2e423cccc91ce9472d4e",
+      "segments": [
+        {
+          "source": "combination of systems and life-worlds and the life-world is multicultural.",
+          "translation": "시스템과 생명세계와 생명세계의 결합은 다문화적입니다."
+        },
+        {
+          "source": "In his discussions of the life-world, Habermas (1987: 117, italics in original) suggests that: No matter whether one starts with Mead from basic concepts of social interaction or with Durkheim from basic concepts of collective representation, in either case society is conceived from the perspective of acting subjects as the .",
+          "translation": "생명세계에 대한 그의 논의에서, 하버마스 (1987: 117, 원본에서 줄기) 는 다음과 같이 제안한다: 사회 상호작용의 기본적인 개념에서 메드 또는 집단 표현의 기본 개념에서 더크헤임과 함께 시작하는 것이 상관없이, 두 경우 모두 사회는 주체로서 행동하는 관점에서 개념됩니다."
+        },
+        {
+          "source": "In contrast, from the observer’s perspective as someone not involved society can be lifeworld of the social group conceived only as a such that each action has a functional significance according to its contribution system of actions to the maintenance of the system.",
+          "translation": "반면, 사회가 관여하지 않는 사람으로서 관찰자의 관점에서 사회는 사회 집단의 생활세계가 될 수 있으며, 각각의 행위는 체계의 유지에 기여하는 행동 체계에 따라 기능적 의미를 갖는 것으로만 생각된다."
+        },
+        {
+          "source": "Habermas argues that societies can be conceived as both system and life-worlds, but from the learners’ perspective we can take the first part of this quote although we would want to add that the life-world and the society are not the same phenomenon.",
+          "translation": "하버마스는 사회는 시스템과 생명세계 모두라고 생각할 수 있다고 주장하지만, 학습자의 관점에서 우리는 이 인용구의 첫 번째 부분을 취할 수 있지만 생명세계와 사회는 같은 현상이 아니라는 것을 추가하고 싶습니다."
+        },
+        {
+          "source": "Society consists of many overlapping and intersecting life-worlds and we all construct our own life-worlds.",
+          "translation": "사회는 서로 겹치는 여러 생명세계로 이루어져 있고 우리 모두는 우리 자신의 생명세계를 만들어냅니다."
+        },
+        {
+          "source": "The life-world is something to be mastered according to my particular interests.",
+          "translation": "생명세계는 제 관심사에 따라 숙달되어야 합니다."
+        },
+        {
+          "source": "I project my plans into the lifeworld, and it resists the realization of my goals, in terms of which some things become feasible to me and others do not.",
+          "translation": "저는 제 계획들을 삶의 세계에 투영합니다. 그리고 그것은 제 목표의 실현에 저항합니다. 어떤 것들은 저에게 실현 가능하고 다른 것들은 불가능합니다."
+        },
+        {
+          "source": "From the outset, however, I find in my life-world fellow men who appear not merely as organisms but rather as bodies endowed with consciousness, as men ‘like me’.",
+          "translation": "하지만 처음부터 내 삶의 세상에는 단지 유기체일 뿐 아니라 의식이 있는 몸들, 나 같은 인간들처럼 보이는 동료들을 찾습니다."
+        },
+        {
+          "source": "A fellow-man’s behaviour is not, if you will, a spatiotemporal event, but rather action ‘like mine’.",
+          "translation": "동료의 행동은 공간과 시간적인 사건이 아니라, 제 행동과 같은 행동입니다."
+        },
+        {
+          "source": "(Schutz and Luckmann, 1974: 15)",
+          "translation": "(슈츠 와 럭만, 1974: 15)"
+        },
+        {
+          "source": "Our life-worlds are about practical living in the everyday and so our learning is about action in a pragmatic manner in order to achieve certain goals and behaviours.",
+          "translation": "우리의 생활세계는 일상생활에서 실질적인 삶을 영위하는 것이고, 따라서 우리의 학습은 특정한 목표와 행동을 달성하기 위해 실용적인 방식으로 행동하는 것입니다."
+        },
+        {
+          "source": "In this sense, most of our everyday learning is action learning – learning theoretical knowledge occurs at specified times, such as attending educational institutions, devoting time to reading and writing, and so on: it is about primary rather than secondary experience.",
+          "translation": "이러한 의미에서, 우리의 일상 학습의 대부분은 행동 학습입니다. 이론적 지식을 배우는 것은 특정 시간에 이루어집니다. 예를 들어, 교육 기관에 진학, 읽기 및 쓰기에 시간을 할애하는 등: 그것은 초등 rather than 중등 경험에 관한 것입니다."
+        },
+        {
+          "source": "For the most part we are dealing with practical knowledge and utilising our own experience (remembered biographical learning – we will return to the topic of experience in ), and so it is not hard to see why the learning of the elders was in bygone generations regarded Chapter 5 as wisdom.",
+          "translation": "대부분의 경우 우리는 실무적인 지식과 자신의 경험을 활용하고 있습니다 (기억한 생체 학습  우리는 에서 경험의 주제로 돌아갑니다), 그래서 왜 이전 세대의 학부모들의 학습이 5 장을 지혜로 간주되었는지 이해하기 어렵지 않습니다."
+        },
+        {
+          "source": "Our life-world is one with which we are familiar and so our behaviour can be taken for granted.",
+          "translation": "우리 삶의 세계는 우리가 익숙한 세계이기 때문에 우리의 행동은 당연한 것으로 받아들여질 수 있습니다."
+        },
+        {
+          "source": "As Schutz and Luckmann (ibid.: 7) write: I trust that the world as it has been known by me up until now will continue further and that consequently the stock of knowledge obtained from my fellow-men and formed from my own experiences will continue to preserve its fundamental validity … From this assumption follows the further one: that I can repeat my past successful acts.",
+          "translation": "슈츠와 럭만 (ibid.: 7) 는 이렇게 썼습니다. \"나는 지금까지 내가 알고 있던 세상이 더 계속 지속될 것이라고 믿습니다. 따라서 내 동료들로부터 얻은 지식과 내 자신의 경험에서 형성된 지식은 그 근본적인 유효성을 계속 유지할 것입니다. ...이 가정에서 다음의 가정은 다음과 같습니다: 나는 과거의 성공적인 행동을 반복할 수 있습니다."
+        },
+        {
+          "source": "So long as the structure of the world can be taken as constant, as long as my previous experience is valid, my ability to act upon the world in this and that manner remains in principle preserved.",
+          "translation": "세계의 구조가 일정하다고 여겨질 수 있는 한, 나의 이전 경험이 유효한 한, 이 방법과 그 방식으로 세상을 행동하는 나의 능력은 원칙적으로 보존되어 있습니다."
+        },
+        {
+          "source": "As Husserl has shown, the further ideality of the ‘I can always do it again’ is developed correlative of the ideality of the ‘and so forth’.",
+          "translation": "Husserl가 보여준 바와 같이, I can always do it again의 추가 이상성은  등의 이상성에 상관관계가 있습니다."
+        },
+        {
+          "source": "In a sense, we are ‘at home’ in our life-world and we learn to take pleasure in it: we can take our world for granted and it is perceived to be true because we are in harmony with it and our internal and external worlds are congruent and we are also at one with the individuals in our life-world – our personal community, as it were.",
+          "translation": "어떤 의미에서, 우리는 우리 삶의 세계에서 \"집에\" 있고, 그것에 즐거움을 느끼기를 배우고 있습니다. 우리는 우리의 세계를 당연하게 받아들일 수 있고, 그것이 진실이라고 인식됩니다. 왜냐하면 우리는 그것에 조화되어 있고, 우리의 내부와 외부 세계는 일치하고, 우리는 또한 우리 삶의 세계의 개인들과 함께 있습니다."
+        },
+        {
+          "source": "There is a sense of unity and harmony – solidarity, if you like.",
+          "translation": "통일과 조화를 느낄 수 있습니다."
+        },
+        {
+          "source": "But as we develop this personal community changes: as we go through our various socialisation processes, so our horizons change and expand.",
+          "translation": "하지만 우리가 이 개인적인 공동체를 발전시키면서 변화합니다. 우리가 다양한 사회화 과정을 거치면서 우리의 지평은 변화하고 확장됩니다."
+        },
+        {
+          "source": "Our life-world is not a static phenomenon and is dependent upon our own biography and our own learning.",
+          "translation": "우리 삶의 세계는 정적적인 현상이 아니라 우리 자신의 생애와 학습에 의존합니다."
+        },
+        {
+          "source": "Our life-world is dependent upon our use of appropriate language and culture, and our own learning and as we change from one situation to another, so we find we move from one domain to another.",
+          "translation": "우리 삶의 세계는 적절한 언어와 문화를 사용하는 것과 우리 자신의 학습에 달려 있습니다. 그리고 우리는 한 상황에서 다른 상황으로 변화함에 따라, 우리는 한 영역에서 다른 영역으로 이동하는 것을 발견합니다."
+        },
+        {
+          "source": "As Habermas (1987: 125) puts it: Jarvis, Peter.",
+          "translation": "하버마스 (1987: 125) 의 말처럼: 자르비스, 피터."
+        },
+        {
+          "source": "Learning to Be a Person in Society, Taylor & Francis Group, 2009.",
+          "translation": "사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009"
+        },
+        {
+          "source": "ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?",
+          "translation": "이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?"
+        },
+        {
+          "source": "docID=981931.",
+          "translation": "문명: 981931"
+        },
+        {
+          "source": "Created from snulibrary-ebooks on 2026-10-08 03:48:10.",
+          "translation": "2026년 10월 08일 03:48:10."
+        },
+        {
+          "source": "Copyright © 2009.",
+          "translation": "저작권 © 2009."
+        },
+        {
+          "source": "Taylor & Francis Group.",
+          "translation": "테일러 앤 프랜시스 그룹"
+        },
+        {
+          "source": "All rights reserved.",
+          "translation": "모든 권리가 있습니다."
+        },
+        {
+          "source": "Ebook pages 14-29 | Printed page 7 of 11",
+          "translation": "전자책 14~29페이지"
+        }
+      ],
+      "unitId": "page-7",
+      "unitLabel": "PDF 7쪽"
+    },
+    {
+      "page": 8,
+      "sourceText": "Participants find the relations between the objective, social and subjective worlds already preinterpreted. When they\ngo beyond the horizon of a given situation, they cannot step into a void; they find themselves right away in another,\nnow actualized, yet \n domain of what is culturally taken for granted. In everyday communicative\npreinterpreted\npractice there are no completely unfamiliar situations. Every new situation appears in a lifeworld composed of a\ncultural stock of knowledge that is ‘always already’ familiar.\nIn these familiar situations, we learn to fit in and we adjust our behaviour accordingly in relationship to those others\nwith whom we interact and, as we have already pointed out, there is often an element of power in this interaction. This\nadjustment is a form of learning – incidental and often unintended and unrecognised as learning, since we are involved\nin imitation of others in the life-world, trial and error and discovery learning when we cannot copy others, and so on.\nAdditionally, we recognise that our subjective life-world is actually an intersubjective one, and for as long as we\nfunction within familiar territory we can take our world for granted – that is habitualise it – and we can share the\nmeanings we give situations with those with whom we interact, but we may not always agree with each other although\nwe will understand from where each is coming.\nIt is clear that we live in life-worlds which are social and so we are faced with the question of individuality – a\nconcept with which a great deal of thinking in the West has started. Individuality was not a new concept at the time of\nthe Enlightenment and was probably first discussed in the writings of the Hebrew prophet, Jeremiah, in the seventh\ncentury before Christ when he wrote about individual responsibility:\nThe fathers have eaten sour grapes, and the children’s teeth are set on edge.\nBut every one shall die for his own sin; every man who eats sour grapes, his teeth shall be set on edge.\n(Jeremiah 31:29–30)\nIndividuals are responsible for their own actions: this is one of the earliest references in literature to individual\nresponsibility. People are free to act in their own self-interests or in wider interests despite the group, but they have to\ntake responsibility for their actions rather than putting that responsibility on the group. And although individual\nresponsibility is significant, we find that Aristotle, amongst many others, is well aware of the influence of the group\nupon individual behaviour (see Nussbaum, 1986). Clearly, individual responsibility is important as we think about\nlearning to be persons in society; the issue at this moment is the mere fact of and significance of the individual in the\ngroup. But the group is more significant to the individual than the Enlightenment allowed.\nIn order to prove existence, Descartes started with the individual – \n. In contrast, existentialists\nI think, therefore I am\nreverse this assertion since existence is assumed and never needs to be proven. This means that the Cartesian dictum is\nunnecessary – but this does not automatically exclude some form of dualist arguments about the relationship between the\nmind and the body. I am! But what does existence actually mean? I know I am, and I do not need to prove it to myself.\nBecause I am, I think. Maquarrie (1973: 125) writes:\nBut what does it mean to say, ‘I am’? ‘I am’ is the same as ‘I exist’; but ‘I exist’, in turn, is equivalent to ‘I-am-in-\nthe-world’, or again ‘I-am-with-others’. So the premise of the argument is not anything so abstract as ‘I think’ or\neven ‘I am’ if it is understood in some isolated sense. The premise is the immediately rich and complex reality, ‘I-\nam-with-others-in the world’.\nBut Bergson (1998 [1911]: 7) makes another vitally important point:\nJarvis, Peter. Learning to Be a Person in Society, Taylor & Francis Group, 2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?docID=981931.\nCreated from snulibrary-ebooks on 2026-10-08 03:48:10.\nCopyright © 2009. Taylor & Francis Group. All rights reserved.\nEbook pages 14-29 | Printed page 8 of 11\n",
+      "translationText": "참가자들은 객관적, 사회적 및 주관적 세계 사이의 관계를 이미 미리 해석했다고 생각합니다.\n\n어떤 상황의 지평선을 넘어서면, 그들은 빈 공간에 진입할 수 없습니다. 그들은 즉시 다른, 현재 현실화 된, 그러나 문화적으로 당연하다고 여겨지는 영역에 자신을 발견합니다.\n\n일상적인 의사소통 사전 해석 연습에서 완전히 익숙하지 않은 상황이 없습니다.\n\n모든 새로운 상황은 이미 익숙한 지식의 문화적 저장소로 구성된 삶의 세계에서 나타납니다.\n\n이런 익숙한 상황에서 우리는 적응하고 우리가 상호작용하는 다른 사람들과의 관계에 따라 행동을 조정하는 법을 배우고, 이미 지적했듯이, 이러한 상호작용에는 종종 힘의 요소가 있습니다.\n\n이러한 조정은 우연한 학습의 형태이며 종종 의도하지 않으며 학습으로 인식되지 않습니다. 왜냐하면 우리는 삶의 세계에서 다른 사람들을 모방하고, 다른 사람들을 복사할 수 없을 때 시행착오와 발견 학습과 같은 것에 관여하기 때문입니다.\n\n또한, 우리는 우리의 주관적 삶의 세계가 실제로 상호 주관적이라는 것을 인식하고, 우리가 익숙한 영역 내에서 작동하는 동안 우리는 우리의 세계를 당연하게 받아들일 수 있습니다. 즉, 그것을 습관화합니다. 그리고 우리는 우리가 상황에 부여하는 의미를 우리가 상호 작용하는 사람들과 공유 할 수 있습니다. 그러나 우리는 항상 서로 동의하지 않을 수 있습니다.\n\n우리는 사회적인 생활세계에 살고 있다는 것은 분명합니다. 그래서 우리는 개개인의 문제에 직면해 있습니다.\n\n개인성 은 계몽 시대 에 새로운 개념 이 아니었으며, 아마도 그리스도 전 7 세기 에 히브리 예언자 예레미야 의 기록 에 처음으로 논의 되었으며, 그 는 개인 의 책임 에 대해 이렇게 썼습니다.\n\n그러나 각자는 자기 죄로 죽을 것이며, 신 포도를 먹는 사람은 자기 이가 시리게 될 것이다.\n\n여호와 의 증인 들 은 여호와 의 증인 이었습니다.\n\n개인은 자신의 행동에 책임이 있습니다. 이것은 문학에서 개인의 책임에 대한 가장 오래된 언급 중 하나입니다.\n\n사람들은 집단에도 불구하고 자신의 이익이나 더 넓은 이익에 따라 자유롭게 행동하지만 그 책임을 그룹에 맡기기보다는 자신의 행동에 대해 책임을 져야 합니다.\n\n그리고 개인 책임은 중요하지만, 우리는 아리스토텔레스는 다른 많은 사람들 중에서도 개인의 행동에 집단의 영향에 대해 잘 알고 있음을 발견합니다 (Nussbaum, 1986 참조).\n\n분명히 개인 책임은 우리가 사회에서 사람이 되는 법을 배우는 것에 대해 생각할 때 중요합니다. 현재 문제는 집단의 개인의 사실과 중요성에 불과합니다.\n\n하지만 집단은 계몽주의가 허용한 것보다 개인에게 더 중요합니다.\n\n존재를 증명하기 위해 데카르트는 개인 을 시작하였다.\n\n이에 반해, 실존주의자들은 제가 생각하기에, 따라서 저는 이 주장을 반대의 주장으로 여기고 있습니다. 왜냐하면 실존이 가정되고 증명될 필요가 없기 때문입니다.\n\n이것은 카르테시아의 명언이 불필요하다는 것을 의미하지만 이것은 자동으로 정신과 신체 사이의 관계에 대한 어떤 형태의 이중주의적 주장을 배제하지 않습니다.\n\n그래요!\n\n하지만 실제로 존재는 무엇을 의미합니까?\n\n내가 그렇게 하고 있는 걸 알고 있고, 스스로 증명할 필요도 없다.\n\n왜냐하면, 내가 그렇게 생각하기 때문입니다.\n\n매커리 (1973: 125) 는 이렇게 썼습니다: 하지만 \"나는\"라고 말하는 것은 무엇을 의미합니까?\n\nI am는 I exist과 같지만, I Exist은 I-am-in-world, 또는 다시 I -am-with-others과 동등합니다.\n\n그래서 이 주장의 전제는 어떤 의미에서 분리된 의미로 이해될 경우, I think 또는 심지어 I am만큼 추상적인 것이 아닙니다.\n\n전제는 즉각적으로 풍부하고 복잡한 현실입니다.\n\n하지만 버그슨 (1998 [1911]: 7) 은 또 다른 매우 중요한 점을 제시합니다.\n\n사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009\n\n이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?\n\n문명: 981931\n\n2026년 10월 08일 03:48:10.\n\n저작권 © 2009.\n\n테일러 앤 프랜시스 그룹\n\n모든 권리가 있습니다.\n\n전자책 14~29페이지 인쇄된 11장의 8페이지",
+      "status": "translated",
+      "sourceTextSha256": "8b62ef854af443ff592f29d984dc0f9b782ead1b48ccd9f2f8f7496c8a5f4a04",
+      "segments": [
+        {
+          "source": "Participants find the relations between the objective, social and subjective worlds already preinterpreted.",
+          "translation": "참가자들은 객관적, 사회적 및 주관적 세계 사이의 관계를 이미 미리 해석했다고 생각합니다."
+        },
+        {
+          "source": "When they go beyond the horizon of a given situation, they cannot step into a void; they find themselves right away in another, now actualized, yet domain of what is culturally taken for granted.",
+          "translation": "어떤 상황의 지평선을 넘어서면, 그들은 빈 공간에 진입할 수 없습니다. 그들은 즉시 다른, 현재 현실화 된, 그러나 문화적으로 당연하다고 여겨지는 영역에 자신을 발견합니다."
+        },
+        {
+          "source": "In everyday communicative preinterpreted practice there are no completely unfamiliar situations.",
+          "translation": "일상적인 의사소통 사전 해석 연습에서 완전히 익숙하지 않은 상황이 없습니다."
+        },
+        {
+          "source": "Every new situation appears in a lifeworld composed of a cultural stock of knowledge that is ‘always already’ familiar.",
+          "translation": "모든 새로운 상황은 이미 익숙한 지식의 문화적 저장소로 구성된 삶의 세계에서 나타납니다."
+        },
+        {
+          "source": "In these familiar situations, we learn to fit in and we adjust our behaviour accordingly in relationship to those others with whom we interact and, as we have already pointed out, there is often an element of power in this interaction.",
+          "translation": "이런 익숙한 상황에서 우리는 적응하고 우리가 상호작용하는 다른 사람들과의 관계에 따라 행동을 조정하는 법을 배우고, 이미 지적했듯이, 이러한 상호작용에는 종종 힘의 요소가 있습니다."
+        },
+        {
+          "source": "This adjustment is a form of learning – incidental and often unintended and unrecognised as learning, since we are involved in imitation of others in the life-world, trial and error and discovery learning when we cannot copy others, and so on.",
+          "translation": "이러한 조정은 우연한 학습의 형태이며 종종 의도하지 않으며 학습으로 인식되지 않습니다. 왜냐하면 우리는 삶의 세계에서 다른 사람들을 모방하고, 다른 사람들을 복사할 수 없을 때 시행착오와 발견 학습과 같은 것에 관여하기 때문입니다."
+        },
+        {
+          "source": "Additionally, we recognise that our subjective life-world is actually an intersubjective one, and for as long as we function within familiar territory we can take our world for granted – that is habitualise it – and we can share the meanings we give situations with those with whom we interact, but we may not always agree with each other although we will understand from where each is coming.",
+          "translation": "또한, 우리는 우리의 주관적 삶의 세계가 실제로 상호 주관적이라는 것을 인식하고, 우리가 익숙한 영역 내에서 작동하는 동안 우리는 우리의 세계를 당연하게 받아들일 수 있습니다. 즉, 그것을 습관화합니다. 그리고 우리는 우리가 상황에 부여하는 의미를 우리가 상호 작용하는 사람들과 공유 할 수 있습니다. 그러나 우리는 항상 서로 동의하지 않을 수 있습니다."
+        },
+        {
+          "source": "It is clear that we live in life-worlds which are social and so we are faced with the question of individuality – a concept with which a great deal of thinking in the West has started.",
+          "translation": "우리는 사회적인 생활세계에 살고 있다는 것은 분명합니다. 그래서 우리는 개개인의 문제에 직면해 있습니다."
+        },
+        {
+          "source": "Individuality was not a new concept at the time of the Enlightenment and was probably first discussed in the writings of the Hebrew prophet, Jeremiah, in the seventh century before Christ when he wrote about individual responsibility: The fathers have eaten sour grapes, and the children’s teeth are set on edge.",
+          "translation": "개인성 은 계몽 시대 에 새로운 개념 이 아니었으며, 아마도 그리스도 전 7 세기 에 히브리 예언자 예레미야 의 기록 에 처음으로 논의 되었으며, 그 는 개인 의 책임 에 대해 이렇게 썼습니다."
+        },
+        {
+          "source": "But every one shall die for his own sin; every man who eats sour grapes, his teeth shall be set on edge.",
+          "translation": "그러나 각자는 자기 죄로 죽을 것이며, 신 포도를 먹는 사람은 자기 이가 시리게 될 것이다.",
+          "reviewed": true
+        },
+        {
+          "source": "(Jeremiah 31:29–30)",
+          "translation": "여호와 의 증인 들 은 여호와 의 증인 이었습니다."
+        },
+        {
+          "source": "Individuals are responsible for their own actions: this is one of the earliest references in literature to individual responsibility.",
+          "translation": "개인은 자신의 행동에 책임이 있습니다. 이것은 문학에서 개인의 책임에 대한 가장 오래된 언급 중 하나입니다."
+        },
+        {
+          "source": "People are free to act in their own self-interests or in wider interests despite the group, but they have to take responsibility for their actions rather than putting that responsibility on the group.",
+          "translation": "사람들은 집단에도 불구하고 자신의 이익이나 더 넓은 이익에 따라 자유롭게 행동하지만 그 책임을 그룹에 맡기기보다는 자신의 행동에 대해 책임을 져야 합니다."
+        },
+        {
+          "source": "And although individual responsibility is significant, we find that Aristotle, amongst many others, is well aware of the influence of the group upon individual behaviour (see Nussbaum, 1986).",
+          "translation": "그리고 개인 책임은 중요하지만, 우리는 아리스토텔레스는 다른 많은 사람들 중에서도 개인의 행동에 집단의 영향에 대해 잘 알고 있음을 발견합니다 (Nussbaum, 1986 참조)."
+        },
+        {
+          "source": "Clearly, individual responsibility is important as we think about learning to be persons in society; the issue at this moment is the mere fact of and significance of the individual in the group.",
+          "translation": "분명히 개인 책임은 우리가 사회에서 사람이 되는 법을 배우는 것에 대해 생각할 때 중요합니다. 현재 문제는 집단의 개인의 사실과 중요성에 불과합니다."
+        },
+        {
+          "source": "But the group is more significant to the individual than the Enlightenment allowed.",
+          "translation": "하지만 집단은 계몽주의가 허용한 것보다 개인에게 더 중요합니다."
+        },
+        {
+          "source": "In order to prove existence, Descartes started with the individual – .",
+          "translation": "존재를 증명하기 위해 데카르트는 개인 을 시작하였다."
+        },
+        {
+          "source": "In contrast, existentialists I think, therefore I am reverse this assertion since existence is assumed and never needs to be proven.",
+          "translation": "이에 반해, 실존주의자들은 제가 생각하기에, 따라서 저는 이 주장을 반대의 주장으로 여기고 있습니다. 왜냐하면 실존이 가정되고 증명될 필요가 없기 때문입니다."
+        },
+        {
+          "source": "This means that the Cartesian dictum is unnecessary – but this does not automatically exclude some form of dualist arguments about the relationship between the mind and the body.",
+          "translation": "이것은 카르테시아의 명언이 불필요하다는 것을 의미하지만 이것은 자동으로 정신과 신체 사이의 관계에 대한 어떤 형태의 이중주의적 주장을 배제하지 않습니다."
+        },
+        {
+          "source": "I am!",
+          "translation": "그래요!"
+        },
+        {
+          "source": "But what does existence actually mean?",
+          "translation": "하지만 실제로 존재는 무엇을 의미합니까?"
+        },
+        {
+          "source": "I know I am, and I do not need to prove it to myself.",
+          "translation": "내가 그렇게 하고 있는 걸 알고 있고, 스스로 증명할 필요도 없다."
+        },
+        {
+          "source": "Because I am, I think.",
+          "translation": "왜냐하면, 내가 그렇게 생각하기 때문입니다."
+        },
+        {
+          "source": "Maquarrie (1973: 125) writes: But what does it mean to say, ‘I am’?",
+          "translation": "매커리 (1973: 125) 는 이렇게 썼습니다: 하지만 \"나는\"라고 말하는 것은 무엇을 의미합니까?"
+        },
+        {
+          "source": "‘I am’ is the same as ‘I exist’; but ‘I exist’, in turn, is equivalent to ‘I-am-inthe-world’, or again ‘I-am-with-others’.",
+          "translation": "I am는 I exist과 같지만, I Exist은 I-am-in-world, 또는 다시 I -am-with-others과 동등합니다."
+        },
+        {
+          "source": "So the premise of the argument is not anything so abstract as ‘I think’ or even ‘I am’ if it is understood in some isolated sense.",
+          "translation": "그래서 이 주장의 전제는 어떤 의미에서 분리된 의미로 이해될 경우, I think 또는 심지어 I am만큼 추상적인 것이 아닙니다."
+        },
+        {
+          "source": "The premise is the immediately rich and complex reality, ‘Iam-with-others-in the world’.",
+          "translation": "전제는 즉각적으로 풍부하고 복잡한 현실입니다."
+        },
+        {
+          "source": "But Bergson (1998 [1911]: 7) makes another vitally important point: Jarvis, Peter.",
+          "translation": "하지만 버그슨 (1998 [1911]: 7) 은 또 다른 매우 중요한 점을 제시합니다."
+        },
+        {
+          "source": "Learning to Be a Person in Society, Taylor & Francis Group, 2009.",
+          "translation": "사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009"
+        },
+        {
+          "source": "ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?",
+          "translation": "이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?"
+        },
+        {
+          "source": "docID=981931.",
+          "translation": "문명: 981931"
+        },
+        {
+          "source": "Created from snulibrary-ebooks on 2026-10-08 03:48:10.",
+          "translation": "2026년 10월 08일 03:48:10."
+        },
+        {
+          "source": "Copyright © 2009.",
+          "translation": "저작권 © 2009."
+        },
+        {
+          "source": "Taylor & Francis Group.",
+          "translation": "테일러 앤 프랜시스 그룹"
+        },
+        {
+          "source": "All rights reserved.",
+          "translation": "모든 권리가 있습니다."
+        },
+        {
+          "source": "Ebook pages 14-29 | Printed page 8 of 11",
+          "translation": "전자책 14~29페이지 인쇄된 11장의 8페이지"
+        }
+      ],
+      "unitId": "page-8",
+      "unitLabel": "PDF 8쪽"
+    },
+    {
+      "page": 9,
+      "sourceText": "for a conscious being to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.\nExistence, then, is never unchanging and for human beings it is always social; we live and move and have our being\nin a social context. We will argue throughout this volume that learning is the driving force of human change through\nwhich the human essence emerges and is nurtured. But, also, ‘I-am-in-the-world’ and ‘I-am-with-others’ are different\nphenomena: in the former, we are in the wider world but the latter can refer to our life-world (see Luckmann, 1983;\nHabermas, 1987; Williamson, 1998). But we know that we are in the world because we act, as MacMurray (1979\n[1961]: 17) argued, ‘We know existence by participating in existence’, or, as Husserl said, ‘I live \n my Acts’ (cited in\nin\nSchutz, 1972: 51). I am, therefore I act, but also I act, therefore I am. But action is rarely meaningless, so that underlying\naction is intention and meaning but, paradoxically we have to learn meaning.\nSocial living is not only doing: it is meeting. Buber (1958: 17) wrote that ‘all real living is meeting’. He goes on to\nconclude that this meeting is a present phenomenon between  and \n. But he (ibid.: 22) goes even further to claim\nI\nThou\nthat, ‘In the beginning is relationship’, and it is ‘through the \n that the man becomes ’. The significance of the other\nThou\nI\nis clearly seen in child psychology, in which we learn that the baby’s brain grows and develops after birth. Gerhardt\n(2004: 43) explains the significance of the relationship to this process:\nLots of positive experiences early on produce brains with more neural connections – more richly networked brains.\nWe have all our neurons at birth, and we don’t need to grow any more, but what we do need is to connect them up\nand make them work for us. With more connections, there is better performance and more ability to use particular\nareas of the brain.\nWithout the group, there can be no person. It is not that we live in society but that we are part of society – we are a\npart of society by class, age, gender, occupation and so on. It is we who are born in society and we become ourselves as\na result of social living, and through our social living we contribute to the growth and development of other persons.\nThis intrinsic connection between the person and the group, in which each member is bonded to some extent or another\nwith other members of the group, is one of the main reasons for the paradox of the individual in the group, to which we\nwill return later. Although the group is intrinsic to our growth, once we are grown then we assume our own individual\nresponsibility and can decide whether we wish to continue to play our role in the group or whether, for one reason or\nanother, we wish to step outside of it.\nHowever, the fact that the person is always part of society/group/family does not end the study of locating the person\nin society since we have become more aware that in this globalised world each society is part of a larger entity –\nhumanity itself. Humanity has a long history as palaeontologists and evolutionary psychologists, amongst others, have\ndemonstrated to us. Humanity has evolved and as part of that evolution we have changed and developed to become the\nhuman beings that we now are. And so, we could depict the place of the ego in the wider society as in \n. The\nFigure 1.1\nupward arrows depict the process of time through which we have evolved, and in this sense we can now begin to locate\none of the major contemporary debates – to what extent has humankind evolved so as to change the nature of culture?\nDo individuals have built into their brains (hard-wired) all the results of evolution so that the part that culture and\nlearning play is significantly less than we originally thought? Clearly, this is the beginning of a long and drawn-out\ndebate that I do not want to explore in depth here, although to fail to discuss it even briefly would do a disservice to our\nquest in this study. At the same time, not to recognise its significance also does a disservice.\nHaslam (2007: 89–94) provides a clear introduction to the discussion when he suggests that both neurobiology and\nbehavioural genetics offer important perspectives upon personality: ‘neurobiology tells us about the brain processes that\nJarvis, Peter. Learning to Be a Person in Society, Taylor & Francis Group, 2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?docID=981931.\nCreated from snulibrary-ebooks on 2026-10-08 03:48:10.\nCopyright © 2009. Taylor & Francis Group. All rights reserved.\nEbook pages 14-29 | Printed page 9 of 11\n",
+      "translationText": "의식적인 존재가 존재한다는 것은 변하는 것이고, 변하는 것은 성숙하는 것이고, 성숙하는 것은 무한히 자신을 창조하는 것이다.\n\n따라서 존재는 결코 변하지 않으며 인간에게는 항상 사회적입니다. 우리는 사회적인 맥락에서 살고 움직이고 있고 존재합니다.\n\n이 책 내내 우리는 학습이 인간의 본질이 등장하고 육성되는 인간의 변화의 원동력이라고 주장할 것입니다.\n\n하지만, 또한, I-am-in-the-world과 I-am­with-others은 서로 다른 현상입니다. 전자는 우리가 더 넓은 세계에서 있지만 후자는 우리의 생활 세계를 가리킬 수 있습니다 ( Luckmann, 1983; Habermas, 1987; Williamson, 1998 참조).\n\n그러나 우리는 우리가 세상에 있다는 것을 알고 있는 것은 우리가 행동하기 때문에, 맥 머레이 (1979 [1961]: 17) 는 주장했듯이, 우리는 존재에 참여함으로써 존재를 알고 있습니다, 또는 Husserl가 말했듯이, 나는 나의 행위를 살고 있습니다 (Schutz, 1972: 51에서 인용되었습니다).\n\n저는, 그래서 저는 행동합니다. 하지만 또한, 저는 행동합니다, 그래서 저는 있습니다.\n\n하지만 행동은 거의 의미가 없습니다. 그래서 행동의 근본은 의도와 의미입니다. 하지만 역설적이게도 우리는 의미를 배워야 합니다.\n\n사회생활은 단순히 하는 것만이 아니라 만남입니다.\n\n부버 (1958: 17) 는 \"모든 실제 생활은 만남이다\".라고 썼다.\n\n그는 이 회담이\n\n그러나 그는 (ibid.: 22) 더 나아가 I Thou를 주장합니다, 초에는 관계이 있고, 사람이 을 통해 이됩니다.\n\n다른 Thou I의 중요성은 아동 심리학에서 분명하게 볼 수 있습니다. 여기서 우리는 아기가 태어난 후 뇌가 성장하고 발전한다는 것을 알게 됩니다.\n\n게르하르트 (2004: 43) 는 이 과정과의 관계의 중요성을 설명합니다. 많은 긍정적 인 경험은 일찍이 더 많은 신경 연결을 가진 두뇌를 생성합니다.\n\n우리는 태어날 때 모든 신경세포를 가지고 있고 더 이상 성장할 필요가 없습니다. 하지만 우리가 필요로 하는 것은 그것들을 연결하고 우리를 위해 작동하도록 하는 것입니다.\n\n더 많은 연결은 더 나은 성능과 뇌의 특정 영역을 사용할 수 있는 능력이 있습니다.\n\n집단이 없으면 사람이 있을 수 없습니다.\n\n우리는 사회에서 살고 있는 것이 아니라 사회의 일부입니다.\n\n우리는 사회에서 태어나서 사회생활의 결과로 스스로가 되고 사회생활을 통해 다른 사람의 성장과 발전에 기여합니다.\n\n이 개인과 집단의 본질적인 연결이, 각 구성원이 어느 정도 또는 다른 범위에서 그룹의 다른 구성원들과 연계되어 있는 것은 나중에 다시 돌아보게 될 집단의 개인에 대한 역설의 주요 이유 중 하나입니다.\n\n비록 그룹은 우리 성장에 본질적이지만, 우리가 성장한 후에는 우리 자신의 개인적 책임을 지고 그룹에서 우리의 역할을 계속하고 싶은지 아니면 어떤 이유로든 그 역할을 벗어나는지를 결정할 수 있습니다.\n\n하지만 그 사람이 항상 사회/그룹/가족의 일부분이라는 사실은 그 사람을 사회에 위치시키는 연구의 끝을 맺지 않습니다. 왜냐하면 우리는 이러한 세계화된 세계에서 모든 사회가 더 큰 존재의 일부라는 것을 더 잘 알고 있기 때문입니다.\n\n인류는 오랜 역사를 가지고 있습니다. 고대학자들과 진화심리학자들은 우리에게 증명했습니다.\n\n인류는 진화했고 그 진화의 일환으로 우리는 변화하고 발전해 현재 우리가 있는 인간으로 변했습니다.\n\n그래서 우리는 더 넓은 사회에서 자아의 위치를 묘사할 수 있습니다.\n\n그림 1.1의 상향 화살표는 우리가 진화한 시간의 과정을 묘사하고, 이러한 의미에서 우리는 이제 주요한 현대 논쟁 중 하나를 찾을 수 있습니다\n\n개인들은 그들의 뇌에 진화의 모든 결과를 내놓았는가? 그래서 문화와 학습이 차지하는 비중은 우리가 원래 생각했던 것보다 훨씬 적어졌는가?\n\n분명히 이것은 길고 긴 논쟁의 시작입니다. 저는 여기서 심도 있게 탐구하고 싶지 않습니다. 단 한 번만 논의하지 않으면 이 연구에서 우리의 추구에 악영향을 끼칠 것입니다.\n\n동시에 그 중요성을 인정하지 않는 것도 나쁜 일을 합니다.\n\n하슬람 (2007: 8994) 은 신경생물학과 행동 유전학 모두 성격에 대한 중요한 관점을 제공한다고 제안하면서 토론에 대한 명확한 소개를 제공합니다.\n\n사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009\n\n이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?\n\n문명: 981931\n\n2026년 10월 08일 03:48:10.\n\n저작권 © 2009.\n\n테일러 앤 프랜시스 그룹\n\n모든 권리가 있습니다.\n\n전자책 14~29페이지",
+      "status": "translated",
+      "sourceTextSha256": "0a7d5ff63a930a152cfeaa3a37852ce7aa42a2ed56ba3408399c1112b7b4377e",
+      "segments": [
+        {
+          "source": "for a conscious being to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.",
+          "translation": "의식적인 존재가 존재한다는 것은 변하는 것이고, 변하는 것은 성숙하는 것이고, 성숙하는 것은 무한히 자신을 창조하는 것이다."
+        },
+        {
+          "source": "Existence, then, is never unchanging and for human beings it is always social; we live and move and have our being in a social context.",
+          "translation": "따라서 존재는 결코 변하지 않으며 인간에게는 항상 사회적입니다. 우리는 사회적인 맥락에서 살고 움직이고 있고 존재합니다."
+        },
+        {
+          "source": "We will argue throughout this volume that learning is the driving force of human change through which the human essence emerges and is nurtured.",
+          "translation": "이 책 내내 우리는 학습이 인간의 본질이 등장하고 육성되는 인간의 변화의 원동력이라고 주장할 것입니다."
+        },
+        {
+          "source": "But, also, ‘I-am-in-the-world’ and ‘I-am-with-others’ are different phenomena: in the former, we are in the wider world but the latter can refer to our life-world (see Luckmann, 1983; Habermas, 1987; Williamson, 1998).",
+          "translation": "하지만, 또한, I-am-in-the-world과 I-am­with-others은 서로 다른 현상입니다. 전자는 우리가 더 넓은 세계에서 있지만 후자는 우리의 생활 세계를 가리킬 수 있습니다 ( Luckmann, 1983; Habermas, 1987; Williamson, 1998 참조)."
+        },
+        {
+          "source": "But we know that we are in the world because we act, as MacMurray (1979 [1961]: 17) argued, ‘We know existence by participating in existence’, or, as Husserl said, ‘I live my Acts’ (cited in in Schutz, 1972: 51).",
+          "translation": "그러나 우리는 우리가 세상에 있다는 것을 알고 있는 것은 우리가 행동하기 때문에, 맥 머레이 (1979 [1961]: 17) 는 주장했듯이, 우리는 존재에 참여함으로써 존재를 알고 있습니다, 또는 Husserl가 말했듯이, 나는 나의 행위를 살고 있습니다 (Schutz, 1972: 51에서 인용되었습니다)."
+        },
+        {
+          "source": "I am, therefore I act, but also I act, therefore I am.",
+          "translation": "저는, 그래서 저는 행동합니다. 하지만 또한, 저는 행동합니다, 그래서 저는 있습니다."
+        },
+        {
+          "source": "But action is rarely meaningless, so that underlying action is intention and meaning but, paradoxically we have to learn meaning.",
+          "translation": "하지만 행동은 거의 의미가 없습니다. 그래서 행동의 근본은 의도와 의미입니다. 하지만 역설적이게도 우리는 의미를 배워야 합니다."
+        },
+        {
+          "source": "Social living is not only doing: it is meeting.",
+          "translation": "사회생활은 단순히 하는 것만이 아니라 만남입니다."
+        },
+        {
+          "source": "Buber (1958: 17) wrote that ‘all real living is meeting’.",
+          "translation": "부버 (1958: 17) 는 \"모든 실제 생활은 만남이다\".라고 썼다."
+        },
+        {
+          "source": "He goes on to conclude that this meeting is a present phenomenon between and .",
+          "translation": "그는 이 회담이"
+        },
+        {
+          "source": "But he (ibid.: 22) goes even further to claim I Thou that, ‘In the beginning is relationship’, and it is ‘through the that the man becomes ’.",
+          "translation": "그러나 그는 (ibid.: 22) 더 나아가 I Thou를 주장합니다, 초에는 관계이 있고, 사람이 을 통해 이됩니다."
+        },
+        {
+          "source": "The significance of the other Thou I is clearly seen in child psychology, in which we learn that the baby’s brain grows and develops after birth.",
+          "translation": "다른 Thou I의 중요성은 아동 심리학에서 분명하게 볼 수 있습니다. 여기서 우리는 아기가 태어난 후 뇌가 성장하고 발전한다는 것을 알게 됩니다."
+        },
+        {
+          "source": "Gerhardt (2004: 43) explains the significance of the relationship to this process: Lots of positive experiences early on produce brains with more neural connections – more richly networked brains.",
+          "translation": "게르하르트 (2004: 43) 는 이 과정과의 관계의 중요성을 설명합니다. 많은 긍정적 인 경험은 일찍이 더 많은 신경 연결을 가진 두뇌를 생성합니다."
+        },
+        {
+          "source": "We have all our neurons at birth, and we don’t need to grow any more, but what we do need is to connect them up and make them work for us.",
+          "translation": "우리는 태어날 때 모든 신경세포를 가지고 있고 더 이상 성장할 필요가 없습니다. 하지만 우리가 필요로 하는 것은 그것들을 연결하고 우리를 위해 작동하도록 하는 것입니다."
+        },
+        {
+          "source": "With more connections, there is better performance and more ability to use particular areas of the brain.",
+          "translation": "더 많은 연결은 더 나은 성능과 뇌의 특정 영역을 사용할 수 있는 능력이 있습니다."
+        },
+        {
+          "source": "Without the group, there can be no person.",
+          "translation": "집단이 없으면 사람이 있을 수 없습니다."
+        },
+        {
+          "source": "It is not that we live in society but that we are part of society – we are a part of society by class, age, gender, occupation and so on.",
+          "translation": "우리는 사회에서 살고 있는 것이 아니라 사회의 일부입니다."
+        },
+        {
+          "source": "It is we who are born in society and we become ourselves as a result of social living, and through our social living we contribute to the growth and development of other persons.",
+          "translation": "우리는 사회에서 태어나서 사회생활의 결과로 스스로가 되고 사회생활을 통해 다른 사람의 성장과 발전에 기여합니다."
+        },
+        {
+          "source": "This intrinsic connection between the person and the group, in which each member is bonded to some extent or another with other members of the group, is one of the main reasons for the paradox of the individual in the group, to which we will return later.",
+          "translation": "이 개인과 집단의 본질적인 연결이, 각 구성원이 어느 정도 또는 다른 범위에서 그룹의 다른 구성원들과 연계되어 있는 것은 나중에 다시 돌아보게 될 집단의 개인에 대한 역설의 주요 이유 중 하나입니다."
+        },
+        {
+          "source": "Although the group is intrinsic to our growth, once we are grown then we assume our own individual responsibility and can decide whether we wish to continue to play our role in the group or whether, for one reason or another, we wish to step outside of it.",
+          "translation": "비록 그룹은 우리 성장에 본질적이지만, 우리가 성장한 후에는 우리 자신의 개인적 책임을 지고 그룹에서 우리의 역할을 계속하고 싶은지 아니면 어떤 이유로든 그 역할을 벗어나는지를 결정할 수 있습니다."
+        },
+        {
+          "source": "However, the fact that the person is always part of society/group/family does not end the study of locating the person in society since we have become more aware that in this globalised world each society is part of a larger entity – humanity itself.",
+          "translation": "하지만 그 사람이 항상 사회/그룹/가족의 일부분이라는 사실은 그 사람을 사회에 위치시키는 연구의 끝을 맺지 않습니다. 왜냐하면 우리는 이러한 세계화된 세계에서 모든 사회가 더 큰 존재의 일부라는 것을 더 잘 알고 있기 때문입니다."
+        },
+        {
+          "source": "Humanity has a long history as palaeontologists and evolutionary psychologists, amongst others, have demonstrated to us.",
+          "translation": "인류는 오랜 역사를 가지고 있습니다. 고대학자들과 진화심리학자들은 우리에게 증명했습니다."
+        },
+        {
+          "source": "Humanity has evolved and as part of that evolution we have changed and developed to become the human beings that we now are.",
+          "translation": "인류는 진화했고 그 진화의 일환으로 우리는 변화하고 발전해 현재 우리가 있는 인간으로 변했습니다."
+        },
+        {
+          "source": "And so, we could depict the place of the ego in the wider society as in .",
+          "translation": "그래서 우리는 더 넓은 사회에서 자아의 위치를 묘사할 수 있습니다."
+        },
+        {
+          "source": "The Figure 1.1 upward arrows depict the process of time through which we have evolved, and in this sense we can now begin to locate one of the major contemporary debates – to what extent has humankind evolved so as to change the nature of culture?",
+          "translation": "그림 1.1의 상향 화살표는 우리가 진화한 시간의 과정을 묘사하고, 이러한 의미에서 우리는 이제 주요한 현대 논쟁 중 하나를 찾을 수 있습니다"
+        },
+        {
+          "source": "Do individuals have built into their brains (hard-wired) all the results of evolution so that the part that culture and learning play is significantly less than we originally thought?",
+          "translation": "개인들은 그들의 뇌에 진화의 모든 결과를 내놓았는가? 그래서 문화와 학습이 차지하는 비중은 우리가 원래 생각했던 것보다 훨씬 적어졌는가?"
+        },
+        {
+          "source": "Clearly, this is the beginning of a long and drawn-out debate that I do not want to explore in depth here, although to fail to discuss it even briefly would do a disservice to our quest in this study.",
+          "translation": "분명히 이것은 길고 긴 논쟁의 시작입니다. 저는 여기서 심도 있게 탐구하고 싶지 않습니다. 단 한 번만 논의하지 않으면 이 연구에서 우리의 추구에 악영향을 끼칠 것입니다."
+        },
+        {
+          "source": "At the same time, not to recognise its significance also does a disservice.",
+          "translation": "동시에 그 중요성을 인정하지 않는 것도 나쁜 일을 합니다."
+        },
+        {
+          "source": "Haslam (2007: 89–94) provides a clear introduction to the discussion when he suggests that both neurobiology and behavioural genetics offer important perspectives upon personality: ‘neurobiology tells us about the brain processes that Jarvis, Peter.",
+          "translation": "하슬람 (2007: 8994) 은 신경생물학과 행동 유전학 모두 성격에 대한 중요한 관점을 제공한다고 제안하면서 토론에 대한 명확한 소개를 제공합니다."
+        },
+        {
+          "source": "Learning to Be a Person in Society, Taylor & Francis Group, 2009.",
+          "translation": "사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009"
+        },
+        {
+          "source": "ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?",
+          "translation": "이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?"
+        },
+        {
+          "source": "docID=981931.",
+          "translation": "문명: 981931"
+        },
+        {
+          "source": "Created from snulibrary-ebooks on 2026-10-08 03:48:10.",
+          "translation": "2026년 10월 08일 03:48:10."
+        },
+        {
+          "source": "Copyright © 2009.",
+          "translation": "저작권 © 2009."
+        },
+        {
+          "source": "Taylor & Francis Group.",
+          "translation": "테일러 앤 프랜시스 그룹"
+        },
+        {
+          "source": "All rights reserved.",
+          "translation": "모든 권리가 있습니다."
+        },
+        {
+          "source": "Ebook pages 14-29 | Printed page 9 of 11",
+          "translation": "전자책 14~29페이지"
+        }
+      ],
+      "unitId": "page-9",
+      "unitLabel": "PDF 9쪽"
+    },
+    {
+      "page": 10,
+      "sourceText": "give rise to behaviour and its variations, and behavioural genetics tells us about the inherited structures that give rise to\nthese brain processes’ (ibid.: 89–90). Evolution is the natural process that operates on the genetic variation. Haslam\n(ibid.: 90) makes the point that ‘evolution works in a slow, blind, and trial-and-error manner to improve the “design” of\nthe biological species, ensuring that its genes underpin an array of functional adaptations’. At the same time, while the\nevolutionary process is not producing a standardised species, cultural differences into which we are socialised highlight\nthe differences in us as persons: Haslam (ibid.: 94) suggests that ‘most of the non-genetic contributions to personality\nare due to “non-shared environment”: influences that are distinctive to individuals rather than shared within families’.\nBlakemore and Frith (2005: 186–7) show that, when we learn, our individual brains change and that this plasticity is not\nlimited to childhood. Once we accept that the brain changes, it is possible to suggest the possibility of genetic change in\nthe individual learner, which can then be transmitted to the next generation, but such genetic changes have not yet been\ndemonstrated. In this sense, we can see that human learning still finds an important place within the wider spectrum of\nstudy which is beginning to be called ‘the science of learning’.\nFigure 1.1  The social individual within humankind.\nFrom the outset, it is important to note that few, if any, scholars would deny that evolution has occurred, but few have\ntried to explain it as fully as Dawkins (1976, 2006) has (see also Dennett, 1995, 2006). Dawkins would argue that\nevolution has played an extremely large part, and in order to summarise this position I am using Blackmore (2007) as\none reference to Dawkins, but see also Dawkins (2006: 222–34). Following Dawkins, she starts by pointing out that\nfundamental to all human evolution is a process of imitation in which information is copied with variation and selection\nand that this is what Dawkins (1976) calls the ‘replicator’. We shall return to imitative learning as fundamental to human\ngrowth and development below. For Dawkins the most familiar replicator is the gene, which survives as other bodies die\nin the process of time. The fact that the genes that successfully copy and survive have succeeded so that they will be\ncopied and proliferate is why they are called ‘selfish’ by Dawkins. However, he wanted to break away from the idea of\ngenes and so he called them ‘memes’ – ‘units of cultural inheritance’ (ibid.: 222), which he (ibid.: 92) suggested\nincluded ‘tunes, ideas, catch-phrases, clothes, fashions, ways of making pots or building arches’. The literal meaning of\nmeme is ‘that which is imitated’, and we will see in the work of Tomasello (1999) a totally different and, I believe, a\nmore realistic approach to mimesis, or mimetics. Memes, if they exist, are what are copied, whereas what we learn by\nourselves are not memes – nor are any of our primary experiences. Conceptually memes are at the heart of some theories\nof the evolutionary process and are its driving force because the learning that is built into the meme is now part of the \nevolutionary process – it is part of our hard-wiring. Blackmore (2007: 12) summarises this position:\nJarvis, Peter. Learning to Be a Person in Society, Taylor & Francis Group, 2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?docID=981931.\nCreated from snulibrary-ebooks on 2026-10-08 03:48:10.\nCopyright © 2009. Taylor & Francis Group. All rights reserved.\nEbook pages 14-29 | Printed page 10 of 11\n",
+      "translationText": "행동과 그 변이를 일으킨다는 것, 그리고 행동 유전학은 이러한 뇌 프로세스를 일으키는 유전적인 구조에 대해 알려줍니다 (ibid.: 8990).\n\n진화는 유전적 변이를 일으키는 자연적인 과정입니다.\n\n하슬람 (ibid.: 90) 은 생물학적 종의 설계를 개선하기 위해 진화가 느리고 눈이 멀고 실수로 작동한다는 점을 지적하고, 그 유전자가 다양한 기능적 적응을 뒷받침한다는 것을 보장합니다.\n\n동시에 진화 과정이 획일화된 종을 만들어 내는 것은 아니며, 우리가 사회화되는 문화적 맥락의 차이는 인격적 존재로서 우리 사이의 차이를 두드러지게 한다. Haslam(같은 책: 94)은 ‘성격에 대한 비유전적 기여의 대부분은 “비공유 환경”, 곧 가족 안에서 공유되는 영향이 아니라 각 개인에게 고유한 영향에서 비롯된다’고 설명한다.\n\n블라케모어와 프리트 (2005: 1867) 는 우리가 배울 때 우리의 개별 두뇌가 변화하고 이 플라스틱성은 어린 시절에만 국한되지 않는다는 것을 보여줍니다.\n\n일단 우리가 뇌가 변화한다는 것을 받아들이면 학습자 개개인의 유전적 변화의 가능성을 제안할 수 있습니다. 다음 세대에 전달될 수 있습니다. 하지만 그러한 유전적 변화는 아직 입증되지 않았습니다.\n\n이러한 의미에서 우리는 인간의 학습이 여전히 더 넓은 연구 스펙트럼 내에서 중요한 위치를 차지하고 있음을 볼 수 있습니다.\n\n그림 1.1 인류 내의 사회적 개인\n\n처음부터, 몇 명의 학자들이 진화가 일어났다는 것을 부인할 수 있지만, 다킨스 (1976, 2006) 의 경우만큼 충분히 설명하려고 시도한 적은 거의 없다는 것을 주목하는 것이 중요합니다 (Dennett, 1995, 2006 참조).\n\n도킨스는 진화가 매우 큰 역할을 했다고 주장하고, 이 입장을 요약하기 위해 나는 블랙모어 (2007) 를 도킨스에 대한 하나의 참조로 사용하고 있지만 도킨스 (2006: 22234) 를 참조하십시오.\n\n도킨스를 따라 그녀는 모든 인간의 진화에 근본적인 것은 정보의 변형과 선택으로 복사되는 모방 과정이며 이것이 도킨스 (1976) 가 \"복제자\"라고 부르는 것이라고 지적하는 것으로 시작합니다.\n\n우리는 인간의 성장과 발전에 근본적인 모방적인 학습으로 다시 돌아갈 것입니다.\n\n도킨스에게 가장 익숙한 복제자는 유전체입니다. 다른 신체가 시간이 지남에 따라 죽으면서 살아남습니다.\n\n성공적으로 복사하고 살아남은 유전자가 복사되고 번식하는 데 성공했다는 사실은 도킨스가 그들을 \"자기주의자\"라고 부르는 이유입니다.\n\n그러나, 그는 유전자의 아이디어에서 벗어나기를 원했고 그래서 그는 그것들을 memes   문화유산의 단위 (ibid.: 222) 라고 불렀습니다. 그는 (ibid.: 92) tunes, 아이디어, 포착 문장, 옷, 패션, 냄비 만들 방법 또는 아치 건설 방법을 포함한다고 제안했습니다.\n\n메미의 말 그대로의 의미는 이 모방되는 것입니다, 그리고 우리는 토마셀로 (1999) 의 작품에서 모방에 대해 완전히 다른, 그리고 더 현실적인 접근 방식을 보게 될 것입니다.\n\n메메는 존재한다면 복제되는 것입니다. 우리가 스스로 배우는 것은 메메가 아닙니다. 우리의 주요 경험도 아닙니다.\n\n개념적으로 멘스는 진화 과정의 일부 이론의 중심에 있으며 멘스에 내장된 학습이 이제 진화 과정의 일부가 되었기 때문에 그 원동력이 됩니다.\n\n블랙모어 (2007: 12) 는 이 입장을 요약합니다.\n\n사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009\n\n이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?\n\n문명: 981931\n\n2026년 10월 08일 03:48:10.\n\n저작권 © 2009.\n\n테일러 앤 프랜시스 그룹\n\n모든 권리가 있습니다.\n\n전자책 14~29페이지",
+      "status": "translated",
+      "sourceTextSha256": "95b847523a7756503704ac6cb5099a2288ca612ad8c511be197d723ddc8ad606",
+      "segments": [
+        {
+          "source": "give rise to behaviour and its variations, and behavioural genetics tells us about the inherited structures that give rise to these brain processes’ (ibid.: 89–90).",
+          "translation": "행동과 그 변이를 일으킨다는 것, 그리고 행동 유전학은 이러한 뇌 프로세스를 일으키는 유전적인 구조에 대해 알려줍니다 (ibid.: 8990)."
+        },
+        {
+          "source": "Evolution is the natural process that operates on the genetic variation.",
+          "translation": "진화는 유전적 변이를 일으키는 자연적인 과정입니다."
+        },
+        {
+          "source": "Haslam (ibid.: 90) makes the point that ‘evolution works in a slow, blind, and trial-and-error manner to improve the “design” of the biological species, ensuring that its genes underpin an array of functional adaptations’.",
+          "translation": "하슬람 (ibid.: 90) 은 생물학적 종의 설계를 개선하기 위해 진화가 느리고 눈이 멀고 실수로 작동한다는 점을 지적하고, 그 유전자가 다양한 기능적 적응을 뒷받침한다는 것을 보장합니다."
+        },
+        {
+          "source": "At the same time, while the evolutionary process is not producing a standardised species, cultural differences into which we are socialised highlight the differences in us as persons: Haslam (ibid.: 94) suggests that ‘most of the non-genetic contributions to personality are due to “non-shared environment”: influences that are distinctive to individuals rather than shared within families’.",
+          "translation": "동시에 진화 과정이 획일화된 종을 만들어 내는 것은 아니며, 우리가 사회화되는 문화적 맥락의 차이는 인격적 존재로서 우리 사이의 차이를 두드러지게 한다. Haslam(같은 책: 94)은 ‘성격에 대한 비유전적 기여의 대부분은 “비공유 환경”, 곧 가족 안에서 공유되는 영향이 아니라 각 개인에게 고유한 영향에서 비롯된다’고 설명한다.",
+          "reviewed": true
+        },
+        {
+          "source": "Blakemore and Frith (2005: 186–7) show that, when we learn, our individual brains change and that this plasticity is not limited to childhood.",
+          "translation": "블라케모어와 프리트 (2005: 1867) 는 우리가 배울 때 우리의 개별 두뇌가 변화하고 이 플라스틱성은 어린 시절에만 국한되지 않는다는 것을 보여줍니다."
+        },
+        {
+          "source": "Once we accept that the brain changes, it is possible to suggest the possibility of genetic change in the individual learner, which can then be transmitted to the next generation, but such genetic changes have not yet been demonstrated.",
+          "translation": "일단 우리가 뇌가 변화한다는 것을 받아들이면 학습자 개개인의 유전적 변화의 가능성을 제안할 수 있습니다. 다음 세대에 전달될 수 있습니다. 하지만 그러한 유전적 변화는 아직 입증되지 않았습니다."
+        },
+        {
+          "source": "In this sense, we can see that human learning still finds an important place within the wider spectrum of study which is beginning to be called ‘the science of learning’.",
+          "translation": "이러한 의미에서 우리는 인간의 학습이 여전히 더 넓은 연구 스펙트럼 내에서 중요한 위치를 차지하고 있음을 볼 수 있습니다."
+        },
+        {
+          "source": "Figure 1.1 The social individual within humankind.",
+          "translation": "그림 1.1 인류 내의 사회적 개인"
+        },
+        {
+          "source": "From the outset, it is important to note that few, if any, scholars would deny that evolution has occurred, but few have tried to explain it as fully as Dawkins (1976, 2006) has (see also Dennett, 1995, 2006).",
+          "translation": "처음부터, 몇 명의 학자들이 진화가 일어났다는 것을 부인할 수 있지만, 다킨스 (1976, 2006) 의 경우만큼 충분히 설명하려고 시도한 적은 거의 없다는 것을 주목하는 것이 중요합니다 (Dennett, 1995, 2006 참조)."
+        },
+        {
+          "source": "Dawkins would argue that evolution has played an extremely large part, and in order to summarise this position I am using Blackmore (2007) as one reference to Dawkins, but see also Dawkins (2006: 222–34).",
+          "translation": "도킨스는 진화가 매우 큰 역할을 했다고 주장하고, 이 입장을 요약하기 위해 나는 블랙모어 (2007) 를 도킨스에 대한 하나의 참조로 사용하고 있지만 도킨스 (2006: 22234) 를 참조하십시오."
+        },
+        {
+          "source": "Following Dawkins, she starts by pointing out that fundamental to all human evolution is a process of imitation in which information is copied with variation and selection and that this is what Dawkins (1976) calls the ‘replicator’.",
+          "translation": "도킨스를 따라 그녀는 모든 인간의 진화에 근본적인 것은 정보의 변형과 선택으로 복사되는 모방 과정이며 이것이 도킨스 (1976) 가 \"복제자\"라고 부르는 것이라고 지적하는 것으로 시작합니다."
+        },
+        {
+          "source": "We shall return to imitative learning as fundamental to human growth and development below.",
+          "translation": "우리는 인간의 성장과 발전에 근본적인 모방적인 학습으로 다시 돌아갈 것입니다."
+        },
+        {
+          "source": "For Dawkins the most familiar replicator is the gene, which survives as other bodies die in the process of time.",
+          "translation": "도킨스에게 가장 익숙한 복제자는 유전체입니다. 다른 신체가 시간이 지남에 따라 죽으면서 살아남습니다."
+        },
+        {
+          "source": "The fact that the genes that successfully copy and survive have succeeded so that they will be copied and proliferate is why they are called ‘selfish’ by Dawkins.",
+          "translation": "성공적으로 복사하고 살아남은 유전자가 복사되고 번식하는 데 성공했다는 사실은 도킨스가 그들을 \"자기주의자\"라고 부르는 이유입니다."
+        },
+        {
+          "source": "However, he wanted to break away from the idea of genes and so he called them ‘memes’ – ‘units of cultural inheritance’ (ibid.: 222), which he (ibid.: 92) suggested included ‘tunes, ideas, catch-phrases, clothes, fashions, ways of making pots or building arches’.",
+          "translation": "그러나, 그는 유전자의 아이디어에서 벗어나기를 원했고 그래서 그는 그것들을 memes   문화유산의 단위 (ibid.: 222) 라고 불렀습니다. 그는 (ibid.: 92) tunes, 아이디어, 포착 문장, 옷, 패션, 냄비 만들 방법 또는 아치 건설 방법을 포함한다고 제안했습니다."
+        },
+        {
+          "source": "The literal meaning of meme is ‘that which is imitated’, and we will see in the work of Tomasello (1999) a totally different and, I believe, a more realistic approach to mimesis, or mimetics.",
+          "translation": "메미의 말 그대로의 의미는 이 모방되는 것입니다, 그리고 우리는 토마셀로 (1999) 의 작품에서 모방에 대해 완전히 다른, 그리고 더 현실적인 접근 방식을 보게 될 것입니다."
+        },
+        {
+          "source": "Memes, if they exist, are what are copied, whereas what we learn by ourselves are not memes – nor are any of our primary experiences.",
+          "translation": "메메는 존재한다면 복제되는 것입니다. 우리가 스스로 배우는 것은 메메가 아닙니다. 우리의 주요 경험도 아닙니다."
+        },
+        {
+          "source": "Conceptually memes are at the heart of some theories of the evolutionary process and are its driving force because the learning that is built into the meme is now part of the evolutionary process – it is part of our hard-wiring.",
+          "translation": "개념적으로 멘스는 진화 과정의 일부 이론의 중심에 있으며 멘스에 내장된 학습이 이제 진화 과정의 일부가 되었기 때문에 그 원동력이 됩니다."
+        },
+        {
+          "source": "Blackmore (2007: 12) summarises this position: Jarvis, Peter.",
+          "translation": "블랙모어 (2007: 12) 는 이 입장을 요약합니다."
+        },
+        {
+          "source": "Learning to Be a Person in Society, Taylor & Francis Group, 2009.",
+          "translation": "사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009"
+        },
+        {
+          "source": "ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?",
+          "translation": "이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?"
+        },
+        {
+          "source": "docID=981931.",
+          "translation": "문명: 981931"
+        },
+        {
+          "source": "Created from snulibrary-ebooks on 2026-10-08 03:48:10.",
+          "translation": "2026년 10월 08일 03:48:10."
+        },
+        {
+          "source": "Copyright © 2009.",
+          "translation": "저작권 © 2009."
+        },
+        {
+          "source": "Taylor & Francis Group.",
+          "translation": "테일러 앤 프랜시스 그룹"
+        },
+        {
+          "source": "All rights reserved.",
+          "translation": "모든 권리가 있습니다."
+        },
+        {
+          "source": "Ebook pages 14-29 | Printed page 10 of 11",
+          "translation": "전자책 14~29페이지"
+        }
+      ],
+      "unitId": "page-10",
+      "unitLabel": "PDF 10쪽"
+    },
+    {
+      "page": 11,
+      "sourceText": "This is really a general argument about the design of human nature. Whichever direction memetic evolution\nhappened to take in the past, we humans would become better able to copy the memes that were successful –\nwhether those words, music, paintings, rituals or anything else. Our modern brains therefore carry the traces of our\npast memetic evolution.\nEvolution is clearly basic to our thinking, but the problem lies in the extent to which hard-wiring occurs and whether\nthere is evidence for the existence of memes – and if not we need to understand more about the processes of hard-wiring.\nFundamentally, memetics is a reductionist theory that needs a lot more hard scientific research to prove its point, and so\nthis study turns to the manner in which Tomasello deals with imitation. Significantly, Blakemore and Frith (2005), while\nrecognising the significance of genes to learning, make no mention of memes in their study of the learning brain. Nelson\n(2007: 44) also makes the point that no genes have been identified that influence human behaviour and also points out\nthat genetic behaviourists separate the gene from the environment in a manner that does not lead to a clear understanding\nof human development. The similarity between memetics and mimesis is that they both point to a fundamental\nunderstanding of imitation although they have different ways of viewing it. Theorists of early childhood learning, then,\nstart with imitation. Children imitate from birth and Tomasello (1999: 52) regards children between the ages of one and\nthree years as ‘imitation machines’. This imitation occurs in the intimate relationships that occur in the early life of a\nchild; Tomasello (ibid.: 55) does not reject an evolutionary perspective but he wants to produce a dual perspective on\nhuman development:\nWe have at most only 6 million years, but much more likely only one-quarter of a million years, to create uniquely\nhuman cognition, and this is simply not sufficient, under any plausible evolutionary scenario, for genetic variation\nand natural selection to have created many and different uniquely human cognitive modules.\nHe (p. 54) does accept that many of the skills possessed by all the primates, including human beings, are the result of\nthe evolutionary processes. Other scholars, such as Donald (2001), reach similar conclusions, although Blackmore\n(2007: 7), wrongly and without evidence in my opinion, accuses Donald of rejecting the whole of the argument out of\nfear. Tomasello’s dual position is attractive since it allows us both to accept the validity of the evolutionary argument\nbut also to recognise that evolution is a slower process than that of individual learning – even imitative learning – and so\nculture also plays a dominant part in human development.\nConclusion\nFrom the above discussion, we can see that each of the major terms is contentious and we have laid the foundations here\nto understand what it means to learn to become persons in society. All of the major concepts are inter-related and\nintertwined, yet there are fundamental differences about the place of culture and therefore learning in the process of\nbecoming human persons. We have briefly reviewed this debate, although the relationship between evolution and\nlearning calls for a more in-depth study. Whereas imitation is at the heart of this process, the memetic theory appears\nreductionist and speculative – more speculative than the theories it tries to replace. We are now, therefore, in a better\nposition to explore a basic theory of human learning.\nJarvis, Peter. Learning to Be a Person in Society, Taylor & Francis Group, 2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?docID=981931.\nCreated from snulibrary-ebooks on 2026-10-08 03:48:10.\nCopyright © 2009. Taylor & Francis Group. All rights reserved.\nEbook pages 14-29 | Printed page 11 of 11\n",
+      "translationText": "이것은 실제로 인간의 본성에 대한 일반적인 주장입니다.\n\n과거에 어떤 방향으로 미메틱 진화가 일어났든, 우리는 성공한 미메를 더 잘 복사할 수 있게 될 것입니다. 그 단어, 음악, 그림, 의식 또는 그 밖의 모든 것.\n\n따라서 우리의 현대 뇌는 과거의 유행적 진화의 흔적을 가지고 있습니다.\n\n진화는 분명히 우리의 생각의 기본입니다. 하지만 문제는 하드 와이어링이 일어나는 정도와 메미의 존재에 대한 증거가 있는지에 달려 있습니다. 그렇지 않으면 우리는 하드 와이어의 과정에 대해 더 많이 알아야 합니다.\n\n근본적으로, 메메틱스는 그 점을 증명하기 위해 훨씬 더 많은 과학적 연구가 필요한 reduk션주의 이론입니다. 그래서 이 연구는 토마셀로가 모방에 대해 다루는 방식에 돌아갑니다.\n\n중요한 것은, Blakemore and Frith (2005), 학습에 대한 유전자의 중요성을 인식하면서 학습 두뇌에 대한 연구에서 메미에 대해 언급하지 않는다는 것입니다.\n\n넬슨은 (2007: 44) 또한 인간의 행동에 영향을 미치는 유전자가 확인되지 않았다고 지적하고 또한 유전적 행동주의자들은 인간의 발달에 대한 명확한 이해를 이끌어 내지 않는 방식으로 유전자를 환경으로부터 분리한다고 지적한다.\n\n미메틱스와 미메시스 사이의 유사성은 두 가지 모두 모방에 대한 근본적인 이해를 가리키는 것이지만 다른 시각을 가지고 있습니다.\n\n그러므로 어린 시절부터 배우는 이론가들은 모방으로 시작합니다.\n\n아이들은 태어날 때부터 모방하고 Tomasello (1999: 52) 는 1세에서 3세 사이의 어린이를 모방 기계로 간주합니다.\n\n이러한 모방은 어린이의 초기 생활에서 발생하는 친밀한 관계에서 발생합니다. 토마셀로 (ibid.: 55) 는 진화적 관점을 거부하지는 않지만 인간의 발달에 대한 이중적인 관점을 생산하고 싶어합니다. 우리는 최대 6 백만 년 만, 그러나 백만 년의 4분의 1 만을 가지고 있습니다. 독특하게 인간적 인 인식을 창출하기 위해, 이것은 단순히 충분히 충분하지 않습니다. 어떤 유연한 진화적 시나리오 아래, 유전적 변형과 자연 선택은 많은 다양한 독특한 인간적 인 인지 모듈을 만들었습니다.\n\n그는 (P. 54) 모든 영장류, 인간을 포함한 모든 영장물의 능력이 진화 과정의 결과라고 인정합니다.\n\n도널드 (2001) 와 같은 다른 학자들은 비슷한 결론에 도달하지만, 블랙모어 (2007: 7) 는 나의 의견에 따라 잘못되고 증거없이 도널드를 두려움으로 전체 주장을 거부한다고 비난합니다.\n\nTomasello의 이중적 입장은 진화론적 주장의 타당성을 받아들이면서도, 진화가 개인의 학습, 심지어 모방학습보다도 느린 과정임을 인정할 수 있게 한다는 점에서 매력적이다. 따라서 문화 역시 인간 발달에서 지배적인 역할을 한다.\n\n결론 위의 논의에서, 우리는 주요 용어들 각각이 논쟁적이라는 것을 알 수 있으며, 우리는 사회에서 사람이 되는 것을 배우는 것이 무엇을 의미하는지 이해하는 기초를 마련했습니다.\n\n모든 주요 개념들은 서로 연관되어 있고 서로 얽혀 있지만 문화의 위치와 따라서 인간 인물이 되는 과정에서 학습에 대한 근본적인 차이점이 있습니다.\n\n우리는 이 논쟁을 간략하게 검토했지만 진화와 학습의 관계는 좀 더 깊이 있는 연구가 필요합니다.\n\n모방이 이 과정의 중심에 있지만, 메모리 이론은 그 이론을 대체하려고 노력하는 이론보다  더 가설적이면서 reduk션주의적이고 가설적인 것으로 보인다.\n\n따라서 우리는 이제 인간의 학습에 대한 기본적인 이론을 탐구할 수 있는 더 좋은 위치에 있습니다.\n\n자르비스, 피터\n\n사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009\n\n이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?\n\n문명: 981931\n\n2026년 10월 08일 03:48:10.\n\n저작권 © 2009.\n\n테일러 앤 프랜시스 그룹\n\n모든 권리가 있습니다.\n\n전자책 14~29페이지",
+      "status": "translated",
+      "sourceTextSha256": "60c17d486c44cd40045290dfea56a52926c92634a8e6e1d2a307a23c86c44f07",
+      "segments": [
+        {
+          "source": "This is really a general argument about the design of human nature.",
+          "translation": "이것은 실제로 인간의 본성에 대한 일반적인 주장입니다."
+        },
+        {
+          "source": "Whichever direction memetic evolution happened to take in the past, we humans would become better able to copy the memes that were successful – whether those words, music, paintings, rituals or anything else.",
+          "translation": "과거에 어떤 방향으로 미메틱 진화가 일어났든, 우리는 성공한 미메를 더 잘 복사할 수 있게 될 것입니다. 그 단어, 음악, 그림, 의식 또는 그 밖의 모든 것."
+        },
+        {
+          "source": "Our modern brains therefore carry the traces of our past memetic evolution.",
+          "translation": "따라서 우리의 현대 뇌는 과거의 유행적 진화의 흔적을 가지고 있습니다."
+        },
+        {
+          "source": "Evolution is clearly basic to our thinking, but the problem lies in the extent to which hard-wiring occurs and whether there is evidence for the existence of memes – and if not we need to understand more about the processes of hard-wiring.",
+          "translation": "진화는 분명히 우리의 생각의 기본입니다. 하지만 문제는 하드 와이어링이 일어나는 정도와 메미의 존재에 대한 증거가 있는지에 달려 있습니다. 그렇지 않으면 우리는 하드 와이어의 과정에 대해 더 많이 알아야 합니다."
+        },
+        {
+          "source": "Fundamentally, memetics is a reductionist theory that needs a lot more hard scientific research to prove its point, and so this study turns to the manner in which Tomasello deals with imitation.",
+          "translation": "근본적으로, 메메틱스는 그 점을 증명하기 위해 훨씬 더 많은 과학적 연구가 필요한 reduk션주의 이론입니다. 그래서 이 연구는 토마셀로가 모방에 대해 다루는 방식에 돌아갑니다."
+        },
+        {
+          "source": "Significantly, Blakemore and Frith (2005), while recognising the significance of genes to learning, make no mention of memes in their study of the learning brain.",
+          "translation": "중요한 것은, Blakemore and Frith (2005), 학습에 대한 유전자의 중요성을 인식하면서 학습 두뇌에 대한 연구에서 메미에 대해 언급하지 않는다는 것입니다."
+        },
+        {
+          "source": "Nelson (2007: 44) also makes the point that no genes have been identified that influence human behaviour and also points out that genetic behaviourists separate the gene from the environment in a manner that does not lead to a clear understanding of human development.",
+          "translation": "넬슨은 (2007: 44) 또한 인간의 행동에 영향을 미치는 유전자가 확인되지 않았다고 지적하고 또한 유전적 행동주의자들은 인간의 발달에 대한 명확한 이해를 이끌어 내지 않는 방식으로 유전자를 환경으로부터 분리한다고 지적한다."
+        },
+        {
+          "source": "The similarity between memetics and mimesis is that they both point to a fundamental understanding of imitation although they have different ways of viewing it.",
+          "translation": "미메틱스와 미메시스 사이의 유사성은 두 가지 모두 모방에 대한 근본적인 이해를 가리키는 것이지만 다른 시각을 가지고 있습니다."
+        },
+        {
+          "source": "Theorists of early childhood learning, then, start with imitation.",
+          "translation": "그러므로 어린 시절부터 배우는 이론가들은 모방으로 시작합니다."
+        },
+        {
+          "source": "Children imitate from birth and Tomasello (1999: 52) regards children between the ages of one and three years as ‘imitation machines’.",
+          "translation": "아이들은 태어날 때부터 모방하고 Tomasello (1999: 52) 는 1세에서 3세 사이의 어린이를 모방 기계로 간주합니다."
+        },
+        {
+          "source": "This imitation occurs in the intimate relationships that occur in the early life of a child; Tomasello (ibid.: 55) does not reject an evolutionary perspective but he wants to produce a dual perspective on human development: We have at most only 6 million years, but much more likely only one-quarter of a million years, to create uniquely human cognition, and this is simply not sufficient, under any plausible evolutionary scenario, for genetic variation and natural selection to have created many and different uniquely human cognitive modules.",
+          "translation": "이러한 모방은 어린이의 초기 생활에서 발생하는 친밀한 관계에서 발생합니다. 토마셀로 (ibid.: 55) 는 진화적 관점을 거부하지는 않지만 인간의 발달에 대한 이중적인 관점을 생산하고 싶어합니다. 우리는 최대 6 백만 년 만, 그러나 백만 년의 4분의 1 만을 가지고 있습니다. 독특하게 인간적 인 인식을 창출하기 위해, 이것은 단순히 충분히 충분하지 않습니다. 어떤 유연한 진화적 시나리오 아래, 유전적 변형과 자연 선택은 많은 다양한 독특한 인간적 인 인지 모듈을 만들었습니다."
+        },
+        {
+          "source": "He (p. 54) does accept that many of the skills possessed by all the primates, including human beings, are the result of the evolutionary processes.",
+          "translation": "그는 (P. 54) 모든 영장류, 인간을 포함한 모든 영장물의 능력이 진화 과정의 결과라고 인정합니다."
+        },
+        {
+          "source": "Other scholars, such as Donald (2001), reach similar conclusions, although Blackmore (2007: 7), wrongly and without evidence in my opinion, accuses Donald of rejecting the whole of the argument out of fear.",
+          "translation": "도널드 (2001) 와 같은 다른 학자들은 비슷한 결론에 도달하지만, 블랙모어 (2007: 7) 는 나의 의견에 따라 잘못되고 증거없이 도널드를 두려움으로 전체 주장을 거부한다고 비난합니다."
+        },
+        {
+          "source": "Tomasello’s dual position is attractive since it allows us both to accept the validity of the evolutionary argument but also to recognise that evolution is a slower process than that of individual learning – even imitative learning – and so culture also plays a dominant part in human development.",
+          "translation": "Tomasello의 이중적 입장은 진화론적 주장의 타당성을 받아들이면서도, 진화가 개인의 학습, 심지어 모방학습보다도 느린 과정임을 인정할 수 있게 한다는 점에서 매력적이다. 따라서 문화 역시 인간 발달에서 지배적인 역할을 한다.",
+          "reviewed": true
+        },
+        {
+          "source": "Conclusion From the above discussion, we can see that each of the major terms is contentious and we have laid the foundations here to understand what it means to learn to become persons in society.",
+          "translation": "결론 위의 논의에서, 우리는 주요 용어들 각각이 논쟁적이라는 것을 알 수 있으며, 우리는 사회에서 사람이 되는 것을 배우는 것이 무엇을 의미하는지 이해하는 기초를 마련했습니다."
+        },
+        {
+          "source": "All of the major concepts are inter-related and intertwined, yet there are fundamental differences about the place of culture and therefore learning in the process of becoming human persons.",
+          "translation": "모든 주요 개념들은 서로 연관되어 있고 서로 얽혀 있지만 문화의 위치와 따라서 인간 인물이 되는 과정에서 학습에 대한 근본적인 차이점이 있습니다."
+        },
+        {
+          "source": "We have briefly reviewed this debate, although the relationship between evolution and learning calls for a more in-depth study.",
+          "translation": "우리는 이 논쟁을 간략하게 검토했지만 진화와 학습의 관계는 좀 더 깊이 있는 연구가 필요합니다."
+        },
+        {
+          "source": "Whereas imitation is at the heart of this process, the memetic theory appears reductionist and speculative – more speculative than the theories it tries to replace.",
+          "translation": "모방이 이 과정의 중심에 있지만, 메모리 이론은 그 이론을 대체하려고 노력하는 이론보다  더 가설적이면서 reduk션주의적이고 가설적인 것으로 보인다."
+        },
+        {
+          "source": "We are now, therefore, in a better position to explore a basic theory of human learning.",
+          "translation": "따라서 우리는 이제 인간의 학습에 대한 기본적인 이론을 탐구할 수 있는 더 좋은 위치에 있습니다."
+        },
+        {
+          "source": "Jarvis, Peter.",
+          "translation": "자르비스, 피터"
+        },
+        {
+          "source": "Learning to Be a Person in Society, Taylor & Francis Group, 2009.",
+          "translation": "사회에서 사람이 되는 법을 배우기, 테일러 앤 프랜시스 그룹, 2009"
+        },
+        {
+          "source": "ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?",
+          "translation": "이북센터, http://ebookcentral.proquest.com/lib/snulibrary-ebooks/detail.action?"
+        },
+        {
+          "source": "docID=981931.",
+          "translation": "문명: 981931"
+        },
+        {
+          "source": "Created from snulibrary-ebooks on 2026-10-08 03:48:10.",
+          "translation": "2026년 10월 08일 03:48:10."
+        },
+        {
+          "source": "Copyright © 2009.",
+          "translation": "저작권 © 2009."
+        },
+        {
+          "source": "Taylor & Francis Group.",
+          "translation": "테일러 앤 프랜시스 그룹"
+        },
+        {
+          "source": "All rights reserved.",
+          "translation": "모든 권리가 있습니다."
+        },
+        {
+          "source": "Ebook pages 14-29 | Printed page 11 of 11",
+          "translation": "전자책 14~29페이지"
+        }
+      ],
+      "unitId": "page-11",
+      "unitLabel": "PDF 11쪽"
+    }
+  ],
+  "kind": "pdf-partial-supplement",
+  "label": "Jarvis 제1장 · 사회 속의 인간",
+  "sourceType": "pdf",
+  "coverageNote": "추가 확보한 제1장 11쪽입니다. Jarvis(2009)는 확보한 일부 장·절의 범위만 제공합니다."
+}

@@ -1,0 +1,1561 @@
+{
+  "referenceId": "ref-046",
+  "sourceId": "s-cite-639203115d7907a661e8",
+  "sourceSha256": "639203115d7907a661e866a65485b358418f84f3a87ab651924e72e8cfb6940e",
+  "pageCount": 13,
+  "translationType": "machine",
+  "engine": "NLLB-200 distilled 600M / CTranslate2",
+  "modelRevision": "f8d333a098d19b4fd9a8b18f94170487ad3f821d",
+  "pages": [
+    {
+      "page": 1,
+      "sourceText": "International Journal of Education & the Arts \n \nEditors \nTom Barone \nArizona State University, U.S.A \nLiora Bresler  \nUniversity of Illinois at Urbana—Champaign, U.S.A. \nhttp://ijea.asu.edu                                                                              ISBN 1529-8094 \n \nVolume 5 Number 4                                                                 October 14, 2004         \n \nWhat Can Education Learn from the  \nArts about the Practice of Education? \n \nElliot W. Eisner \nStanford University \n \nCitation: Eisner, E. W. (2004, October 14). What can education learn from the \narts about the practice of education? International Journal of Education & the Arts, \n5(4). Retrieved [date] from http://ijea.asu.edu/v5n4/. \n \nAbstract \nMy subject is what the practice of education can learn from the arts. I \ndescribe the forms of thinking the arts evoke and their relevance for  \nre-framing conceptions of what education can accomplish. \n \n \nI want to talk with you today about what education might learn from the arts about the \npractice of education. In many ways the idea that education has something to learn from the \narts cuts across the grain of our traditional beliefs about how to improve educational \npractice. \n \nOur field, the field of education, has predicated its practices on a platform of scientifically \ngrounded knowledge, at least as an aspiration. The arts and artistry as sources of improved \neducational practice are considered, at best, a fall back position, a court of last resort, \nsomething you retreat to when there is no science to provide guidance. It is widely believed \nthat no field seeking professional respectability can depend on such an undependable source.  \n \nDespite prevailing doubts, I intend to examine what a conception of practice rooted in the \narts might contribute to the improvement of both the means and ends of education. What I \nwant to do is to foreshadow the grounds for a view of education that differs in fundamental \nways from the one that now prevails. To do this, I will be describing the forms of thinking \nthe arts evoke and their relevance for re-framing our conception of what education might try \nto accomplish. To secure a perspective for the analysis, let’s first look at the historical",
+      "translationText": "국제 교육 & 예술 학술지 편집자 톰 바론 애리조나 주립대학교, 미국 일리노이 대학교 리오라 브레스러 대학 UrbanaChampaign, 미국 http://ijea.asu.edu ISBN 1529-8094 5권 4호 2004년 10월 14일\n\n엘리엇 W. 아이즈너 스탠퍼드 대학교 인용: 아이즈너, E.W. (2004, 10월 14).\n\n교육은 예술에서 교육의 실천에 대해 무엇을 배울 수 있습니까?\n\n국제 교육과 예술 학술지, 5*4).\n\nhttp://ijea.asu.edu/v5n4/에서 검색되었습니다.\n\n추석 제 주제는 교육의 실천이 예술에서 배울 수 있는 것입니다.\n\n저는 예술이 불러일으키는 사고방식을 설명하고 교육이 무엇을 성취할 수 있는지에 대한 개념을 재구성하는 데 그 중요성을 설명합니다.\n\n저는 오늘 여러분들과 교육이 예술에서 교육의 실천에 대해 무엇을 배울 수 있는지에 대해 이야기하고 싶습니다.\n\n많은 면에서 교육이 예술에서 배울 것이 있다는 생각은 교육 실습을 개선하는 방법에 대한 우리의 전통적인 신념의 곡물을 잘라냅니다.\n\n우리 분야인 교육 분야는 과학적으로 기초한 지식의 플랫폼에 기반을 두고 있습니다.\n\n예술과 예술은 향상된 교육 실무의 원천으로, 가장 좋은 경우, 낙후의 위치, 최후의 수단으로 간주됩니다. 과학이 가이드라인을 제공하지 않을 때 물러나는 것입니다.\n\n전문적인 존엄성을 추구하는 분야는 그러한 신뢰할 수 없는 원천에 의존할 수 없다고 널리 알려져 있습니다.\n\n의심의 여지없이, 저는 예술에 뿌리를 둔 실천의 개념이 교육의 수단과 목적을 향상시키는 데 어떤 기여를 할 수 있는지 살펴보고자 합니다.\n\n제가 하고 싶은 것은 교육에 대한 견해가 근본적으로 기존의 견해와 다르다는 근거를 제시하는 것입니다.\n\n이를 위해, 저는 예술이 불러일으키는 사고방식과 교육이 무엇을 성취하려고 시도할 수 있는지에 대한 우리의 개념을 재구성하는 데의 관련성을 설명하겠습니다.\n\n분석에 대한 관점을 확보하기 위해, 먼저 역사적인",
+      "status": "translated",
+      "sourceTextSha256": "37cb0ea9e08460a245a5b94c22eccf76fed88d1b0320e493249d9953c2d90ac3",
+      "segments": [
+        {
+          "source": "International Journal of Education & the Arts Editors Tom Barone Arizona State University, U.S.A Liora Bresler University of Illinois at Urbana—Champaign, U.S.A. http://ijea.asu.edu ISBN 1529-8094 Volume 5 Number 4 October 14, 2004 What Can Education Learn from the Arts about the Practice of Education?",
+          "translation": "국제 교육 & 예술 학술지 편집자 톰 바론 애리조나 주립대학교, 미국 일리노이 대학교 리오라 브레스러 대학 UrbanaChampaign, 미국 http://ijea.asu.edu ISBN 1529-8094 5권 4호 2004년 10월 14일"
+        },
+        {
+          "source": "Elliot W. Eisner Stanford University Citation: Eisner, E. W. (2004, October 14).",
+          "translation": "엘리엇 W. 아이즈너 스탠퍼드 대학교 인용: 아이즈너, E.W. (2004, 10월 14)."
+        },
+        {
+          "source": "What can education learn from the arts about the practice of education?",
+          "translation": "교육은 예술에서 교육의 실천에 대해 무엇을 배울 수 있습니까?"
+        },
+        {
+          "source": "International Journal of Education & the Arts, 5(4).",
+          "translation": "국제 교육과 예술 학술지, 5*4)."
+        },
+        {
+          "source": "Retrieved [date] from http://ijea.asu.edu/v5n4/.",
+          "translation": "http://ijea.asu.edu/v5n4/에서 검색되었습니다."
+        },
+        {
+          "source": "Abstract My subject is what the practice of education can learn from the arts.",
+          "translation": "추석 제 주제는 교육의 실천이 예술에서 배울 수 있는 것입니다."
+        },
+        {
+          "source": "I describe the forms of thinking the arts evoke and their relevance for re-framing conceptions of what education can accomplish.",
+          "translation": "저는 예술이 불러일으키는 사고방식을 설명하고 교육이 무엇을 성취할 수 있는지에 대한 개념을 재구성하는 데 그 중요성을 설명합니다."
+        },
+        {
+          "source": "I want to talk with you today about what education might learn from the arts about the practice of education.",
+          "translation": "저는 오늘 여러분들과 교육이 예술에서 교육의 실천에 대해 무엇을 배울 수 있는지에 대해 이야기하고 싶습니다."
+        },
+        {
+          "source": "In many ways the idea that education has something to learn from the arts cuts across the grain of our traditional beliefs about how to improve educational practice.",
+          "translation": "많은 면에서 교육이 예술에서 배울 것이 있다는 생각은 교육 실습을 개선하는 방법에 대한 우리의 전통적인 신념의 곡물을 잘라냅니다."
+        },
+        {
+          "source": "Our field, the field of education, has predicated its practices on a platform of scientifically grounded knowledge, at least as an aspiration.",
+          "translation": "우리 분야인 교육 분야는 과학적으로 기초한 지식의 플랫폼에 기반을 두고 있습니다."
+        },
+        {
+          "source": "The arts and artistry as sources of improved educational practice are considered, at best, a fall back position, a court of last resort, something you retreat to when there is no science to provide guidance.",
+          "translation": "예술과 예술은 향상된 교육 실무의 원천으로, 가장 좋은 경우, 낙후의 위치, 최후의 수단으로 간주됩니다. 과학이 가이드라인을 제공하지 않을 때 물러나는 것입니다."
+        },
+        {
+          "source": "It is widely believed that no field seeking professional respectability can depend on such an undependable source.",
+          "translation": "전문적인 존엄성을 추구하는 분야는 그러한 신뢰할 수 없는 원천에 의존할 수 없다고 널리 알려져 있습니다."
+        },
+        {
+          "source": "Despite prevailing doubts, I intend to examine what a conception of practice rooted in the arts might contribute to the improvement of both the means and ends of education.",
+          "translation": "의심의 여지없이, 저는 예술에 뿌리를 둔 실천의 개념이 교육의 수단과 목적을 향상시키는 데 어떤 기여를 할 수 있는지 살펴보고자 합니다."
+        },
+        {
+          "source": "What I want to do is to foreshadow the grounds for a view of education that differs in fundamental ways from the one that now prevails.",
+          "translation": "제가 하고 싶은 것은 교육에 대한 견해가 근본적으로 기존의 견해와 다르다는 근거를 제시하는 것입니다."
+        },
+        {
+          "source": "To do this, I will be describing the forms of thinking the arts evoke and their relevance for re-framing our conception of what education might try to accomplish.",
+          "translation": "이를 위해, 저는 예술이 불러일으키는 사고방식과 교육이 무엇을 성취하려고 시도할 수 있는지에 대한 우리의 개념을 재구성하는 데의 관련성을 설명하겠습니다."
+        },
+        {
+          "source": "To secure a perspective for the analysis, let’s first look at the historical",
+          "translation": "분석에 대한 관점을 확보하기 위해, 먼저 역사적인"
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 2,
+      "sourceText": "What can education learn from the arts?                                                                                                       2 \ncontext within which our current assumptions about reliable and effective practice have been \nbased. \n \nAs we know, when, in the fourth quarter of the 19th century, education was coming into its \nown as a field of study, it received its initial guidance from psychology. It was the early \npsychologists who were interested in making psychology a scientific enterprise, one that \nemulated the work done in the so-called “hard sciences.” Their aim was to develop a physics \nof psychology -- what they called “psychophysics” -- and, consistent with their mission, \nmade laboratories rather than studios the venues for their work (Boring, 1957). People like \nGalton in England and Helmholtz and Fechner in Germany were among its leaders, and \neven William James, Charles Spearman, and G. Stanley Hall made passage to Europe to learn \nthe secrets and methods of those seeking to create a science of mind. One example of the \nfaith placed in a science of psychology can be found in Edward L. Thorndike’s 1910 lead \narticle in the Journal of Educational Psychology. He writes: \n \nA complete science of psychology would tell every fact about everyone’s \nintellect and character and behavior, would tell the cause of every change in \nhuman nature, would tell the result of every educational force—every act of \nevery person that changed any other or the person himself—would have. It \nwould aid us to use human beings for the world’s welfare with the same \nsurety of the result that we now have when we use falling bodies or chemical \nelements. In proportion as we get such a science we shall become the masters \nof our own souls as we now are masters of heat and light. Progress toward \nsuch a science is being made.  \n(Thorndike, 1990) \n \nThorndike’s optimism was not shared by all. James and Dewey, for example, had \nreservations regarding what science could provide to so artful an enterprise as teaching. \nNever-the-less, by the end of the first quarter of the 20th century the die was cast. Except for \nsome independent schools, Thorndike won and Dewey lost.1 Metaphorically speaking, \nschools were to become effective and efficient manufacturing plants. Indeed, the language of \nmanufacture was a part of the active vocabulary of Thorndike, Taylor, Cubberly and others \nin the social efficiency movement. In their vision of education students were raw material to \nbe processed according to specifications prescribed by supervisors trained in Fredrick \nTaylor’s time and motion study (Callahan, 1962). \n \nI suspect that even teachers working during the first quarter of the 20th century could not be \ncoaxed into employing wholeheartedly the Taylorisms that were prescribed. Yet for many, \nespecially for those in school administration, the managed and hyper-rationalized educational \nworld that Fredrick Taylor envisioned became the methodological ideal needed to create \neffective and efficient schools (Callahan, 1962).  \n \nThe influence of psychology on education had another fall-out. In the process science and \nart became estranged. Science was considered dependable, the artistic process was not. \nScience was cognitive, the arts were emotional. Science was teachable, the arts required \ntalent. Science was testable, the arts were matters of preference. Science was useful and the \narts were ornamental. It was clear to many then as it is to many today which side of the coin",
+      "translationText": "교육은 예술에서 무엇을 배울 수 있습니까?\n\n신뢰성 있고 효과적인 실천에 대한 우리의 현재 가정이 근거한 2의 맥락.\n\n우리가 알고 있듯이, 19세기 4분기 교육이 학문분야로 자리 잡았을 때,\n\n초기 심리학자들은 심리학을 과학적인 사업으로 만드는 데 관심이 많았는데, 이는 이른바 \"힘든 과학\"에서 수행된 일을 모방하는 것이었다.\n\n그들의 목표는 이른바 ‘정신물리학’이라는 심리학의 물리학을 발전시키는 것이었으며, 이 목표에 따라 작업의 장소도 예술 작업실이 아니라 실험실로 정했다(Boring, 1957).\n\n잉글랜드의 갈튼, 독일의 헬모홀츠, 페흐너와 같은 사람들은 그 지도자들 가운데 있었고, 윌리엄 제임스, 찰스 스피어먼, 그리고 G. 스탠리 홀까지 정신 과학을 만들고자 하는 사람들의 비밀과 방법을 배우기 위해 유럽으로 건너갔다.\n\n심리학 과학에 대한 믿음의 한 예는 교육 심리학 학술지에 1910 년 에드워드 L. 토르니케의 주요 기사에서 찾을 수 있습니다.\n\n그는 이렇게 썼습니다. 심리학의 완전한 과학은 모든 사람의 지성과 성격과 행동에 대한 모든 사실을 알려줍니다. 인간 본성의 모든 변화의 원인을 알려줍니다. 모든 교육적 힘의 결과를 알려줍니다.\n\n그것은 지금 우리가 떨어지는 몸이나 화학 요소를 사용하는 결과와 같은 확신을 가지고 세계를 위해 인간을 사용하는 데 도움이 될 것입니다.\n\n우리가 그러한 과학을 얻을수록 우리는 이제 열과 빛의 주인처럼 우리 자신의 영혼의 주인이 될 것입니다.\n\n그러한 과학에 대한 진전이 이루어지고 있습니다.\n\n(Thorndike, 1990)\n\n스톤다이크의 낙관주의는 모두가 공유하지 않았습니다.\n\n예를 들어, 제임스와 듀이는 과학이 가르치는 것만큼의 우아한 기업에 무엇을 제공할 수 있는지에 대해 의심을 가지고 있었다.\n\n그럼에도 불구하고, 20세기의 첫 번째 사분기 말까지 덩어리가 던져졌습니다.\n\n몇몇 독립 학교를 제외하고, 토런다이크가 승리했고, 듀이는 패했다.1\n\n비유적으로 말하면 학교는 효과적이고 효율적인 제조 공장이 될 것입니다.\n\n사실, 제조 언어는 사회 효율화 운동에서 톤디크, 테일러, 큐버리 등이 활발한 어휘의 일부였습니다.\n\n교육에 대한 그들의 비전에서 학생들은 프레드릭 테일러의 시간 및 운동 연구 (칼라한, 1962) 에서 훈련받은 감독이 정하는 특성에 따라 처리해야 할 원료였습니다.\n\n20세기 1분기 동안 일하던 교사들조차도 처방된 테일러리즘을 전심으로 사용하도록 설득할 수 없었을 것이라고 생각합니다.\n\n하지만 많은 사람들에게, 특히 학교 관리에 종사하는 사람들에게는 프레드릭 테일러가 상상했던 관리되고 초합리화된 교육 세계는 효과적이고 효율적인 학교를 만들기 위해 필요한 방법론적 이상으로 변했습니다 (칼라한, 1962).\n\n교육에 대한 심리학의 영향은 또 다른 충돌을 일으켰습니다.\n\n그 과정에서 과학과 예술은 서로 멀어졌다.\n\n과학은 신뢰할 수 있다고 여겨졌지만 예술적 과정은 그렇지 않았습니다.\n\n과학은 인지적이었고 예술은 감정적이었죠.\n\n과학은 가르칠 수 있었고 예술은 재능이 필요했습니다.\n\n과학은 검증 가능했고 예술은 우선순위였습니다.\n\n과학은 유용했고 예술은 장식적이었다.\n\n그 당시 많은 사람들에게는 분명했습니다. 오늘날 많은 사람들에게도 분명합니다.",
+      "status": "translated",
+      "sourceTextSha256": "2d4d48635458827b10946bc5774b8775e796ea134f862b8a48e8b25c61c5f836",
+      "segments": [
+        {
+          "source": "What can education learn from the arts?",
+          "translation": "교육은 예술에서 무엇을 배울 수 있습니까?"
+        },
+        {
+          "source": "2 context within which our current assumptions about reliable and effective practice have been based.",
+          "translation": "신뢰성 있고 효과적인 실천에 대한 우리의 현재 가정이 근거한 2의 맥락."
+        },
+        {
+          "source": "As we know, when, in the fourth quarter of the 19th century, education was coming into its own as a field of study, it received its initial guidance from psychology.",
+          "translation": "우리가 알고 있듯이, 19세기 4분기 교육이 학문분야로 자리 잡았을 때,"
+        },
+        {
+          "source": "It was the early psychologists who were interested in making psychology a scientific enterprise, one that emulated the work done in the so-called “hard sciences.”",
+          "translation": "초기 심리학자들은 심리학을 과학적인 사업으로 만드는 데 관심이 많았는데, 이는 이른바 \"힘든 과학\"에서 수행된 일을 모방하는 것이었다."
+        },
+        {
+          "source": "Their aim was to develop a physics of psychology -- what they called “psychophysics” -- and, consistent with their mission, made laboratories rather than studios the venues for their work (Boring, 1957).",
+          "translation": "그들의 목표는 이른바 ‘정신물리학’이라는 심리학의 물리학을 발전시키는 것이었으며, 이 목표에 따라 작업의 장소도 예술 작업실이 아니라 실험실로 정했다(Boring, 1957).",
+          "reviewed": true
+        },
+        {
+          "source": "People like Galton in England and Helmholtz and Fechner in Germany were among its leaders, and even William James, Charles Spearman, and G. Stanley Hall made passage to Europe to learn the secrets and methods of those seeking to create a science of mind.",
+          "translation": "잉글랜드의 갈튼, 독일의 헬모홀츠, 페흐너와 같은 사람들은 그 지도자들 가운데 있었고, 윌리엄 제임스, 찰스 스피어먼, 그리고 G. 스탠리 홀까지 정신 과학을 만들고자 하는 사람들의 비밀과 방법을 배우기 위해 유럽으로 건너갔다."
+        },
+        {
+          "source": "One example of the faith placed in a science of psychology can be found in Edward L. Thorndike’s 1910 lead article in the Journal of Educational Psychology.",
+          "translation": "심리학 과학에 대한 믿음의 한 예는 교육 심리학 학술지에 1910 년 에드워드 L. 토르니케의 주요 기사에서 찾을 수 있습니다."
+        },
+        {
+          "source": "He writes: A complete science of psychology would tell every fact about everyone’s intellect and character and behavior, would tell the cause of every change in human nature, would tell the result of every educational force—every act of every person that changed any other or the person himself—would have.",
+          "translation": "그는 이렇게 썼습니다. 심리학의 완전한 과학은 모든 사람의 지성과 성격과 행동에 대한 모든 사실을 알려줍니다. 인간 본성의 모든 변화의 원인을 알려줍니다. 모든 교육적 힘의 결과를 알려줍니다."
+        },
+        {
+          "source": "It would aid us to use human beings for the world’s welfare with the same surety of the result that we now have when we use falling bodies or chemical elements.",
+          "translation": "그것은 지금 우리가 떨어지는 몸이나 화학 요소를 사용하는 결과와 같은 확신을 가지고 세계를 위해 인간을 사용하는 데 도움이 될 것입니다."
+        },
+        {
+          "source": "In proportion as we get such a science we shall become the masters of our own souls as we now are masters of heat and light.",
+          "translation": "우리가 그러한 과학을 얻을수록 우리는 이제 열과 빛의 주인처럼 우리 자신의 영혼의 주인이 될 것입니다."
+        },
+        {
+          "source": "Progress toward such a science is being made.",
+          "translation": "그러한 과학에 대한 진전이 이루어지고 있습니다."
+        },
+        {
+          "source": "(Thorndike, 1990)",
+          "translation": "(Thorndike, 1990)"
+        },
+        {
+          "source": "Thorndike’s optimism was not shared by all.",
+          "translation": "스톤다이크의 낙관주의는 모두가 공유하지 않았습니다."
+        },
+        {
+          "source": "James and Dewey, for example, had reservations regarding what science could provide to so artful an enterprise as teaching.",
+          "translation": "예를 들어, 제임스와 듀이는 과학이 가르치는 것만큼의 우아한 기업에 무엇을 제공할 수 있는지에 대해 의심을 가지고 있었다."
+        },
+        {
+          "source": "Never-the-less, by the end of the first quarter of the 20th century the die was cast.",
+          "translation": "그럼에도 불구하고, 20세기의 첫 번째 사분기 말까지 덩어리가 던져졌습니다."
+        },
+        {
+          "source": "Except for some independent schools, Thorndike won and Dewey lost.1",
+          "translation": "몇몇 독립 학교를 제외하고, 토런다이크가 승리했고, 듀이는 패했다.1"
+        },
+        {
+          "source": "Metaphorically speaking, schools were to become effective and efficient manufacturing plants.",
+          "translation": "비유적으로 말하면 학교는 효과적이고 효율적인 제조 공장이 될 것입니다."
+        },
+        {
+          "source": "Indeed, the language of manufacture was a part of the active vocabulary of Thorndike, Taylor, Cubberly and others in the social efficiency movement.",
+          "translation": "사실, 제조 언어는 사회 효율화 운동에서 톤디크, 테일러, 큐버리 등이 활발한 어휘의 일부였습니다."
+        },
+        {
+          "source": "In their vision of education students were raw material to be processed according to specifications prescribed by supervisors trained in Fredrick Taylor’s time and motion study (Callahan, 1962).",
+          "translation": "교육에 대한 그들의 비전에서 학생들은 프레드릭 테일러의 시간 및 운동 연구 (칼라한, 1962) 에서 훈련받은 감독이 정하는 특성에 따라 처리해야 할 원료였습니다."
+        },
+        {
+          "source": "I suspect that even teachers working during the first quarter of the 20th century could not be coaxed into employing wholeheartedly the Taylorisms that were prescribed.",
+          "translation": "20세기 1분기 동안 일하던 교사들조차도 처방된 테일러리즘을 전심으로 사용하도록 설득할 수 없었을 것이라고 생각합니다."
+        },
+        {
+          "source": "Yet for many, especially for those in school administration, the managed and hyper-rationalized educational world that Fredrick Taylor envisioned became the methodological ideal needed to create effective and efficient schools (Callahan, 1962).",
+          "translation": "하지만 많은 사람들에게, 특히 학교 관리에 종사하는 사람들에게는 프레드릭 테일러가 상상했던 관리되고 초합리화된 교육 세계는 효과적이고 효율적인 학교를 만들기 위해 필요한 방법론적 이상으로 변했습니다 (칼라한, 1962)."
+        },
+        {
+          "source": "The influence of psychology on education had another fall-out.",
+          "translation": "교육에 대한 심리학의 영향은 또 다른 충돌을 일으켰습니다."
+        },
+        {
+          "source": "In the process science and art became estranged.",
+          "translation": "그 과정에서 과학과 예술은 서로 멀어졌다."
+        },
+        {
+          "source": "Science was considered dependable, the artistic process was not.",
+          "translation": "과학은 신뢰할 수 있다고 여겨졌지만 예술적 과정은 그렇지 않았습니다."
+        },
+        {
+          "source": "Science was cognitive, the arts were emotional.",
+          "translation": "과학은 인지적이었고 예술은 감정적이었죠."
+        },
+        {
+          "source": "Science was teachable, the arts required talent.",
+          "translation": "과학은 가르칠 수 있었고 예술은 재능이 필요했습니다."
+        },
+        {
+          "source": "Science was testable, the arts were matters of preference.",
+          "translation": "과학은 검증 가능했고 예술은 우선순위였습니다."
+        },
+        {
+          "source": "Science was useful and the arts were ornamental.",
+          "translation": "과학은 유용했고 예술은 장식적이었다."
+        },
+        {
+          "source": "It was clear to many then as it is to many today which side of the coin",
+          "translation": "그 당시 많은 사람들에게는 분명했습니다. 오늘날 많은 사람들에게도 분명합니다."
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 3,
+      "sourceText": "International Journal of Education & the Arts                                                                                    3 \nmattered. As I said, one relied on art when there was no science to provide guidance. Art \nwas a fall-back position. \n \nThese beliefs and the vision of education they adumbrate are not altogether alien to the \ncontemporary scene. We live at time that puts a premium on the measurement of outcomes, \non the ability to predict them, and on the need to be absolutely clear about what we want to \naccomplish. To aspire for less is to court professional irresponsibility. We like our data hard \nand our methods stiff—we call it rigor.  \n \nFrom a social perspective it is understandable why tight controls, accountability in terms of \nhigh stakes testing, and the pre-specification of intended outcomes—standards they are \ncalled—should have such attractiveness. When the public is concerned about the educational \nproductivity of its schools the tendency, and it is a strong one, is to tighten up, to mandate, \nto measure, and to manage. The teacher’s ability to exercise professional discretion is likely \nto be constrained when the public has lost confidence in its schools. \n \nIt does not require a great leap of imagination or profound insight to recognize that the \nvalues and visions that have driven education during the first quarter of the 20th century are \nreappearing with a vengeance today. We look for “best methods” as if they were \nindependent of context; we do more testing than any nation on earth; we seek curriculum \nuniformity so parents can compare their schools with other schools, as if test scores were \ngood proxies for the quality of education. We would like nothing more than to get teaching \ndown to a science even though the conception of science being employed has little to do \nwith what science is about. What we are now doing is creating an industrial culture in our \nschools, one whose values are brittle and whose conception of what’s important narrow. We \nflirt with payment by results, we pay practically no attention to the idea that engagement in \nschool can and should provide intrinsic satisfactions, and we exacerbate the importance of \nextrinsic rewards by creating policies that encourage children to become point collectors. \nAchievement has triumphed over inquiry. I think our children deserve more. \n \nThe technically rationalized industrial culture I speak of did not begin with psychology; it \nbegan with the Enlightenment. The move by Galileo from attention to the qualitative to a \nfocus on the quantification of relationships was, as Dewey points out, not merely a \nmodification in method; it was a conceptual revolution (Toulmin, 1990). It represented a \nfundamental shift in the way the world was viewed and represented. According to \nphilosopher and historian of science, Stephen Toulmin, the shift was from attention to the \ntimely to attention to the timeless, from an emphasis on the oral to an emphasis on the \nwritten, from attention to the particular to the pursuit of the universal (Toulmin, 1990). \n \nThe calculation of relations and the search for order represented the highest expression of \nour rationality. The ability to use what one learned about nature in order to harness it to our \nwill was another. Rationality during the Enlightenment was closer in spirit to the proportions \nof the Parthanon than to the expressive contours of the Sistine ceiling. This search for order, \nthis desire for efficiency, this need to control and predict were then and are dominant values \ntoday. They are values that pervaded the industrial revolution and they are values that reside \ntacitly beneath current efforts at school reform. Current educational policy expressed in \nPresident Bush’s 26 billion dollar educational reform agenda is an effort to create order, to",
+      "translationText": "국제 교육 & 예술 잡지 3는 중요했습니다.\n\n제가 말씀드렸듯이, 과학이 가이드라인을 제공할 수 없을 때 예술에 의존합니다.\n\n아트는 역설적이었다.\n\n이 믿음 과 그 들 이 퍼뜨리는 교육 비전 은 현대 의 현상 에 전혀 낯선 것 이 아니다.\n\n우리는 결과의 측정, 예측 능력, 그리고 우리가 달성하고자 하는 것에 대해 절대적으로 명확하게 해야 할 필요성에 대해 중요하게 생각하는 시대에 살고 있습니다.\n\n더 적은 것을 추구하는 것은 전문적인 무책임성을 인정하는 것입니다.\n\n우리는 데이터를 딱딱하고 방법을 딱딱하게 좋아하죠. 우리는 그것을 엄격하다고 부릅니다.\n\n사회적인 관점에서 보면 왜 엄격한 통제, 높은 점유율의 테스트와 의도된 결과의 미리 정해짐에 대한 책임감과 그들이 말하는 표준이 그렇게 매력적이어야 하는지는 이해할 수 있습니다.\n\n대중이 학교의 교육 생산성에 대해 우려할 때, 강하고 강한 경향은 강화, 명령, 측정 및 관리입니다.\n\n교사의 전문적 판단력을 행사할 수 있는 능력은 대중이 학교에 대한 신뢰를 잃었을 때 제한될 가능성이 있다.\n\n20세기 전반에 걸쳐 교육을 주도했던 가치관과 비전들이 오늘날 복수적으로 다시 나타나고 있음을 인식하기 위해서는 큰 상상력이나 깊은 통찰력이 필요하지 않습니다.\n\n우리는 맥락에 따라 독립된 것처럼 가장 좋은 방법을 찾습니다. 우리는 지구상의 다른 나라보다 더 많은 테스트를 합니다. 우리는 교육과정 균일성을 추구합니다. 그래서 부모들은 학교를 다른 학교와 비교할 수 있습니다. 마치 시험 점수가 교육의 질에 좋은 대리인처럼요.\n\n우리는 과학에 대한 개념이 과학이 무엇에 관한 것인지에 거의 상관이 없더라도 과학으로 가르치는 것을 더 이상 원하지 않을 것입니다.\n\n지금 우리가 하고 있는 일은 우리 학교들에서 산업문화를 창조하는 것입니다. 그 문화는 취약하고 중요한 것에 대한 개념은 좁습니다.\n\n우리는 성과에 의한 지불에 대해 연애하고, 학교에서의 참여가 본질적인 만족감을 줄 수 있고 가져야 한다는 생각에 거의 관심을 기울이지 않고, 어린이들이 포인트 수집자가 될 수 있도록 격려하는 정책을 만들어내면서 외부 보상의 중요성을 증폭시킵니다.\n\n업적은 조사에 승리했습니다.\n\n우리 아이들이 더 많은 것을 받을 자격이 있다고 생각합니다.\n\n제가 말하는 기술적으로 합리화된 산업 문화는 심리학에서 시작되지 않았습니다. 그것은 계몽주의에서 시작되었습니다.\n\n갈릴레오가 양성적인 것에 대한 관심에서 관계의 수량화에 초점을 맞추는 것에 대한 움직임은 디wey가 지적하는 것처럼 단순히 방법의 변형이 아니라 개념적 혁명이었습니다 (Toulmin, 1990).\n\n그것은 세상을 바라보는 방식과 표현하는 방식의 근본적인 변화를 나타냈습니다.\n\n철학자이자 과학 역사학자 스티븐 툴민에 따르면, 시대적에서 시대적에 대한 관심, 입술에 대한 강조에서 기록에 대한 강조, 특성에 대한 관심에서 보편적인 것을 추구하는 것에 대한 전환이 있었다 (툴민, 1990).\n\n관계의 계산과 질서를 찾는 것은 우리의 합리성의 가장 높은 표현이었습니다.\n\n자연에 대해 배운 것을 우리의 의지로 활용하기 위한 능력은 또 다른 것이었다.\n\n계몽주의의 합리성은 시스티나 천장의 표현적인 윤곽보다 파르타논의 비례에 더 가깝습니다.\n\n질서를 추구하는 이 욕망, 효율성을 추구하는 이 욕구, 통제하고 예측하는 이 욕구는 그 때와 오늘날 지배적인 가치입니다.\n\n이들은 산업혁명을 일으킨 가치이며 학교 개혁에 대한 현재의 노력에 묵묵히 속해 있는 가치입니다.\n\n현재 교육 정책은 부시 대통령의 26억 달러 규모의 교육 개혁 계획에",
+      "status": "translated",
+      "sourceTextSha256": "b1dd13551e141384ac4b8530718b5c031ea1d1e87644495009e7dcbce2b57958",
+      "segments": [
+        {
+          "source": "International Journal of Education & the Arts 3 mattered.",
+          "translation": "국제 교육 & 예술 잡지 3는 중요했습니다."
+        },
+        {
+          "source": "As I said, one relied on art when there was no science to provide guidance.",
+          "translation": "제가 말씀드렸듯이, 과학이 가이드라인을 제공할 수 없을 때 예술에 의존합니다."
+        },
+        {
+          "source": "Art was a fall-back position.",
+          "translation": "아트는 역설적이었다."
+        },
+        {
+          "source": "These beliefs and the vision of education they adumbrate are not altogether alien to the contemporary scene.",
+          "translation": "이 믿음 과 그 들 이 퍼뜨리는 교육 비전 은 현대 의 현상 에 전혀 낯선 것 이 아니다."
+        },
+        {
+          "source": "We live at time that puts a premium on the measurement of outcomes, on the ability to predict them, and on the need to be absolutely clear about what we want to accomplish.",
+          "translation": "우리는 결과의 측정, 예측 능력, 그리고 우리가 달성하고자 하는 것에 대해 절대적으로 명확하게 해야 할 필요성에 대해 중요하게 생각하는 시대에 살고 있습니다."
+        },
+        {
+          "source": "To aspire for less is to court professional irresponsibility.",
+          "translation": "더 적은 것을 추구하는 것은 전문적인 무책임성을 인정하는 것입니다."
+        },
+        {
+          "source": "We like our data hard and our methods stiff—we call it rigor.",
+          "translation": "우리는 데이터를 딱딱하고 방법을 딱딱하게 좋아하죠. 우리는 그것을 엄격하다고 부릅니다."
+        },
+        {
+          "source": "From a social perspective it is understandable why tight controls, accountability in terms of high stakes testing, and the pre-specification of intended outcomes—standards they are called—should have such attractiveness.",
+          "translation": "사회적인 관점에서 보면 왜 엄격한 통제, 높은 점유율의 테스트와 의도된 결과의 미리 정해짐에 대한 책임감과 그들이 말하는 표준이 그렇게 매력적이어야 하는지는 이해할 수 있습니다."
+        },
+        {
+          "source": "When the public is concerned about the educational productivity of its schools the tendency, and it is a strong one, is to tighten up, to mandate, to measure, and to manage.",
+          "translation": "대중이 학교의 교육 생산성에 대해 우려할 때, 강하고 강한 경향은 강화, 명령, 측정 및 관리입니다."
+        },
+        {
+          "source": "The teacher’s ability to exercise professional discretion is likely to be constrained when the public has lost confidence in its schools.",
+          "translation": "교사의 전문적 판단력을 행사할 수 있는 능력은 대중이 학교에 대한 신뢰를 잃었을 때 제한될 가능성이 있다."
+        },
+        {
+          "source": "It does not require a great leap of imagination or profound insight to recognize that the values and visions that have driven education during the first quarter of the 20th century are reappearing with a vengeance today.",
+          "translation": "20세기 전반에 걸쳐 교육을 주도했던 가치관과 비전들이 오늘날 복수적으로 다시 나타나고 있음을 인식하기 위해서는 큰 상상력이나 깊은 통찰력이 필요하지 않습니다."
+        },
+        {
+          "source": "We look for “best methods” as if they were independent of context; we do more testing than any nation on earth; we seek curriculum uniformity so parents can compare their schools with other schools, as if test scores were good proxies for the quality of education.",
+          "translation": "우리는 맥락에 따라 독립된 것처럼 가장 좋은 방법을 찾습니다. 우리는 지구상의 다른 나라보다 더 많은 테스트를 합니다. 우리는 교육과정 균일성을 추구합니다. 그래서 부모들은 학교를 다른 학교와 비교할 수 있습니다. 마치 시험 점수가 교육의 질에 좋은 대리인처럼요."
+        },
+        {
+          "source": "We would like nothing more than to get teaching down to a science even though the conception of science being employed has little to do with what science is about.",
+          "translation": "우리는 과학에 대한 개념이 과학이 무엇에 관한 것인지에 거의 상관이 없더라도 과학으로 가르치는 것을 더 이상 원하지 않을 것입니다."
+        },
+        {
+          "source": "What we are now doing is creating an industrial culture in our schools, one whose values are brittle and whose conception of what’s important narrow.",
+          "translation": "지금 우리가 하고 있는 일은 우리 학교들에서 산업문화를 창조하는 것입니다. 그 문화는 취약하고 중요한 것에 대한 개념은 좁습니다."
+        },
+        {
+          "source": "We flirt with payment by results, we pay practically no attention to the idea that engagement in school can and should provide intrinsic satisfactions, and we exacerbate the importance of extrinsic rewards by creating policies that encourage children to become point collectors.",
+          "translation": "우리는 성과에 의한 지불에 대해 연애하고, 학교에서의 참여가 본질적인 만족감을 줄 수 있고 가져야 한다는 생각에 거의 관심을 기울이지 않고, 어린이들이 포인트 수집자가 될 수 있도록 격려하는 정책을 만들어내면서 외부 보상의 중요성을 증폭시킵니다."
+        },
+        {
+          "source": "Achievement has triumphed over inquiry.",
+          "translation": "업적은 조사에 승리했습니다."
+        },
+        {
+          "source": "I think our children deserve more.",
+          "translation": "우리 아이들이 더 많은 것을 받을 자격이 있다고 생각합니다."
+        },
+        {
+          "source": "The technically rationalized industrial culture I speak of did not begin with psychology; it began with the Enlightenment.",
+          "translation": "제가 말하는 기술적으로 합리화된 산업 문화는 심리학에서 시작되지 않았습니다. 그것은 계몽주의에서 시작되었습니다."
+        },
+        {
+          "source": "The move by Galileo from attention to the qualitative to a focus on the quantification of relationships was, as Dewey points out, not merely a modification in method; it was a conceptual revolution (Toulmin, 1990).",
+          "translation": "갈릴레오가 양성적인 것에 대한 관심에서 관계의 수량화에 초점을 맞추는 것에 대한 움직임은 디wey가 지적하는 것처럼 단순히 방법의 변형이 아니라 개념적 혁명이었습니다 (Toulmin, 1990)."
+        },
+        {
+          "source": "It represented a fundamental shift in the way the world was viewed and represented.",
+          "translation": "그것은 세상을 바라보는 방식과 표현하는 방식의 근본적인 변화를 나타냈습니다."
+        },
+        {
+          "source": "According to philosopher and historian of science, Stephen Toulmin, the shift was from attention to the timely to attention to the timeless, from an emphasis on the oral to an emphasis on the written, from attention to the particular to the pursuit of the universal (Toulmin, 1990).",
+          "translation": "철학자이자 과학 역사학자 스티븐 툴민에 따르면, 시대적에서 시대적에 대한 관심, 입술에 대한 강조에서 기록에 대한 강조, 특성에 대한 관심에서 보편적인 것을 추구하는 것에 대한 전환이 있었다 (툴민, 1990)."
+        },
+        {
+          "source": "The calculation of relations and the search for order represented the highest expression of our rationality.",
+          "translation": "관계의 계산과 질서를 찾는 것은 우리의 합리성의 가장 높은 표현이었습니다."
+        },
+        {
+          "source": "The ability to use what one learned about nature in order to harness it to our will was another.",
+          "translation": "자연에 대해 배운 것을 우리의 의지로 활용하기 위한 능력은 또 다른 것이었다."
+        },
+        {
+          "source": "Rationality during the Enlightenment was closer in spirit to the proportions of the Parthanon than to the expressive contours of the Sistine ceiling.",
+          "translation": "계몽주의의 합리성은 시스티나 천장의 표현적인 윤곽보다 파르타논의 비례에 더 가깝습니다."
+        },
+        {
+          "source": "This search for order, this desire for efficiency, this need to control and predict were then and are dominant values today.",
+          "translation": "질서를 추구하는 이 욕망, 효율성을 추구하는 이 욕구, 통제하고 예측하는 이 욕구는 그 때와 오늘날 지배적인 가치입니다."
+        },
+        {
+          "source": "They are values that pervaded the industrial revolution and they are values that reside tacitly beneath current efforts at school reform.",
+          "translation": "이들은 산업혁명을 일으킨 가치이며 학교 개혁에 대한 현재의 노력에 묵묵히 속해 있는 가치입니다."
+        },
+        {
+          "source": "Current educational policy expressed in President Bush’s 26 billion dollar educational reform agenda is an effort to create order, to",
+          "translation": "현재 교육 정책은 부시 대통령의 26억 달러 규모의 교육 개혁 계획에"
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 4,
+      "sourceText": "What can education learn from the arts?                                                                                                       4 \ntidy up a complex system, to harness nature, so to speak, so that our intentions can be \nefficiently realized.  \n \nThere is of course virtue in having intentions and the ability to realize them. What is \ntroublesome is the push towards uniformity, uniformity in aims, uniformity in content, \nuniformity in assessment, uniformity in expectation. Of course for technocrats uniformity is \na blessing; it gets rid of complications—or so it is believed. Statistics can be a comfort; they \nabstract the particular out of existence. For example, we comfort ourselves in the belief that \nwe are able to describe just what every fourth grader should know and be able to do by the \ntime they leave the fourth grade. To do this we reify an image of an average fourth grader. \nOf course very few policy makers have ever visited Ms. Purtle’s fourth grade classroom \nwhere they might encounter red headed Mickey Malone. Mickey is no statistic. As I said \nparticulars like Mickey Malone complicate life, but they also enrich it. \n \nThe point of my remarks thus far is to identify the roots of the increasingly technicized \ncognitive culture in which we operate. This culture is so ubiquitous we hardly see it. And it is \nso powerful that even when we do recognize it too few of us say anything. What President \nBush has said about our students also applies to us: When the bandwagon starts rolling we \ntoo don’t want to be left behind. \n \nAs you can tell I am not thrilled with the array of values and assumptions that drive our \npursuit of improved schools. I am not sure we can tinker towards Utopia and get there. Nor \ndo I believe we can mount a revolution. What we can do is to generate other visions of \neducation, other values to guide its realization, other assumptions on which a more generous \nconception of the practice of schooling can be built. That is, although I do not think \nrevolution is an option, ideas that inspire new visions, values, and especially new practices \nare. It is one such vision, one that cuts across the grain, that I wish to explore with you \ntoday. \n \nThe contours of this new vision were influenced by the ideas of Sir Herbert Read, an \nEnglish art historian, poet, and pacifist working during the middle of the last century (Read, \n1944). He argued, and I concur, that the aim of education ought to be conceived of as the \npreparation of artists. By the term artist neither he nor I mean necessarily painters and \ndancers, poets and playwrights. We mean individuals who have developed the ideas, the \nsensibilities, the skills, and the imagination to create work that is well proportioned, skillfully \nexecuted, and imaginative, regardless of the domain in which an individual works. The \nhighest accolade we can confer upon someone is to say that he or she is an artist whether as \na carpenter or a surgeon, a cook or an engineer, a physicist or a teacher. The fine arts have \nno monopoly on the artistic. \n \nI further want to argue that the distinctive forms of thinking needed to create artistically \ncrafted work are relevant not only to what students do, they are relevant to virtually all \naspects of what we do, from the design of curricula, to the practice of teaching, to the \nfeatures of the environment in which students and teachers live.  \n \nWhat are these distinctive forms of thinking, these artistically rooted qualitative forms of \nintelligence? Let me describe six of them for you and the way they might play out in school.",
+      "translationText": "교육은 예술에서 무엇을 배울 수 있습니까?\n\n4 복잡한 시스템을 정리하여 자연을 활용하여 우리의 의도가 효율적으로 실현될 수 있도록 합니다.\n\n물론 의도와 그 의도를 실현할 수 있는 능력은 덕분입니다.\n\n문제는 일률성, 목표 일률, 내용 일률, 평가 일률, 기대 일률성에 대한 추진입니다.\n\n물론 테크노크라테스들에게는 통일성이 축복입니다. 그것은 합병증을 제거합니다.\n\n통계학은 위로가 될 수 있습니다.\n\n예를 들어, 우리는 4학년이 4학기를 졸업할 때 모든 4학년이 알아야하고 할 일을 설명할 수 있다는 믿음에 자신들을 위로합니다.\n\n이를 위해 우리는 평균 4학년 학생의 이미지를 재현합니다.\n\n물론 정책 입안자들은 미스터 퍼틀의 4학년 수업을 방문한 적은 거의 없습니다. 빨간 머리 미키 말론을 만날 수도 있습니다.\n\n미키는 통계가 아닙니다.\n\n제가 말했듯이 미키 말론과 같은 세부 사항은 삶을 복잡하게 만들지만, 그것을 풍요롭게 합니다.\n\n지금까지 제가 언급한 것은 우리가 활동하고 있는 점점 더 기술화된 인지 문화의 뿌리를 확인하는 것입니다.\n\n이 문화는 너무나 보편적이어서 거의 볼 수 없습니다.\n\n그리고 그것은 너무 강력해서 우리가 그것을 인식 할 때도 우리 중 거의 아무것도 말하지 않습니다.\n\n부시 대통령이 우리 학생들에 대해 말한 것은 우리에게도 적용됩니다.\n\n여러분이 알 수 있듯이, 저는 더 나은 학교를 추구하는 우리의 가치와 가정의 다양성에 흥분하지 않습니다.\n\n유토피아를 향해 갈 수 있을지 모르겠어요.\n\n우리는 혁명을 일으킬 수 있다고 생각하지 않습니다.\n\n우리가 할 수 있는 것은 교육에 대한 다른 비전을 창출하고, 그 실현을 이끌어내는 다른 가치관을 창출하고, 학교생활에 대한 관대한 개념을 구축할 수 있는 다른 가정들을 만들어내는 것입니다.\n\n즉, 저는 혁명이 선택의 여지가 없다고 생각하지만 새로운 비전, 가치, 특히 새로운 관습에 영감을 주는 아이디어는 선택의 여지가 있습니다.\n\n오늘 여러분들과 함께 탐구하고자 하는 비전 중 하나 입니다.\n\n이 새로운 비전의 윤곽은 지난 세기 중반에 활동했던 영국의 미술 역사가, 시인, 평화주의자 (Read, 1944) 의 아이디어에 영향을 받았다.\n\n그는 교육의 목적이 예술가를 준비하는 것으로 생각되어야 한다고 주장했습니다.\n\n예술가라는 용어로 저나 저자는 필연적으로 화가, 댄서, 시인, 극작가라는 것을 의미하지는 않습니다.\n\n우리는 아이디어, 감수성, 기술, 상상력을 개발한 개인을 의미합니다. 개인이 일하는 영역에 관계없이 잘 비례하고 능숙하게 수행되고 상상력을 발휘하는 작업을 만들기 위해.\n\n우리가 누군가에게 부여할 수 있는 가장 높은 명예는 그가 목재나 외과의사, 요리사, 공학자, 물리학자, 교사로서 예술가가라고 말하는 것입니다.\n\n미술은 예술에 대한 독점권이 없습니다.\n\n저는 또한 예술적으로 제작된 작품을 만들기 위해 필요한 독특한 사고방식들이 학생들의 활동뿐만 아니라 교육과정 설계, 교수실습, 학생과 교사들이 사는 환경의 특징에 이르기까지 우리가 하는 일의 거의 모든 측면에 관련이 있다고 주장하고 싶습니다.\n\n이러한 독특한 사고방식, 예술적으로 뿌리 내린 질적 지능 형태는 무엇일까요?\n\n6가지에 대해 설명해 보겠습니다. 그리고 학교에서 어떻게 놀 수 있는지 설명해 보죠.",
+      "status": "translated",
+      "sourceTextSha256": "401eafc1c286f6f67e89257af85ba4a05ed7b04d9f998f8cb70747465ad28daa",
+      "segments": [
+        {
+          "source": "What can education learn from the arts?",
+          "translation": "교육은 예술에서 무엇을 배울 수 있습니까?"
+        },
+        {
+          "source": "4 tidy up a complex system, to harness nature, so to speak, so that our intentions can be efficiently realized.",
+          "translation": "4 복잡한 시스템을 정리하여 자연을 활용하여 우리의 의도가 효율적으로 실현될 수 있도록 합니다."
+        },
+        {
+          "source": "There is of course virtue in having intentions and the ability to realize them.",
+          "translation": "물론 의도와 그 의도를 실현할 수 있는 능력은 덕분입니다."
+        },
+        {
+          "source": "What is troublesome is the push towards uniformity, uniformity in aims, uniformity in content, uniformity in assessment, uniformity in expectation.",
+          "translation": "문제는 일률성, 목표 일률, 내용 일률, 평가 일률, 기대 일률성에 대한 추진입니다."
+        },
+        {
+          "source": "Of course for technocrats uniformity is a blessing; it gets rid of complications—or so it is believed.",
+          "translation": "물론 테크노크라테스들에게는 통일성이 축복입니다. 그것은 합병증을 제거합니다."
+        },
+        {
+          "source": "Statistics can be a comfort; they abstract the particular out of existence.",
+          "translation": "통계학은 위로가 될 수 있습니다."
+        },
+        {
+          "source": "For example, we comfort ourselves in the belief that we are able to describe just what every fourth grader should know and be able to do by the time they leave the fourth grade.",
+          "translation": "예를 들어, 우리는 4학년이 4학기를 졸업할 때 모든 4학년이 알아야하고 할 일을 설명할 수 있다는 믿음에 자신들을 위로합니다."
+        },
+        {
+          "source": "To do this we reify an image of an average fourth grader.",
+          "translation": "이를 위해 우리는 평균 4학년 학생의 이미지를 재현합니다."
+        },
+        {
+          "source": "Of course very few policy makers have ever visited Ms. Purtle’s fourth grade classroom where they might encounter red headed Mickey Malone.",
+          "translation": "물론 정책 입안자들은 미스터 퍼틀의 4학년 수업을 방문한 적은 거의 없습니다. 빨간 머리 미키 말론을 만날 수도 있습니다."
+        },
+        {
+          "source": "Mickey is no statistic.",
+          "translation": "미키는 통계가 아닙니다."
+        },
+        {
+          "source": "As I said particulars like Mickey Malone complicate life, but they also enrich it.",
+          "translation": "제가 말했듯이 미키 말론과 같은 세부 사항은 삶을 복잡하게 만들지만, 그것을 풍요롭게 합니다."
+        },
+        {
+          "source": "The point of my remarks thus far is to identify the roots of the increasingly technicized cognitive culture in which we operate.",
+          "translation": "지금까지 제가 언급한 것은 우리가 활동하고 있는 점점 더 기술화된 인지 문화의 뿌리를 확인하는 것입니다."
+        },
+        {
+          "source": "This culture is so ubiquitous we hardly see it.",
+          "translation": "이 문화는 너무나 보편적이어서 거의 볼 수 없습니다."
+        },
+        {
+          "source": "And it is so powerful that even when we do recognize it too few of us say anything.",
+          "translation": "그리고 그것은 너무 강력해서 우리가 그것을 인식 할 때도 우리 중 거의 아무것도 말하지 않습니다."
+        },
+        {
+          "source": "What President Bush has said about our students also applies to us: When the bandwagon starts rolling we too don’t want to be left behind.",
+          "translation": "부시 대통령이 우리 학생들에 대해 말한 것은 우리에게도 적용됩니다."
+        },
+        {
+          "source": "As you can tell I am not thrilled with the array of values and assumptions that drive our pursuit of improved schools.",
+          "translation": "여러분이 알 수 있듯이, 저는 더 나은 학교를 추구하는 우리의 가치와 가정의 다양성에 흥분하지 않습니다."
+        },
+        {
+          "source": "I am not sure we can tinker towards Utopia and get there.",
+          "translation": "유토피아를 향해 갈 수 있을지 모르겠어요."
+        },
+        {
+          "source": "Nor do I believe we can mount a revolution.",
+          "translation": "우리는 혁명을 일으킬 수 있다고 생각하지 않습니다."
+        },
+        {
+          "source": "What we can do is to generate other visions of education, other values to guide its realization, other assumptions on which a more generous conception of the practice of schooling can be built.",
+          "translation": "우리가 할 수 있는 것은 교육에 대한 다른 비전을 창출하고, 그 실현을 이끌어내는 다른 가치관을 창출하고, 학교생활에 대한 관대한 개념을 구축할 수 있는 다른 가정들을 만들어내는 것입니다."
+        },
+        {
+          "source": "That is, although I do not think revolution is an option, ideas that inspire new visions, values, and especially new practices are.",
+          "translation": "즉, 저는 혁명이 선택의 여지가 없다고 생각하지만 새로운 비전, 가치, 특히 새로운 관습에 영감을 주는 아이디어는 선택의 여지가 있습니다."
+        },
+        {
+          "source": "It is one such vision, one that cuts across the grain, that I wish to explore with you today.",
+          "translation": "오늘 여러분들과 함께 탐구하고자 하는 비전 중 하나 입니다."
+        },
+        {
+          "source": "The contours of this new vision were influenced by the ideas of Sir Herbert Read, an English art historian, poet, and pacifist working during the middle of the last century (Read, 1944).",
+          "translation": "이 새로운 비전의 윤곽은 지난 세기 중반에 활동했던 영국의 미술 역사가, 시인, 평화주의자 (Read, 1944) 의 아이디어에 영향을 받았다."
+        },
+        {
+          "source": "He argued, and I concur, that the aim of education ought to be conceived of as the preparation of artists.",
+          "translation": "그는 교육의 목적이 예술가를 준비하는 것으로 생각되어야 한다고 주장했습니다."
+        },
+        {
+          "source": "By the term artist neither he nor I mean necessarily painters and dancers, poets and playwrights.",
+          "translation": "예술가라는 용어로 저나 저자는 필연적으로 화가, 댄서, 시인, 극작가라는 것을 의미하지는 않습니다."
+        },
+        {
+          "source": "We mean individuals who have developed the ideas, the sensibilities, the skills, and the imagination to create work that is well proportioned, skillfully executed, and imaginative, regardless of the domain in which an individual works.",
+          "translation": "우리는 아이디어, 감수성, 기술, 상상력을 개발한 개인을 의미합니다. 개인이 일하는 영역에 관계없이 잘 비례하고 능숙하게 수행되고 상상력을 발휘하는 작업을 만들기 위해."
+        },
+        {
+          "source": "The highest accolade we can confer upon someone is to say that he or she is an artist whether as a carpenter or a surgeon, a cook or an engineer, a physicist or a teacher.",
+          "translation": "우리가 누군가에게 부여할 수 있는 가장 높은 명예는 그가 목재나 외과의사, 요리사, 공학자, 물리학자, 교사로서 예술가가라고 말하는 것입니다."
+        },
+        {
+          "source": "The fine arts have no monopoly on the artistic.",
+          "translation": "미술은 예술에 대한 독점권이 없습니다."
+        },
+        {
+          "source": "I further want to argue that the distinctive forms of thinking needed to create artistically crafted work are relevant not only to what students do, they are relevant to virtually all aspects of what we do, from the design of curricula, to the practice of teaching, to the features of the environment in which students and teachers live.",
+          "translation": "저는 또한 예술적으로 제작된 작품을 만들기 위해 필요한 독특한 사고방식들이 학생들의 활동뿐만 아니라 교육과정 설계, 교수실습, 학생과 교사들이 사는 환경의 특징에 이르기까지 우리가 하는 일의 거의 모든 측면에 관련이 있다고 주장하고 싶습니다."
+        },
+        {
+          "source": "What are these distinctive forms of thinking, these artistically rooted qualitative forms of intelligence?",
+          "translation": "이러한 독특한 사고방식, 예술적으로 뿌리 내린 질적 지능 형태는 무엇일까요?"
+        },
+        {
+          "source": "Let me describe six of them for you and the way they might play out in school.",
+          "translation": "6가지에 대해 설명해 보겠습니다. 그리고 학교에서 어떻게 놀 수 있는지 설명해 보죠."
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 5,
+      "sourceText": "International Journal of Education & the Arts                                                                                    5 \nConsider first the task of working on a painting, a poem, a musical score. That task requires, \nperhaps above all else, the ability to compose qualitative relationships that satisfy some \npurpose. That is, what a composer composes are relationships among a virtually infinite \nnumber of possible sound patterns. A painter has a similar task. The medium and sensory \nmodality differ but the business of composing relationships remains. To succeed the artist \nneeds to see, that is, to experience, the qualitative relationships that emerge in his or her \nwork and to make judgments about them.  \n \nMaking judgments about how qualities are to be organized does not depend upon fealty to \nsome formula; there is nothing in the artistic treatment of a composition like the making and \nmatching activity in learning to spell or learning to use algorithms to prove basic arithmetic \noperations. In spelling and in arithmetic there are correct answers, answers whose \ncorrectness can be proven. In the arts judgments are made in the absence of rule. Of course \nthere are styles of work that do serve as models for work in the various arts but what \nconstitutes the right qualitative relationships for any particular work is idiosyncratic to the \nparticular work. The temperature of a color might be a tad too warm, the edge of a shape \nmight be a bit too sharp, the percussion might need to be a little more dynamic. What the \narts teach is that attention to such matters matter. The arts teach students to act and to judge \nin the absence of rule, to rely on feel, to pay attention to nuance, to act and appraise the \nconsequences of one’s choices and to revise and then to make other choices. Getting these \nrelationships right requires what Nelson Goodman calls “rightness of fit” (Goodman, 1978). \nArtists and all who work with the composition of qualities try to achieve a “rightness of fit.” \n \nGiven the absence of a formula or an algorithm, how are judgments about rightness made? I \nbelieve they depend upon somatic knowledge, the sense of closure that the good gestalt \nengenders in embodied experience; the composition feels right. Work in the arts cultivates the \nmodes of thinking and feeling that I have described; one cannot succeed in the arts without \nsuch cognitive abilities. Such forms of thought integrate feeling and thinking in ways that \nmake them inseparable. One knows one is right because one feels the relationships. One \nmodifies one’s work and feels the results. The sensibilities come into play and in the process \nbecome refined. Another way of putting it is that as we learn in and through the arts we \nbecome more qualitatively intelligent. \n \nLearning to pay attention to the way in which form is configured is a mode of thought that \ncan be applied to all things made, theoretical or practical. How a story is composed in the \ncontext of the language arts, how an historian composes her argument, how a scientific \ntheory is constructed, all of these forms of human creation profit from attention to the way \nthe elements that constitute them are configured. We need to help students learn to ask not \nonly what someone is saying, but how someone has constructed an argument, a musical score, \nor a visual image. Curriculum activities can be designed that call attention to such matters, \nactivities that refine perception in each of the fields we teach. This will require activities that \nslow down perception rather than speed it up. \n \nMuch of our perception, perhaps most of it, is highly focal. We tend to look for particular \nthings in our perceptual field. The virtue of such a mode of attention is that it enables us to \nfind what we are looking for. The potential vice of such perception is that it impedes our \nawareness of relationships. The up and back movement of the visitor to the art gallery when \nlooking at a painting is an example of an effort to secure both focal awareness and attention",
+      "translationText": "5 먼저 그림, 시, 음악 음반 을 작업 하는 일 을 고려 해 보십시오.\n\n그 임무는 아마도 무엇보다도 어떤 목적을 충족시킬 수 있는 양질의 관계를 형성할 수 있는 능력을 필요로 합니다.\n\n즉, 작곡가가 작곡하는 것은 거의 무한한 수의 가능한 사운드 패턴 사이의 관계입니다.\n\n화가도 비슷한 일을 합니다.\n\n매개체와 감각 방식은 다르지만 관계를 구성하는 사업은 여전히 남아 있습니다.\n\n예술가가 성공하기 위해서는 그의 작품에서 나타나는 질적 관계를 보고 경험하고 그에 대한 판단을 해야 합니다.\n\n어떤 형식에 대한 충성에 따라 질의 조직에 대한 판단이 이루어지지 않습니다. 기초적인 수학적 연산을 증명하기 위해 알고리즘을 사용하는 것을 배우는 철자를 만드는 것과 일치하는 활동과 같은 작곡의 예술적 처리에 아무것도 없습니다.\n\n철사와 수학에서 정확한 답이 있습니다. 그 답은 정확성을 증명할 수 있습니다.\n\n예술에서 판단은 규칙이 없는 상태에서 이루어집니다.\n\n물론 다양한 예술 분야에서 작업의 모델로 작용하는 작업 스타일이 있지만 특정 작품에 대한 올바른 질적 관계를 구성하는 것은 특정 작품에 특이합니다.\n\n색상의 온도는 너무 뜨겁고, 모양의 가장자리는 너무 날카롭고, 타격은 좀 더 역동적이어야 합니다.\n\n예술이 가르치는 것은 그러한 문제에 대한 관심이 중요하다는 것입니다.\n\n예술은 학생들에게 규칙이 없는 상태에서 행동하고 판단하는 법을 가르치고, 감각에 의존하고, 뉘앙스에 관심을 기울이고, 행동하고 자신의 선택의 결과를 평가하고 수정하고 다른 선택을 할 수 있습니다.\n\n이러한 관계를 올바르게 만드는 것은 넬슨 굿먼이 \" fitness of fit\"라고 부르는 것을 요구합니다 (Goodman, 1978).\n\n미술가들과 모든 사람들이 질의 구성으로 작업하는 사람들은 의 적합성을 달성하려고 노력합니다.\n\n공식이나 알고리즘이 없기 때문에 올바름에 대한 판단은 어떻게 이루어집니다?\n\n저는 그들이 신체적 지식에 의존한다고 믿습니다. 좋은 기스탈트가 체육된 경험에서 낳는 닫음의 감각입니다. 구성은 옳다고 느껴집니다.\n\n예술의 작업은 제가 설명한 사고와 감정의 양식을 배양합니다. 이러한 인지 능력 없이는 예술에서 성공할 수 없습니다.\n\n그러한 사고방식들은 감정과 사고를 분리할 수 없는 방식으로 통합합니다.\n\n인간관계를 느낄 수 있기 때문에 자신이 옳다는 것을 알 수 있습니다.\n\n한 사람이 자신의 일을 수정하고 그 결과를 느낄 수 있습니다.\n\n감수성이 작용하고 그 과정에서 정교하게 됩니다.\n\n또 다른 표현은 우리가 예술에 대해 배우면서 질적으로 더 똑똑해질 수 있다는 것입니다.\n\n형태가 구성되는 방식에 주의를 기울이는 법을 배우는 것은 이론적이든 실용적이든 모든 창조물에 적용될 수 있는 사고방식입니다.\n\n언어 예술의 맥락에서 이야기가 어떻게 구성되는지, 역사가 자신의 주장을 어떻게 구성하는지, 과학적 이론이 어떻게 구성되는지는, 이러한 인간 창조의 모든 형태는 그것들을 구성하는 요소들이 구성되는 방법에 대한 관심을 통해 이익을 얻습니다.\n\n우리는 학생들이 누군가 무슨 말을 하는지 물어보는 것뿐만 아니라 어떤 사람이 어떻게 논쟁, 음악적 음반, 또는 시각적 이미지를 만들어냈는지 물어보는 것을 배워야 합니다.\n\n교육과정 활동은 그러한 문제들에 대한 관심을 불러일으키고, 우리가 가르치는 각 분야에 대한 인식을 정비하는 활동이 될 수 있습니다.\n\n이것은 인식을 가속화하기보다는 느리게 하는 활동이 필요합니다.\n\n우리의 인식의 대부분은, 아마도 대부분, 매우 집중적입니다.\n\n우리는 우리의 인식 영역에서 특정한 것들을 찾는 경향이 있습니다.\n\n그러한 관심의 장점은 우리가 찾고 있는 것을 찾을 수 있다는 것입니다.\n\n이런 인식의 잠재적인 악점은 인간관계에 대한 우리의 인식이 방해된다는 것입니다.\n\n미술 갤러리를 방문하는 사람이 그림을 볼 때 올라와 돌아가는 움직임은 집중적인 인식과 관심을 확보하기 위한 노력의 예입니다.",
+      "status": "translated",
+      "sourceTextSha256": "301d9b5586d75f4181e95fb0088b1d4f55318219c624ac887624ec9132da4954",
+      "segments": [
+        {
+          "source": "International Journal of Education & the Arts 5 Consider first the task of working on a painting, a poem, a musical score.",
+          "translation": "5 먼저 그림, 시, 음악 음반 을 작업 하는 일 을 고려 해 보십시오."
+        },
+        {
+          "source": "That task requires, perhaps above all else, the ability to compose qualitative relationships that satisfy some purpose.",
+          "translation": "그 임무는 아마도 무엇보다도 어떤 목적을 충족시킬 수 있는 양질의 관계를 형성할 수 있는 능력을 필요로 합니다."
+        },
+        {
+          "source": "That is, what a composer composes are relationships among a virtually infinite number of possible sound patterns.",
+          "translation": "즉, 작곡가가 작곡하는 것은 거의 무한한 수의 가능한 사운드 패턴 사이의 관계입니다."
+        },
+        {
+          "source": "A painter has a similar task.",
+          "translation": "화가도 비슷한 일을 합니다."
+        },
+        {
+          "source": "The medium and sensory modality differ but the business of composing relationships remains.",
+          "translation": "매개체와 감각 방식은 다르지만 관계를 구성하는 사업은 여전히 남아 있습니다."
+        },
+        {
+          "source": "To succeed the artist needs to see, that is, to experience, the qualitative relationships that emerge in his or her work and to make judgments about them.",
+          "translation": "예술가가 성공하기 위해서는 그의 작품에서 나타나는 질적 관계를 보고 경험하고 그에 대한 판단을 해야 합니다."
+        },
+        {
+          "source": "Making judgments about how qualities are to be organized does not depend upon fealty to some formula; there is nothing in the artistic treatment of a composition like the making and matching activity in learning to spell or learning to use algorithms to prove basic arithmetic operations.",
+          "translation": "어떤 형식에 대한 충성에 따라 질의 조직에 대한 판단이 이루어지지 않습니다. 기초적인 수학적 연산을 증명하기 위해 알고리즘을 사용하는 것을 배우는 철자를 만드는 것과 일치하는 활동과 같은 작곡의 예술적 처리에 아무것도 없습니다."
+        },
+        {
+          "source": "In spelling and in arithmetic there are correct answers, answers whose correctness can be proven.",
+          "translation": "철사와 수학에서 정확한 답이 있습니다. 그 답은 정확성을 증명할 수 있습니다."
+        },
+        {
+          "source": "In the arts judgments are made in the absence of rule.",
+          "translation": "예술에서 판단은 규칙이 없는 상태에서 이루어집니다."
+        },
+        {
+          "source": "Of course there are styles of work that do serve as models for work in the various arts but what constitutes the right qualitative relationships for any particular work is idiosyncratic to the particular work.",
+          "translation": "물론 다양한 예술 분야에서 작업의 모델로 작용하는 작업 스타일이 있지만 특정 작품에 대한 올바른 질적 관계를 구성하는 것은 특정 작품에 특이합니다."
+        },
+        {
+          "source": "The temperature of a color might be a tad too warm, the edge of a shape might be a bit too sharp, the percussion might need to be a little more dynamic.",
+          "translation": "색상의 온도는 너무 뜨겁고, 모양의 가장자리는 너무 날카롭고, 타격은 좀 더 역동적이어야 합니다."
+        },
+        {
+          "source": "What the arts teach is that attention to such matters matter.",
+          "translation": "예술이 가르치는 것은 그러한 문제에 대한 관심이 중요하다는 것입니다."
+        },
+        {
+          "source": "The arts teach students to act and to judge in the absence of rule, to rely on feel, to pay attention to nuance, to act and appraise the consequences of one’s choices and to revise and then to make other choices.",
+          "translation": "예술은 학생들에게 규칙이 없는 상태에서 행동하고 판단하는 법을 가르치고, 감각에 의존하고, 뉘앙스에 관심을 기울이고, 행동하고 자신의 선택의 결과를 평가하고 수정하고 다른 선택을 할 수 있습니다."
+        },
+        {
+          "source": "Getting these relationships right requires what Nelson Goodman calls “rightness of fit” (Goodman, 1978).",
+          "translation": "이러한 관계를 올바르게 만드는 것은 넬슨 굿먼이 \" fitness of fit\"라고 부르는 것을 요구합니다 (Goodman, 1978)."
+        },
+        {
+          "source": "Artists and all who work with the composition of qualities try to achieve a “rightness of fit.”",
+          "translation": "미술가들과 모든 사람들이 질의 구성으로 작업하는 사람들은 의 적합성을 달성하려고 노력합니다."
+        },
+        {
+          "source": "Given the absence of a formula or an algorithm, how are judgments about rightness made?",
+          "translation": "공식이나 알고리즘이 없기 때문에 올바름에 대한 판단은 어떻게 이루어집니다?"
+        },
+        {
+          "source": "I believe they depend upon somatic knowledge, the sense of closure that the good gestalt engenders in embodied experience; the composition feels right.",
+          "translation": "저는 그들이 신체적 지식에 의존한다고 믿습니다. 좋은 기스탈트가 체육된 경험에서 낳는 닫음의 감각입니다. 구성은 옳다고 느껴집니다."
+        },
+        {
+          "source": "Work in the arts cultivates the modes of thinking and feeling that I have described; one cannot succeed in the arts without such cognitive abilities.",
+          "translation": "예술의 작업은 제가 설명한 사고와 감정의 양식을 배양합니다. 이러한 인지 능력 없이는 예술에서 성공할 수 없습니다."
+        },
+        {
+          "source": "Such forms of thought integrate feeling and thinking in ways that make them inseparable.",
+          "translation": "그러한 사고방식들은 감정과 사고를 분리할 수 없는 방식으로 통합합니다."
+        },
+        {
+          "source": "One knows one is right because one feels the relationships.",
+          "translation": "인간관계를 느낄 수 있기 때문에 자신이 옳다는 것을 알 수 있습니다."
+        },
+        {
+          "source": "One modifies one’s work and feels the results.",
+          "translation": "한 사람이 자신의 일을 수정하고 그 결과를 느낄 수 있습니다."
+        },
+        {
+          "source": "The sensibilities come into play and in the process become refined.",
+          "translation": "감수성이 작용하고 그 과정에서 정교하게 됩니다."
+        },
+        {
+          "source": "Another way of putting it is that as we learn in and through the arts we become more qualitatively intelligent.",
+          "translation": "또 다른 표현은 우리가 예술에 대해 배우면서 질적으로 더 똑똑해질 수 있다는 것입니다."
+        },
+        {
+          "source": "Learning to pay attention to the way in which form is configured is a mode of thought that can be applied to all things made, theoretical or practical.",
+          "translation": "형태가 구성되는 방식에 주의를 기울이는 법을 배우는 것은 이론적이든 실용적이든 모든 창조물에 적용될 수 있는 사고방식입니다."
+        },
+        {
+          "source": "How a story is composed in the context of the language arts, how an historian composes her argument, how a scientific theory is constructed, all of these forms of human creation profit from attention to the way the elements that constitute them are configured.",
+          "translation": "언어 예술의 맥락에서 이야기가 어떻게 구성되는지, 역사가 자신의 주장을 어떻게 구성하는지, 과학적 이론이 어떻게 구성되는지는, 이러한 인간 창조의 모든 형태는 그것들을 구성하는 요소들이 구성되는 방법에 대한 관심을 통해 이익을 얻습니다."
+        },
+        {
+          "source": "We need to help students learn to ask not only what someone is saying, but how someone has constructed an argument, a musical score, or a visual image.",
+          "translation": "우리는 학생들이 누군가 무슨 말을 하는지 물어보는 것뿐만 아니라 어떤 사람이 어떻게 논쟁, 음악적 음반, 또는 시각적 이미지를 만들어냈는지 물어보는 것을 배워야 합니다."
+        },
+        {
+          "source": "Curriculum activities can be designed that call attention to such matters, activities that refine perception in each of the fields we teach.",
+          "translation": "교육과정 활동은 그러한 문제들에 대한 관심을 불러일으키고, 우리가 가르치는 각 분야에 대한 인식을 정비하는 활동이 될 수 있습니다."
+        },
+        {
+          "source": "This will require activities that slow down perception rather than speed it up.",
+          "translation": "이것은 인식을 가속화하기보다는 느리게 하는 활동이 필요합니다."
+        },
+        {
+          "source": "Much of our perception, perhaps most of it, is highly focal.",
+          "translation": "우리의 인식의 대부분은, 아마도 대부분, 매우 집중적입니다."
+        },
+        {
+          "source": "We tend to look for particular things in our perceptual field.",
+          "translation": "우리는 우리의 인식 영역에서 특정한 것들을 찾는 경향이 있습니다."
+        },
+        {
+          "source": "The virtue of such a mode of attention is that it enables us to find what we are looking for.",
+          "translation": "그러한 관심의 장점은 우리가 찾고 있는 것을 찾을 수 있다는 것입니다."
+        },
+        {
+          "source": "The potential vice of such perception is that it impedes our awareness of relationships.",
+          "translation": "이런 인식의 잠재적인 악점은 인간관계에 대한 우리의 인식이 방해된다는 것입니다."
+        },
+        {
+          "source": "The up and back movement of the visitor to the art gallery when looking at a painting is an example of an effort to secure both focal awareness and attention",
+          "translation": "미술 갤러리를 방문하는 사람이 그림을 볼 때 올라와 돌아가는 움직임은 집중적인 인식과 관심을 확보하기 위한 노력의 예입니다."
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 6,
+      "sourceText": "What can education learn from the arts?                                                                                                       6 \nto configuration. Teachers perform similar activities. One of the important tasks of teaching \nis to be able to focus on the individual while attending to the larger classroom patterns of \nwhich the individual is a part. To complicate matters these patterns change over time. The \ngood teacher, like the good short order cook, has to pay attention to several operations \nsimultaneously, and they do.  \n \nA second lesson that education can learn from the arts pertains to the formulation of aims. \nIn western models of rational decision-making the formulation of aims, goals, objectives, or \nstandards is a critical act; virtually all else that follows depends upon the belief that one must \nhave clearly defined ends: Once ends are conceptualized means are formulated, then \nimplemented, and then outcomes are evaluated. If there is a discrepancy between aspiration \nand accomplishment, new means are formulated. The cycle continues until ends and \noutcomes are isomorphic. Ends are held constant and always are believed to precede means. \n \nBut is this true? In the arts it certainly is not. In the arts ends may follow means. One may \nact and the act may itself suggest ends, ends that did not precede the act, but follow it. In \nthis process ends shift; the work yields clues that one pursues. In a sense, one surrenders to \nwhat the work in process suggests. This process of shifting aims while doing the work at \nhand is what Dewey (1938) called “flexible purposing”. Flexible purposing is opportunistic; \nit capitalizes on the emergent features appearing within a field of relationships. It is not \nrigidly attached to predefined aims when the possibility of better ones emerge. The kind of \nthinking that flexible purposing requires thrives best in an environment in which the rigid \nadherence to a plan is not a necessity. As experienced teachers well know, the surest road to \nhell in a classroom is to stick to the lesson plan no matter what.  \n \nThe pursuit, or at least the exploitation of surprise in an age of accountability is paradoxical. \nAs I indicated earlier, we place a much greater emphasis on prediction and control than on \nexploration and discovery. Our inclination to control and predict is, at a practical level, \nunderstandable, but it also exacts a price; we tend to do the things we know how to predict \nand control. Opening oneself to the uncertain is not a pervasive quality of our current \neducational environment. I believe that it needs to be among the values we cherish. \nUncertainty needs to have its proper place in the kinds of schools we create. \n \nHow can the pursuit of surprise be promoted in a classroom? What kind of classroom \nculture is needed? How can we help our students view their work as temporary experimental \naccomplishments, tentative resting places subject to further change? How can we help them \nwork at the edge of incompetence? These are some the questions that this aim suggests we \nask. \n \nA third lesson the arts can teach education is that form and content is most often \ninextricable. How something is said is part and parcel of what is said. The message is in the \nform-content relationship, a relationship that is most vivid in the arts. To recognize the \nrelationship of form and content in the arts is not to deny that for some operations in some \nfields form and content can be separated. I think of beginning arithmetic, say the addition of \ntwo numbers such as 4+ 4. The sum of the numerals 4+4 can be expressed in literally an \ninfinite number of ways: 8, eight, //// ////, VIII, 300,000- 299,992 and so forth. In all of \nthese examples the arithmetic conclusion, 8, is the same regardless of the form used to \nrepresent it. But for most of what we do form-content relations do matter. How history is",
+      "translationText": "교육은 예술에서 무엇을 배울 수 있습니까?\n\n6의 구성\n\n교사들은 비슷한 활동을 합니다.\n\n교육의 중요한 임무 중 하나는 개인이 참여하는 더 큰 수업 패턴에 참석하면서 개인에 집중할 수 있다는 것입니다.\n\n문제를 복잡하게 만들기 위해 이러한 패턴은 시간이 지남에 따라 변화합니다.\n\n좋은 선생님은 좋은 짧은 주문 요리사처럼 여러 가지 작업에 동시에 주의를 기울여야 합니다.\n\n예술에서 교육이 배울 수 있는 두 번째 교훈은 목표 형성에 관한 것입니다.\n\n합리적인 의사결정의 서구 모형에서 목표, 목표, 목표 또는 표준의 수립은 중요한 행위입니다. 그 다음의 거의 모든 것은 명확하게 정의된 목적이 있어야 한다는 믿음에 달려 있습니다. 목적이 개념화되면 수단이 수립되고, 실행되고, 그 다음 결과는 평가됩니다.\n\n희망과 성취 사이에 차이가 있다면 새로운 수단이 만들어집니다.\n\n이 사이클은 끝까지 계속되고 결과는 동형입니다.\n\n끝은 일정하게 유지되고 항상 수단에 앞서 있다고 믿어집니다.\n\n하지만 이게 사실인가요?\n\n예술에서는 그렇지 않습니다.\n\n예술의 목적은 수단과 같은 것일 수 있습니다.\n\n한 사람이 행동할 수 있고 그 행위 자체가 그 행위에 앞서가지 않고 그 행위에 따라가지는 목적들을 제안할 수 있습니다.\n\n이 과정에서 셔프가 끝납니다. 작업은 사람이 추구하는 단서를 제공합니다.\n\n어떤 의미에서, 작업 중에 있는 작업이 제안하는 것에 굴복합니다.\n\n직무를 수행하는 동안 목표를 바꾸는 이 과정은 듀이 (1938) 는  유연한 목적이라고 불렀습니다.\n\n유연한 목적은 기회주의입니다. 그것은 관계 분야에서 나타나는 새로운 특징을 활용합니다.\n\n더 나은 목표가 가능할 때 미리 정해진 목표에 딱딱하게 묶여 있지 않습니다.\n\n유연한 목적이 요구되는 사고방식은 계획에 엄격하게 충실하는 것이 필요하지 않은 환경에서 가장 잘 발전합니다.\n\n경험 많은 교사들이 잘 알고 있듯이, 교실에서 지옥으로 가는 가장 안전한 길은 어떤 일이든 수업 계획에 충실하는 것입니다.\n\n책임감의 시대에 놀라움을 추구하거나 적어도 착취하는 것은 역설적입니다.\n\n앞서 언급했듯이 우리는 탐구와 발견보다 예측과 통제에 훨씬 더 많은 중점을 두고 있습니다.\n\n통제하고 예측하는 우리의 성향은 실질적 차원에서 이해할 수 있지만, 그것은 또한 비용을 요구합니다. 우리는 예측하고 통제하는 방법을 알고있는 일을 하는 경향이 있습니다.\n\n불확실성에 대한 개방은 현재의 교육 환경의 보편적인 특성 아닙니다.\n\n저는 그것이 우리가 소중히 여기는 가치들 중 하나가 되어야 한다고 믿습니다.\n\n불확실성은 우리가 만드는 학교의 종류에 적절한 위치를 차지해야 합니다.\n\n교실 에서 놀라움 을 추구 하는 것 을 어떻게 촉진 할 수 있습니까?\n\n어떤 종류의 교실 문화가 필요한가?\n\n우리 의 학생 들 은 어떻게 자기 들 의 일 을 일시적 인 실험적 성취, 더 많은 변화 를 받을 수 있는 임시 휴식 장소 로 보도록 도울 수 있습니까?\n\n우리 는 어떻게 그 들 이 능력 없는 일 을 할 수 있도록 도울 수 있습니까?\n\n이 목표가 우리에게 제시하는 몇 가지 질문입니다.\n\n예술이 교육에 가르칠 수 있는 세 번째 교훈은 형태와 내용이 대부분 떼려야 ?? 수 없다는 것입니다.\n\n어떤 말을 하는 방식은 말하는 것의 필수적인 부분입니다.\n\n메시지는 형태-콘텐츠 관계입니다. 예술에서 가장 생생한 관계입니다.\n\n예술의 형태와 내용의 관계를 인정하는 것은 어떤 분야에서 어떤 작업에 있어서 형태와 내용이 분리될 수 있다는 것을 부정하는 것이 아닙니다.\n\n4+4과 같은 두 숫자의 합을 합시다.\n\n숫자 4+4의 합은 말 그대로 무한한 방법으로 표현 될 수 있습니다: 8, 8, //// ////, VIII, 300,000- 299,992 등.\n\n이 모든 예제에서 수학적 결론은 8, 그것을 표현하기 위해 사용되는 형태와 상관없이 동일합니다.\n\n하지만 우리가 하는 대부분의 일에 있어서 형태-콘텐츠 관계는 중요합니다.\n\n역사의 모습",
+      "status": "translated",
+      "sourceTextSha256": "66d62eac3ba27a47e35f7bce52c9336d959921547bb6b7bb54d1b7e7ebbca1c3",
+      "segments": [
+        {
+          "source": "What can education learn from the arts?",
+          "translation": "교육은 예술에서 무엇을 배울 수 있습니까?"
+        },
+        {
+          "source": "6 to configuration.",
+          "translation": "6의 구성"
+        },
+        {
+          "source": "Teachers perform similar activities.",
+          "translation": "교사들은 비슷한 활동을 합니다."
+        },
+        {
+          "source": "One of the important tasks of teaching is to be able to focus on the individual while attending to the larger classroom patterns of which the individual is a part.",
+          "translation": "교육의 중요한 임무 중 하나는 개인이 참여하는 더 큰 수업 패턴에 참석하면서 개인에 집중할 수 있다는 것입니다."
+        },
+        {
+          "source": "To complicate matters these patterns change over time.",
+          "translation": "문제를 복잡하게 만들기 위해 이러한 패턴은 시간이 지남에 따라 변화합니다."
+        },
+        {
+          "source": "The good teacher, like the good short order cook, has to pay attention to several operations simultaneously, and they do.",
+          "translation": "좋은 선생님은 좋은 짧은 주문 요리사처럼 여러 가지 작업에 동시에 주의를 기울여야 합니다."
+        },
+        {
+          "source": "A second lesson that education can learn from the arts pertains to the formulation of aims.",
+          "translation": "예술에서 교육이 배울 수 있는 두 번째 교훈은 목표 형성에 관한 것입니다."
+        },
+        {
+          "source": "In western models of rational decision-making the formulation of aims, goals, objectives, or standards is a critical act; virtually all else that follows depends upon the belief that one must have clearly defined ends: Once ends are conceptualized means are formulated, then implemented, and then outcomes are evaluated.",
+          "translation": "합리적인 의사결정의 서구 모형에서 목표, 목표, 목표 또는 표준의 수립은 중요한 행위입니다. 그 다음의 거의 모든 것은 명확하게 정의된 목적이 있어야 한다는 믿음에 달려 있습니다. 목적이 개념화되면 수단이 수립되고, 실행되고, 그 다음 결과는 평가됩니다."
+        },
+        {
+          "source": "If there is a discrepancy between aspiration and accomplishment, new means are formulated.",
+          "translation": "희망과 성취 사이에 차이가 있다면 새로운 수단이 만들어집니다."
+        },
+        {
+          "source": "The cycle continues until ends and outcomes are isomorphic.",
+          "translation": "이 사이클은 끝까지 계속되고 결과는 동형입니다."
+        },
+        {
+          "source": "Ends are held constant and always are believed to precede means.",
+          "translation": "끝은 일정하게 유지되고 항상 수단에 앞서 있다고 믿어집니다."
+        },
+        {
+          "source": "But is this true?",
+          "translation": "하지만 이게 사실인가요?"
+        },
+        {
+          "source": "In the arts it certainly is not.",
+          "translation": "예술에서는 그렇지 않습니다."
+        },
+        {
+          "source": "In the arts ends may follow means.",
+          "translation": "예술의 목적은 수단과 같은 것일 수 있습니다."
+        },
+        {
+          "source": "One may act and the act may itself suggest ends, ends that did not precede the act, but follow it.",
+          "translation": "한 사람이 행동할 수 있고 그 행위 자체가 그 행위에 앞서가지 않고 그 행위에 따라가지는 목적들을 제안할 수 있습니다."
+        },
+        {
+          "source": "In this process ends shift; the work yields clues that one pursues.",
+          "translation": "이 과정에서 셔프가 끝납니다. 작업은 사람이 추구하는 단서를 제공합니다."
+        },
+        {
+          "source": "In a sense, one surrenders to what the work in process suggests.",
+          "translation": "어떤 의미에서, 작업 중에 있는 작업이 제안하는 것에 굴복합니다."
+        },
+        {
+          "source": "This process of shifting aims while doing the work at hand is what Dewey (1938) called “flexible purposing”.",
+          "translation": "직무를 수행하는 동안 목표를 바꾸는 이 과정은 듀이 (1938) 는  유연한 목적이라고 불렀습니다."
+        },
+        {
+          "source": "Flexible purposing is opportunistic; it capitalizes on the emergent features appearing within a field of relationships.",
+          "translation": "유연한 목적은 기회주의입니다. 그것은 관계 분야에서 나타나는 새로운 특징을 활용합니다."
+        },
+        {
+          "source": "It is not rigidly attached to predefined aims when the possibility of better ones emerge.",
+          "translation": "더 나은 목표가 가능할 때 미리 정해진 목표에 딱딱하게 묶여 있지 않습니다."
+        },
+        {
+          "source": "The kind of thinking that flexible purposing requires thrives best in an environment in which the rigid adherence to a plan is not a necessity.",
+          "translation": "유연한 목적이 요구되는 사고방식은 계획에 엄격하게 충실하는 것이 필요하지 않은 환경에서 가장 잘 발전합니다."
+        },
+        {
+          "source": "As experienced teachers well know, the surest road to hell in a classroom is to stick to the lesson plan no matter what.",
+          "translation": "경험 많은 교사들이 잘 알고 있듯이, 교실에서 지옥으로 가는 가장 안전한 길은 어떤 일이든 수업 계획에 충실하는 것입니다."
+        },
+        {
+          "source": "The pursuit, or at least the exploitation of surprise in an age of accountability is paradoxical.",
+          "translation": "책임감의 시대에 놀라움을 추구하거나 적어도 착취하는 것은 역설적입니다."
+        },
+        {
+          "source": "As I indicated earlier, we place a much greater emphasis on prediction and control than on exploration and discovery.",
+          "translation": "앞서 언급했듯이 우리는 탐구와 발견보다 예측과 통제에 훨씬 더 많은 중점을 두고 있습니다."
+        },
+        {
+          "source": "Our inclination to control and predict is, at a practical level, understandable, but it also exacts a price; we tend to do the things we know how to predict and control.",
+          "translation": "통제하고 예측하는 우리의 성향은 실질적 차원에서 이해할 수 있지만, 그것은 또한 비용을 요구합니다. 우리는 예측하고 통제하는 방법을 알고있는 일을 하는 경향이 있습니다."
+        },
+        {
+          "source": "Opening oneself to the uncertain is not a pervasive quality of our current educational environment.",
+          "translation": "불확실성에 대한 개방은 현재의 교육 환경의 보편적인 특성 아닙니다."
+        },
+        {
+          "source": "I believe that it needs to be among the values we cherish.",
+          "translation": "저는 그것이 우리가 소중히 여기는 가치들 중 하나가 되어야 한다고 믿습니다."
+        },
+        {
+          "source": "Uncertainty needs to have its proper place in the kinds of schools we create.",
+          "translation": "불확실성은 우리가 만드는 학교의 종류에 적절한 위치를 차지해야 합니다."
+        },
+        {
+          "source": "How can the pursuit of surprise be promoted in a classroom?",
+          "translation": "교실 에서 놀라움 을 추구 하는 것 을 어떻게 촉진 할 수 있습니까?"
+        },
+        {
+          "source": "What kind of classroom culture is needed?",
+          "translation": "어떤 종류의 교실 문화가 필요한가?"
+        },
+        {
+          "source": "How can we help our students view their work as temporary experimental accomplishments, tentative resting places subject to further change?",
+          "translation": "우리 의 학생 들 은 어떻게 자기 들 의 일 을 일시적 인 실험적 성취, 더 많은 변화 를 받을 수 있는 임시 휴식 장소 로 보도록 도울 수 있습니까?"
+        },
+        {
+          "source": "How can we help them work at the edge of incompetence?",
+          "translation": "우리 는 어떻게 그 들 이 능력 없는 일 을 할 수 있도록 도울 수 있습니까?"
+        },
+        {
+          "source": "These are some the questions that this aim suggests we ask.",
+          "translation": "이 목표가 우리에게 제시하는 몇 가지 질문입니다."
+        },
+        {
+          "source": "A third lesson the arts can teach education is that form and content is most often inextricable.",
+          "translation": "예술이 교육에 가르칠 수 있는 세 번째 교훈은 형태와 내용이 대부분 떼려야 ?? 수 없다는 것입니다."
+        },
+        {
+          "source": "How something is said is part and parcel of what is said.",
+          "translation": "어떤 말을 하는 방식은 말하는 것의 필수적인 부분입니다."
+        },
+        {
+          "source": "The message is in the form-content relationship, a relationship that is most vivid in the arts.",
+          "translation": "메시지는 형태-콘텐츠 관계입니다. 예술에서 가장 생생한 관계입니다."
+        },
+        {
+          "source": "To recognize the relationship of form and content in the arts is not to deny that for some operations in some fields form and content can be separated.",
+          "translation": "예술의 형태와 내용의 관계를 인정하는 것은 어떤 분야에서 어떤 작업에 있어서 형태와 내용이 분리될 수 있다는 것을 부정하는 것이 아닙니다."
+        },
+        {
+          "source": "I think of beginning arithmetic, say the addition of two numbers such as 4+ 4.",
+          "translation": "4+4과 같은 두 숫자의 합을 합시다."
+        },
+        {
+          "source": "The sum of the numerals 4+4 can be expressed in literally an infinite number of ways: 8, eight, //// ////, VIII, 300,000- 299,992 and so forth.",
+          "translation": "숫자 4+4의 합은 말 그대로 무한한 방법으로 표현 될 수 있습니다: 8, 8, //// ////, VIII, 300,000- 299,992 등."
+        },
+        {
+          "source": "In all of these examples the arithmetic conclusion, 8, is the same regardless of the form used to represent it.",
+          "translation": "이 모든 예제에서 수학적 결론은 8, 그것을 표현하기 위해 사용되는 형태와 상관없이 동일합니다."
+        },
+        {
+          "source": "But for most of what we do form-content relations do matter.",
+          "translation": "하지만 우리가 하는 대부분의 일에 있어서 형태-콘텐츠 관계는 중요합니다."
+        },
+        {
+          "source": "How history is",
+          "translation": "역사의 모습"
+        }
+      ],
+      "printed": "6",
+      "textQuality": "text"
+    },
+    {
+      "page": 7,
+      "sourceText": "International Journal of Education & the Arts                                                                                    7 \nwritten matters, how one speaks to a child matters, what a classroom looks like matters, how \none tells a story matters. Getting it right means creating a form whose content is right for \nsome purpose. The architecture of a school can look and feel like a factory or like a home. If \nwe want children to feel like factory workers our schools should look and feel like factories. \nForm and content matter and in such cases are inseparable.  \n \nIndeed, the discovery that form and content are inseparable is one of the lessons the arts \nteach most profoundly. Change the cadence in a line of poetry and you change the poem’s \nmeaning. The creation of expressive and satisfying relationships is what artistically guided \nwork celebrates. \n \nIn the arts there is no substitutability among elements (because there are no separate \nelements), in math there is. The absence of substitutability promotes attention to the \nparticular. Developing an awareness of the particular is especially important for those of us \nwho teach since the distinctive character of how we teach is a pervasive aspect of what we \nteach. The current reform movement would do well to pay more attention to the messages \nits policies send to students since those messages may undermine deeper educational values. \nThe values about which I speak include the promotion of self initiated learning, the pursuit \nof alternative possibilities, and the anticipation of intrinsic satisfactions secured through the \nuse of the mind. Do we really believe that league tables published in the newspaper \ndisplaying school performance is a good way to understand what schools teach or that the \nrelentless focus on raising test scores is a good way to insure quality education? The form we \nuse to display data shapes its meaning. \n \nClosely related to the form-content relationship is a fourth lesson the arts can teach \neducation. It is this. Not everything knowable can be articulated in propositional form. The \nlimits of our cognition are not defined by the limits of our language. We have a long \nphilosophic tradition in the West that promotes the view that knowing anything requires \nsome formulation of what we know in words; we need to have warrants for our assertions. \nBut is it really the case that what we cannot assert we cannot know? Not according to \nMichael Polanyi (1967) who speaks of tacit knowledge and says “We know more than we \ncan tell.” And Dewey tells us that while science states meaning, the arts express meaning. \nMeaning is not limited to what is assertable. Dewey goes on to say that that the aesthetic \ncannot be separated from the intellectual for the intellectual to be complete it must bear the \nstamp of the aesthetic. Having a nose for telling questions and a feel for incisive answers are \nnot empty metaphors.  \n \nThese ideas not only expand our conception of the ways in which we know, they expand our \nconception of mind. They point to the cognitive frontiers that our teaching might explore. \nHow can we help students recognize the ways in which we express and recover meaning, not \nonly in the arts but in the sciences as well? How can we introduce them to the art of doing \nscience? After all, the practice of any practice, including science, can be an art. \n \nIt’s clear to virtually everyone that we appeal to expressive form to say what literal language \ncan never say. We build shrines to express our gratitude to the heroes of 9/11 because \nsomehow we find our words inadequate. We appeal to poetry when we bury and when we \nmarry. We situate our most profound religious practices within compositions we have \nchoreographed. What does our need for such practices say to us about the sources of our",
+      "translationText": "국제 교육 & 예술 학술지 7 글쓰기 문제, 어린이에게 어떻게 말하는지는 중요하며, 교실의 모습은 중요하며, 이야기를 어떻게 하는지는 중요합니다.\n\n그것을 올바르게 만드는 것은 어떤 목적을 위해 적절한 내용을 가진 양식을 만드는 것을 의미합니다.\n\n학교의 건축은 공장이나 집처럼 보일 수 있습니다.\n\n만약 아이들이 공장 노동자처럼 느껴지길 원한다면 우리 학교는 공장처럼 생겼고 느껴져야 합니다.\n\n형태와 내용은 물질이며 그러한 경우에는 분리될 수 없습니다.\n\n사실, 형태와 내용이 떼려야 ?? 수 없는 것을 발견하는 것은 예술이 가장 깊이 가르쳐 주는 교훈 중 하나입니다.\n\n시의 줄의 순서를 바꾸면 시의 의미를 바꿀 수 있습니다.\n\n표현적이고 만족스러운 관계를 만드는 것이 예술적으로 지도된 작품이 축하하는 것입니다.\n\n예술에서는 요소들 사이에 대체성이 없습니다 (분별된 요소가 없기 때문에), 수학에서는 그렇지 않습니다.\n\n대체성이 없다는 것은 특정에 대한 관심을 촉진시킵니다.\n\n특히 가르침을 하는 우리 중 한 사람 에게는 그 일 에 대한 인식 을 배양 하는 것 은 매우 중요 하다. 왜냐하면 우리가 가르치는 방법 의 특징 은 우리가 가르치는 것 의 보편적 인 측면 이다.\n\n현재의 개혁 운동은 그 정책이 학생들에게 보내는 메시지에 더 많은 관심을 기울이는 것이 좋을 것입니다. 왜냐하면 그 메시지는 더 깊은 교육 가치를 약화시킬 수 있기 때문입니다.\n\n제가 말하는 가치는 자기 주도적인 학습을 촉진하고, 대체적인 가능성을 추구하고, 마음의 사용으로 얻은 본질적인 만족을 기대하는 것입니다.\n\n학교 성과를 보여주는 신문에서 발표된 리그 테이블은 학교가 가르치는 것을 이해하는 좋은 방법인지 아니면 시험 점수를 높이는 것에 대한 끊임없는 집중이 양질의 교육을 보장하는 좋은 방법인지 정말 믿습니까?\n\n우리가 데이터를 표시하는 형태는 그 의미를 형성합니다.\n\n형태-콘텐츠 관계와 밀접하게 관련되어 있는 것은 예술이 교육에 가르칠 수 있는 네 번째 교훈입니다.\n\n이게 문제야\n\n알 수 있는 모든 것은 입장을 표현할 수 없습니다.\n\n우리의 인식의 한계는 언어의 한계에 의해 정의되지 않습니다.\n\n우리는 서양에서 오랜 철학적 전통을 가지고 있습니다. 어떤 것을 아는 것은 우리가 알고 있는 것을 단어로 표현하는 것을 요구한다는 관점을 촉진합니다. 우리는 우리의 주장에 대한 자백이 필요합니다.\n\n하지만 우리가 주장할 수 없는 것은 우리가 알 수 없는 것이 사실인가?\n\n암묵지를 논하며 “우리는 말로 표현할 수 있는 것보다 더 많은 것을 안다”고 한 Michael Polanyi(1967)에 따르면 그렇지 않다.\n\n그리고 듀이는 우리에게 과학이 의미를 말하는 반면 예술은 의미를 표현한다는 것을 말합니다.\n\n의미라는 것은 주장할 수 있는 것에 국한되지 않습니다.\n\n듀이는 계속해서 미학이 지식인과 분리될 수 없다는 것을 말합니다. 지식인이 완전하기 위해서는 미학의 스탬프가 있어야 합니다.\n\n질문 을 해 주는 나기 를 가지고 있고, 해답 을 해 줄 수 있는 감각 을 갖는 것 은 빈 은유가 아니다.\n\n이러한 아이디어는 우리가 알고 있는 방식에 대한 우리의 개념을 확장할 뿐만 아니라 우리의 마음의 개념을 확장합니다.\n\n그들은 우리의 가르침이 탐구할 수 있는 인지적 경계를 지적합니다.\n\n어떻게 하면 학생들이 예술뿐만 아니라 과학에서도 우리가 표현하고 의미를 회복하는 방법을 인식할 수 있도록 도울 수 있을까요?\n\n과학을 하는 예술에 대해 어떻게 소개할 수 있을까요?\n\n결국, 과학을 포함한 모든 관행은 예술이 될 수 있습니다.\n\n거의 모든 사람들에게는 말 그대로의 언어는 결코 말할 수 없는 것을 표현하는 형태에 호소한다는 것이 분명합니다.\n\n우리는 9/11의 영웅들에게 감사를 표하기 위해 성소를 짓습니다. 왜냐하면 어떤 식으로든 우리는 우리의 말을 불충분하다고 생각하기 때문입니다.\n\n우리는 시를 묻고 결혼할 때 시에 호소합니다.\n\n우리는 우리의 가장 깊은 종교적 관습을 우리가 조레오그래프로 만든 작곡들 안에 배치합니다.\n\n그러한 관습에 대한 우리의 필요성 은 우리 의 원천 에 대해 무엇 을 알려 주는가",
+      "status": "translated",
+      "sourceTextSha256": "f2cd467cf1a8cb4b43152dd07f7b658aa7a93dd285fdc844917e16b768676d6a",
+      "segments": [
+        {
+          "source": "International Journal of Education & the Arts 7 written matters, how one speaks to a child matters, what a classroom looks like matters, how one tells a story matters.",
+          "translation": "국제 교육 & 예술 학술지 7 글쓰기 문제, 어린이에게 어떻게 말하는지는 중요하며, 교실의 모습은 중요하며, 이야기를 어떻게 하는지는 중요합니다."
+        },
+        {
+          "source": "Getting it right means creating a form whose content is right for some purpose.",
+          "translation": "그것을 올바르게 만드는 것은 어떤 목적을 위해 적절한 내용을 가진 양식을 만드는 것을 의미합니다."
+        },
+        {
+          "source": "The architecture of a school can look and feel like a factory or like a home.",
+          "translation": "학교의 건축은 공장이나 집처럼 보일 수 있습니다."
+        },
+        {
+          "source": "If we want children to feel like factory workers our schools should look and feel like factories.",
+          "translation": "만약 아이들이 공장 노동자처럼 느껴지길 원한다면 우리 학교는 공장처럼 생겼고 느껴져야 합니다."
+        },
+        {
+          "source": "Form and content matter and in such cases are inseparable.",
+          "translation": "형태와 내용은 물질이며 그러한 경우에는 분리될 수 없습니다."
+        },
+        {
+          "source": "Indeed, the discovery that form and content are inseparable is one of the lessons the arts teach most profoundly.",
+          "translation": "사실, 형태와 내용이 떼려야 ?? 수 없는 것을 발견하는 것은 예술이 가장 깊이 가르쳐 주는 교훈 중 하나입니다."
+        },
+        {
+          "source": "Change the cadence in a line of poetry and you change the poem’s meaning.",
+          "translation": "시의 줄의 순서를 바꾸면 시의 의미를 바꿀 수 있습니다."
+        },
+        {
+          "source": "The creation of expressive and satisfying relationships is what artistically guided work celebrates.",
+          "translation": "표현적이고 만족스러운 관계를 만드는 것이 예술적으로 지도된 작품이 축하하는 것입니다."
+        },
+        {
+          "source": "In the arts there is no substitutability among elements (because there are no separate elements), in math there is.",
+          "translation": "예술에서는 요소들 사이에 대체성이 없습니다 (분별된 요소가 없기 때문에), 수학에서는 그렇지 않습니다."
+        },
+        {
+          "source": "The absence of substitutability promotes attention to the particular.",
+          "translation": "대체성이 없다는 것은 특정에 대한 관심을 촉진시킵니다."
+        },
+        {
+          "source": "Developing an awareness of the particular is especially important for those of us who teach since the distinctive character of how we teach is a pervasive aspect of what we teach.",
+          "translation": "특히 가르침을 하는 우리 중 한 사람 에게는 그 일 에 대한 인식 을 배양 하는 것 은 매우 중요 하다. 왜냐하면 우리가 가르치는 방법 의 특징 은 우리가 가르치는 것 의 보편적 인 측면 이다."
+        },
+        {
+          "source": "The current reform movement would do well to pay more attention to the messages its policies send to students since those messages may undermine deeper educational values.",
+          "translation": "현재의 개혁 운동은 그 정책이 학생들에게 보내는 메시지에 더 많은 관심을 기울이는 것이 좋을 것입니다. 왜냐하면 그 메시지는 더 깊은 교육 가치를 약화시킬 수 있기 때문입니다."
+        },
+        {
+          "source": "The values about which I speak include the promotion of self initiated learning, the pursuit of alternative possibilities, and the anticipation of intrinsic satisfactions secured through the use of the mind.",
+          "translation": "제가 말하는 가치는 자기 주도적인 학습을 촉진하고, 대체적인 가능성을 추구하고, 마음의 사용으로 얻은 본질적인 만족을 기대하는 것입니다."
+        },
+        {
+          "source": "Do we really believe that league tables published in the newspaper displaying school performance is a good way to understand what schools teach or that the relentless focus on raising test scores is a good way to insure quality education?",
+          "translation": "학교 성과를 보여주는 신문에서 발표된 리그 테이블은 학교가 가르치는 것을 이해하는 좋은 방법인지 아니면 시험 점수를 높이는 것에 대한 끊임없는 집중이 양질의 교육을 보장하는 좋은 방법인지 정말 믿습니까?"
+        },
+        {
+          "source": "The form we use to display data shapes its meaning.",
+          "translation": "우리가 데이터를 표시하는 형태는 그 의미를 형성합니다."
+        },
+        {
+          "source": "Closely related to the form-content relationship is a fourth lesson the arts can teach education.",
+          "translation": "형태-콘텐츠 관계와 밀접하게 관련되어 있는 것은 예술이 교육에 가르칠 수 있는 네 번째 교훈입니다."
+        },
+        {
+          "source": "It is this.",
+          "translation": "이게 문제야"
+        },
+        {
+          "source": "Not everything knowable can be articulated in propositional form.",
+          "translation": "알 수 있는 모든 것은 입장을 표현할 수 없습니다."
+        },
+        {
+          "source": "The limits of our cognition are not defined by the limits of our language.",
+          "translation": "우리의 인식의 한계는 언어의 한계에 의해 정의되지 않습니다."
+        },
+        {
+          "source": "We have a long philosophic tradition in the West that promotes the view that knowing anything requires some formulation of what we know in words; we need to have warrants for our assertions.",
+          "translation": "우리는 서양에서 오랜 철학적 전통을 가지고 있습니다. 어떤 것을 아는 것은 우리가 알고 있는 것을 단어로 표현하는 것을 요구한다는 관점을 촉진합니다. 우리는 우리의 주장에 대한 자백이 필요합니다."
+        },
+        {
+          "source": "But is it really the case that what we cannot assert we cannot know?",
+          "translation": "하지만 우리가 주장할 수 없는 것은 우리가 알 수 없는 것이 사실인가?"
+        },
+        {
+          "source": "Not according to Michael Polanyi (1967) who speaks of tacit knowledge and says “We know more than we can tell.”",
+          "translation": "암묵지를 논하며 “우리는 말로 표현할 수 있는 것보다 더 많은 것을 안다”고 한 Michael Polanyi(1967)에 따르면 그렇지 않다.",
+          "reviewed": true
+        },
+        {
+          "source": "And Dewey tells us that while science states meaning, the arts express meaning.",
+          "translation": "그리고 듀이는 우리에게 과학이 의미를 말하는 반면 예술은 의미를 표현한다는 것을 말합니다."
+        },
+        {
+          "source": "Meaning is not limited to what is assertable.",
+          "translation": "의미라는 것은 주장할 수 있는 것에 국한되지 않습니다."
+        },
+        {
+          "source": "Dewey goes on to say that that the aesthetic cannot be separated from the intellectual for the intellectual to be complete it must bear the stamp of the aesthetic.",
+          "translation": "듀이는 계속해서 미학이 지식인과 분리될 수 없다는 것을 말합니다. 지식인이 완전하기 위해서는 미학의 스탬프가 있어야 합니다."
+        },
+        {
+          "source": "Having a nose for telling questions and a feel for incisive answers are not empty metaphors.",
+          "translation": "질문 을 해 주는 나기 를 가지고 있고, 해답 을 해 줄 수 있는 감각 을 갖는 것 은 빈 은유가 아니다."
+        },
+        {
+          "source": "These ideas not only expand our conception of the ways in which we know, they expand our conception of mind.",
+          "translation": "이러한 아이디어는 우리가 알고 있는 방식에 대한 우리의 개념을 확장할 뿐만 아니라 우리의 마음의 개념을 확장합니다."
+        },
+        {
+          "source": "They point to the cognitive frontiers that our teaching might explore.",
+          "translation": "그들은 우리의 가르침이 탐구할 수 있는 인지적 경계를 지적합니다."
+        },
+        {
+          "source": "How can we help students recognize the ways in which we express and recover meaning, not only in the arts but in the sciences as well?",
+          "translation": "어떻게 하면 학생들이 예술뿐만 아니라 과학에서도 우리가 표현하고 의미를 회복하는 방법을 인식할 수 있도록 도울 수 있을까요?"
+        },
+        {
+          "source": "How can we introduce them to the art of doing science?",
+          "translation": "과학을 하는 예술에 대해 어떻게 소개할 수 있을까요?"
+        },
+        {
+          "source": "After all, the practice of any practice, including science, can be an art.",
+          "translation": "결국, 과학을 포함한 모든 관행은 예술이 될 수 있습니다."
+        },
+        {
+          "source": "It’s clear to virtually everyone that we appeal to expressive form to say what literal language can never say.",
+          "translation": "거의 모든 사람들에게는 말 그대로의 언어는 결코 말할 수 없는 것을 표현하는 형태에 호소한다는 것이 분명합니다."
+        },
+        {
+          "source": "We build shrines to express our gratitude to the heroes of 9/11 because somehow we find our words inadequate.",
+          "translation": "우리는 9/11의 영웅들에게 감사를 표하기 위해 성소를 짓습니다. 왜냐하면 어떤 식으로든 우리는 우리의 말을 불충분하다고 생각하기 때문입니다."
+        },
+        {
+          "source": "We appeal to poetry when we bury and when we marry.",
+          "translation": "우리는 시를 묻고 결혼할 때 시에 호소합니다."
+        },
+        {
+          "source": "We situate our most profound religious practices within compositions we have choreographed.",
+          "translation": "우리는 우리의 가장 깊은 종교적 관습을 우리가 조레오그래프로 만든 작곡들 안에 배치합니다."
+        },
+        {
+          "source": "What does our need for such practices say to us about the sources of our",
+          "translation": "그러한 관습에 대한 우리의 필요성 은 우리 의 원천 에 대해 무엇 을 알려 주는가"
+        }
+      ],
+      "printed": "7",
+      "textQuality": "text"
+    },
+    {
+      "page": 8,
+      "sourceText": "What can education learn from the arts?                                                                                                       8 \nunderstanding and what do they mean for how we educate? At a time when we seem to want \nto package performance into standardized measurable skill sets questions such as these seem \nto me to be especially important. The more we feel the pressure to standardize, the more we \nneed to remind ourselves of what we should not try to standardize. \n \nA fifth lesson we can learn from the arts about the practice of education pertains to the \nrelationship between thinking and the material with which we and our students work. In the \narts it is plain that in order for a work to be created we must think within the constraints and \naffordances of the medium we elect to use. The flute makes certain qualities possible that the \nbass fiddle will never produce, and vice versa. Painting with watercolor makes certain visual \nqualities possible that cannot be created with oil paint. The artist’s task is to exploit the \npossibilities of the medium in order to realize aims he or she values. Each material imposes \nits own distinctive demands and to use it well we have to learn to think within it. \n \nWhere are the parallels when we teach and when students learn in the social studies, in the \nsciences, in the language arts? How must language and image be treated to say what we want \nto say? How must a medium be treated for the medium to mediate? How do we help \nstudents get smart with the media they are invited to use and what are the cognitive demands \nthat different media make upon those who use them. Carving a sculpture out of a piece of \nwood is clearly a different cognitive task than building a sculpture out of plasticine clay. The \nformer is a subtractive task, the latter an additive one. Getting smart in any domain requires \nat the very least learning to think within a medium. What are the varieties of media we help \nchildren get smart about? What do we neglect? \n \nIt seems to me that the computer has a particularly promising role to play in providing \nstudents with opportunities to learn how to think in new ways. Assuming the programs can \nbe developed, and it is my impression that many already have, operations are performable on \nthe computer that cannot be executed through any other medium. New possibilities for \nmatters of representation can stimulate our imaginative capacities and can generate forms of \nexperience that would otherwise not exist. Indeed, the history of art itself is, in large \nmeasure, a history studded with the effects of new technologies. This has been at no time \nmore visible than during the 20th century. Artists have learned to think within materials such \nas neon tubing and plastic, day glow color and corfam steel, materials that make forms \npossible that Leonardo daVinci himself could not have conceived of. Each new material \noffers us new affordances and constraints and in the process develops the ways in which we \nthink. There is a lesson to be learned here for the ways in which we design curricula and the \nsorts of materials we make it possible for students to work with. \n \nDecisions we make about such matters have a great deal to do with the kinds of minds we \ndevelop in school. Minds, unlike brains, are not entirely given at birth; minds are also forms \nof cultural achievement. The kinds of minds we develop are profoundly influenced by the \nopportunities to learn that the school provides. And this is the point of my remarks about \nwhat education might learn from the arts. The kinds of thinking I have described, and it is \nonly a sample, represents the kind of thinking I believe schools should promote. The \npromotion of such thinking requires not only a shift in perspective regarding our educational \naims, it represents a shift in the kind of tasks we invite students to undertake, the kind of \nthinking we ask them to do, and the kind of criteria we apply to appraise both their work",
+      "translationText": "교육은 예술에서 무엇을 배울 수 있습니까?\n\n8 이해 를 함 과 교육 방법 에 대한 이해 는 무엇 을 의미 합니까?\n\n우리가 성과를 표준화된 측정 가능한 기술 집합으로 묶고 싶어하는 시점에서는 이런 질문들이 특히 중요하다고 생각합니다.\n\n표준화해야 한다는 압박감이 커질수록 우리가 표준화하지 말아야 할 것을 스스로 상기시켜야 합니다.\n\n교육의 실천에 관한 예술에서 배울 수 있는 다섯 번째 교훈은 생각과 우리가 학생들과 함께 작업하는 물질 사이의 관계에 관한 것입니다.\n\n예술에 있어서 작품이 만들어지기 위해서는 우리가 선택한 매체의 한계와 여유 안에서 생각해야 한다는 것은 분명합니다.\n\n플라이트는 바스 바이올린이 결코 생산하지 않을 수 있는 몇 가지 특성을 가능하게 하고, 반대로요.\n\n수록색으로 그림을 그리는 것은 오일 페인트로 만들 수 없는 특정 시각적 특성을 가능하게 합니다.\n\n예술가의 임무는 그가 중요시하는 목표를 실현하기 위해 매체의 가능성을 활용하는 것입니다.\n\n각 자료는 고유한 요구사항을 부과하고 그것을 잘 사용하기 위해서는 그 안에서 생각하는 법을 배워야 합니다.\n\n우리가 가르칠 때와 학생들이 사회학, 과학, 언어예술에서 배울 때 어떤 유사점이 있을까요?\n\n우리가 말하고자 하는 것을 말하기 위해서는 언어와 이미지가 어떻게 다루어야 합니까?\n\n매개체가 중재하기 위해 매개체가 어떻게 취급되어야 하는가?\n\n어떻게 학생들이 사용하도록 초청된 미디어에 대해 똑똑해질 수 있도록 도와주고, 다양한 미디어가 사용하는 사람들에게 어떤 인지적 요구가 있는지요.\n\n나무 조각에서 조각을 조각하는 것은 분명히 플라스틱 진흙으로 조각을 만드는 것과 다른 인지적인 작업입니다.\n\n첫 번째 작업은 추수 작업이고 후자는 추가 작업입니다.\n\n어떤 영역에서든 똑똑해지는 것은 적어도 매개체 내에서 생각하는 법을 배우는 것이 필요합니다.\n\n어린이들이 똑똑해질 수 있도록 돕는 미디어의 종류는 무엇일까요?\n\n우리는 무엇을 무시하고 있습니까?\n\n저는 컴퓨터가 학생들에게 새로운 사고방식을 배울 수 있는 기회를 제공하는 데 특히 유망한 역할을 한다고 생각합니다.\n\n프로그램들이 개발될 수 있다고 가정하고, 이미 많은 사람들이 개발한 것처럼, 다른 매체를 통해 실행될 수 없는 컴퓨터에서 실행될 수 있는 작업들이 있습니다.\n\n새로운 표현의 가능성은 우리의 상상력을 자극하고 그렇지 않으면 존재하지 않는 경험의 형태를 창출할 수 있습니다.\n\n사실 예술의 역사는 대부분 새로운 기술의 영향으로 가득한 역사입니다.\n\n이것은 20세기보다 더 눈에 띄지 않았다.\n\n예술가들은 네온 튜브와 플라스틱, 일광색과 코르팜 스틸 같은 재료들 안에서 생각하는 것을 배웠고, 레오나르도 다빈치 자신도 상상하지 못했던 형태들을 가능하게 하는 재료들이죠.\n\n새로운 자료는 우리에게 새로운 수요와 제약을 제공하고 그 과정에서 우리의 사고방식을 발전시킵니다.\n\n여기서 우리가 교육과정을 설계하는 방법과 학생들이 일할 수 있도록 하는 자료의 종류에 대해 배울 수 있는 교훈이 있습니다.\n\n그러한 문제 에 관해 우리가 하는 결정 들 은 학교 에서 발전 하는 마음 의 종류 에 큰 영향을 미칩니다.\n\n두뇌와 달리 마음은 태어나면서 완전히 태어나는 것이 아닙니다.\n\n우리가 개발하는 정신의 종류는 학교가 제공하는 학습 기회에 깊은 영향을 받는다.\n\n이것이 바로 교육이 예술으로부터 무엇을 배울 수 있는지에 대한 저의 발언의 핵심입니다.\n\n제가 설명한 사고방식, 그리고 이것은 단지 표본일 뿐입니다. 학교가 발전시켜야 한다고 생각하는 사고방식을 나타냅니다.\n\n이러한 사고를 촉진하는 것은 교육적 목표에 대한 관점의 변화뿐만 아니라 학생들이 수행하도록 초대하는 작업의 변화, 우리가 그들에게 요구하는 사고의 종류, 그리고 그들의 일을 평가하기 위해 적용하는 기준의 종류에 대한 변화입니다",
+      "status": "translated",
+      "sourceTextSha256": "07ba10051d2dad4334142549a98507373552b6f219531744908de10a67d412a1",
+      "segments": [
+        {
+          "source": "What can education learn from the arts?",
+          "translation": "교육은 예술에서 무엇을 배울 수 있습니까?"
+        },
+        {
+          "source": "8 understanding and what do they mean for how we educate?",
+          "translation": "8 이해 를 함 과 교육 방법 에 대한 이해 는 무엇 을 의미 합니까?"
+        },
+        {
+          "source": "At a time when we seem to want to package performance into standardized measurable skill sets questions such as these seem to me to be especially important.",
+          "translation": "우리가 성과를 표준화된 측정 가능한 기술 집합으로 묶고 싶어하는 시점에서는 이런 질문들이 특히 중요하다고 생각합니다."
+        },
+        {
+          "source": "The more we feel the pressure to standardize, the more we need to remind ourselves of what we should not try to standardize.",
+          "translation": "표준화해야 한다는 압박감이 커질수록 우리가 표준화하지 말아야 할 것을 스스로 상기시켜야 합니다."
+        },
+        {
+          "source": "A fifth lesson we can learn from the arts about the practice of education pertains to the relationship between thinking and the material with which we and our students work.",
+          "translation": "교육의 실천에 관한 예술에서 배울 수 있는 다섯 번째 교훈은 생각과 우리가 학생들과 함께 작업하는 물질 사이의 관계에 관한 것입니다."
+        },
+        {
+          "source": "In the arts it is plain that in order for a work to be created we must think within the constraints and affordances of the medium we elect to use.",
+          "translation": "예술에 있어서 작품이 만들어지기 위해서는 우리가 선택한 매체의 한계와 여유 안에서 생각해야 한다는 것은 분명합니다."
+        },
+        {
+          "source": "The flute makes certain qualities possible that the bass fiddle will never produce, and vice versa.",
+          "translation": "플라이트는 바스 바이올린이 결코 생산하지 않을 수 있는 몇 가지 특성을 가능하게 하고, 반대로요."
+        },
+        {
+          "source": "Painting with watercolor makes certain visual qualities possible that cannot be created with oil paint.",
+          "translation": "수록색으로 그림을 그리는 것은 오일 페인트로 만들 수 없는 특정 시각적 특성을 가능하게 합니다."
+        },
+        {
+          "source": "The artist’s task is to exploit the possibilities of the medium in order to realize aims he or she values.",
+          "translation": "예술가의 임무는 그가 중요시하는 목표를 실현하기 위해 매체의 가능성을 활용하는 것입니다."
+        },
+        {
+          "source": "Each material imposes its own distinctive demands and to use it well we have to learn to think within it.",
+          "translation": "각 자료는 고유한 요구사항을 부과하고 그것을 잘 사용하기 위해서는 그 안에서 생각하는 법을 배워야 합니다."
+        },
+        {
+          "source": "Where are the parallels when we teach and when students learn in the social studies, in the sciences, in the language arts?",
+          "translation": "우리가 가르칠 때와 학생들이 사회학, 과학, 언어예술에서 배울 때 어떤 유사점이 있을까요?"
+        },
+        {
+          "source": "How must language and image be treated to say what we want to say?",
+          "translation": "우리가 말하고자 하는 것을 말하기 위해서는 언어와 이미지가 어떻게 다루어야 합니까?"
+        },
+        {
+          "source": "How must a medium be treated for the medium to mediate?",
+          "translation": "매개체가 중재하기 위해 매개체가 어떻게 취급되어야 하는가?"
+        },
+        {
+          "source": "How do we help students get smart with the media they are invited to use and what are the cognitive demands that different media make upon those who use them.",
+          "translation": "어떻게 학생들이 사용하도록 초청된 미디어에 대해 똑똑해질 수 있도록 도와주고, 다양한 미디어가 사용하는 사람들에게 어떤 인지적 요구가 있는지요."
+        },
+        {
+          "source": "Carving a sculpture out of a piece of wood is clearly a different cognitive task than building a sculpture out of plasticine clay.",
+          "translation": "나무 조각에서 조각을 조각하는 것은 분명히 플라스틱 진흙으로 조각을 만드는 것과 다른 인지적인 작업입니다."
+        },
+        {
+          "source": "The former is a subtractive task, the latter an additive one.",
+          "translation": "첫 번째 작업은 추수 작업이고 후자는 추가 작업입니다."
+        },
+        {
+          "source": "Getting smart in any domain requires at the very least learning to think within a medium.",
+          "translation": "어떤 영역에서든 똑똑해지는 것은 적어도 매개체 내에서 생각하는 법을 배우는 것이 필요합니다."
+        },
+        {
+          "source": "What are the varieties of media we help children get smart about?",
+          "translation": "어린이들이 똑똑해질 수 있도록 돕는 미디어의 종류는 무엇일까요?"
+        },
+        {
+          "source": "What do we neglect?",
+          "translation": "우리는 무엇을 무시하고 있습니까?"
+        },
+        {
+          "source": "It seems to me that the computer has a particularly promising role to play in providing students with opportunities to learn how to think in new ways.",
+          "translation": "저는 컴퓨터가 학생들에게 새로운 사고방식을 배울 수 있는 기회를 제공하는 데 특히 유망한 역할을 한다고 생각합니다."
+        },
+        {
+          "source": "Assuming the programs can be developed, and it is my impression that many already have, operations are performable on the computer that cannot be executed through any other medium.",
+          "translation": "프로그램들이 개발될 수 있다고 가정하고, 이미 많은 사람들이 개발한 것처럼, 다른 매체를 통해 실행될 수 없는 컴퓨터에서 실행될 수 있는 작업들이 있습니다."
+        },
+        {
+          "source": "New possibilities for matters of representation can stimulate our imaginative capacities and can generate forms of experience that would otherwise not exist.",
+          "translation": "새로운 표현의 가능성은 우리의 상상력을 자극하고 그렇지 않으면 존재하지 않는 경험의 형태를 창출할 수 있습니다."
+        },
+        {
+          "source": "Indeed, the history of art itself is, in large measure, a history studded with the effects of new technologies.",
+          "translation": "사실 예술의 역사는 대부분 새로운 기술의 영향으로 가득한 역사입니다."
+        },
+        {
+          "source": "This has been at no time more visible than during the 20th century.",
+          "translation": "이것은 20세기보다 더 눈에 띄지 않았다."
+        },
+        {
+          "source": "Artists have learned to think within materials such as neon tubing and plastic, day glow color and corfam steel, materials that make forms possible that Leonardo daVinci himself could not have conceived of.",
+          "translation": "예술가들은 네온 튜브와 플라스틱, 일광색과 코르팜 스틸 같은 재료들 안에서 생각하는 것을 배웠고, 레오나르도 다빈치 자신도 상상하지 못했던 형태들을 가능하게 하는 재료들이죠."
+        },
+        {
+          "source": "Each new material offers us new affordances and constraints and in the process develops the ways in which we think.",
+          "translation": "새로운 자료는 우리에게 새로운 수요와 제약을 제공하고 그 과정에서 우리의 사고방식을 발전시킵니다."
+        },
+        {
+          "source": "There is a lesson to be learned here for the ways in which we design curricula and the sorts of materials we make it possible for students to work with.",
+          "translation": "여기서 우리가 교육과정을 설계하는 방법과 학생들이 일할 수 있도록 하는 자료의 종류에 대해 배울 수 있는 교훈이 있습니다."
+        },
+        {
+          "source": "Decisions we make about such matters have a great deal to do with the kinds of minds we develop in school.",
+          "translation": "그러한 문제 에 관해 우리가 하는 결정 들 은 학교 에서 발전 하는 마음 의 종류 에 큰 영향을 미칩니다."
+        },
+        {
+          "source": "Minds, unlike brains, are not entirely given at birth; minds are also forms of cultural achievement.",
+          "translation": "두뇌와 달리 마음은 태어나면서 완전히 태어나는 것이 아닙니다."
+        },
+        {
+          "source": "The kinds of minds we develop are profoundly influenced by the opportunities to learn that the school provides.",
+          "translation": "우리가 개발하는 정신의 종류는 학교가 제공하는 학습 기회에 깊은 영향을 받는다."
+        },
+        {
+          "source": "And this is the point of my remarks about what education might learn from the arts.",
+          "translation": "이것이 바로 교육이 예술으로부터 무엇을 배울 수 있는지에 대한 저의 발언의 핵심입니다."
+        },
+        {
+          "source": "The kinds of thinking I have described, and it is only a sample, represents the kind of thinking I believe schools should promote.",
+          "translation": "제가 설명한 사고방식, 그리고 이것은 단지 표본일 뿐입니다. 학교가 발전시켜야 한다고 생각하는 사고방식을 나타냅니다."
+        },
+        {
+          "source": "The promotion of such thinking requires not only a shift in perspective regarding our educational aims, it represents a shift in the kind of tasks we invite students to undertake, the kind of thinking we ask them to do, and the kind of criteria we apply to appraise both their work",
+          "translation": "이러한 사고를 촉진하는 것은 교육적 목표에 대한 관점의 변화뿐만 아니라 학생들이 수행하도록 초대하는 작업의 변화, 우리가 그들에게 요구하는 사고의 종류, 그리고 그들의 일을 평가하기 위해 적용하는 기준의 종류에 대한 변화입니다"
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 9,
+      "sourceText": "International Journal of Education & the Arts                                                                                    9 \nand ours. Artistry, in other words, can be fostered by how we design the environments we \ninhabit. The lessons the arts teach are not only for our students, they are for us as well. \n \nWinston Churchill once said that first we design our buildings and then our buildings design \nus. To paraphrase Churchill we can say, first we design our curriculum, then our curriculum \ndesigns us. What I think many of us want is not only a form of educational practice whose \nfeatures, so to speak, “design us,” but a form of educational practice that enables students to \nlearn how to design themselves. Thus it might be said that at its best education is a process \nof learning how to become the architect of our own education. It is a process that does not \nterminate until we do. \n \nFinally, we come to motives for engagement. In the arts motives tend to be secured from the \naesthetic satisfactions that the work itself makes possible. A part of these satisfactions is \nrelated to the challenge that the work presents; materials resist the maker, they have to be \ncrafted and this requires an intense focus on the modulation of forms as they emerge in a \nmaterial being processed. This focus is often so intense that all sense of time is lost. The \nwork and the worker become one. At times it is the tactile quality of the medium that \nmatters, its feel, the giving and resisting quality of the clay. At other times it is the changing \nrelationships among fields of color. The arts, in a sense, are supermarkets for the senses. But \nthe arts are far more than supermarkets for sensory gourmets. In the arts there is an idea \nwhich the work embodies. For the impressionists the idea was light, for the surrealists it was \nthe unconscious, for the cubists it was time and space, for the American regionalists of the \n1930s it was the ordinary lives of ordinary people that was celebrated. These interests \nprovided direction to the work but the quality of the work was always appraised by what it \ndid within experience.  \n \nThe arts are, in the end, a special form of experience, but if there is any point I wish to \nemphasize it is that the experience the arts make possible is not restricted to what we call the \nfine arts. The sense of vitality and the surge of emotion we feel when touched by one of the \narts can also be secured in the ideas we explore with students, in the challenges we encounter \nin doing critical inquiry, and in the appetite for learning we stimulate. In the long run these \nare the satisfactions that matter most because they are the only ones that insure, if it can be \ninsured at all, that what we teach students will want to pursue voluntarily after the artificial \nincentives so ubiquitous in our schools are long forgotten. It is in this sense especially that \nthe arts can serve as a model for education. \n \nThe agenda I have proposed gives rise to more than a few questions. One is whether a \nconception of education that uses art as its regulative ideal is realistic? Is it asking for too \nmuch? My answer is that ideals are always out of reach. It is no different for education’s \nideals. The arts provide the kind of ideal that I believe American education needs now more \nthan ever. I say now more than ever because our lives increasingly require the ability to deal \nwith conflicting messages, to make judgements in the absence of rule, to cope with \nambiguity, and to frame imaginative solutions to the problems we face. Our world is not one \nthat submits to single correct answers to questions or clear cut solutions to problems; \nconsider what’s going on in the Middle East. We need to be able not only to envision fresh \noptions, we need to have feel for the situations in which they appear. In a word, the forms of \nthinking the arts stimulate and develop are far more appropriate for the real world we live in",
+      "translationText": "국제 교육과 예술 학술지 9과 우리 학술지\n\n즉, 예술성은 우리가 사는 환경을 디자인하는 방식에 의해 증진될 수 있습니다.\n\n예술이 가르치는 교훈은 학생들뿐만 아니라 우리에게도 있습니다.\n\n윈스턴 처칠은 우리가 먼저 건물을 설계하고, 그 다음 건물이 우리를 설계한다고 말했습니다.\n\n처칠을 비유하자면, 먼저 우리는 우리의 교육과정을 설계하고, 그 다음 우리의 교육과정은 우리를 설계합니다.\n\n저는 우리들 중 많은 사람들이 원하는 것은 단순히 그 특징이 우리를 디자인하는 교육 실습의 형태일 뿐 아니라 학생들이 스스로 디자인하는 법을 배울 수 있도록 하는 교육 실습입니다.\n\n따라서 최고의 교육은 우리 자신의 교육의 건축가가가 되는 방법을 배우는 과정이라고 말할 수 있습니다.\n\n이 과정은 우리가 할 때까지 끝나지 않습니다.\n\n마지막으로, 우리는 약혼의 동기를 찾습니다.\n\n예술의 동기는 작품 자체가 가능하게 하는 미적 만족으로부터 확보되는 경향이 있다.\n\n이러한 만족의 일부는 작업이 제시하는 도전과 관련이 있습니다. 재료는 제작자에게 저항하고, 그들은 제작되어야합니다. 이것은 처리되는 재료에서 나타나는 형태의 모뮬레이션에 집중하는 것을 요구합니다.\n\n이 집중은 종종 너무 강해서 모든 시간의 감각이 사라집니다.\n\n일과 노동자는 하나가 된다.\n\n때로는 매개체의 촉각적 특성, 그 느낌, 점토의 양성과 저항성 등이 중요하다.\n\n다른 때에는 색의 영역들 사이의 관계가 변화하는 것입니다.\n\n예술은 어떤 의미에서 감각의 슈퍼마켓입니다.\n\n하지만 예술은 감각적인 맛있는 사람들을 위한 슈퍼마켓보다 훨씬 더 많습니다.\n\n예술에는 작품이 구현하는 아이디어가 있습니다.\n\n인상주의자들에게는 가벼운 생각이었으며, 초현실주의자들에게는 무의식적이었으며, 쿠비주의자들에게는 시간과 공간이었으며, 1930년대 미국 지역주의자들에게는 평범한 사람들의 평범한 삶이 축하되었습니다.\n\n이러한 관심사는 작업의 방향을 제공했지만 작업의 질은 항상 경험 안에서 수행된 것으로 평가되었습니다.\n\n예술은 결국은 특별한 경험의 형태이지만, 제가 강조하고 싶은 점은 예술이 가능하게 하는 경험은 우리가 미술이라고 부르는 것에 국한되지 않는다는 것입니다.\n\n예술의 한 분야에 영향을 미치면 느끼는 생명력감과 감정의 증폭은 학생들과 함께 탐구하는 아이디어, 비판적인 조사에서 직면하는 도전, 그리고 우리가 자극하는 학습에 대한 욕구에서도 확보될 수 있습니다.\n\n장기적으로는 이 만족도만이 가장 중요하죠. 왜냐하면 그것들은 우리가 가르치는 것이 우리 학교에서 너무나 보편적인 인센티브가 오래전부터 잊혀진 후 학생들이 자발적으로 추구하고자 하는 것을 보장하는 유일한 것들이기 때문입니다.\n\n특히 이런 의미에서 예술은 교육의 모범이 될 수 있습니다.\n\n제가 제안한 일정은 몇 가지 이상의 질문을 던집니다.\n\n하나는 예술을 규제 이상으로 사용하는 교육의 개념이 현실적인가?\n\n너무 많은 것을 요구하고 있습니까?\n\n제 대답은 항상 이상적인 것이 불가능하다는 것입니다.\n\n교육의 이상은 다르지 않습니다.\n\n예술은 제가 믿는 이상적인 것을 제공합니다. 미국 교육은 지금 어느 때보다 더 필요합니다.\n\n저는 지금 그 어느 때보다 더 많이 말하고 있습니다. 왜냐하면 우리의 삶은 점점 더 모순적인 메시지를 다루기 위한 능력을 요구하고 있기 때문입니다.\n\n우리의 세계는 질문들에 대한 정확한 답변이나 문제들에 대한 명확한 해결책을 제시하는 세계가 아닙니다. 중동에서 일어나는 일들을 생각해 보세요.\n\n우리는 새로운 선택지를 상상할 수 있을 뿐만 아니라, 그들이 나타나는 상황에 대한 감성을 가질 수 있어야 합니다.\n\n한마디로, 예술이 자극하고 발전시키는 사고 형태는 우리가 살고 있는 현실 세계에 훨씬 더 적합합니다.",
+      "status": "translated",
+      "sourceTextSha256": "79f9114d78e8f175ee6b870eb313666da8b084dccd8dff9b67bc6d85362c756e",
+      "segments": [
+        {
+          "source": "International Journal of Education & the Arts 9 and ours.",
+          "translation": "국제 교육과 예술 학술지 9과 우리 학술지"
+        },
+        {
+          "source": "Artistry, in other words, can be fostered by how we design the environments we inhabit.",
+          "translation": "즉, 예술성은 우리가 사는 환경을 디자인하는 방식에 의해 증진될 수 있습니다."
+        },
+        {
+          "source": "The lessons the arts teach are not only for our students, they are for us as well.",
+          "translation": "예술이 가르치는 교훈은 학생들뿐만 아니라 우리에게도 있습니다."
+        },
+        {
+          "source": "Winston Churchill once said that first we design our buildings and then our buildings design us.",
+          "translation": "윈스턴 처칠은 우리가 먼저 건물을 설계하고, 그 다음 건물이 우리를 설계한다고 말했습니다."
+        },
+        {
+          "source": "To paraphrase Churchill we can say, first we design our curriculum, then our curriculum designs us.",
+          "translation": "처칠을 비유하자면, 먼저 우리는 우리의 교육과정을 설계하고, 그 다음 우리의 교육과정은 우리를 설계합니다."
+        },
+        {
+          "source": "What I think many of us want is not only a form of educational practice whose features, so to speak, “design us,” but a form of educational practice that enables students to learn how to design themselves.",
+          "translation": "저는 우리들 중 많은 사람들이 원하는 것은 단순히 그 특징이 우리를 디자인하는 교육 실습의 형태일 뿐 아니라 학생들이 스스로 디자인하는 법을 배울 수 있도록 하는 교육 실습입니다."
+        },
+        {
+          "source": "Thus it might be said that at its best education is a process of learning how to become the architect of our own education.",
+          "translation": "따라서 최고의 교육은 우리 자신의 교육의 건축가가가 되는 방법을 배우는 과정이라고 말할 수 있습니다."
+        },
+        {
+          "source": "It is a process that does not terminate until we do.",
+          "translation": "이 과정은 우리가 할 때까지 끝나지 않습니다."
+        },
+        {
+          "source": "Finally, we come to motives for engagement.",
+          "translation": "마지막으로, 우리는 약혼의 동기를 찾습니다."
+        },
+        {
+          "source": "In the arts motives tend to be secured from the aesthetic satisfactions that the work itself makes possible.",
+          "translation": "예술의 동기는 작품 자체가 가능하게 하는 미적 만족으로부터 확보되는 경향이 있다."
+        },
+        {
+          "source": "A part of these satisfactions is related to the challenge that the work presents; materials resist the maker, they have to be crafted and this requires an intense focus on the modulation of forms as they emerge in a material being processed.",
+          "translation": "이러한 만족의 일부는 작업이 제시하는 도전과 관련이 있습니다. 재료는 제작자에게 저항하고, 그들은 제작되어야합니다. 이것은 처리되는 재료에서 나타나는 형태의 모뮬레이션에 집중하는 것을 요구합니다."
+        },
+        {
+          "source": "This focus is often so intense that all sense of time is lost.",
+          "translation": "이 집중은 종종 너무 강해서 모든 시간의 감각이 사라집니다."
+        },
+        {
+          "source": "The work and the worker become one.",
+          "translation": "일과 노동자는 하나가 된다."
+        },
+        {
+          "source": "At times it is the tactile quality of the medium that matters, its feel, the giving and resisting quality of the clay.",
+          "translation": "때로는 매개체의 촉각적 특성, 그 느낌, 점토의 양성과 저항성 등이 중요하다."
+        },
+        {
+          "source": "At other times it is the changing relationships among fields of color.",
+          "translation": "다른 때에는 색의 영역들 사이의 관계가 변화하는 것입니다."
+        },
+        {
+          "source": "The arts, in a sense, are supermarkets for the senses.",
+          "translation": "예술은 어떤 의미에서 감각의 슈퍼마켓입니다."
+        },
+        {
+          "source": "But the arts are far more than supermarkets for sensory gourmets.",
+          "translation": "하지만 예술은 감각적인 맛있는 사람들을 위한 슈퍼마켓보다 훨씬 더 많습니다."
+        },
+        {
+          "source": "In the arts there is an idea which the work embodies.",
+          "translation": "예술에는 작품이 구현하는 아이디어가 있습니다."
+        },
+        {
+          "source": "For the impressionists the idea was light, for the surrealists it was the unconscious, for the cubists it was time and space, for the American regionalists of the 1930s it was the ordinary lives of ordinary people that was celebrated.",
+          "translation": "인상주의자들에게는 가벼운 생각이었으며, 초현실주의자들에게는 무의식적이었으며, 쿠비주의자들에게는 시간과 공간이었으며, 1930년대 미국 지역주의자들에게는 평범한 사람들의 평범한 삶이 축하되었습니다."
+        },
+        {
+          "source": "These interests provided direction to the work but the quality of the work was always appraised by what it did within experience.",
+          "translation": "이러한 관심사는 작업의 방향을 제공했지만 작업의 질은 항상 경험 안에서 수행된 것으로 평가되었습니다."
+        },
+        {
+          "source": "The arts are, in the end, a special form of experience, but if there is any point I wish to emphasize it is that the experience the arts make possible is not restricted to what we call the fine arts.",
+          "translation": "예술은 결국은 특별한 경험의 형태이지만, 제가 강조하고 싶은 점은 예술이 가능하게 하는 경험은 우리가 미술이라고 부르는 것에 국한되지 않는다는 것입니다."
+        },
+        {
+          "source": "The sense of vitality and the surge of emotion we feel when touched by one of the arts can also be secured in the ideas we explore with students, in the challenges we encounter in doing critical inquiry, and in the appetite for learning we stimulate.",
+          "translation": "예술의 한 분야에 영향을 미치면 느끼는 생명력감과 감정의 증폭은 학생들과 함께 탐구하는 아이디어, 비판적인 조사에서 직면하는 도전, 그리고 우리가 자극하는 학습에 대한 욕구에서도 확보될 수 있습니다."
+        },
+        {
+          "source": "In the long run these are the satisfactions that matter most because they are the only ones that insure, if it can be insured at all, that what we teach students will want to pursue voluntarily after the artificial incentives so ubiquitous in our schools are long forgotten.",
+          "translation": "장기적으로는 이 만족도만이 가장 중요하죠. 왜냐하면 그것들은 우리가 가르치는 것이 우리 학교에서 너무나 보편적인 인센티브가 오래전부터 잊혀진 후 학생들이 자발적으로 추구하고자 하는 것을 보장하는 유일한 것들이기 때문입니다."
+        },
+        {
+          "source": "It is in this sense especially that the arts can serve as a model for education.",
+          "translation": "특히 이런 의미에서 예술은 교육의 모범이 될 수 있습니다."
+        },
+        {
+          "source": "The agenda I have proposed gives rise to more than a few questions.",
+          "translation": "제가 제안한 일정은 몇 가지 이상의 질문을 던집니다."
+        },
+        {
+          "source": "One is whether a conception of education that uses art as its regulative ideal is realistic?",
+          "translation": "하나는 예술을 규제 이상으로 사용하는 교육의 개념이 현실적인가?"
+        },
+        {
+          "source": "Is it asking for too much?",
+          "translation": "너무 많은 것을 요구하고 있습니까?"
+        },
+        {
+          "source": "My answer is that ideals are always out of reach.",
+          "translation": "제 대답은 항상 이상적인 것이 불가능하다는 것입니다."
+        },
+        {
+          "source": "It is no different for education’s ideals.",
+          "translation": "교육의 이상은 다르지 않습니다."
+        },
+        {
+          "source": "The arts provide the kind of ideal that I believe American education needs now more than ever.",
+          "translation": "예술은 제가 믿는 이상적인 것을 제공합니다. 미국 교육은 지금 어느 때보다 더 필요합니다."
+        },
+        {
+          "source": "I say now more than ever because our lives increasingly require the ability to deal with conflicting messages, to make judgements in the absence of rule, to cope with ambiguity, and to frame imaginative solutions to the problems we face.",
+          "translation": "저는 지금 그 어느 때보다 더 많이 말하고 있습니다. 왜냐하면 우리의 삶은 점점 더 모순적인 메시지를 다루기 위한 능력을 요구하고 있기 때문입니다."
+        },
+        {
+          "source": "Our world is not one that submits to single correct answers to questions or clear cut solutions to problems; consider what’s going on in the Middle East.",
+          "translation": "우리의 세계는 질문들에 대한 정확한 답변이나 문제들에 대한 명확한 해결책을 제시하는 세계가 아닙니다. 중동에서 일어나는 일들을 생각해 보세요."
+        },
+        {
+          "source": "We need to be able not only to envision fresh options, we need to have feel for the situations in which they appear.",
+          "translation": "우리는 새로운 선택지를 상상할 수 있을 뿐만 아니라, 그들이 나타나는 상황에 대한 감성을 가질 수 있어야 합니다."
+        },
+        {
+          "source": "In a word, the forms of thinking the arts stimulate and develop are far more appropriate for the real world we live in",
+          "translation": "한마디로, 예술이 자극하고 발전시키는 사고 형태는 우리가 살고 있는 현실 세계에 훨씬 더 적합합니다."
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 10,
+      "sourceText": "What can education learn from the arts?                                                                                                       10 \nthan the tidy right angled boxes we employ in our schools in the name of school \nimprovement. \n \nThis brings us to the final portion of my remarks. Thus far I have tried to describe my \nconcerns about our current efforts to use highly rationalized standardized procedures to \nreform education and to describe their historical roots. I then advanced the notion that \ngenuine change depends upon a vision of education that is fundamentally different from the \none that guides today’s efforts at school reform. I proposed that education might well \nconsider thinking about the aim of education as the preparation of artists and I proceeded to \ndescribe the modes of thinking the arts evoke, develop and refine. These forms of thinking, \nas I indicated earlier, relate to relationships that when acted upon require judgment in the \nabsence of rule, they encourage students and teachers to be flexibly purposive; (it’s OK for \naims to shift in process), they recognize the unity of form and content, they require one to \nthink within the affordances and constraints of the medium one elects to use and they \nemphasize the importance of aesthetic satisfactions as motives for work. In addition, I \nalluded to some of the locations in the context of schooling in which those forms of \nthinking might be developed.  \n \nIn describing some of the forms of thinking the arts occasion, of necessity I had to fragment \nwhat is a seamless, unified process. I want therefore to emphasis here that I am not talking \nabout the implementation of isolated curriculum activities, but rather, the creation of a new \nculture of schooling that has as much to do with the cultivation of dispositions as with the \nacquisition of skills. \n \nAt the risk of propagating dualisms, but in the service of emphasis, I am talking about a \nculture of schooling in which more importance is placed on exploration than on discovery, \nmore value is assigned to surprise than to control, more attention is devoted to what is \ndistinctive than to what is standard, more interest is related to what is metaphorical than to \nwhat is literal. It is an educational culture that has a greater focus on becoming than on \nbeing, places more value on the imaginative than on the factual, assigns greater priority to \nvaluing than to measuring, and regards the quality of the journey as more educationally \nsignificant than the speed at which the destination is reached. I am talking about a new \nvision of what education might become and what schools are for. \n \nI want to bring my remarks to a close by reminding all of us here that visions, no matter how \ngrand, need to be acted upon to become real. Ideas, clearly, are important. Without them \nchange has no rudder. But change also needs wind and a sail to catch it. Without them there \nis no movement. Frankly, this may be the most challenging aspect of the proposal I have \nmade. The public’s perception of the purpose of education supports the current paradigm. \nWe need to sail against the tide.  \n \nOur destination is to change the social vision of what schools can be. It will not be an easy \njourney but when the seas seem too treacherous to travel and the stars too distant to touch \nwe should remember Robert Browning’s observation that “A man’s reach should exceed his \ngrasp or what’s a heaven for” (Browning/Allison, 1983). \n \nBrowning gives us a moral message, one generated by the imagination and expressed \nthrough the poetic. And as Dewey said in the closing pages of Art as Experience, “Imagination",
+      "translationText": "교육은 예술에서 무엇을 배울 수 있습니까?\n\n학교를 개선하기 위해 우리 학교에서 사용하는 정교한 직각 상자보다 10개 더 많습니다.\n\n이제 내 발언의 마지막 부분에 이르고 있습니다.\n\n지금까지 저는 교육 개혁을 위해 고도로 합리화된 표준화된 절차를 사용하려는 현재의 노력에 대한 나의 우려를 설명하고 그 역사적 뿌리를 설명하려고 노력했습니다.\n\n그 후 저는 진정한 변화가 학교 개혁에 대한 오늘날의 노력의 방향과 근본적으로 다른 교육 비전에 달려 있다는 개념을 제시했습니다.\n\n저는 교육이 교육의 목적을 예술가를 준비하는 것으로 생각하는 것을 고려할 수 있다고 제안했고 예술이 불러일으키고 발전시키고 정비하는 사고방식을 설명했습니다.\n\n앞서 설명했듯이, 이러한 사고 형태는 실제로 다루는 과정에서 정해진 규칙 없이 판단해야 하는 관계들과 관련된다. 또한 학생과 교사가 목적을 유연하게 추구하도록 장려한다. 즉, 과정 중에 목표가 달라져도 괜찮다. 이러한 사고 형태는 형식과 내용의 통일성을 인정하며, 자신이 선택한 매체가 제공하는 가능성과 제약 안에서 생각할 것을 요구하고, 작업의 동기로서 미적 만족이 갖는 중요성을 강조한다.\n\n또한, 저는 학교 교육의 맥락에서 이러한 사고방식을 발전시킬 수 있는 몇 가지 장소를 언급했습니다.\n\n예술의 어떤 사고방식을 설명할 때, 필연적으로 저는 원활하고 통일된 과정이라고 할 수 있는 것을 분해해야 했습니다.\n\n그래서 제가 여기서 강조하고 싶은 것은 고립된 교육과정 활동을 시행하는 것이 아니라, 교육의 새로운 문화의 창립을 말하는 것이 아니라는 것입니다.\n\n이중주의를 전파할 위험이 있지만 중점을 두기 위해, 나는 탐구보다 발견에 더 많은 중요성을 부여하는 교육 문화에 대해 이야기하고 있습니다. 놀라움을 통제하는 것보다 더 많은 가치를 부여하고 있습니다.\n\n그것은 존재보다는 존재에 더 초점을 맞추고, 현실보다 상상력에 더 많은 가치를 부여하고, 측정보다 가치에 더 많은 우선순위를 부여하고, 목적지 도달 속도보다 여행의 질을 교육적으로 더 중요하게 간주하는 교육 문화입니다.\n\n저는 교육이 어떻게 될 수 있는지에 대한 새로운 비전에 대해 이야기하고 있습니다.\n\n제 발언을 마치고, 여기 있는 모든 사람들에게 비전들이 아무리 위대하더라도 현실이 되기 위해서는 행동해야 한다는 것을 상기시켜드리고 싶습니다.\n\n아이디어는 분명히 중요합니다.\n\n그들 없이는 변화는 조종할 수 없습니다.\n\n하지만 변화를 잡기 위해서는 바람과 선박도 필요합니다.\n\n그들 없이는 움직임이 없습니다.\n\n솔직히 말해서, 이것은 제가 제시한 제안의 가장 도전적인 측면일 수도 있습니다.\n\n교육의 목적에 대한 대중의 인식은 현재의 패러다임을 지지합니다.\n\n물과 맞서는 항해가 필요합니다.\n\n우리의 목적지는 학교가 될 수 있는 사회적 비전을 변화시키는 것입니다.\n\n그것은 쉬운 여행이 될 수는 없지만 바다가 여행하기에는 너무 배신적이거나 별들이 너무 멀리 떨어져있을 때 우리는 로버트 브라운닝의 관찰을 기억해야 합니다.\n\n브라운닝은 우리에게 도덕적인 메시지를 주고 있습니다. 상상력으로 만들어지고 시적인 것으로 표현됩니다.\n\n그리고 듀이가 \"미술은 경험\"의 마지막 페이지에서 말했듯이,",
+      "status": "translated",
+      "sourceTextSha256": "02a2cfb87eda0f47be19e80f87f3c3442bb49bd3cf28db7a1d43eef667a3bcd6",
+      "segments": [
+        {
+          "source": "What can education learn from the arts?",
+          "translation": "교육은 예술에서 무엇을 배울 수 있습니까?"
+        },
+        {
+          "source": "10 than the tidy right angled boxes we employ in our schools in the name of school improvement.",
+          "translation": "학교를 개선하기 위해 우리 학교에서 사용하는 정교한 직각 상자보다 10개 더 많습니다."
+        },
+        {
+          "source": "This brings us to the final portion of my remarks.",
+          "translation": "이제 내 발언의 마지막 부분에 이르고 있습니다."
+        },
+        {
+          "source": "Thus far I have tried to describe my concerns about our current efforts to use highly rationalized standardized procedures to reform education and to describe their historical roots.",
+          "translation": "지금까지 저는 교육 개혁을 위해 고도로 합리화된 표준화된 절차를 사용하려는 현재의 노력에 대한 나의 우려를 설명하고 그 역사적 뿌리를 설명하려고 노력했습니다."
+        },
+        {
+          "source": "I then advanced the notion that genuine change depends upon a vision of education that is fundamentally different from the one that guides today’s efforts at school reform.",
+          "translation": "그 후 저는 진정한 변화가 학교 개혁에 대한 오늘날의 노력의 방향과 근본적으로 다른 교육 비전에 달려 있다는 개념을 제시했습니다."
+        },
+        {
+          "source": "I proposed that education might well consider thinking about the aim of education as the preparation of artists and I proceeded to describe the modes of thinking the arts evoke, develop and refine.",
+          "translation": "저는 교육이 교육의 목적을 예술가를 준비하는 것으로 생각하는 것을 고려할 수 있다고 제안했고 예술이 불러일으키고 발전시키고 정비하는 사고방식을 설명했습니다."
+        },
+        {
+          "source": "These forms of thinking, as I indicated earlier, relate to relationships that when acted upon require judgment in the absence of rule, they encourage students and teachers to be flexibly purposive; (it’s OK for aims to shift in process), they recognize the unity of form and content, they require one to think within the affordances and constraints of the medium one elects to use and they emphasize the importance of aesthetic satisfactions as motives for work.",
+          "translation": "앞서 설명했듯이, 이러한 사고 형태는 실제로 다루는 과정에서 정해진 규칙 없이 판단해야 하는 관계들과 관련된다. 또한 학생과 교사가 목적을 유연하게 추구하도록 장려한다. 즉, 과정 중에 목표가 달라져도 괜찮다. 이러한 사고 형태는 형식과 내용의 통일성을 인정하며, 자신이 선택한 매체가 제공하는 가능성과 제약 안에서 생각할 것을 요구하고, 작업의 동기로서 미적 만족이 갖는 중요성을 강조한다.",
+          "reviewed": true
+        },
+        {
+          "source": "In addition, I alluded to some of the locations in the context of schooling in which those forms of thinking might be developed.",
+          "translation": "또한, 저는 학교 교육의 맥락에서 이러한 사고방식을 발전시킬 수 있는 몇 가지 장소를 언급했습니다."
+        },
+        {
+          "source": "In describing some of the forms of thinking the arts occasion, of necessity I had to fragment what is a seamless, unified process.",
+          "translation": "예술의 어떤 사고방식을 설명할 때, 필연적으로 저는 원활하고 통일된 과정이라고 할 수 있는 것을 분해해야 했습니다."
+        },
+        {
+          "source": "I want therefore to emphasis here that I am not talking about the implementation of isolated curriculum activities, but rather, the creation of a new culture of schooling that has as much to do with the cultivation of dispositions as with the acquisition of skills.",
+          "translation": "그래서 제가 여기서 강조하고 싶은 것은 고립된 교육과정 활동을 시행하는 것이 아니라, 교육의 새로운 문화의 창립을 말하는 것이 아니라는 것입니다."
+        },
+        {
+          "source": "At the risk of propagating dualisms, but in the service of emphasis, I am talking about a culture of schooling in which more importance is placed on exploration than on discovery, more value is assigned to surprise than to control, more attention is devoted to what is distinctive than to what is standard, more interest is related to what is metaphorical than to what is literal.",
+          "translation": "이중주의를 전파할 위험이 있지만 중점을 두기 위해, 나는 탐구보다 발견에 더 많은 중요성을 부여하는 교육 문화에 대해 이야기하고 있습니다. 놀라움을 통제하는 것보다 더 많은 가치를 부여하고 있습니다."
+        },
+        {
+          "source": "It is an educational culture that has a greater focus on becoming than on being, places more value on the imaginative than on the factual, assigns greater priority to valuing than to measuring, and regards the quality of the journey as more educationally significant than the speed at which the destination is reached.",
+          "translation": "그것은 존재보다는 존재에 더 초점을 맞추고, 현실보다 상상력에 더 많은 가치를 부여하고, 측정보다 가치에 더 많은 우선순위를 부여하고, 목적지 도달 속도보다 여행의 질을 교육적으로 더 중요하게 간주하는 교육 문화입니다."
+        },
+        {
+          "source": "I am talking about a new vision of what education might become and what schools are for.",
+          "translation": "저는 교육이 어떻게 될 수 있는지에 대한 새로운 비전에 대해 이야기하고 있습니다."
+        },
+        {
+          "source": "I want to bring my remarks to a close by reminding all of us here that visions, no matter how grand, need to be acted upon to become real.",
+          "translation": "제 발언을 마치고, 여기 있는 모든 사람들에게 비전들이 아무리 위대하더라도 현실이 되기 위해서는 행동해야 한다는 것을 상기시켜드리고 싶습니다."
+        },
+        {
+          "source": "Ideas, clearly, are important.",
+          "translation": "아이디어는 분명히 중요합니다."
+        },
+        {
+          "source": "Without them change has no rudder.",
+          "translation": "그들 없이는 변화는 조종할 수 없습니다."
+        },
+        {
+          "source": "But change also needs wind and a sail to catch it.",
+          "translation": "하지만 변화를 잡기 위해서는 바람과 선박도 필요합니다."
+        },
+        {
+          "source": "Without them there is no movement.",
+          "translation": "그들 없이는 움직임이 없습니다."
+        },
+        {
+          "source": "Frankly, this may be the most challenging aspect of the proposal I have made.",
+          "translation": "솔직히 말해서, 이것은 제가 제시한 제안의 가장 도전적인 측면일 수도 있습니다."
+        },
+        {
+          "source": "The public’s perception of the purpose of education supports the current paradigm.",
+          "translation": "교육의 목적에 대한 대중의 인식은 현재의 패러다임을 지지합니다."
+        },
+        {
+          "source": "We need to sail against the tide.",
+          "translation": "물과 맞서는 항해가 필요합니다."
+        },
+        {
+          "source": "Our destination is to change the social vision of what schools can be.",
+          "translation": "우리의 목적지는 학교가 될 수 있는 사회적 비전을 변화시키는 것입니다."
+        },
+        {
+          "source": "It will not be an easy journey but when the seas seem too treacherous to travel and the stars too distant to touch we should remember Robert Browning’s observation that “A man’s reach should exceed his grasp or what’s a heaven for” (Browning/Allison, 1983).",
+          "translation": "그것은 쉬운 여행이 될 수는 없지만 바다가 여행하기에는 너무 배신적이거나 별들이 너무 멀리 떨어져있을 때 우리는 로버트 브라운닝의 관찰을 기억해야 합니다."
+        },
+        {
+          "source": "Browning gives us a moral message, one generated by the imagination and expressed through the poetic.",
+          "translation": "브라운닝은 우리에게 도덕적인 메시지를 주고 있습니다. 상상력으로 만들어지고 시적인 것으로 표현됩니다."
+        },
+        {
+          "source": "And as Dewey said in the closing pages of Art as Experience, “Imagination",
+          "translation": "그리고 듀이가 \"미술은 경험\"의 마지막 페이지에서 말했듯이,"
+        }
+      ],
+      "printed": "10",
+      "textQuality": "text"
+    },
+    {
+      "page": 11,
+      "sourceText": "International Journal of Education & the Arts                                                                                    11 \nis the chief instrument of the good.” Dewey went on to say that, “Art has been the means of \nkeeping alive the sense of purposes that outrun evidence and of meanings that transcend \nindurated habit” (Dewey, 1934). \n \nImagination is no mere ornament, nor is art. Together they can liberate us from our \nindurated habits. They might help us restore decent purpose to our efforts and help us create \nthe kind of schools our children deserve and our culture needs. Those aspirations, my \nfriends, are stars worth stretching for. \n \n \n \nNote \n \n1. For a lucid history of research in education, see Lagemann, E. (2000). An elusive science: The \ntroubling history of educational research. Chicago: University of Chicago Press. \n \n \n \nReferences \n \nBoring, E. (1957). A history of experimental psychology, (3rd ed.). New York: Appleton Century \nCrofts. \n \nBrowning, R. (1983). Andrea del Sarto. In A. Allison (Ed.), The Norton Anthology of Poetry. \nNew York: Norton. \n \nCallahan, R. (1962). Education and the cult of efficiency. Chicago: University of Chicago Press. \n \nDewey, J. (1934). Art as experience. New York: Minton Balch and Co. \n \nDewey, J. (1938). Experience and education. New York: Macmillan and Co.  \n \nGoodman, N. (1978). Ways of world-making. Indianapolis: Hacket Publishing. \n \nPolyani, M. (1967). The tacit dimension. London: Routledge and Kegan Paul. \n \nRead, H. (1944). Education through art. London: Pantheon. \n \nThorndike, E. L. (1910). The contribution of psychology to education. Journal of \n \nEducational Psychology, 1, 6-8. \n \nToulmin, S. (1990). Cosmopolis: The hidden agenda of modernity. New York: The Free Press.",
+      "translationText": "국제 교육과 예술 학술지 11은 선의 주요 도구입니다.\n\n듀이는 계속 말하기를, 미술은 증거를 뛰어넘는 목적의 감각과 가혹한 습관을 초월하는 의미의 감각을 살아있게 유지하는 수단이었다 (듀이, 1934).\n\n상상력은 단순한 장식품이 아닙니다. 예술도 아닙니다.\n\n우리 의 가혹 한 습관 에서 해방 될 수 있습니다.\n\n그들은 우리의 노력에 적절한 목적을 회복시키는데 도움을 줄 수 있고 우리 아이들이 받을 만한 학교와 우리 문화가 필요로 하는 학교를 만드는 데 도움을 줄 수 있습니다.\n\n그 열망은, 내 친구들, 스트레칭할 가치가 있는 별입니다.\n\n참고 1.\n\n교육에 관한 연구의 명확한 역사에 대해서는 Lagemann, E. (2000) 를 참조하십시오.\n\n미묘한 과학: 교육 연구의 혼란스러운 역사\n\n시카고: 시카고 대학 출판사.\n\n참고자료 Boring, E. (1957).\n\n실험심리학의 역사 (3rd ed.).\n\n뉴욕: Appleton Century Crofts.\n\n브라우닝, R. (1983).\n\n안드레아 델 사르토\n\nA. 앨리슨 (편집) 에서 \"노턴 시 안톨로지\".\n\n뉴욕: 노턴\n\n칼라한, R. (1962).\n\n교육과 효율성의 숭배.\n\n시카고: 시카고 대학 출판사.\n\n듀이, J. (1934).\n\n예술은 경험입니다.\n\n뉴욕: 멘턴 발치 앤 Co.\n\n듀이, J. (1938)\n\n경험과 교육.\n\n뉴욕: 맥밀런 앤 Co.\n\n굿맨, N. (1978).\n\n세상을 만드는 방법.\n\n인디애나폴리스: 해킹 출판사\n\n폴리아니, M. (1967).\n\n조용한 차원.\n\n런던: 루틀리지와 케건 폴\n\n리드, H. (1944).\n\n예술을 통해 교육.\n\n런던: 판테온\n\n토런다이크, E.L. (1910).\n\n교육에 심리학의 기여\n\n교육심리학 학술지, 1, 6-8.\n\n툴민, S. (1990).\n\n코스모폴리스: 근대의 숨겨진 일정은.\n\n뉴욕: 자유 언론.",
+      "status": "translated",
+      "sourceTextSha256": "b2b87a1cc1320e6739bc77abcd2526dcd7e11996a72062c04d5f51150a955b08",
+      "segments": [
+        {
+          "source": "International Journal of Education & the Arts 11 is the chief instrument of the good.",
+          "translation": "국제 교육과 예술 학술지 11은 선의 주요 도구입니다."
+        },
+        {
+          "source": "” Dewey went on to say that, “Art has been the means of keeping alive the sense of purposes that outrun evidence and of meanings that transcend indurated habit” (Dewey, 1934).",
+          "translation": "듀이는 계속 말하기를, 미술은 증거를 뛰어넘는 목적의 감각과 가혹한 습관을 초월하는 의미의 감각을 살아있게 유지하는 수단이었다 (듀이, 1934)."
+        },
+        {
+          "source": "Imagination is no mere ornament, nor is art.",
+          "translation": "상상력은 단순한 장식품이 아닙니다. 예술도 아닙니다."
+        },
+        {
+          "source": "Together they can liberate us from our indurated habits.",
+          "translation": "우리 의 가혹 한 습관 에서 해방 될 수 있습니다."
+        },
+        {
+          "source": "They might help us restore decent purpose to our efforts and help us create the kind of schools our children deserve and our culture needs.",
+          "translation": "그들은 우리의 노력에 적절한 목적을 회복시키는데 도움을 줄 수 있고 우리 아이들이 받을 만한 학교와 우리 문화가 필요로 하는 학교를 만드는 데 도움을 줄 수 있습니다."
+        },
+        {
+          "source": "Those aspirations, my friends, are stars worth stretching for.",
+          "translation": "그 열망은, 내 친구들, 스트레칭할 가치가 있는 별입니다."
+        },
+        {
+          "source": "Note 1.",
+          "translation": "참고 1."
+        },
+        {
+          "source": "For a lucid history of research in education, see Lagemann, E. (2000).",
+          "translation": "교육에 관한 연구의 명확한 역사에 대해서는 Lagemann, E. (2000) 를 참조하십시오."
+        },
+        {
+          "source": "An elusive science: The troubling history of educational research.",
+          "translation": "미묘한 과학: 교육 연구의 혼란스러운 역사"
+        },
+        {
+          "source": "Chicago: University of Chicago Press.",
+          "translation": "시카고: 시카고 대학 출판사."
+        },
+        {
+          "source": "References Boring, E. (1957).",
+          "translation": "참고자료 Boring, E. (1957)."
+        },
+        {
+          "source": "A history of experimental psychology, (3rd ed.).",
+          "translation": "실험심리학의 역사 (3rd ed.)."
+        },
+        {
+          "source": "New York: Appleton Century Crofts.",
+          "translation": "뉴욕: Appleton Century Crofts.",
+          "reviewed": true
+        },
+        {
+          "source": "Browning, R. (1983).",
+          "translation": "브라우닝, R. (1983)."
+        },
+        {
+          "source": "Andrea del Sarto.",
+          "translation": "안드레아 델 사르토"
+        },
+        {
+          "source": "In A. Allison (Ed.), The Norton Anthology of Poetry.",
+          "translation": "A. 앨리슨 (편집) 에서 \"노턴 시 안톨로지\"."
+        },
+        {
+          "source": "New York: Norton.",
+          "translation": "뉴욕: 노턴"
+        },
+        {
+          "source": "Callahan, R. (1962).",
+          "translation": "칼라한, R. (1962)."
+        },
+        {
+          "source": "Education and the cult of efficiency.",
+          "translation": "교육과 효율성의 숭배."
+        },
+        {
+          "source": "Chicago: University of Chicago Press.",
+          "translation": "시카고: 시카고 대학 출판사."
+        },
+        {
+          "source": "Dewey, J. (1934).",
+          "translation": "듀이, J. (1934)."
+        },
+        {
+          "source": "Art as experience.",
+          "translation": "예술은 경험입니다."
+        },
+        {
+          "source": "New York: Minton Balch and Co.",
+          "translation": "뉴욕: 멘턴 발치 앤 Co."
+        },
+        {
+          "source": "Dewey, J. (1938).",
+          "translation": "듀이, J. (1938)"
+        },
+        {
+          "source": "Experience and education.",
+          "translation": "경험과 교육."
+        },
+        {
+          "source": "New York: Macmillan and Co.",
+          "translation": "뉴욕: 맥밀런 앤 Co."
+        },
+        {
+          "source": "Goodman, N. (1978).",
+          "translation": "굿맨, N. (1978)."
+        },
+        {
+          "source": "Ways of world-making.",
+          "translation": "세상을 만드는 방법."
+        },
+        {
+          "source": "Indianapolis: Hacket Publishing.",
+          "translation": "인디애나폴리스: 해킹 출판사"
+        },
+        {
+          "source": "Polyani, M. (1967).",
+          "translation": "폴리아니, M. (1967)."
+        },
+        {
+          "source": "The tacit dimension.",
+          "translation": "조용한 차원."
+        },
+        {
+          "source": "London: Routledge and Kegan Paul.",
+          "translation": "런던: 루틀리지와 케건 폴"
+        },
+        {
+          "source": "Read, H. (1944).",
+          "translation": "리드, H. (1944)."
+        },
+        {
+          "source": "Education through art.",
+          "translation": "예술을 통해 교육."
+        },
+        {
+          "source": "London: Pantheon.",
+          "translation": "런던: 판테온"
+        },
+        {
+          "source": "Thorndike, E. L. (1910).",
+          "translation": "토런다이크, E.L. (1910)."
+        },
+        {
+          "source": "The contribution of psychology to education.",
+          "translation": "교육에 심리학의 기여"
+        },
+        {
+          "source": "Journal of Educational Psychology, 1, 6-8.",
+          "translation": "교육심리학 학술지, 1, 6-8."
+        },
+        {
+          "source": "Toulmin, S. (1990).",
+          "translation": "툴민, S. (1990)."
+        },
+        {
+          "source": "Cosmopolis: The hidden agenda of modernity.",
+          "translation": "코스모폴리스: 근대의 숨겨진 일정은."
+        },
+        {
+          "source": "New York: The Free Press.",
+          "translation": "뉴욕: 자유 언론."
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 12,
+      "sourceText": "What can education learn from the arts?                                                                                                       12 \nAbout the author \n \nElliot W. Eisner, Lee Jacks Professor of Education and Professor of Art at Stanford \nUniversity, works in three fields: Arts Education, Curriculum Studies, and Qualitative \nResearch Methodology (identifying practical uses of critical qualitative methods from the arts \nin schools settings and teaching processes). His research interests focus on the development \nof aesthetic intelligence and on the use of methods from the arts to study and improve \neducational practice. Originally trained as a painter, Professor Eisner’s teaching and research \ncenter around the ways in which schools might improve by using the processes of the arts in \nall their programs.",
+      "translationText": "교육은 예술에서 무엇을 배울 수 있습니까?\n\n12 저자 엘리엇 W. 아이즈너 에 대해, 스탠퍼드 대학교 교육 교수 및 예술 교수인 리 잭스 는 예술 교육, 교육 과정 연구, 질적 연구 방법론 (학교 환경 및 교육 과정 에서 예술 에서 중요한 질적 방법 의 실용적 사용 을 식별 하는) 으로 세 가지 분야에서 일 한다.\n\n그의 연구 관심사는 미적 지능의 개발과 교육 실무를 연구하고 개선하기 위해 예술의 방법을 사용하는 것에 초점을 맞추고 있습니다.\n\n원래 화가로 훈련을 받았던 에이스너 교수는 모든 프로그램에서 예술의 과정을 사용하여 학교가 발전할 수 있는 방법에 대한 교수와 연구 센터입니다.",
+      "status": "translated",
+      "sourceTextSha256": "8eb78aa713976a811c5670c29f2d0228863e764579d01c9bc97e15f0e8a0b646",
+      "segments": [
+        {
+          "source": "What can education learn from the arts?",
+          "translation": "교육은 예술에서 무엇을 배울 수 있습니까?"
+        },
+        {
+          "source": "12 About the author Elliot W. Eisner, Lee Jacks Professor of Education and Professor of Art at Stanford University, works in three fields: Arts Education, Curriculum Studies, and Qualitative Research Methodology (identifying practical uses of critical qualitative methods from the arts in schools settings and teaching processes).",
+          "translation": "12 저자 엘리엇 W. 아이즈너 에 대해, 스탠퍼드 대학교 교육 교수 및 예술 교수인 리 잭스 는 예술 교육, 교육 과정 연구, 질적 연구 방법론 (학교 환경 및 교육 과정 에서 예술 에서 중요한 질적 방법 의 실용적 사용 을 식별 하는) 으로 세 가지 분야에서 일 한다."
+        },
+        {
+          "source": "His research interests focus on the development of aesthetic intelligence and on the use of methods from the arts to study and improve educational practice.",
+          "translation": "그의 연구 관심사는 미적 지능의 개발과 교육 실무를 연구하고 개선하기 위해 예술의 방법을 사용하는 것에 초점을 맞추고 있습니다."
+        },
+        {
+          "source": "Originally trained as a painter, Professor Eisner’s teaching and research center around the ways in which schools might improve by using the processes of the arts in all their programs.",
+          "translation": "원래 화가로 훈련을 받았던 에이스너 교수는 모든 프로그램에서 예술의 과정을 사용하여 학교가 발전할 수 있는 방법에 대한 교수와 연구 센터입니다."
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 13,
+      "sourceText": "International Journal of Education & the Arts                                                                                    13 \nInternational Journal of Education & the Arts \n \nEditors \nTom Barone \nArizona State University, U.S.A \nLiora Bresler  \nUniversity of Illinois at Urbana-Champaign, U.S.A. \nExecutive Editor \nGene V Glass \nArizona State University, U.S.A. \nAssociate Editor \nRegina Murphy \nSt. Patrick's College, Dublin City University, Ireland \nAssociate Editor (2000-2004) \nTracie Costantino \nUniversity of Illinois at Urbana-Champaign, U.S.A. \nEditorial Board \nPeter F. Abbs \nUniversity of Sussex, U.K. \nEunice Boardman \nUniversity of Illinois at Urbana-Champaign, U.S.A. \nNorman Denzin \nUniversity of Illinois at Urbana-Champaign, U.S.A. \nKieran Egan \nSimon Fraser University, Canada \nElliot Eisner \nStanford University, U.S.A. \nMagne Espeland \nStord/Haugesund University College, Norway \nGary McPherson \nUniversity of New South Wales, Australia \nRobert Stake \nUniversity of Illinois at Urbana-Champaign, U.S.A. \nSusan Stinson \nUniversity of North Carolina—Greensboro , U.S.A. \nChristine Thompson \nPennsylvania State University, U.S.A. \nPeter Webster \nNorthwestern University, U.S.A.",
+      "translationText": "국제 교육과 예술 저널 13 국제 교육과 미술 저널 편집자 톰 바론 애리조나 주립대학교, 미국 일리노이 주립대학 리오라 브레슬러 우르바나-샴페인, 미국 행정 편집자 제인 V 글래스 애리노이주립대학, 미국 부 편집자 레지나 머피 세인트 패트릭스 대학, 더블린 시티 대학교, 아일랜드 부 편집자 (2000-2004) 트레이시 코스탄티노 일리노이스 주립대 Urbana-샴페인 주립대 편집자 Peter F.\n\nAbbs — 서식스대학교, 영국; Eunice Boardman — 일리노이대학교 어배너-섐페인, 미국; Norman Denzin — 일리노이대학교 어배너-섐페인, 미국; Kieran Egan — 사이먼프레이저대학교, 캐나다; Elliot Eisner — 스탠퍼드대학교, 미국; Magne Espeland — Stord/Haugesund University College, 노르웨이; Gary McPherson — 뉴사우스웨일스대학교, 호주; Robert Stake — 일리노이대학교 어배너-섐페인,\n\n미국 노스캐롤라이나 스슨 대학교  그린스보로 미국 크리스틴 톰슨 펜실베이니아 주립 대학교 미국 피터 웹스터 노스웨스턴 대학교 미국",
+      "status": "translated",
+      "sourceTextSha256": "ffc351c2f72061baa14437d46143cf06988ab8d089d3403c3f6b490463cc763c",
+      "segments": [
+        {
+          "source": "International Journal of Education & the Arts 13 International Journal of Education & the Arts Editors Tom Barone Arizona State University, U.S.A Liora Bresler University of Illinois at Urbana-Champaign, U.S.A. Executive Editor Gene V Glass Arizona State University, U.S.A. Associate Editor Regina Murphy St. Patrick's College, Dublin City University, Ireland Associate Editor (2000-2004) Tracie Costantino University of Illinois at Urbana-Champaign, U.S.A. Editorial Board Peter F.",
+          "translation": "국제 교육과 예술 저널 13 국제 교육과 미술 저널 편집자 톰 바론 애리조나 주립대학교, 미국 일리노이 주립대학 리오라 브레슬러 우르바나-샴페인, 미국 행정 편집자 제인 V 글래스 애리노이주립대학, 미국 부 편집자 레지나 머피 세인트 패트릭스 대학, 더블린 시티 대학교, 아일랜드 부 편집자 (2000-2004) 트레이시 코스탄티노 일리노이스 주립대 Urbana-샴페인 주립대 편집자 Peter F."
+        },
+        {
+          "source": "Abbs University of Sussex, U.K. Eunice Boardman University of Illinois at Urbana-Champaign, U.S.A. Norman Denzin University of Illinois at Urbana-Champaign, U.S.A. Kieran Egan Simon Fraser University, Canada Elliot Eisner Stanford University, U.S.A. Magne Espeland Stord/Haugesund University College, Norway Gary McPherson University of New South Wales, Australia Robert Stake University of Illinois at Urbana-Champaign,",
+          "translation": "Abbs — 서식스대학교, 영국; Eunice Boardman — 일리노이대학교 어배너-섐페인, 미국; Norman Denzin — 일리노이대학교 어배너-섐페인, 미국; Kieran Egan — 사이먼프레이저대학교, 캐나다; Elliot Eisner — 스탠퍼드대학교, 미국; Magne Espeland — Stord/Haugesund University College, 노르웨이; Gary McPherson — 뉴사우스웨일스대학교, 호주; Robert Stake — 일리노이대학교 어배너-섐페인,",
+          "reviewed": true
+        },
+        {
+          "source": "U.S.A. Susan Stinson University of North Carolina—Greensboro , U.S.A. Christine Thompson Pennsylvania State University, U.S.A. Peter Webster Northwestern University, U.S.A.",
+          "translation": "미국 노스캐롤라이나 스슨 대학교  그린스보로 미국 크리스틴 톰슨 펜실베이니아 주립 대학교 미국 피터 웹스터 노스웨스턴 대학교 미국"
+        }
+      ],
+      "textQuality": "text"
+    }
+  ]
+}

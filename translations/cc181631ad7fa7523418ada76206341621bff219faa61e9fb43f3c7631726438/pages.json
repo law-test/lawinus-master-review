@@ -1,0 +1,50 @@
+{
+  "referenceId": "ref-054",
+  "sourceId": "supplement-cc181631ad7fa7523418",
+  "sourceSha256": "cc181631ad7fa7523418ada76206341621bff219faa61e9fb43f3c7631726438",
+  "pageCount": 1,
+  "translationType": "machine",
+  "engine": "NLLB-200 distilled 600M / CTranslate2",
+  "modelRevision": "f8d333a098d19b4fd9a8b18f94170487ad3f821d",
+  "pages": [
+    {
+      "page": 1,
+      "sourceText": "Supplement \nTable \n2\n.\n  Healthcare Utilization and Costs per Participant for Control vs. Intervention Groups at Baseline and 6 months. \n   \nMean Utilization\n \nMean Cost\n \n \nIntervention \nControl \n \nIntervention \nControl \nCost per Visit/ Night\n1\nBaseline\n6 Months\nBaseline\n6 Months\n \nBaseline\n6 \nMonths\nBaseline\n6 \nMonths\nMedical Visits\n            229.00 \n1.58\n1.96\n1.60\n1.51\n \n362.22\n449.43\n366.15\n346.19\nPsychiatrist Visits\n            150.00 \n0.20\n0.21\n0.35\n0.14\n \n29.57\n31.28\n52.75\n21.30\nMental Health Visits\n2\n            108.00 \n0.73\n0.70\n0.72\n0.59\n \n78.92\n75.08\n78.17\n63.27\nNP/PA Visits\n3\n            166.50 \n0.31\n0.57\n0.28\n0.24\n \n52.28\n94.38\n46.66\n40.16\nHome Health Visits\n            101.00 \n0.12\n0.56\n0.14\n0.20\n \n12.14\n56.17\n14.43\n20.20\nPT, OT, or RT Visits\n4\n            124.00 \n0.96\n0.98\n0.73\n1.62\n \n118.63\n121.35\n89.93\n200.59\nER Visits\n            824.00 \n0.12\n0.17\n0.08\n0.14\n \n95.08\n141.01\n67.91\n111.48\nHospital Nights\n        2,518.00 \n0.13\n0.33\n0.08\n0.99\n \n314.75\n834.844\n207.53\n2,488.38\nOutpatient Surgeries\n5\n        8,435.00 \n0.03\n0.10\n0.04\n0.06\n \n283.87\n811.93\n370.77\n496.18\nTotal Cost\n \n \n \n \n \n \n$ 1,316.54\n$ 2,615.47\n$ 1,299.74 \n$ 3,808.30\nNote:  Mean utilization is calculated across all participants, whether they used the service or not;  NP=nurse practitioner; PA=physician assistant; PT = physical therapy, OT=occupational therapy, RT=respiratory therapy, ER=emergency room\n1\nCosts based on mean healthcare expenditures from the 2014 Medical Expenditures Panel Survey for adults age 65+\n2\nCost per psychologist visit\n3\nMean of cost per nurse practitioner visit ($171) and physician assistant visit ($162)\n4\nMean cost per physical therapy visit\n5\nIncludes mean cost of facility ($7.240) plus mean cost of doctor ($1,235)",
+      "translationText": "보충제 테이블 2\n\n본선 및 6개월에 대한 통제 및 개입 그룹에 대한 참가자별 건강 관리 사용량 및 비용\n\n평균 사용량 평균 비용 간섭 통제 간섭 통제 비용 방문/ 밤 1 기준 6개월간 기준 6개월 기준 6개월 간 기준 6개월간의 기준 6개월 의료 방문 229.00 1.58 1.96 1.60 1.51 362.22 449.43 366.15 346.19 정신과 의사 방문 150.00 0.20 0.21 0.35 0.14 29.57 31.28 52.75 21.30 정신 건강 방문 2 108.00 0.73 0.70 0.72 0.59 78.92 75.08 78.17 63.27 NP/PA\n\n방문 3 166.50 0.31 0.57 0.28 0.24 52.28 94.38 46.66 40.16 가정 건강 방문 101.00 0.12 0.56 0.14 0.20 12.14 56.17 14.43 20.20 PT, OT 또는 RT 방문 4 124.00 0.96 0.98 0.73 1.62 118.63 121.35 89.93 200.59 ER 방문 824.00 0.120.17 0.08 0.14 95.08 141.01 67.91 111.48 병원 밤 2.518.00 0.13 0.33 0.08 0.99 314.75\n\n834.844 207.53 2,488.38 외과 수술 5 8,435.00 0.03 0.10 0.04 0.06 283.87 811.93 370.77 496.18 총 비용 $ 1,316.54 $ 2,615.47 $ 1,299.74 $ 3,808.30 참고: 평균 사용량은 모든 참가자, 서비스를 사용했든 그렇지 않든 간에 계산된다. NP = 간호사; PA = 의사 보조; PT = 물리 치료, OT = 직업 치료, RT = 호흡 치료,\n\nER=응급실 1 2014 년 의료 지출 패널 설문 조사에서 평균 의료 지출에 기초한 비용 65 세 이상 2 심리학자 방문 당 비용 3 간호사 연습생 방문 당 평균 비용 ($171) 및 의사 보조 방문 ($162) 4 물리 치료 방문 당 평균 비용은 5 시설의 평균 비용 ($7.240) 과 의사 평균 비용 ($1,235) 를 포함한다",
+      "status": "translated",
+      "sourceTextSha256": "8eff75c78846287d1fcf8cbb9779c7deb89510aceb49d3a7b8da4ad80e794c00",
+      "segments": [
+        {
+          "source": "Supplement Table 2 .",
+          "translation": "보충제 테이블 2"
+        },
+        {
+          "source": "Healthcare Utilization and Costs per Participant for Control vs. Intervention Groups at Baseline and 6 months.",
+          "translation": "본선 및 6개월에 대한 통제 및 개입 그룹에 대한 참가자별 건강 관리 사용량 및 비용"
+        },
+        {
+          "source": "Mean Utilization Mean Cost Intervention Control Intervention Control Cost per Visit/ Night 1 Baseline 6 Months Baseline 6 Months Baseline 6 Months Baseline 6 Months Medical Visits 229.00 1.58 1.96 1.60 1.51 362.22 449.43 366.15 346.19 Psychiatrist Visits 150.00 0.20 0.21 0.35 0.14 29.57 31.28 52.75 21.30 Mental Health Visits 2 108.00 0.73 0.70 0.72 0.59 78.92 75.08 78.17 63.27 NP/PA",
+          "translation": "평균 사용량 평균 비용 간섭 통제 간섭 통제 비용 방문/ 밤 1 기준 6개월간 기준 6개월 기준 6개월 간 기준 6개월간의 기준 6개월 의료 방문 229.00 1.58 1.96 1.60 1.51 362.22 449.43 366.15 346.19 정신과 의사 방문 150.00 0.20 0.21 0.35 0.14 29.57 31.28 52.75 21.30 정신 건강 방문 2 108.00 0.73 0.70 0.72 0.59 78.92 75.08 78.17 63.27 NP/PA"
+        },
+        {
+          "source": "Visits 3 166.50 0.31 0.57 0.28 0.24 52.28 94.38 46.66 40.16 Home Health Visits 101.00 0.12 0.56 0.14 0.20 12.14 56.17 14.43 20.20 PT, OT, or RT Visits 4 124.00 0.96 0.98 0.73 1.62 118.63 121.35 89.93 200.59 ER Visits 824.00 0.12 0.17 0.08 0.14 95.08 141.01 67.91 111.48 Hospital Nights 2,518.00 0.13 0.33 0.08 0.99 314.75",
+          "translation": "방문 3 166.50 0.31 0.57 0.28 0.24 52.28 94.38 46.66 40.16 가정 건강 방문 101.00 0.12 0.56 0.14 0.20 12.14 56.17 14.43 20.20 PT, OT 또는 RT 방문 4 124.00 0.96 0.98 0.73 1.62 118.63 121.35 89.93 200.59 ER 방문 824.00 0.120.17 0.08 0.14 95.08 141.01 67.91 111.48 병원 밤 2.518.00 0.13 0.33 0.08 0.99 314.75"
+        },
+        {
+          "source": "834.844 207.53 2,488.38 Outpatient Surgeries 5 8,435.00 0.03 0.10 0.04 0.06 283.87 811.93 370.77 496.18 Total Cost $ 1,316.54 $ 2,615.47 $ 1,299.74 $ 3,808.30 Note: Mean utilization is calculated across all participants, whether they used the service or not; NP=nurse practitioner; PA=physician assistant; PT = physical therapy, OT=occupational therapy, RT=respiratory therapy,",
+          "translation": "834.844 207.53 2,488.38 외과 수술 5 8,435.00 0.03 0.10 0.04 0.06 283.87 811.93 370.77 496.18 총 비용 $ 1,316.54 $ 2,615.47 $ 1,299.74 $ 3,808.30 참고: 평균 사용량은 모든 참가자, 서비스를 사용했든 그렇지 않든 간에 계산된다. NP = 간호사; PA = 의사 보조; PT = 물리 치료, OT = 직업 치료, RT = 호흡 치료,"
+        },
+        {
+          "source": "ER=emergency room 1 Costs based on mean healthcare expenditures from the 2014 Medical Expenditures Panel Survey for adults age 65+ 2 Cost per psychologist visit 3 Mean of cost per nurse practitioner visit ($171) and physician assistant visit ($162) 4 Mean cost per physical therapy visit 5 Includes mean cost of facility ($7.240) plus mean cost of doctor ($1,235)",
+          "translation": "ER=응급실 1 2014 년 의료 지출 패널 설문 조사에서 평균 의료 지출에 기초한 비용 65 세 이상 2 심리학자 방문 당 비용 3 간호사 연습생 방문 당 평균 비용 ($171) 및 의사 보조 방문 ($162) 4 물리 치료 방문 당 평균 비용은 5 시설의 평균 비용 ($7.240) 과 의사 평균 비용 ($1,235) 를 포함한다"
+        }
+      ],
+      "unitId": "table-2",
+      "unitLabel": "추가 표 2"
+    }
+  ],
+  "kind": "supplementary-table",
+  "label": "Johnson 추가 표 2",
+  "sourceType": "html",
+  "coverageNote": "확보한 부록 표 2의 원문과 번역입니다."
+}

@@ -1,0 +1,10 @@
+열람용 기계번역 / Machine translation for reading
+
+Model: facebook/nllb-200-distilled-600M
+Copyright / attribution: Meta AI, NLLB Team
+Model revision: f8d333a098d19b4fd9a8b18f94170487ad3f821d
+License: Creative Commons Attribution-NonCommercial 4.0
+https://creativecommons.org/licenses/by-nc/4.0/
+Model: https://huggingface.co/facebook/nllb-200-distilled-600M
+
+Translations were generated locally and stored by original PDF page or source text section. The application does not call GPT or a translation API. Source authors and source rights remain with their respective holders. Machine translations can contain OCR and translation errors; compare the original before quoting or interpreting. Selected passages were manually corrected, but this is not a fully manually reviewed translation.
