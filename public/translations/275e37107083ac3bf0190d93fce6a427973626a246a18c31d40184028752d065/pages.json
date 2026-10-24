@@ -1,0 +1,1403 @@
+{
+  "referenceId": "ref-057",
+  "sourceId": "s-cite-275e37107083ac3bf019",
+  "sourceSha256": "275e37107083ac3bf0190d93fce6a427973626a246a18c31d40184028752d065",
+  "pageCount": 8,
+  "translationType": "machine",
+  "engine": "NLLB-200 distilled 600M / CTranslate2",
+  "modelRevision": "f8d333a098d19b4fd9a8b18f94170487ad3f821d",
+  "pages": [
+    {
+      "page": 1,
+      "sourceText": "Qualitative Health Research\n2016, Vol. 26(13) 1753–1760\n© The Author(s) 2015 \nReprints and permissions: \nsagepub.com/journalsPermissions.nav\nDOI: 10.1177/1049732315617444\nqhr.sagepub.com\nInnovative Methods\nBackground\nQualitative researchers need tools to evaluate sample size \nfirst while planning a study, then during the research process to appraise sample size continuously, and finally to \nascertain whether the sample size is adequate for analysis \nand final publication (Guest, Bunce, & Johnson, 2006; \nMorse, 1995; Sandelowski, 1995). In quantitative studies, power calculations determines which sample size (N) \nis necessary to demonstrate effects of a certain magnitude \nfrom an intervention. For qualitative interview studies, no \nsimilar standards for assessment of sample size exist.\nReviews indicate that qualitative researchers demonstrate a low level of transparency regarding sample sizes \nand the underlying arguments for these (Carlsen & \nGlenton, 2011; Mason, 2010). Often, the authors just \nclaim that saturation was achieved, inferring that addition \nof more participants did not add anything to the analysis, \nwithout specifying their understanding of how saturation \nhas been assessed. The saturation concept was originally \ncoined by Glaser and Strauss (1999) as a specific element \nof constant comparison in Grounded Theory (GT) analysis. Within the GT framework, sample size is appraised as \nan element of the ongoing analysis where every new observation is compared with previous analysis to identify similarities and differences. The saturation concept is, however, \nagain and again claimed in studies based on other analytic \napproaches, without any explanation of how the concept \nshould be understood in this non-GT context and how it \nserves to justify the number of participants.\nA commonly stated principle for determining sample \nsize in a qualitative study is that N should be sufficiently \nlarge and varied to elucidate the aims of the study (Kuzel, \n1999; Marshall, 1996; Patton, 2015). However, this principle provides no guidance for planning, although experienced researchers seem to follow their own rules of thumb \nabout approximate numbers of units that were needed in \nprevious comparable studies to arrive at a responsible analysis (Mason, 2010).\nThe authors of the present article have extensive experience from planning, conducting, publishing, and supervising qualitative as well as quantitative studies, and we \nshare a concern for methodology across research methods. We agree with Mason (2010) that qualitative \nresearchers should try hard to make our methods as robust \nand defensible as possible, aiming for intersubjectivity on \n617444 QHRXXX10.1177/1049732315617444Qualitative Health ResearchMalterud et al.\nresearch-article2015\n1University of Copenhagen, Copenhagen, Denmark\n2Uni Research Health, Bergen, Norway\n3University of Bergen, Bergen, Norway\nCorresponding Author:\nKirsti Malterud, Research Unit for General Practice, Uni Research \nHealth, Kalfarveien 31, N-5018 Bergen, Norway. \nEmail: Kirsti.malterud@gmail.com\nSample Size in Qualitative Interview \nStudies: Guided by Information Power\nKirsti Malterud1,2,3, Volkert Dirk Siersma1,  \nand Ann Dorrit Guassora1\nAbstract\nSample sizes must be ascertained in qualitative studies like in quantitative studies but not by the same means. \nThe prevailing concept for sample size in qualitative studies is “saturation.” Saturation is closely tied to a specific \nmethodology, and the term is inconsistently applied. We propose the concept “information power” to guide adequate \nsample size for qualitative studies. Information power indicates that the more information the sample holds, relevant \nfor the actual study, the lower amount of participants is needed. We suggest that the size of a sample with sufficient \ninformation power depends on (a) the aim of the study, (b) sample specificity, (c) use of established theory, (d) quality \nof dialogue, and (e) analysis strategy. We present a model where these elements of information and their relevant \ndimensions are related to information power. Application of this model in the planning and during data collection of \na qualitative study is discussed.\nKeywords\nsample size; participants; methodology; saturation; information power; qualitative",
+      "translationText": "양질의 건강 연구 2016, Vol.\n\n26(13) 17531760 © The Author(s) 2015 인쇄 및 권한: sagepub.com/journalsPermissions.nav DOI: 10.1177/1049732315617444 qhr.sagepub.com 혁신적인 방법 배경 질적 연구자들은 연구를 계획하는 동안 먼저 샘플 크기를 평가하기 위해 도구가 필요하고, 연구 과정에서 샘플 크기를 지속적으로 평가하고, 마지막으로 샘플 크기가 분석 및 최종 출판에 적합하는지 여부를 확인하기 위해\n\n반스, & 존슨, 2006; 모스, 1995; 샌델로프스키, 1995).\n\n양적 연구에서, 전력 계산은 개입의 특정 규모의 효과를 입증하기 위해 어떤 샘플 크기가 (N) 필요한지를 결정합니다.\n\n질적 인터뷰 연구에서는 샘플 크기의 평가에 대한 유사한 표준이 존재하지 않습니다.\n\n리뷰는 양질의 연구자들이 샘플 사이즈와 그 뒷받침적인 주장에 대한 투명성의 수준이 낮다는 것을 나타냅니다 (Carlsen & Glenton, 2011; Mason, 2010).\n\n종종, 저자들은 단순히 포화도가 달성되었다고 주장하며, 더 많은 참가자를 추가하는 것은 포화도가 어떻게 평가되었는지에 대한 그들의 이해를 명시하지 않고 분석에 아무것도 추가하지 않았다는 결론을 내렸습니다.\n\n포화 개념은 Glaser와 Strauss(1999)가 근거이론(GT) 분석에서 지속적 비교의 특정 요소로 처음 제시하였다.\n\nGT 프레임워크 내에서, 샘플 크기는 계속되는 분석의 한 요소로 평가되며, 각각의 새로운 관찰은 유사성과 차이를 확인하기 위해 이전 분석과 비교된다.\n\n그러나 포화 개념은 다른 분석 접근법을 기반으로 한 연구에서 반복적으로 주장되고 있으며, 이러한 GT 이외의 맥락에서 개념이 어떻게 이해되어야하는지 설명하지 않고 참여자의 수를 정당화하는 데 어떻게 작용하는지 설명하지 않습니다.\n\n질적 연구에서 샘플 크기를 결정하는 데 일반적으로 명시된 원칙은 N가 연구의 목적을 명확히 하기 위해 충분히 크고 다양해야 한다는 것입니다 (Kuzel, 1999; Marshall, 1996; Patton, 2015).\n\n그러나 이 원칙은 계획 단계의 지침을 제공하지 않는다. 다만 경험이 많은 연구자들은 신뢰할 만한 분석에 이르기 위해 과거의 유사한 연구에서 필요했던 대략적인 단위 수에 관한 자신의 경험적 기준을 따르는 것으로 보인다(Mason, 2010).\n\n본 기사의 저자들은 양적 연구와 질적 연구를 계획, 수행, 출판 및 감독하는 광범위한 경험을 가지고 있으며, 우리는 연구 방법 전반에 걸쳐 방법론에 대한 우려를 공유합니다.\n\n우리는 양질의 연구자들이 가능한 한 강력하고 방어 가능한 방법으로 우리의 방법을 만들기 위해 노력해야 한다는 데 동의합니다. 617444 QHRXXX10.1177/10497315617444 양질의 건강 연구Malterud et al. 연구-조문2015 1코펜하겐 대학교, 코펜하겐, 덴마크 2Uni 연구 건강, 베르겐, 노르웨이 3베르겐 대학교, 베르건, 노르베니아\n\n연구 건강, 칼파르베이엔 31, N-5018 베르겐, 노르웨이\n\n이메일: Kirsti.malterud@gmail.com 질적 면접 연구에서 표본 크기는 정보력에 의해 안내됩니다 Kirsti Malterud1,2,3, Volkert Dirk Siersma1, Ann Dorrit Guassora1 추상 표본 크기를 양적 연구와 마찬가지로 질적 연구에서 확인해야 하지만 동일한 방법으로 확인하지 않습니다.\n\n질적 연구에서 샘플 크기의 지배적인 개념은  포화입니다.\n\n포화 는 특정 방법론과 밀접하게 연관되어 있으며, 이 용어는 일관되게 적용되지 않습니다.\n\n우리는 질적 연구를 위해 적절한 샘플 크기를 안내하기 위해 \"정보력\"이라는 개념을 제안합니다.\n\n정보력은 실제 연구와 관련된 샘플에 더 많은 정보가 포함될수록 더 적은 수의 참가자가 필요하다는 것을 나타냅니다.\n\n우리는 충분한 정보력을 가진 샘플의 크기가\n\n(a) 연구의 목적\n\n(b) 표본의 특수성,\n\n(c) 확립된 이론의 사용,\n\n(d) 대화의 질과\n\n(e) 분석 전략\n\n우리는 이러한 정보 요소와 그 관련 차원이 정보력과 관련이 있는 모델을 제시합니다.\n\n이 모델의 적용은 질적 연구의 계획과 데이터 수집 과정에서 논의된다.\n\n키워드 샘플 크기, 참가자, 방법론, 포화, 정보력, 질적",
+      "status": "translated",
+      "sourceTextSha256": "1956568c57fd1cd41aba49c4ac71781dc929cfb301869c12895b5e4316aa4a39",
+      "segments": [
+        {
+          "source": "Qualitative Health Research 2016, Vol.",
+          "translation": "양질의 건강 연구 2016, Vol."
+        },
+        {
+          "source": "26(13) 1753–1760 © The Author(s) 2015 Reprints and permissions: sagepub.com/journalsPermissions.nav DOI: 10.1177/1049732315617444 qhr.sagepub.com Innovative Methods Background Qualitative researchers need tools to evaluate sample size first while planning a study, then during the research process to appraise sample size continuously, and finally to ascertain whether the sample size is adequate for analysis and final publication (Guest,",
+          "translation": "26(13) 17531760 © The Author(s) 2015 인쇄 및 권한: sagepub.com/journalsPermissions.nav DOI: 10.1177/1049732315617444 qhr.sagepub.com 혁신적인 방법 배경 질적 연구자들은 연구를 계획하는 동안 먼저 샘플 크기를 평가하기 위해 도구가 필요하고, 연구 과정에서 샘플 크기를 지속적으로 평가하고, 마지막으로 샘플 크기가 분석 및 최종 출판에 적합하는지 여부를 확인하기 위해"
+        },
+        {
+          "source": "Bunce, & Johnson, 2006; Morse, 1995; Sandelowski, 1995).",
+          "translation": "반스, & 존슨, 2006; 모스, 1995; 샌델로프스키, 1995)."
+        },
+        {
+          "source": "In quantitative studies, power calculations determines which sample size (N) is necessary to demonstrate effects of a certain magnitude from an intervention.",
+          "translation": "양적 연구에서, 전력 계산은 개입의 특정 규모의 효과를 입증하기 위해 어떤 샘플 크기가 (N) 필요한지를 결정합니다."
+        },
+        {
+          "source": "For qualitative interview studies, no similar standards for assessment of sample size exist.",
+          "translation": "질적 인터뷰 연구에서는 샘플 크기의 평가에 대한 유사한 표준이 존재하지 않습니다."
+        },
+        {
+          "source": "Reviews indicate that qualitative researchers demonstrate a low level of transparency regarding sample sizes and the underlying arguments for these (Carlsen & Glenton, 2011; Mason, 2010).",
+          "translation": "리뷰는 양질의 연구자들이 샘플 사이즈와 그 뒷받침적인 주장에 대한 투명성의 수준이 낮다는 것을 나타냅니다 (Carlsen & Glenton, 2011; Mason, 2010)."
+        },
+        {
+          "source": "Often, the authors just claim that saturation was achieved, inferring that addition of more participants did not add anything to the analysis, without specifying their understanding of how saturation has been assessed.",
+          "translation": "종종, 저자들은 단순히 포화도가 달성되었다고 주장하며, 더 많은 참가자를 추가하는 것은 포화도가 어떻게 평가되었는지에 대한 그들의 이해를 명시하지 않고 분석에 아무것도 추가하지 않았다는 결론을 내렸습니다."
+        },
+        {
+          "source": "The saturation concept was originally coined by Glaser and Strauss (1999) as a specific element of constant comparison in Grounded Theory (GT) analysis.",
+          "translation": "포화 개념은 Glaser와 Strauss(1999)가 근거이론(GT) 분석에서 지속적 비교의 특정 요소로 처음 제시하였다.",
+          "reviewed": true
+        },
+        {
+          "source": "Within the GT framework, sample size is appraised as an element of the ongoing analysis where every new observation is compared with previous analysis to identify similarities and differences.",
+          "translation": "GT 프레임워크 내에서, 샘플 크기는 계속되는 분석의 한 요소로 평가되며, 각각의 새로운 관찰은 유사성과 차이를 확인하기 위해 이전 분석과 비교된다."
+        },
+        {
+          "source": "The saturation concept is, however, again and again claimed in studies based on other analytic approaches, without any explanation of how the concept should be understood in this non-GT context and how it serves to justify the number of participants.",
+          "translation": "그러나 포화 개념은 다른 분석 접근법을 기반으로 한 연구에서 반복적으로 주장되고 있으며, 이러한 GT 이외의 맥락에서 개념이 어떻게 이해되어야하는지 설명하지 않고 참여자의 수를 정당화하는 데 어떻게 작용하는지 설명하지 않습니다."
+        },
+        {
+          "source": "A commonly stated principle for determining sample size in a qualitative study is that N should be sufficiently large and varied to elucidate the aims of the study (Kuzel, 1999; Marshall, 1996; Patton, 2015).",
+          "translation": "질적 연구에서 샘플 크기를 결정하는 데 일반적으로 명시된 원칙은 N가 연구의 목적을 명확히 하기 위해 충분히 크고 다양해야 한다는 것입니다 (Kuzel, 1999; Marshall, 1996; Patton, 2015)."
+        },
+        {
+          "source": "However, this principle provides no guidance for planning, although experienced researchers seem to follow their own rules of thumb about approximate numbers of units that were needed in previous comparable studies to arrive at a responsible analysis (Mason, 2010).",
+          "translation": "그러나 이 원칙은 계획 단계의 지침을 제공하지 않는다. 다만 경험이 많은 연구자들은 신뢰할 만한 분석에 이르기 위해 과거의 유사한 연구에서 필요했던 대략적인 단위 수에 관한 자신의 경험적 기준을 따르는 것으로 보인다(Mason, 2010).",
+          "reviewed": true
+        },
+        {
+          "source": "The authors of the present article have extensive experience from planning, conducting, publishing, and supervising qualitative as well as quantitative studies, and we share a concern for methodology across research methods.",
+          "translation": "본 기사의 저자들은 양적 연구와 질적 연구를 계획, 수행, 출판 및 감독하는 광범위한 경험을 가지고 있으며, 우리는 연구 방법 전반에 걸쳐 방법론에 대한 우려를 공유합니다."
+        },
+        {
+          "source": "We agree with Mason (2010) that qualitative researchers should try hard to make our methods as robust and defensible as possible, aiming for intersubjectivity on 617444 QHRXXX10.1177/1049732315617444Qualitative Health ResearchMalterud et al. research-article2015 1University of Copenhagen, Copenhagen, Denmark 2Uni Research Health, Bergen, Norway 3University of Bergen, Bergen, Norway Corresponding Author: Kirsti Malterud, Research Unit for General Practice, Uni",
+          "translation": "우리는 양질의 연구자들이 가능한 한 강력하고 방어 가능한 방법으로 우리의 방법을 만들기 위해 노력해야 한다는 데 동의합니다. 617444 QHRXXX10.1177/10497315617444 양질의 건강 연구Malterud et al. 연구-조문2015 1코펜하겐 대학교, 코펜하겐, 덴마크 2Uni 연구 건강, 베르겐, 노르웨이 3베르겐 대학교, 베르건, 노르베니아"
+        },
+        {
+          "source": "Research Health, Kalfarveien 31, N-5018 Bergen, Norway.",
+          "translation": "연구 건강, 칼파르베이엔 31, N-5018 베르겐, 노르웨이"
+        },
+        {
+          "source": "Email: Kirsti.malterud@gmail.com Sample Size in Qualitative Interview Studies: Guided by Information Power Kirsti Malterud1,2,3, Volkert Dirk Siersma1, and Ann Dorrit Guassora1 Abstract Sample sizes must be ascertained in qualitative studies like in quantitative studies but not by the same means.",
+          "translation": "이메일: Kirsti.malterud@gmail.com 질적 면접 연구에서 표본 크기는 정보력에 의해 안내됩니다 Kirsti Malterud1,2,3, Volkert Dirk Siersma1, Ann Dorrit Guassora1 추상 표본 크기를 양적 연구와 마찬가지로 질적 연구에서 확인해야 하지만 동일한 방법으로 확인하지 않습니다."
+        },
+        {
+          "source": "The prevailing concept for sample size in qualitative studies is “saturation.”",
+          "translation": "질적 연구에서 샘플 크기의 지배적인 개념은  포화입니다."
+        },
+        {
+          "source": "Saturation is closely tied to a specific methodology, and the term is inconsistently applied.",
+          "translation": "포화 는 특정 방법론과 밀접하게 연관되어 있으며, 이 용어는 일관되게 적용되지 않습니다."
+        },
+        {
+          "source": "We propose the concept “information power” to guide adequate sample size for qualitative studies.",
+          "translation": "우리는 질적 연구를 위해 적절한 샘플 크기를 안내하기 위해 \"정보력\"이라는 개념을 제안합니다."
+        },
+        {
+          "source": "Information power indicates that the more information the sample holds, relevant for the actual study, the lower amount of participants is needed.",
+          "translation": "정보력은 실제 연구와 관련된 샘플에 더 많은 정보가 포함될수록 더 적은 수의 참가자가 필요하다는 것을 나타냅니다."
+        },
+        {
+          "source": "We suggest that the size of a sample with sufficient information power depends on",
+          "translation": "우리는 충분한 정보력을 가진 샘플의 크기가"
+        },
+        {
+          "source": "(a) the aim of the study,",
+          "translation": "(a) 연구의 목적"
+        },
+        {
+          "source": "(b) sample specificity,",
+          "translation": "(b) 표본의 특수성,"
+        },
+        {
+          "source": "(c) use of established theory,",
+          "translation": "(c) 확립된 이론의 사용,"
+        },
+        {
+          "source": "(d) quality of dialogue, and",
+          "translation": "(d) 대화의 질과"
+        },
+        {
+          "source": "(e) analysis strategy.",
+          "translation": "(e) 분석 전략"
+        },
+        {
+          "source": "We present a model where these elements of information and their relevant dimensions are related to information power.",
+          "translation": "우리는 이러한 정보 요소와 그 관련 차원이 정보력과 관련이 있는 모델을 제시합니다."
+        },
+        {
+          "source": "Application of this model in the planning and during data collection of a qualitative study is discussed.",
+          "translation": "이 모델의 적용은 질적 연구의 계획과 데이터 수집 과정에서 논의된다."
+        },
+        {
+          "source": "Keywords sample size; participants; methodology; saturation; information power; qualitative",
+          "translation": "키워드 샘플 크기, 참가자, 방법론, 포화, 정보력, 질적"
+        }
+      ],
+      "printed": "1753",
+      "textQuality": "text"
+    },
+    {
+      "page": 2,
+      "sourceText": "1754\t\nQualitative Health Research 26(13)\n\n\nwhy and how decisions regarding design, sampling, and \nanalysis are taken (Malterud, 2001). We shared the preconception that an approximation of sample size is necessary for planning, while the adequacy of the final sample \nsize must be continuously evaluated during the research \nprocess. Reviewing principles of sample size in qualitative studies, we shall below argue that sample size cannot \nbe predicted by formulae or by perceived redundancy.\n\n\nTools to guide sample size should not rely on procedures from a specific analysis method, but rest on shared \nmethodological principles for estimating an adequate \nnumber of units, events, or participants. For this purpose, \nwe propose the concept information power. The larger \ninformation power the sample holds, the lower N is \nneeded, and vice versa. In this article, we shall concentrate on information power applied in the context of qualitative interview studies.\n\n\nThe aim of this article is to present and discuss a pragmatic model for assessment of sample size in qualitative \nstudies, reflecting on how the information power needed \nfor a specific study can be achieved.\n\n\nMethod\n\n\nWe have developed and elaborated the model inductively. \nFirst, we sketched a case presented as a fictional study. This \nstudy has neither been planned nor conducted but served as \na specific reference for our discussions and elaborations. \nThen, we took this case as our point of departure for a \nreview of conditions we considered to have an impact on \ninformation power and sample size in this specific study. \nFinally, we conceptualized the items and their dimensions \nas a model, intended to be transferable to interview studies \nbeyond the particular context of the fictional study.\n\n\nWe conducted the process as a pragmatic focus group \nconversation between the authors, taking our shared \nexperiences as a point of departure for constructing the \ncase. Our ongoing discussions functioned as analysis, \nidentifying and bit by bit prioritizing the most important \nitems having an impact on sample size from a logical \npoint of view. A parallel discussion concerned the concept “information power.” The process was supported by \navailable literature about the current state of the art \nregarding sample size in qualitative studies as well as literature discussing weaknesses in these standards. Below, \nwe shall present and discuss the model.\n\n\nThe Case: Planning an Interview \nStudy on Diabetic Foot Ulcer \nExperiences\n\n\nWe situated the case as the first of three subprojects of a \nPhD study where the overall objective was to contribute \nto theories of self-care and to describe patients’ practices \n\n\nfor health professionals. The aim of the present subproject was to explore self-care among patients with diabetic \nfoot ulcers by describing activities performed by patients \nto treat the ulcers and their motivation for doing so. The \nPhD student was a young MD who already had some \nexperience with qualitative research from a previous \nproject where descriptive cross-case analysis had been \nconducted. Participants would be recruited among \npatients in a diabetes out-patient clinic who had recently \nbeen diagnosed with their first ulcer. Further sampling \nstrategies and criteria would be informed by stepwise \nanalysis along with data collection by means of semistructured individual interviews.\n\n\nWhen to stop recruitment during this process would \nnot be a simple decision for the novice researcher. The \ngrant proposal requested an advance estimate of the \nnumber of interviews to plan how many participants \nwere needed to elucidate the aim of the study and to \nget an idea of how much time the data collection would \nrequire. From previous research, her supervisor had \nsome ideas about the number of participants needed for \nthis project. The student would, however, prefer to \nplan her study and make her decisions on the basis of \nsome standards about how many participants she \nwould need to conduct a responsible analysis. Below, \nwe present the model we developed as a tool to appraise \nsample size by appraisal of five major items that in different ways determine the information power of the \nsample.\n\n\nItems Having an Impact on \nInformation Power\n\n\nReviewing alternative choices of design and method for \nthe fictional interview study, we identified five items that \nalong different dimensions have an impact on the information power of the sample: (a) study aim, (b) sample \nspecificity, (c) use of established theory, (d) quality of \ndialogue, and (e) analysis strategy. Below, we present \nthese items and their dimensions separately and systematically. In real life, however, the items are related and \nhave a mutual impact on each other.\n\n\nStudy Aim—Narrow or Broad?\n\n\nInformation power, guiding adequate sample size is \nrelated to the study aim. A broad study aim requires a \nlarger sample than a narrow aim to offer sufficient information power, because the phenomenon under study is \nmore comprehensive. A study aiming to explore how \npatients with their first diabetic foot ulcer manage shift of \nbandages would need notably fewer participants than a \nstudy about how patients with foot ulcer generally manage self-care in everyday life.",
+      "translationText": "1754 질적 건강 연구 26(13) 설계, 샘플링 및 분석에 관한 결정은 왜 어떻게 이루어지는지 (Malterud, 2001).\n\n우리는 계획에 있어서 샘플 크기의 근접이 필요하다는 선입견을 공유했고, 최종 샘플 크기의 적당성은 연구 과정에서 지속적으로 평가되어야 한다.\n\n질적 연구에서 표본 크기의 원칙을 검토하면 아래에서 표본 크기를 공식이나 인식된 과잉으로 예측할 수 없다고 주장할 것입니다.\n\n샘플 크기를 안내하는 도구는 특정 분석 방법의 절차에 의존하지 않고, 적절한 수의 단위, 이벤트 또는 참가자를 추정하기 위해 공유된 방법론적 원칙에 의존해야합니다.\n\n이 목적을 위해 우리는 정보력의 개념을 제안합니다.\n\n표본이 보유한 정보력이 더 커질수록 낮은 N가 필요하며, 반대로요.\n\n이 기사에서는 질적 인터뷰 연구의 맥락에서 사용되는 정보력에 집중할 것입니다.\n\n이 문서의 목적은 질적 연구에서 샘플 크기의 평가에 대한 실용적인 모델을 제시하고 논의하는 것이며, 특정 연구에 필요한 정보의 힘을 어떻게 달성할 수 있는지에 대해 반영하는 것입니다.\n\n방법 우리는 induktively 모델을 개발하고 개발했습니다.\n\n첫째, 우리는 가상의 연구로 제시된 사례를 스케치했습니다.\n\n이 연구는 계획되거나 수행되지 않았지만 우리의 논의와 설명에 대한 구체적인 참고 자료로 사용되었습니다.\n\n그런 다음, 우리는 이 특정 연구에서 정보력과 샘플 크기에 영향을 미쳤다고 생각했던 조건들을 검토하기 위해 이 사건을 출발점으로 삼았습니다.\n\n마지막으로, 우리는 아이템과 그 크기를 모델로 개념화하여, 가상의 연구의 특정 맥락을 벗어나 인터뷰 연구로 옮길 수 있도록 의도했습니다.\n\n우리는 이 과정을 작가들 사이의 실용적인 초점 그룹 대화로 진행했고, 공유된 경험을 사례를 구성하는 출발점으로 삼았습니다.\n\n우리의 지속적인 논의는 논리적인 관점에서 샘플 크기에 영향을 미치는 가장 중요한 항목을 분석하고, 식별하고, 단계별로 우선 순위를 부여하는 역할을 했습니다.\n\n평행 토론은 \"정보의 힘\"이라는 개념에 관한 것이었다.\n\n이 과정은 질적 연구의 샘플 크기와 이러한 표준의 약점을 논의하는 문헌에 관한 현대의 최신 문헌에 의해 지원되었습니다.\n\n아래에서 우리는 그 모델을 제시하고 논의할 것입니다.\n\n케이스: 당뇨병 발 궤양 경험에 대한 인터뷰 연구를 계획 케이스는 박사 연구의 세 개의 부 프로젝트 중 첫 번째로 자리 잡았습니다. 전체적인 목표는 자기 관리 이론에 기여하고 의료 전문가들을 위한 환자 실습을 설명하는 것이었습니다.\n\n본 부 프로젝트의 목적은 당뇨병 발 궤양 환자들 사이에서 자치 치료를 탐구하는 것이며, 환자들이 궤양을 치료하기 위해 수행하는 활동과 그 동기부여를 설명하는 것이었다.\n\n박사학위 학생은 젊은 MD였으며, 이미 설명적인 횡단 사례 분석이 수행된 이전 프로젝트에서 질적 연구의 일부 경험을 가지고 있었다.\n\n참가자들은 당뇨병 임상실의 첫 궤양 진단을 받은 환자들 사이에서 모집될 것입니다.\n\n더 많은 샘플링 전략과 기준은 반구조화된 개별 인터뷰를 통해 단계적 분석과 함께 데이터 수집을 통해 알려질 것입니다.\n\n이 과정에서 채용을 중단하는 것은 초보 연구자에게 쉬운 결정이 아닙니다.\n\n보조금 제안은 연구의 목적을 명확히 하기 위해 얼마나 많은 참가자가 필요한지 계획하고 데이터 수집에 얼마나 많은 시간이 소요되는지에 대한 아이디어를 얻기 위해 인터뷰 수에 대한 사전 추정을 요구했습니다.\n\n이전 연구에 따르면 그녀의 감독은 이 프로젝트에 필요한 참가자 수에 대해 몇 가지 아이디어를 가지고있었습니다.\n\n그러나 학생은 자신의 연구를 계획하고 책임감 있는 분석을 하기 위해 얼마나 많은 참가자를 필요로 하는지에 대한 몇 가지 기준에 근거하여 결정을 내리는 것을 선호합니다.\n\n아래에서 우리는 샘플의 정보력을 다른 방식으로 결정하는 다섯 가지 주요 항목을 평가하여 샘플 크기를 평가하는 도구로 개발한 모델을 제시합니다.\n\n정보력에 영향을 미치는 항목 픽션 인터뷰 연구의 디자인 및 방법의 대안 선택들을 검토하면서, 우리는 다양한 차원에서 샘플의 정보력에 미치는 영향을 미치는 다섯 가지 항목을 확인했습니다.\n\n(a) 연구 목적,\n\n(b) 표본의 특수성,\n\n(c) 확립된 이론의 사용,\n\n(d) 대화의 질과\n\n(e) 분석 전략\n\n아래에서는 이러한 항목과 그 크기를 개별적이고 체계적으로 제시합니다.\n\n하지만 실제 생활에서는 서로 연관되어 있고 서로 영향을 주고받습니다.\n\n연구 목적 은 좁습니까? 아니면 넓습니까?\n\n정보력, 적절한 샘플 크기를 안내하는 것은 연구 목적과 관련이 있습니다.\n\n광범위한 연구 목표는 좁은 목표보다 더 큰 표본을 필요로 하며 충분한 정보력을 제공합니다. 연구되는 현상은 더 포괄적이기 때문입니다.\n\n첫 번째 당뇨병 발열 환자들이 바탕의 전환을 어떻게 관리하는지 탐구하려는 연구는 일반적으로 발열 환자가 일상 생활에서 자치 관리에 대한 연구보다 훨씬 적은 참여자가 필요합니다.",
+      "status": "translated",
+      "sourceTextSha256": "8216e75c2aad0b76e52d19684b9cb313ae154910fc5e479d285c9f51790c2036",
+      "segments": [
+        {
+          "source": "1754 Qualitative Health Research 26(13) why and how decisions regarding design, sampling, and analysis are taken (Malterud, 2001).",
+          "translation": "1754 질적 건강 연구 26(13) 설계, 샘플링 및 분석에 관한 결정은 왜 어떻게 이루어지는지 (Malterud, 2001)."
+        },
+        {
+          "source": "We shared the preconception that an approximation of sample size is necessary for planning, while the adequacy of the final sample size must be continuously evaluated during the research process.",
+          "translation": "우리는 계획에 있어서 샘플 크기의 근접이 필요하다는 선입견을 공유했고, 최종 샘플 크기의 적당성은 연구 과정에서 지속적으로 평가되어야 한다."
+        },
+        {
+          "source": "Reviewing principles of sample size in qualitative studies, we shall below argue that sample size cannot be predicted by formulae or by perceived redundancy.",
+          "translation": "질적 연구에서 표본 크기의 원칙을 검토하면 아래에서 표본 크기를 공식이나 인식된 과잉으로 예측할 수 없다고 주장할 것입니다."
+        },
+        {
+          "source": "Tools to guide sample size should not rely on procedures from a specific analysis method, but rest on shared methodological principles for estimating an adequate number of units, events, or participants.",
+          "translation": "샘플 크기를 안내하는 도구는 특정 분석 방법의 절차에 의존하지 않고, 적절한 수의 단위, 이벤트 또는 참가자를 추정하기 위해 공유된 방법론적 원칙에 의존해야합니다."
+        },
+        {
+          "source": "For this purpose, we propose the concept information power.",
+          "translation": "이 목적을 위해 우리는 정보력의 개념을 제안합니다."
+        },
+        {
+          "source": "The larger information power the sample holds, the lower N is needed, and vice versa.",
+          "translation": "표본이 보유한 정보력이 더 커질수록 낮은 N가 필요하며, 반대로요."
+        },
+        {
+          "source": "In this article, we shall concentrate on information power applied in the context of qualitative interview studies.",
+          "translation": "이 기사에서는 질적 인터뷰 연구의 맥락에서 사용되는 정보력에 집중할 것입니다."
+        },
+        {
+          "source": "The aim of this article is to present and discuss a pragmatic model for assessment of sample size in qualitative studies, reflecting on how the information power needed for a specific study can be achieved.",
+          "translation": "이 문서의 목적은 질적 연구에서 샘플 크기의 평가에 대한 실용적인 모델을 제시하고 논의하는 것이며, 특정 연구에 필요한 정보의 힘을 어떻게 달성할 수 있는지에 대해 반영하는 것입니다."
+        },
+        {
+          "source": "Method We have developed and elaborated the model inductively.",
+          "translation": "방법 우리는 induktively 모델을 개발하고 개발했습니다."
+        },
+        {
+          "source": "First, we sketched a case presented as a fictional study.",
+          "translation": "첫째, 우리는 가상의 연구로 제시된 사례를 스케치했습니다."
+        },
+        {
+          "source": "This study has neither been planned nor conducted but served as a specific reference for our discussions and elaborations.",
+          "translation": "이 연구는 계획되거나 수행되지 않았지만 우리의 논의와 설명에 대한 구체적인 참고 자료로 사용되었습니다."
+        },
+        {
+          "source": "Then, we took this case as our point of departure for a review of conditions we considered to have an impact on information power and sample size in this specific study.",
+          "translation": "그런 다음, 우리는 이 특정 연구에서 정보력과 샘플 크기에 영향을 미쳤다고 생각했던 조건들을 검토하기 위해 이 사건을 출발점으로 삼았습니다."
+        },
+        {
+          "source": "Finally, we conceptualized the items and their dimensions as a model, intended to be transferable to interview studies beyond the particular context of the fictional study.",
+          "translation": "마지막으로, 우리는 아이템과 그 크기를 모델로 개념화하여, 가상의 연구의 특정 맥락을 벗어나 인터뷰 연구로 옮길 수 있도록 의도했습니다."
+        },
+        {
+          "source": "We conducted the process as a pragmatic focus group conversation between the authors, taking our shared experiences as a point of departure for constructing the case.",
+          "translation": "우리는 이 과정을 작가들 사이의 실용적인 초점 그룹 대화로 진행했고, 공유된 경험을 사례를 구성하는 출발점으로 삼았습니다."
+        },
+        {
+          "source": "Our ongoing discussions functioned as analysis, identifying and bit by bit prioritizing the most important items having an impact on sample size from a logical point of view.",
+          "translation": "우리의 지속적인 논의는 논리적인 관점에서 샘플 크기에 영향을 미치는 가장 중요한 항목을 분석하고, 식별하고, 단계별로 우선 순위를 부여하는 역할을 했습니다."
+        },
+        {
+          "source": "A parallel discussion concerned the concept “information power.”",
+          "translation": "평행 토론은 \"정보의 힘\"이라는 개념에 관한 것이었다."
+        },
+        {
+          "source": "The process was supported by available literature about the current state of the art regarding sample size in qualitative studies as well as literature discussing weaknesses in these standards.",
+          "translation": "이 과정은 질적 연구의 샘플 크기와 이러한 표준의 약점을 논의하는 문헌에 관한 현대의 최신 문헌에 의해 지원되었습니다."
+        },
+        {
+          "source": "Below, we shall present and discuss the model.",
+          "translation": "아래에서 우리는 그 모델을 제시하고 논의할 것입니다."
+        },
+        {
+          "source": "The Case: Planning an Interview Study on Diabetic Foot Ulcer Experiences We situated the case as the first of three subprojects of a PhD study where the overall objective was to contribute to theories of self-care and to describe patients’ practices for health professionals.",
+          "translation": "케이스: 당뇨병 발 궤양 경험에 대한 인터뷰 연구를 계획 케이스는 박사 연구의 세 개의 부 프로젝트 중 첫 번째로 자리 잡았습니다. 전체적인 목표는 자기 관리 이론에 기여하고 의료 전문가들을 위한 환자 실습을 설명하는 것이었습니다."
+        },
+        {
+          "source": "The aim of the present subproject was to explore self-care among patients with diabetic foot ulcers by describing activities performed by patients to treat the ulcers and their motivation for doing so.",
+          "translation": "본 부 프로젝트의 목적은 당뇨병 발 궤양 환자들 사이에서 자치 치료를 탐구하는 것이며, 환자들이 궤양을 치료하기 위해 수행하는 활동과 그 동기부여를 설명하는 것이었다."
+        },
+        {
+          "source": "The PhD student was a young MD who already had some experience with qualitative research from a previous project where descriptive cross-case analysis had been conducted.",
+          "translation": "박사학위 학생은 젊은 MD였으며, 이미 설명적인 횡단 사례 분석이 수행된 이전 프로젝트에서 질적 연구의 일부 경험을 가지고 있었다."
+        },
+        {
+          "source": "Participants would be recruited among patients in a diabetes out-patient clinic who had recently been diagnosed with their first ulcer.",
+          "translation": "참가자들은 당뇨병 임상실의 첫 궤양 진단을 받은 환자들 사이에서 모집될 것입니다."
+        },
+        {
+          "source": "Further sampling strategies and criteria would be informed by stepwise analysis along with data collection by means of semistructured individual interviews.",
+          "translation": "더 많은 샘플링 전략과 기준은 반구조화된 개별 인터뷰를 통해 단계적 분석과 함께 데이터 수집을 통해 알려질 것입니다."
+        },
+        {
+          "source": "When to stop recruitment during this process would not be a simple decision for the novice researcher.",
+          "translation": "이 과정에서 채용을 중단하는 것은 초보 연구자에게 쉬운 결정이 아닙니다."
+        },
+        {
+          "source": "The grant proposal requested an advance estimate of the number of interviews to plan how many participants were needed to elucidate the aim of the study and to get an idea of how much time the data collection would require.",
+          "translation": "보조금 제안은 연구의 목적을 명확히 하기 위해 얼마나 많은 참가자가 필요한지 계획하고 데이터 수집에 얼마나 많은 시간이 소요되는지에 대한 아이디어를 얻기 위해 인터뷰 수에 대한 사전 추정을 요구했습니다."
+        },
+        {
+          "source": "From previous research, her supervisor had some ideas about the number of participants needed for this project.",
+          "translation": "이전 연구에 따르면 그녀의 감독은 이 프로젝트에 필요한 참가자 수에 대해 몇 가지 아이디어를 가지고있었습니다."
+        },
+        {
+          "source": "The student would, however, prefer to plan her study and make her decisions on the basis of some standards about how many participants she would need to conduct a responsible analysis.",
+          "translation": "그러나 학생은 자신의 연구를 계획하고 책임감 있는 분석을 하기 위해 얼마나 많은 참가자를 필요로 하는지에 대한 몇 가지 기준에 근거하여 결정을 내리는 것을 선호합니다."
+        },
+        {
+          "source": "Below, we present the model we developed as a tool to appraise sample size by appraisal of five major items that in different ways determine the information power of the sample.",
+          "translation": "아래에서 우리는 샘플의 정보력을 다른 방식으로 결정하는 다섯 가지 주요 항목을 평가하여 샘플 크기를 평가하는 도구로 개발한 모델을 제시합니다."
+        },
+        {
+          "source": "Items Having an Impact on Information Power Reviewing alternative choices of design and method for the fictional interview study, we identified five items that along different dimensions have an impact on the information power of the sample:",
+          "translation": "정보력에 영향을 미치는 항목 픽션 인터뷰 연구의 디자인 및 방법의 대안 선택들을 검토하면서, 우리는 다양한 차원에서 샘플의 정보력에 미치는 영향을 미치는 다섯 가지 항목을 확인했습니다."
+        },
+        {
+          "source": "(a) study aim,",
+          "translation": "(a) 연구 목적,"
+        },
+        {
+          "source": "(b) sample specificity,",
+          "translation": "(b) 표본의 특수성,"
+        },
+        {
+          "source": "(c) use of established theory,",
+          "translation": "(c) 확립된 이론의 사용,"
+        },
+        {
+          "source": "(d) quality of dialogue, and",
+          "translation": "(d) 대화의 질과"
+        },
+        {
+          "source": "(e) analysis strategy.",
+          "translation": "(e) 분석 전략"
+        },
+        {
+          "source": "Below, we present these items and their dimensions separately and systematically.",
+          "translation": "아래에서는 이러한 항목과 그 크기를 개별적이고 체계적으로 제시합니다."
+        },
+        {
+          "source": "In real life, however, the items are related and have a mutual impact on each other.",
+          "translation": "하지만 실제 생활에서는 서로 연관되어 있고 서로 영향을 주고받습니다."
+        },
+        {
+          "source": "Study Aim—Narrow or Broad?",
+          "translation": "연구 목적 은 좁습니까? 아니면 넓습니까?"
+        },
+        {
+          "source": "Information power, guiding adequate sample size is related to the study aim.",
+          "translation": "정보력, 적절한 샘플 크기를 안내하는 것은 연구 목적과 관련이 있습니다."
+        },
+        {
+          "source": "A broad study aim requires a larger sample than a narrow aim to offer sufficient information power, because the phenomenon under study is more comprehensive.",
+          "translation": "광범위한 연구 목표는 좁은 목표보다 더 큰 표본을 필요로 하며 충분한 정보력을 제공합니다. 연구되는 현상은 더 포괄적이기 때문입니다."
+        },
+        {
+          "source": "A study aiming to explore how patients with their first diabetic foot ulcer manage shift of bandages would need notably fewer participants than a study about how patients with foot ulcer generally manage self-care in everyday life.",
+          "translation": "첫 번째 당뇨병 발열 환자들이 바탕의 전환을 어떻게 관리하는지 탐구하려는 연구는 일반적으로 발열 환자가 일상 생활에서 자치 관리에 대한 연구보다 훨씬 적은 참여자가 필요합니다."
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 3,
+      "sourceText": "Malterud et al.\t\n1755\n\n\nIn our case, the researcher would have to choose \nbetween extending the number of participants by recruiting a larger, purposive sample, or narrowing the aim of the \nstudy to maintain sufficient information power. If, however, the aim of the study concerns a very specific or rare \nexperience, such as self-care among blind patients with \ndiabetic foot ulcers, this would in itself limit the number \nof eligible participants. An alternative emphasis of the \nstudy could be to explore how individual resources interfere with self-care of diabetic foot ulcers. If so, a study \nbased on interviews with one single or just a few participants might provide access to exciting hypotheses from a \nhigh level of information power. Defining the aim of the \ninterview study, the researcher also offers some promises \nregarding transferability of the findings. The information \npower of the sample will be critical to achieve the aim.\n\n\nSample Specificity—Dense or Sparse?\n\n\nInformation power is also related to the specificity of \nexperiences, knowledge, or properties among the participants included in the sample. To offer sufficient information power, a less extensive sample is needed with \nparticipants holding characteristics that are highly specific for the study aim compared with a sample containing participants of sparse specificity. Specificity concerns \nhere participants who belong to the specified target group \nwhile also exhibiting some variation within the experiences to be explored.\n\n\nA sample including individuals from the target group \nholding experiences not previously described could also \nenhance information power. Knowing that self-care is \nlimited by patient resources, we could, for example, aim \nfor an especially specific sample identified by discussions \nwith the nurses at the diabetic clinic including variations \nof both success in handling ulcers and some variation in \nage, gender, and type of diabetes. If we do not constrain \nrecruitment procedures to include only patients with foot \nulcers, a much larger number of participants would be \nneeded to cover those whose experiences we study.\n\n\nStill, a purposive sample, established with specific \naspects of variation in mind, is not always feasible. The \nstrategy of convenience sampling, accepting participants \nwho are available, without trying to influence the configuration of the sample, implies the risk of more limited specificity, thereby requiring more participants. Following such \na recruitment strategy, we would probably need more interviews and participants to obtain a sufficiently broad scope \nof activities performed by patients to treat the ulcers and \ntheir underlying motivations. However, we might be \nfortunate and drop into a group of participants with a diversity of experiences. Hence, sample specificity cannot \nalways be predicted but can be supported by suitable \nrecruitment.\n\n\nEstablished Theory—Applied or Not?\n\n\nFurthermore, information power, guiding adequate sample size is related to the level of theoretical background of \nthe study. A study supported by limited theoretical perspectives would usually require a larger sample to offer \nsufficient information power than a study that applies \nspecific theories for planning and analysis. Theories from \nsocial science about the authority that professionals exercise might, for example, enhance the information power \nof our study about self-care experiences with diabetic \nfoot ulcers. New knowledge, even from a rather small \nsample, might be obtained by looking for strategies used \nby patients to counter professional authority intended to \nmake them perform specific self-care. Theory serves to \nsynthesize existing knowledge as well as extending the \nsources of knowledge beyond the empirical interview \ndata. On the contrary, another study starting from scratch \nwith no theoretical background must establish its own \nfoundation for grounding the conclusions. If so, a larger \nsample size would probably be needed to grant sufficient \ninformation power. Theoretical frameworks offer models \nand concepts that may explain relations between different \naspects of the empirical data in a coherent way. Empirical \nstudies with very small numbers can make a difference if \nthey address and elucidate something crucial to theory.\n\n\nQuality of Dialogue—Strong or Weak?\n\n\nInformation power is also related to the quality of the \ninterview dialogue. A study with strong and clear communication between researcher and participants requires \nfewer participants to offer sufficient information power \nthan a study with ambiguous or unfocused dialogues. In a \nqualitative study, empirical data are co-constructed by \ncomplex interaction between researcher and participant, \nand a number of issues determine the quality of the communication from which the information power is established. Analytic value of the empirical data depends on \nthe skills of the interviewer, the articulateness of the participant, and the chemistry between them, and it is difficult to predict the quality of the dialogue in advance.\n\n\nIn our study, the PhD student holds more than average \nbackground knowledge about diabetic foot ulcers, \nbecause she has been a consultant for the home nursing \nservice in her area within this field the last 2 years. For \nher, the interviews would not be her first encounter with \nthe subject area, and she would easily approach the participants’ self-care practices. However, by nature, she is \nrather shy, and it takes her some time to establish trust \nand report. It might therefore be necessary for her to \nobtain some extra interview training in advance, or to \nincrease sample size. Her more experienced supervisor, \nwell read in diabetes complications, and an experienced",
+      "translationText": "1755 우리의 경우, 연구자는 더 큰 의도적인 샘플을 채용함으로써 참가자 수를 확장하거나 충분한 정보력을 유지하기 위해 연구의 목표를 좁히는 것을 선택해야 합니다.\n\n그러나 연구의 목적은 당뇨병 발 궤양을 앓고 있는 맹인 환자들 사이에서 자치 치료와 같은 매우 구체적인 또는 희귀한 경험에 관한 경우, 이는 그 자체로 자격을 갖춘 참가자 수를 제한할 것입니다.\n\n연구의 대체적인 강조는 당뇨병 발 궤양의 자치에 개별적 자원이 어떻게 방해되는지를 탐구하는 것일 수 있습니다.\n\n만약 그렇다면, 단 한 명 또는 몇 명의 참가자를 대상으로 한 인터뷰를 바탕으로 한 연구는 높은 수준의 정보력으로부터 흥미진진한 가설에 접근할 수 있습니다.\n\n인터뷰 연구의 목적을 정의하면서 연구자는 또한 연구결과의 전송 가능성에 대한 몇 가지 약속을 제공합니다.\n\n표본의 정보력은 목표를 달성하기 위해 매우 중요합니다.\n\n표본의 특수성 덩어리 또는 스파스?\n\n정보력은 또한 샘플에 포함된 참가자들 사이의 경험, 지식 또는 특성의 특수성과 관련이 있습니다.\n\n충분한 정보력을 제공하기 위해, 희소한 특수성을 가진 참가자를 포함하는 샘플과 비교하여 연구 목적에 매우 특수한 특성을 가진 참가자가 있는 덜 광범위한 샘플이 필요합니다.\n\n구체성은 여기서 특정 대상 집단에 속하는 참가자들을 대상으로 하고 동시에 탐구하고자 하는 경험의 일부 변형을 나타냅니다.\n\n이전에 설명되지 않은 경험을 보유한 대상 집단의 개인을 포함하는 샘플은 또한 정보력을 향상시킬 수 있습니다.\n\n자기 치료가 환자의 자원에 의해 제한된다는 것을 알고 우리는 예를 들어 당뇨병 클리닉의 간호사들과의 토론에 의해 확인된 특히 구체적인 샘플을 목표로 할 수 있습니다. 궤양을 처리하는 성공과 연령, 성, 그리고 당뇨병의 종류에 대한 약간의 변화를 포함합니다.\n\n만약 우리가 모집 절차를 제한하지 않으면 발궤양 환자를 포함하도록 한다면, 우리가 연구하는 경험들을 다루는 많은 수의 참가자가 필요할 것입니다.\n\n그럼에도 불구하고 특정한 변형을 염두에 두고 의도적인 표본을 수립하는 것은 항상 불가능하다.\n\n편의성 샘플링의 전략은 샘플의 구성에 영향을 미치지 않고 사용할 수 있는 참가자를 받아들이는 것이 더 제한된 특수성의 위험을 포함하고, 따라서 더 많은 참가자를 필요로 한다.\n\n그러한 채용 전략에 따라, 우리는 아마도 더 많은 인터뷰와 참가자가 필요하게 될 것입니다. 환자들이 궤양과 그 근본적인 동기를 치료하기 위해 수행하는 활동의 범위를 충분히 넓히기 위해요.\n\n그러나 우리는 운이 좋고 다양한 경험을 가진 참가자 그룹에 빠질 수도 있습니다.\n\n따라서 샘플 특성은 항상 예측할 수 없지만 적절한 채용으로 뒷받침될 수 있습니다.\n\n확립된 이론이 적용되었는가 아니면 적용되지 않았는가\n\n또한 적절한 샘플 크기를 지향하는 정보력은 연구의 이론적 배경 수준과 관련이 있습니다.\n\n제한된 이론적 관점으로 뒷받침되는 연구는 일반적으로 계획 및 분석에 특정 이론을 적용하는 연구보다 충분한 정보력을 제공하는 더 큰 샘플이 필요합니다.\n\n예를 들어, 전문가들이 행사하는 권위에 대한 사회 과학의 이론은 당뇨병 발 궤양에 대한 자기 관리 경험에 대한 우리의 연구의 정보력을 향상시킬 수 있습니다.\n\n아주 작은 표본을 통해서도 새로운 지식을 얻을 수 있는 방법은 환자들이 특정한 자기보육을 수행하도록 하는 전문적인 권위에 대항하기 위해 사용하는 전략을 찾는 것이다.\n\n이론은 기존 지식을 합성하고 경험적 인터뷰 데이터를 넘어 지식의 원천을 확장하는 데 사용됩니다.\n\n오히려 이론적 배경이 없는 처음부터 시작되는 다른 연구는 그 결론을 근거로 하는 자신의 기초를 마련해야 합니다.\n\n만약 그렇다면, 충분한 정보력을 부여하기 위해서는 더 큰 샘플 크기가 필요할 가능성이 높습니다.\n\n이론적 프레임워크는 경험적 데이터의 다양한 측면 사이의 관계를 일관된 방식으로 설명할 수 있는 모델과 개념을 제공합니다.\n\n아주 작은 숫자를 가진 경험적 연구는 이론에 중요한 것을 다루고 명확히 한다면 변화를 가져올 수 있습니다.\n\n대화의 질은 강인가 아니면 약인가?\n\n정보의 힘은 또한 인터뷰 대화의 질과 관련이 있습니다.\n\n연구자와 참여자 사이의 강하고 명확한 의사소통을 가진 연구는 모호하거나 집중되지 않은 대화에 비해 충분한 정보력을 제공하는 참여자가 적은 것을 요구합니다.\n\n질적 연구에서, 경험적 데이터는 연구자와 참가자 사이의 복잡한 상호 작용에 의해 공동으로 구성되며, 여러 가지 문제는 정보력이 확립되는 커뮤니케이션의 질을 결정합니다.\n\n경험적 데이터의 분석적 가치는 면접자의 기술, 참여자의 발음성, 그리고 이들 사이의 화학에 달려 있으며 대화의 질을 미리 예측하는 것은 어렵습니다.\n\n우리 연구에서는 박사 학생이 당뇨병 발 궤양에 대한 평균 이상의 배경 지식을 가지고 있습니다. 왜냐하면 그녀는 지난 2 년 동안 이 분야에서 자신의 지역의 가정 간호 서비스의 컨설턴트로 활동했기 때문입니다.\n\n그녀의 경우, 인터뷰는 주제 영역과 첫 만남이 되지 않을 것이며, 그녀는 쉽게 참가자들에게 자기 관리 관습을 접근할 수 있을 것이다.\n\n하지만, 그녀는 자연적으로 좀 당황스럽고, 신뢰를 형성하고 보고하는 데 시간이 걸립니다.\n\n따라서 그녀는 미리 추가적인 면접 교육을 받거나 샘플 크기를 늘려야 할 수도 있습니다.\n\n그녀의 더 경험이 풍부한 감독, 당뇨병 합병증에 잘 읽은,",
+      "status": "translated",
+      "sourceTextSha256": "948a93c517399b2b776ed2791ebb8dc77dc1ecf3502ead135573121a1e756be9",
+      "segments": [
+        {
+          "source": "Malterud et al. 1755 In our case, the researcher would have to choose between extending the number of participants by recruiting a larger, purposive sample, or narrowing the aim of the study to maintain sufficient information power.",
+          "translation": "1755 우리의 경우, 연구자는 더 큰 의도적인 샘플을 채용함으로써 참가자 수를 확장하거나 충분한 정보력을 유지하기 위해 연구의 목표를 좁히는 것을 선택해야 합니다."
+        },
+        {
+          "source": "If, however, the aim of the study concerns a very specific or rare experience, such as self-care among blind patients with diabetic foot ulcers, this would in itself limit the number of eligible participants.",
+          "translation": "그러나 연구의 목적은 당뇨병 발 궤양을 앓고 있는 맹인 환자들 사이에서 자치 치료와 같은 매우 구체적인 또는 희귀한 경험에 관한 경우, 이는 그 자체로 자격을 갖춘 참가자 수를 제한할 것입니다."
+        },
+        {
+          "source": "An alternative emphasis of the study could be to explore how individual resources interfere with self-care of diabetic foot ulcers.",
+          "translation": "연구의 대체적인 강조는 당뇨병 발 궤양의 자치에 개별적 자원이 어떻게 방해되는지를 탐구하는 것일 수 있습니다."
+        },
+        {
+          "source": "If so, a study based on interviews with one single or just a few participants might provide access to exciting hypotheses from a high level of information power.",
+          "translation": "만약 그렇다면, 단 한 명 또는 몇 명의 참가자를 대상으로 한 인터뷰를 바탕으로 한 연구는 높은 수준의 정보력으로부터 흥미진진한 가설에 접근할 수 있습니다."
+        },
+        {
+          "source": "Defining the aim of the interview study, the researcher also offers some promises regarding transferability of the findings.",
+          "translation": "인터뷰 연구의 목적을 정의하면서 연구자는 또한 연구결과의 전송 가능성에 대한 몇 가지 약속을 제공합니다."
+        },
+        {
+          "source": "The information power of the sample will be critical to achieve the aim.",
+          "translation": "표본의 정보력은 목표를 달성하기 위해 매우 중요합니다."
+        },
+        {
+          "source": "Sample Specificity—Dense or Sparse?",
+          "translation": "표본의 특수성 덩어리 또는 스파스?"
+        },
+        {
+          "source": "Information power is also related to the specificity of experiences, knowledge, or properties among the participants included in the sample.",
+          "translation": "정보력은 또한 샘플에 포함된 참가자들 사이의 경험, 지식 또는 특성의 특수성과 관련이 있습니다."
+        },
+        {
+          "source": "To offer sufficient information power, a less extensive sample is needed with participants holding characteristics that are highly specific for the study aim compared with a sample containing participants of sparse specificity.",
+          "translation": "충분한 정보력을 제공하기 위해, 희소한 특수성을 가진 참가자를 포함하는 샘플과 비교하여 연구 목적에 매우 특수한 특성을 가진 참가자가 있는 덜 광범위한 샘플이 필요합니다."
+        },
+        {
+          "source": "Specificity concerns here participants who belong to the specified target group while also exhibiting some variation within the experiences to be explored.",
+          "translation": "구체성은 여기서 특정 대상 집단에 속하는 참가자들을 대상으로 하고 동시에 탐구하고자 하는 경험의 일부 변형을 나타냅니다."
+        },
+        {
+          "source": "A sample including individuals from the target group holding experiences not previously described could also enhance information power.",
+          "translation": "이전에 설명되지 않은 경험을 보유한 대상 집단의 개인을 포함하는 샘플은 또한 정보력을 향상시킬 수 있습니다."
+        },
+        {
+          "source": "Knowing that self-care is limited by patient resources, we could, for example, aim for an especially specific sample identified by discussions with the nurses at the diabetic clinic including variations of both success in handling ulcers and some variation in age, gender, and type of diabetes.",
+          "translation": "자기 치료가 환자의 자원에 의해 제한된다는 것을 알고 우리는 예를 들어 당뇨병 클리닉의 간호사들과의 토론에 의해 확인된 특히 구체적인 샘플을 목표로 할 수 있습니다. 궤양을 처리하는 성공과 연령, 성, 그리고 당뇨병의 종류에 대한 약간의 변화를 포함합니다."
+        },
+        {
+          "source": "If we do not constrain recruitment procedures to include only patients with foot ulcers, a much larger number of participants would be needed to cover those whose experiences we study.",
+          "translation": "만약 우리가 모집 절차를 제한하지 않으면 발궤양 환자를 포함하도록 한다면, 우리가 연구하는 경험들을 다루는 많은 수의 참가자가 필요할 것입니다."
+        },
+        {
+          "source": "Still, a purposive sample, established with specific aspects of variation in mind, is not always feasible.",
+          "translation": "그럼에도 불구하고 특정한 변형을 염두에 두고 의도적인 표본을 수립하는 것은 항상 불가능하다."
+        },
+        {
+          "source": "The strategy of convenience sampling, accepting participants who are available, without trying to influence the configuration of the sample, implies the risk of more limited specificity, thereby requiring more participants.",
+          "translation": "편의성 샘플링의 전략은 샘플의 구성에 영향을 미치지 않고 사용할 수 있는 참가자를 받아들이는 것이 더 제한된 특수성의 위험을 포함하고, 따라서 더 많은 참가자를 필요로 한다."
+        },
+        {
+          "source": "Following such a recruitment strategy, we would probably need more interviews and participants to obtain a sufficiently broad scope of activities performed by patients to treat the ulcers and their underlying motivations.",
+          "translation": "그러한 채용 전략에 따라, 우리는 아마도 더 많은 인터뷰와 참가자가 필요하게 될 것입니다. 환자들이 궤양과 그 근본적인 동기를 치료하기 위해 수행하는 활동의 범위를 충분히 넓히기 위해요."
+        },
+        {
+          "source": "However, we might be fortunate and drop into a group of participants with a diversity of experiences.",
+          "translation": "그러나 우리는 운이 좋고 다양한 경험을 가진 참가자 그룹에 빠질 수도 있습니다."
+        },
+        {
+          "source": "Hence, sample specificity cannot always be predicted but can be supported by suitable recruitment.",
+          "translation": "따라서 샘플 특성은 항상 예측할 수 없지만 적절한 채용으로 뒷받침될 수 있습니다."
+        },
+        {
+          "source": "Established Theory—Applied or Not?",
+          "translation": "확립된 이론이 적용되었는가 아니면 적용되지 않았는가"
+        },
+        {
+          "source": "Furthermore, information power, guiding adequate sample size is related to the level of theoretical background of the study.",
+          "translation": "또한 적절한 샘플 크기를 지향하는 정보력은 연구의 이론적 배경 수준과 관련이 있습니다."
+        },
+        {
+          "source": "A study supported by limited theoretical perspectives would usually require a larger sample to offer sufficient information power than a study that applies specific theories for planning and analysis.",
+          "translation": "제한된 이론적 관점으로 뒷받침되는 연구는 일반적으로 계획 및 분석에 특정 이론을 적용하는 연구보다 충분한 정보력을 제공하는 더 큰 샘플이 필요합니다."
+        },
+        {
+          "source": "Theories from social science about the authority that professionals exercise might, for example, enhance the information power of our study about self-care experiences with diabetic foot ulcers.",
+          "translation": "예를 들어, 전문가들이 행사하는 권위에 대한 사회 과학의 이론은 당뇨병 발 궤양에 대한 자기 관리 경험에 대한 우리의 연구의 정보력을 향상시킬 수 있습니다."
+        },
+        {
+          "source": "New knowledge, even from a rather small sample, might be obtained by looking for strategies used by patients to counter professional authority intended to make them perform specific self-care.",
+          "translation": "아주 작은 표본을 통해서도 새로운 지식을 얻을 수 있는 방법은 환자들이 특정한 자기보육을 수행하도록 하는 전문적인 권위에 대항하기 위해 사용하는 전략을 찾는 것이다."
+        },
+        {
+          "source": "Theory serves to synthesize existing knowledge as well as extending the sources of knowledge beyond the empirical interview data.",
+          "translation": "이론은 기존 지식을 합성하고 경험적 인터뷰 데이터를 넘어 지식의 원천을 확장하는 데 사용됩니다."
+        },
+        {
+          "source": "On the contrary, another study starting from scratch with no theoretical background must establish its own foundation for grounding the conclusions.",
+          "translation": "오히려 이론적 배경이 없는 처음부터 시작되는 다른 연구는 그 결론을 근거로 하는 자신의 기초를 마련해야 합니다."
+        },
+        {
+          "source": "If so, a larger sample size would probably be needed to grant sufficient information power.",
+          "translation": "만약 그렇다면, 충분한 정보력을 부여하기 위해서는 더 큰 샘플 크기가 필요할 가능성이 높습니다."
+        },
+        {
+          "source": "Theoretical frameworks offer models and concepts that may explain relations between different aspects of the empirical data in a coherent way.",
+          "translation": "이론적 프레임워크는 경험적 데이터의 다양한 측면 사이의 관계를 일관된 방식으로 설명할 수 있는 모델과 개념을 제공합니다."
+        },
+        {
+          "source": "Empirical studies with very small numbers can make a difference if they address and elucidate something crucial to theory.",
+          "translation": "아주 작은 숫자를 가진 경험적 연구는 이론에 중요한 것을 다루고 명확히 한다면 변화를 가져올 수 있습니다."
+        },
+        {
+          "source": "Quality of Dialogue—Strong or Weak?",
+          "translation": "대화의 질은 강인가 아니면 약인가?"
+        },
+        {
+          "source": "Information power is also related to the quality of the interview dialogue.",
+          "translation": "정보의 힘은 또한 인터뷰 대화의 질과 관련이 있습니다."
+        },
+        {
+          "source": "A study with strong and clear communication between researcher and participants requires fewer participants to offer sufficient information power than a study with ambiguous or unfocused dialogues.",
+          "translation": "연구자와 참여자 사이의 강하고 명확한 의사소통을 가진 연구는 모호하거나 집중되지 않은 대화에 비해 충분한 정보력을 제공하는 참여자가 적은 것을 요구합니다."
+        },
+        {
+          "source": "In a qualitative study, empirical data are co-constructed by complex interaction between researcher and participant, and a number of issues determine the quality of the communication from which the information power is established.",
+          "translation": "질적 연구에서, 경험적 데이터는 연구자와 참가자 사이의 복잡한 상호 작용에 의해 공동으로 구성되며, 여러 가지 문제는 정보력이 확립되는 커뮤니케이션의 질을 결정합니다."
+        },
+        {
+          "source": "Analytic value of the empirical data depends on the skills of the interviewer, the articulateness of the participant, and the chemistry between them, and it is difficult to predict the quality of the dialogue in advance.",
+          "translation": "경험적 데이터의 분석적 가치는 면접자의 기술, 참여자의 발음성, 그리고 이들 사이의 화학에 달려 있으며 대화의 질을 미리 예측하는 것은 어렵습니다."
+        },
+        {
+          "source": "In our study, the PhD student holds more than average background knowledge about diabetic foot ulcers, because she has been a consultant for the home nursing service in her area within this field the last 2 years.",
+          "translation": "우리 연구에서는 박사 학생이 당뇨병 발 궤양에 대한 평균 이상의 배경 지식을 가지고 있습니다. 왜냐하면 그녀는 지난 2 년 동안 이 분야에서 자신의 지역의 가정 간호 서비스의 컨설턴트로 활동했기 때문입니다."
+        },
+        {
+          "source": "For her, the interviews would not be her first encounter with the subject area, and she would easily approach the participants’ self-care practices.",
+          "translation": "그녀의 경우, 인터뷰는 주제 영역과 첫 만남이 되지 않을 것이며, 그녀는 쉽게 참가자들에게 자기 관리 관습을 접근할 수 있을 것이다."
+        },
+        {
+          "source": "However, by nature, she is rather shy, and it takes her some time to establish trust and report.",
+          "translation": "하지만, 그녀는 자연적으로 좀 당황스럽고, 신뢰를 형성하고 보고하는 데 시간이 걸립니다."
+        },
+        {
+          "source": "It might therefore be necessary for her to obtain some extra interview training in advance, or to increase sample size.",
+          "translation": "따라서 그녀는 미리 추가적인 면접 교육을 받거나 샘플 크기를 늘려야 할 수도 있습니다."
+        },
+        {
+          "source": "Her more experienced supervisor, well read in diabetes complications, and an experienced",
+          "translation": "그녀의 더 경험이 풍부한 감독, 당뇨병 합병증에 잘 읽은,"
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 4,
+      "sourceText": "1756\t\nQualitative Health Research 26(13)\n\n\ninterviewer, used six interviews to establish a sample \nwith adequate information power for an analysis that \ncould contribute to existing knowledge in her previous \nproject. An interview interaction with tensions and conflicting views may reduce the confidence needed to talk \nabout intimate details. However, a researcher who never \nchallenges his or her participant runs the risk of developing empirical data holding low information power, which, \nduring analysis, only reproduces what is known from \nbefore.\n\n\nAnalysis Strategy—Case or Cross-Case?\n\n\nFinally, information power is related to the strategy chosen for analysis in the specific project. An exploratory \ncross-case analysis requires more participants to offer \nsufficient information power compared with a project \nheading for in-depth analysis of narratives or discourse \ndetails from a few, selected participants. In this project, a \nthematic cross-case analysis will be conducted, because \nwe want to uncover realistic and pragmatic descriptions \nof customary self-care practices and their foundations as \na contribution applicable in clinical practice (Malterud, \n2012). Referring to the supervisor’s experience, a purposive sample of six to 10 participants with diverse experiences might therefore provide sufficient information \npower for descriptions of different self-care practices \nteaching health professionals some useful lessons.\n\n\nWithin an exploratory analysis, the ambition is not to \ncover the whole range of phenomena, but to present \nselected patterns relevant for the study aim. A single, \ndeliberately chosen and well-articulated participant might \nillustrate a typical case but not demonstrate variations in \nself-care. Two participants with diametrically opposite \nhabits might illustrate different aspects of a continuum \nbut would not be sufficient to embrace discrepancies \ndeviating from the main line. Fifty participants might \nprovide all the sufficient variations as well as deviances \nregarding the actual practices. However, the overview of \nempirical data, needed as the point of departure for an \naccountable, thematic analysis of potentially relevant \npatterns, would become difficult to grasp, to present \nappropriate intersubjectivity, and to organize for further \nanalysis.\n\n\nInformation Power in Qualitative \nInterview Studies—The Model\n\n\nFrom our reflections above, we have conceptualized the \nitems and their dimensions as a model intended as a tool \nto appraise sample size in qualitative interview studies in \ngeneral (Figure 1). The model can be used to reflect systematically on items with an impact on the information \npower in the actual study.\n\n\nFigure 1.  Information power—Items and dimensions.\n\n\nAccording to the model, considerations about study \naim, sample specificity, theoretical background, quality \nof dialogue, and strategy for analysis should determine \nwhether sufficient information power will be obtained \nwith less or more participants included in the sample. A \nstudy will need the least amount of participants when the \nstudy aim is narrow, if the combination of participants is \nhighly specific for the study aim, if it is supported by \nestablished theory, if the interview dialogue is strong, and \nif the analysis includes longitudinal in-depth exploration \nof narratives or discourse details. A study will need a \nlarger number of participants when the study aim is \nbroad, if the combination of participants is less specific \nfor the research question, if it is not theoretically informed, \nif the interview dialogue is weak, and if cross-case analysis is conducted, especially if the aim is to cover the \nbroadest possible range of variations of the phenomena \nstudied.\n\n\nThe dynamic interaction between the different items \nincluded in the model involves a trade-off between conditions that require more versus fewer participants in a \nsample. For example, an experienced researcher who \nexpresses a narrow aim and achieves an excellent interview dialogue may be able to conduct a cross-case analysis with sufficient variation of results even with a small \nsample. However, a novice researcher with limited theoretical knowledge may need a larger group of participants \nto reveal something new although the aim is well-focused \nand the interview dialogues are good.\n\n\nOur model is not intended as a checklist to calculate N \nbut is meant as a recommendation of what to consider \nsystematically about recruitment at different steps of the \nresearch process. An initial appraisal of the number of\n\n[Text in illustration 1]\nHigher information power points toward the left. Aim: Narrow (left), Broad (right). Specificity: Dense (left), Sparse (right). Theory: Applied (left), None (right). Dialogue: Strong (left), Weak (right). Analysis: Case (left), Cross-case (right). Larger sample size (N) points toward the right.",
+      "translationText": "1756 질적 건강 연구 26(13) 면접자, 그녀의 이전 프로젝트의 기존 지식에 기여할 수 있는 분석을 위해 충분한 정보력을 가진 샘플을 구축하기 위해 6개의 면접을 사용했습니다.\n\n긴장감과 모순적인 견해가 있는 인터뷰 상호작용은 밀접한 세부 사항에 대해 이야기하는 데 필요한 자신감을 줄일 수 있습니다.\n\n그러나 자신의 참가자를 결코 도전하지 않는 연구자는 낮은 정보력을 보유한 경험적 데이터를 개발할 위험이 있으며 분석 중에 이전에 알려진 것을 재생산합니다.\n\n분석 전략  사례 또는 교차 사례?\n\n마지막으로, 정보력은 특정 프로젝트에서 분석을 위해 선택한 전략과 관련이 있습니다.\n\n탐구적 사례별 분석은 몇몇 선택된 참가자의 이야기나 담론 세부사항을 심도 있게 분석하기 위해 프로젝트 제목에 비해 충분한 정보력을 제공하는 것을 더 많은 참가자들이 필요로 한다.\n\n이 프로젝트에서, 임상 실무에 적용 가능한 공헌으로 일반적인 자기 관리 관행과 그 기초에 대한 현실적이고 실용적인 설명을 발견하고자 하기 때문에, 주제적 사례 분석이 수행될 것입니다 (Malterud, 2012).\n\n따라서 감독자의 경험에 따르면, 다양한 경험을 가진 6~10명의 참가자들로 구성된 의도적인 샘플은 의료 전문가들에게 유용한 교훈을 가르치는 다른 자기 관리 실천에 대한 설명에 충분한 정보력을 제공할 수 있습니다.\n\n탐구적 분석에서, 목표는 전체 현상 범위를 다루는 것이 아니라 연구 목적에 적합한 선택된 패턴을 제시하는 것입니다.\n\n고의로 선택되고 잘 표현된 한 명의 참가자는 전형적인 사례를 설명할 수 있지만 자기보육의 변화를 보여주지 않을 수 있습니다.\n\n직렬적으로 반대되는 습관을 가진 두 명의 참가자는 연속성의 다른 측면을 일러스트 할 수 있지만 주요 라인에서 벗어나는 모순을 수용하기에 충분하지 않을 것입니다.\n\n50명의 참가자들은 실제 관행에 대한 충분한 변동과 오차를 모두 제시할 수 있습니다.\n\n그러나 잠재적으로 관련 있는 패턴의 책임감 있는 주제적 분석을 위한 출발점으로 필요한 경험적 데이터의 개요는 이해하기, 적절한 상호 주체성을 제시하고 추가 분석을 위해 조직하는 것이 어려울 것입니다.\n\n질적 면접 연구에서 정보의 힘  모델 위의 반사에서 우리는 질적 면담 연구에서 일반적으로 샘플 크기를 평가하는 도구로 의도된 모델로 항목과 그 크기를 개념화했습니다 (그림 1).\n\n이 모델은 실제 연구에서 정보력에 영향을 미치는 항목들을 체계적으로 반영하는 데 사용될 수 있습니다.\n\n그림 1\n\n정보력  항목 및 차원\n\n모델에 따르면, 연구 목적, 표본의 특수성, 이론적 배경, 대화 품질 및 분석 전략에 대한 고려 사항은 샘플에 포함된 적은 또는 더 많은 참가자가 충분한 정보력을 얻을 수 있는지 여부를 결정해야합니다.\n\n연구의 목표는 좁고, 참여자의 조합이 연구 목적에 대해 매우 구체적이라면, 그것은 확립된 이론에 의해 뒷받침되는 경우, 인터뷰 대화가 강하고, 분석은 내레이션이나 담론 세부 사항의 긴장 깊은 탐색을 포함하는 경우, 연구 참가자의 수가 최소가 필요할 것입니다.\n\n연구 목적이 광범위하고, 연구 질문에 대한 참여자 조합이 덜 구체적이라면, 이론적으로 정보를 제공하지 않는다면, 인터뷰 대화가 약한 경우, 특히 연구 현상의 가능한 광범위한 변형을 다루는 것이 목적이라면, 연구 대상자가 더 많은 수의 참여자가 필요할 것입니다.\n\n모델에 포함된 다른 항목들 사이의 역동적인 상호작용은 샘플에 더 많은 참가자를 필요로 하는 조건과 적은 참가자를 필요로하는 조건 사이의 타협을 포함한다.\n\n예를 들어, 좁은 목표를 표현하고 훌륭한 인터뷰 대화를 달성하는 경험이 있는 연구자는 작은 샘플을 이용해서도 충분한 결과의 다양성을 가진 교차 사례 분석을 수행할 수 있습니다.\n\n그러나 이론적 지식이 제한된 초보자 연구자는 새로운 것을 밝혀내기 위해 더 많은 참가자가 필요할 수 있습니다. 목표가 잘 집중되어 있고 인터뷰 대화가 좋습니다.\n\n우리의 모델은 N를 계산하기 위한 체크리스트가 아니라 연구 과정의 다양한 단계에서 채용에 대해 체계적으로 고려해야 할 사항에 대한 추천으로 의도됩니다.\n\n[사진 1 에 있는 텍스트] 높은 정보력 은 왼쪽으로 가리키고 있다.\n\n목표: 좁은 (왼쪽), 넓은 (오른쪽)\n\n특수성: 덩어리 (왼쪽), 스파스 (오른쪽).\n\n이론: 적용 (왼쪽), 없음 (오른쪽).\n\n대화: 강 (왼쪽), 약한 (오른쪽)\n\n분석: 케이스 (왼쪽), 크로스 케이스 (우측)\n\n더 큰 표본 크기는 (N) 오른쪽으로 지향한다.",
+      "status": "translated",
+      "sourceTextSha256": "cdf8bd172cfaa5327deddaa5a51651eead6d559a0bf4b1315e048bb582eadd91",
+      "segments": [
+        {
+          "source": "1756 Qualitative Health Research 26(13) interviewer, used six interviews to establish a sample with adequate information power for an analysis that could contribute to existing knowledge in her previous project.",
+          "translation": "1756 질적 건강 연구 26(13) 면접자, 그녀의 이전 프로젝트의 기존 지식에 기여할 수 있는 분석을 위해 충분한 정보력을 가진 샘플을 구축하기 위해 6개의 면접을 사용했습니다."
+        },
+        {
+          "source": "An interview interaction with tensions and conflicting views may reduce the confidence needed to talk about intimate details.",
+          "translation": "긴장감과 모순적인 견해가 있는 인터뷰 상호작용은 밀접한 세부 사항에 대해 이야기하는 데 필요한 자신감을 줄일 수 있습니다."
+        },
+        {
+          "source": "However, a researcher who never challenges his or her participant runs the risk of developing empirical data holding low information power, which, during analysis, only reproduces what is known from before.",
+          "translation": "그러나 자신의 참가자를 결코 도전하지 않는 연구자는 낮은 정보력을 보유한 경험적 데이터를 개발할 위험이 있으며 분석 중에 이전에 알려진 것을 재생산합니다."
+        },
+        {
+          "source": "Analysis Strategy—Case or Cross-Case?",
+          "translation": "분석 전략  사례 또는 교차 사례?"
+        },
+        {
+          "source": "Finally, information power is related to the strategy chosen for analysis in the specific project.",
+          "translation": "마지막으로, 정보력은 특정 프로젝트에서 분석을 위해 선택한 전략과 관련이 있습니다."
+        },
+        {
+          "source": "An exploratory cross-case analysis requires more participants to offer sufficient information power compared with a project heading for in-depth analysis of narratives or discourse details from a few, selected participants.",
+          "translation": "탐구적 사례별 분석은 몇몇 선택된 참가자의 이야기나 담론 세부사항을 심도 있게 분석하기 위해 프로젝트 제목에 비해 충분한 정보력을 제공하는 것을 더 많은 참가자들이 필요로 한다."
+        },
+        {
+          "source": "In this project, a thematic cross-case analysis will be conducted, because we want to uncover realistic and pragmatic descriptions of customary self-care practices and their foundations as a contribution applicable in clinical practice (Malterud, 2012).",
+          "translation": "이 프로젝트에서, 임상 실무에 적용 가능한 공헌으로 일반적인 자기 관리 관행과 그 기초에 대한 현실적이고 실용적인 설명을 발견하고자 하기 때문에, 주제적 사례 분석이 수행될 것입니다 (Malterud, 2012)."
+        },
+        {
+          "source": "Referring to the supervisor’s experience, a purposive sample of six to 10 participants with diverse experiences might therefore provide sufficient information power for descriptions of different self-care practices teaching health professionals some useful lessons.",
+          "translation": "따라서 감독자의 경험에 따르면, 다양한 경험을 가진 6~10명의 참가자들로 구성된 의도적인 샘플은 의료 전문가들에게 유용한 교훈을 가르치는 다른 자기 관리 실천에 대한 설명에 충분한 정보력을 제공할 수 있습니다."
+        },
+        {
+          "source": "Within an exploratory analysis, the ambition is not to cover the whole range of phenomena, but to present selected patterns relevant for the study aim.",
+          "translation": "탐구적 분석에서, 목표는 전체 현상 범위를 다루는 것이 아니라 연구 목적에 적합한 선택된 패턴을 제시하는 것입니다."
+        },
+        {
+          "source": "A single, deliberately chosen and well-articulated participant might illustrate a typical case but not demonstrate variations in self-care.",
+          "translation": "고의로 선택되고 잘 표현된 한 명의 참가자는 전형적인 사례를 설명할 수 있지만 자기보육의 변화를 보여주지 않을 수 있습니다."
+        },
+        {
+          "source": "Two participants with diametrically opposite habits might illustrate different aspects of a continuum but would not be sufficient to embrace discrepancies deviating from the main line.",
+          "translation": "직렬적으로 반대되는 습관을 가진 두 명의 참가자는 연속성의 다른 측면을 일러스트 할 수 있지만 주요 라인에서 벗어나는 모순을 수용하기에 충분하지 않을 것입니다."
+        },
+        {
+          "source": "Fifty participants might provide all the sufficient variations as well as deviances regarding the actual practices.",
+          "translation": "50명의 참가자들은 실제 관행에 대한 충분한 변동과 오차를 모두 제시할 수 있습니다."
+        },
+        {
+          "source": "However, the overview of empirical data, needed as the point of departure for an accountable, thematic analysis of potentially relevant patterns, would become difficult to grasp, to present appropriate intersubjectivity, and to organize for further analysis.",
+          "translation": "그러나 잠재적으로 관련 있는 패턴의 책임감 있는 주제적 분석을 위한 출발점으로 필요한 경험적 데이터의 개요는 이해하기, 적절한 상호 주체성을 제시하고 추가 분석을 위해 조직하는 것이 어려울 것입니다."
+        },
+        {
+          "source": "Information Power in Qualitative Interview Studies—The Model From our reflections above, we have conceptualized the items and their dimensions as a model intended as a tool to appraise sample size in qualitative interview studies in general (Figure 1).",
+          "translation": "질적 면접 연구에서 정보의 힘  모델 위의 반사에서 우리는 질적 면담 연구에서 일반적으로 샘플 크기를 평가하는 도구로 의도된 모델로 항목과 그 크기를 개념화했습니다 (그림 1)."
+        },
+        {
+          "source": "The model can be used to reflect systematically on items with an impact on the information power in the actual study.",
+          "translation": "이 모델은 실제 연구에서 정보력에 영향을 미치는 항목들을 체계적으로 반영하는 데 사용될 수 있습니다."
+        },
+        {
+          "source": "Figure 1.",
+          "translation": "그림 1"
+        },
+        {
+          "source": "Information power—Items and dimensions.",
+          "translation": "정보력  항목 및 차원"
+        },
+        {
+          "source": "According to the model, considerations about study aim, sample specificity, theoretical background, quality of dialogue, and strategy for analysis should determine whether sufficient information power will be obtained with less or more participants included in the sample.",
+          "translation": "모델에 따르면, 연구 목적, 표본의 특수성, 이론적 배경, 대화 품질 및 분석 전략에 대한 고려 사항은 샘플에 포함된 적은 또는 더 많은 참가자가 충분한 정보력을 얻을 수 있는지 여부를 결정해야합니다."
+        },
+        {
+          "source": "A study will need the least amount of participants when the study aim is narrow, if the combination of participants is highly specific for the study aim, if it is supported by established theory, if the interview dialogue is strong, and if the analysis includes longitudinal in-depth exploration of narratives or discourse details.",
+          "translation": "연구의 목표는 좁고, 참여자의 조합이 연구 목적에 대해 매우 구체적이라면, 그것은 확립된 이론에 의해 뒷받침되는 경우, 인터뷰 대화가 강하고, 분석은 내레이션이나 담론 세부 사항의 긴장 깊은 탐색을 포함하는 경우, 연구 참가자의 수가 최소가 필요할 것입니다."
+        },
+        {
+          "source": "A study will need a larger number of participants when the study aim is broad, if the combination of participants is less specific for the research question, if it is not theoretically informed, if the interview dialogue is weak, and if cross-case analysis is conducted, especially if the aim is to cover the broadest possible range of variations of the phenomena studied.",
+          "translation": "연구 목적이 광범위하고, 연구 질문에 대한 참여자 조합이 덜 구체적이라면, 이론적으로 정보를 제공하지 않는다면, 인터뷰 대화가 약한 경우, 특히 연구 현상의 가능한 광범위한 변형을 다루는 것이 목적이라면, 연구 대상자가 더 많은 수의 참여자가 필요할 것입니다."
+        },
+        {
+          "source": "The dynamic interaction between the different items included in the model involves a trade-off between conditions that require more versus fewer participants in a sample.",
+          "translation": "모델에 포함된 다른 항목들 사이의 역동적인 상호작용은 샘플에 더 많은 참가자를 필요로 하는 조건과 적은 참가자를 필요로하는 조건 사이의 타협을 포함한다."
+        },
+        {
+          "source": "For example, an experienced researcher who expresses a narrow aim and achieves an excellent interview dialogue may be able to conduct a cross-case analysis with sufficient variation of results even with a small sample.",
+          "translation": "예를 들어, 좁은 목표를 표현하고 훌륭한 인터뷰 대화를 달성하는 경험이 있는 연구자는 작은 샘플을 이용해서도 충분한 결과의 다양성을 가진 교차 사례 분석을 수행할 수 있습니다."
+        },
+        {
+          "source": "However, a novice researcher with limited theoretical knowledge may need a larger group of participants to reveal something new although the aim is well-focused and the interview dialogues are good.",
+          "translation": "그러나 이론적 지식이 제한된 초보자 연구자는 새로운 것을 밝혀내기 위해 더 많은 참가자가 필요할 수 있습니다. 목표가 잘 집중되어 있고 인터뷰 대화가 좋습니다."
+        },
+        {
+          "source": "Our model is not intended as a checklist to calculate N but is meant as a recommendation of what to consider systematically about recruitment at different steps of the research process.",
+          "translation": "우리의 모델은 N를 계산하기 위한 체크리스트가 아니라 연구 과정의 다양한 단계에서 채용에 대해 체계적으로 고려해야 할 사항에 대한 추천으로 의도됩니다."
+        },
+        {
+          "source": "An initial appraisal of the number of [Text in illustration 1] Higher information power points toward the left.",
+          "translation": "[사진 1 에 있는 텍스트] 높은 정보력 은 왼쪽으로 가리키고 있다."
+        },
+        {
+          "source": "Aim: Narrow (left), Broad (right).",
+          "translation": "목표: 좁은 (왼쪽), 넓은 (오른쪽)"
+        },
+        {
+          "source": "Specificity: Dense (left), Sparse (right).",
+          "translation": "특수성: 덩어리 (왼쪽), 스파스 (오른쪽)."
+        },
+        {
+          "source": "Theory: Applied (left), None (right).",
+          "translation": "이론: 적용 (왼쪽), 없음 (오른쪽)."
+        },
+        {
+          "source": "Dialogue: Strong (left), Weak (right).",
+          "translation": "대화: 강 (왼쪽), 약한 (오른쪽)"
+        },
+        {
+          "source": "Analysis: Case (left), Cross-case (right).",
+          "translation": "분석: 케이스 (왼쪽), 크로스 케이스 (우측)"
+        },
+        {
+          "source": "Larger sample size (N) points toward the right.",
+          "translation": "더 큰 표본 크기는 (N) 오른쪽으로 지향한다."
+        }
+      ],
+      "imageTexts": [
+        {
+          "imageIndex": 0,
+          "sourceText": "Higher information power points toward the left. Aim: Narrow (left), Broad (right). Specificity: Dense (left), Sparse (right). Theory: Applied (left), None (right). Dialogue: Strong (left), Weak (right). Analysis: Case (left), Cross-case (right). Larger sample size (N) points toward the right.",
+          "status": "labels-visually-verified",
+          "statisticsNote": "Numeric values and plotted positions remain in the original image; no estimated values were transcribed."
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 5,
+      "sourceText": "Malterud et al.\t\n1757\n\n\ninformants needed in our case should consider the fact \nthat the researcher is a novice researcher. Her personal \nshyness affects her ability to establish a good dialogue \n(more participants). Her study is, however, theoretically \nfounded, and she has thorough experience with the \nempirical matters in question (less participants). She is \nheading for cross-case analysis requiring more participants, and the aim of her study is neither especially broad \nnor narrow. Because nurses will help her select participants with characteristics specific to her study, the need \nfor participants will be smaller. Finally, her experienced \nresearch supervisor conducted a similar study last year, \nwith thick data from six successful interviews. Based on \nthese considerations, a provisional number of 10 participants could be an example of a cautious initial appraisal \nfor our case.\n\n\nAppraisal of information power should be repeated \nalong the process, supported by preliminary analysis. \nAfter the first three interviews, a first review of the data \ncan be done and first suggestions of relevant theory can \nbe made. In our case, it appears that some patients do not \nwant to participate and that it might not be possible to \nachieve as much variation of self-care as expected. Due \nto some extra interview training and extensive reading, \nthe researcher manages to make good report and steer the \ndialogue well. The interviews conducted so far have a \nhigh relevance for the research question. Initial analytic \nideas have emerged at this point and are helpful in making the aim of the study more accurate, and some information seems promising in terms of adding new \nknowledge to the field. At this point, the attained and projected information power appears to be unexpectedly \nstrong, and the number of participants needed may be \nadjusted downward. This assessment will have to be considered again before closing data collection.\n\n\nBesides the use of conducting own research projects, \nour model may be used to evaluate empirical data from \nother researchers, if the five items included in the model \ncan be derived from study reports. We therefore encourage fellow researchers to present some reflections on \ninformation power in their publications.\n\n\nDiscussion\n\n\nThe Logic of Particularities\n\n\nFormal power calculations have been proposed as an \nalternative to informal, heuristic rules of thumb in qualitative studies for appraisal of sample size (DePaulo, \n2000; Guest et al., 2006). The basic principle behind such \nattempts assumes a population where a set of information \n(such as self-care methods for management of diabetic \nfoot ulcers) of some sort is available, each with different \nprevalence, and the aim is to identify as much of this \n\n\ninformation as possible with the least number of participants, selected at random. We do not repudiate the existence of settings where such assumptions might be \nadequate. Most often, however, they will be violated in a \nqualitative study. Participants are selected purposively as \nto provide the most information, and information will \nsimply not exist, but is elaborated by the researcher, supported by the theory applied (Kvale, 1996; Patton, 2015; \nSandelowski, 1995).\n\n\nA straightjacket of untenable assumptions may harm \nthe research process (Bacchetti, 2010). McWhinney urged \nmedical researchers to focus more on particularities, not \nonly universals (McWhinney, 1989), and Sandelowski \nargued that the case study (N = 1) is the basic unit of analysis in any qualitative study, independent of the amount of \nempirical data (Sandelowski, 1996). In qualitative \nresearch, belonging to the interpretative paradigm, the \nlogic of exploration is more emphasized than the logic of \njustification, and other assumptions for sampling are usually more adequate than what can possibly be predicted or \ncalculated (Kuhn, 1962; Malterud, 2001; Marshall, 1996; \nSandelowski, 1996).\n\n\nWe have presented a pragmatic model for appraisal of \nsample size in qualitative interview studies. Our model \noffers a manageable strategy where the principal assumptions have been explicated for implementation and can be \ncontested for methodological elaboration. Below, we \nshall discuss the strengths and limitations of this model \nand compare it with current leading standards regarding \nsample size in qualitative studies.\n\n\nThe Model—Strengths and Limitations\n\n\nInformation power is the core concept of our model. We \nhave argued that information power of an interview sample is determined by items such as study aim, sample \nspecificity, use of established theory, quality of dialogue, \nand analysis strategy. For each of these items, we have \nproposed dimensions along a continuum where researchers are invited to position themselves and their study to \nassess an approximate number of participants needed for \nresponsible analysis. We argue that such an assessment \nshould be stepwise revisited along the research process \nand not definitely decided in advance. In this way, recruitment can be brought to an end when the sample holds \nsufficient information power. Still, the model may offer \nsupport also in the initial planning of a qualitative interview study.\n\n\nThe five items we have included in our model are neither mutually exclusive nor the only conceivable determinants \nof information power. A common denominator is that exploration of a comprehensive phenomenon requires data with \nappropriate variation regarding some selected qualities. \nHowever, a pragmatic model intended for implementation",
+      "translationText": "우리의 경우 필요한 정보주들은 연구자가 초보 연구자라는 사실을 고려해야 합니다.\n\n그녀의 개인적인 수치심은 좋은 대화를 (더 많은 참가자를) 설정하는 능력에 영향을 미칩니다.\n\n그러나 그녀의 연구는 이론적으로 기초가 있고, 그녀는 문제의 실증적인 문제에 대한 철저한 경험을 가지고 있습니다 (참여자가 적습니다).\n\n그녀는 더 많은 참가자를 필요로 하는 교차 사례 분석을 향해 가고 있으며, 그녀의 연구의 목적은 특별히 광범위하거나 좁은 것이 아닙니다.\n\n간호사는 그녀의 연구에 특화된 특성을 가진 참가자를 선택하는데 도움을 줄 것이기 때문에 참가자의 필요성은 작아질 것입니다.\n\n마지막으로, 그녀의 경험이 풍부한 연구 감독은 지난해에도 비슷한 연구를 진행했고, 6개의 성공적인 인터뷰에서 얻은 데이터를 포함했습니다.\n\n이러한 고려사항을 바탕으로 10명의 임시 참가자가 우리의 사건에 대한 신중한 초기 평가의 예가 될 수 있습니다.\n\n정보력의 평가는 초기 분석에 의해 뒷받침되는 과정에 걸쳐 반복되어야 합니다.\n\n첫 세 번의 인터뷰 후, 데이터의 첫 번째 검토가 이루어지고 관련 이론의 첫 번째 제안이 이루어질 수 있습니다.\n\n우리 의 경우, 일부 환자 들 은 참여 를 원하지 않는 것 이며, 기대 하는 것 처럼 자기 치료 의 다양성 을 달성 하는 것 은 불가능 할 것 이다.\n\n추가적인 인터뷰 훈련과 광범위한 독서로 인해 연구자는 좋은 보고서를 작성하고 대화를 잘 이끌어낼 수 있습니다.\n\n지금까지 실시된 인터뷰는 연구문제에 매우 관련이 있습니다.\n\n이 시점에서 초기 분석 아이디어가 등장하여 연구의 목표를 더 정확하게 만드는 데 도움이 되며, 일부 정보는 현장에 새로운 지식을 추가하는 측면에서 유망한 것으로 보인다.\n\n이 시점에서, 달성된 정보력과 예측된 정보력은 예기치 않게 강하고, 필요한 참가자 수는 아래로 조정될 수 있습니다.\n\n이 평가는 데이터 수집을 종료하기 전에 다시 검토되어야 합니다.\n\n자체 연구 프로젝트를 수행하는 것을 이용하는 것 외에도, 우리의 모델은 다른 연구자들의 경험적 데이터를 평가하는 데 사용될 수 있습니다. 모델에 포함된 다섯 가지 항목은 연구 보고서에서 도출될 수 있습니다.\n\n따라서 우리는 동료 연구자들이 그들의 출판물에서 정보의 힘에 대한 몇 가지 생각들을 제시하도록 격려합니다.\n\n토론 특성의 논리 샘플 크기를 평가하기 위한 질적 연구에서 비공식적이고 유리스틱한 엄지손가락 규칙의 대안으로 공식적인 전력 계산이 제안되었습니다 (DePaulo, 2000; Guest et al., 2006).\n\n이러한 시도의 기본 원칙은 어떤 종류의 정보 집합 ( 당뇨병 발병 궤양의 치료에 대한 자치 방법과 같은) 가 사용 가능한 인구를 가정하고 있으며, 각각의 발생률이 다르며, 목표는 이 정보의 가능한 한 많은 부분을 최소한의 수의 참가자와 함께 식별하는 것입니다, 무작위로 선택되었습니다.\n\n우리는 그러한 가정이 적절할 수 있는 상황의 존재를 부인하지 않습니다.\n\n하지만 대부분 양질의 연구에서 침해당하게 됩니다.\n\n참가자들은 가장 많은 정보를 제공하기 위해 의도적으로 선택되며, 정보는 단순히 존재하지 않으며, 연구자가 적용된 이론에 의해 뒷받침되어 연구자가 작성합니다 (Kvale, 1996; Patton, 2015; Sandelowski, 1995).\n\n견딜 수 없는 가정의 직조는 연구 과정에 해를 끼칠 수 있습니다 (Bacchetti, 2010).\n\nMcWhinney는 의학 연구자들에게 보편적인 것이 아니라 특수성에 더 집중하도록 촉구했습니다 (McWhinney, 1989), 그리고 Sandelowski는 사례 연구 (N = 1) 는 임의의 질적 연구에서 경험적 데이터의 양과 독립적으로 분석의 기본 단위라고 주장했다 (Sandelowski, 1996).\n\n해석적 패러다임에 속하는 질적 연구에서 탐구 논리는 정당화의 논리보다 더 강조되며 샘플링에 대한 다른 가정은 일반적으로 예측하거나 계산할 수 있는 것보다 더 적절합니다 (Kuhn, 1962; Malterud, 2001; Marshall, 1996; Sandelowski, 1996).\n\n우리는 질적 인터뷰 연구에서 샘플 크기의 평가에 대한 실용적인 모델을 제시했습니다.\n\n우리의 모델은 주요 가정이 구현을 위해 설명되어 방법론적 개발을 위해 논란이 될 수 있는 관리 가능한 전략을 제공합니다.\n\n아래에서는 이 모델의 강점과 한계를 논의하고 질적 연구에서 샘플 크기에 대한 현재 주요 표준과 비교할 것입니다.\n\n모델 강점과 제한 정보력은 우리의 모델의 핵심 개념입니다.\n\n우리는 인터뷰 샘플의 정보력은 연구 목적, 표본의 특수성, 확립된 이론의 사용, 대화 품질 및 분석 전략과 같은 항목에 의해 결정된다는 것을 주장했습니다.\n\n이 각 항목에 대해 우리는 연구자들이 책임감 있는 분석에 필요한 참가자의 대략적인 수를 평가하기 위해 스스로와 그들의 연구를 배치하도록 초청하는 연속성을 따라 차원을 제안했습니다.\n\n우리는 이러한 평가가 연구 과정에 걸쳐 단계적으로 재검토되어야 한다고 주장하고 미리 결정하지 말아야 한다고 주장합니다.\n\n이렇게 하면 샘플에 충분한 정보력이 있을 때 채용이 종료될 수 있습니다.\n\n그럼에도 불구하고 모델은 질적 인터뷰 연구를 초기 계획하는 데에도 도움을 줄 수 있습니다.\n\n우리의 모델에 포함된 다섯 가지 항목은 상호 배제적이거나 정보력의 유일한 결정적인 요소가 아닙니다.\n\n일반적인 분자로는 종합적인 현상을 탐구하기 위해서는 일부 선택된 특성에 대한 적절한 변이를 가진 데이터가 필요하다는 것입니다.\n\n그러나, 실행을 위한 실용적인 모델은",
+      "status": "translated",
+      "sourceTextSha256": "a1aa6f7484c8878de5f363dc8fc80eb597a1fd54ceefcc4a0d9ca9bd402df69d",
+      "segments": [
+        {
+          "source": "Malterud et al. 1757 informants needed in our case should consider the fact that the researcher is a novice researcher.",
+          "translation": "우리의 경우 필요한 정보주들은 연구자가 초보 연구자라는 사실을 고려해야 합니다."
+        },
+        {
+          "source": "Her personal shyness affects her ability to establish a good dialogue (more participants).",
+          "translation": "그녀의 개인적인 수치심은 좋은 대화를 (더 많은 참가자를) 설정하는 능력에 영향을 미칩니다."
+        },
+        {
+          "source": "Her study is, however, theoretically founded, and she has thorough experience with the empirical matters in question (less participants).",
+          "translation": "그러나 그녀의 연구는 이론적으로 기초가 있고, 그녀는 문제의 실증적인 문제에 대한 철저한 경험을 가지고 있습니다 (참여자가 적습니다)."
+        },
+        {
+          "source": "She is heading for cross-case analysis requiring more participants, and the aim of her study is neither especially broad nor narrow.",
+          "translation": "그녀는 더 많은 참가자를 필요로 하는 교차 사례 분석을 향해 가고 있으며, 그녀의 연구의 목적은 특별히 광범위하거나 좁은 것이 아닙니다."
+        },
+        {
+          "source": "Because nurses will help her select participants with characteristics specific to her study, the need for participants will be smaller.",
+          "translation": "간호사는 그녀의 연구에 특화된 특성을 가진 참가자를 선택하는데 도움을 줄 것이기 때문에 참가자의 필요성은 작아질 것입니다."
+        },
+        {
+          "source": "Finally, her experienced research supervisor conducted a similar study last year, with thick data from six successful interviews.",
+          "translation": "마지막으로, 그녀의 경험이 풍부한 연구 감독은 지난해에도 비슷한 연구를 진행했고, 6개의 성공적인 인터뷰에서 얻은 데이터를 포함했습니다."
+        },
+        {
+          "source": "Based on these considerations, a provisional number of 10 participants could be an example of a cautious initial appraisal for our case.",
+          "translation": "이러한 고려사항을 바탕으로 10명의 임시 참가자가 우리의 사건에 대한 신중한 초기 평가의 예가 될 수 있습니다."
+        },
+        {
+          "source": "Appraisal of information power should be repeated along the process, supported by preliminary analysis.",
+          "translation": "정보력의 평가는 초기 분석에 의해 뒷받침되는 과정에 걸쳐 반복되어야 합니다."
+        },
+        {
+          "source": "After the first three interviews, a first review of the data can be done and first suggestions of relevant theory can be made.",
+          "translation": "첫 세 번의 인터뷰 후, 데이터의 첫 번째 검토가 이루어지고 관련 이론의 첫 번째 제안이 이루어질 수 있습니다."
+        },
+        {
+          "source": "In our case, it appears that some patients do not want to participate and that it might not be possible to achieve as much variation of self-care as expected.",
+          "translation": "우리 의 경우, 일부 환자 들 은 참여 를 원하지 않는 것 이며, 기대 하는 것 처럼 자기 치료 의 다양성 을 달성 하는 것 은 불가능 할 것 이다."
+        },
+        {
+          "source": "Due to some extra interview training and extensive reading, the researcher manages to make good report and steer the dialogue well.",
+          "translation": "추가적인 인터뷰 훈련과 광범위한 독서로 인해 연구자는 좋은 보고서를 작성하고 대화를 잘 이끌어낼 수 있습니다."
+        },
+        {
+          "source": "The interviews conducted so far have a high relevance for the research question.",
+          "translation": "지금까지 실시된 인터뷰는 연구문제에 매우 관련이 있습니다."
+        },
+        {
+          "source": "Initial analytic ideas have emerged at this point and are helpful in making the aim of the study more accurate, and some information seems promising in terms of adding new knowledge to the field.",
+          "translation": "이 시점에서 초기 분석 아이디어가 등장하여 연구의 목표를 더 정확하게 만드는 데 도움이 되며, 일부 정보는 현장에 새로운 지식을 추가하는 측면에서 유망한 것으로 보인다."
+        },
+        {
+          "source": "At this point, the attained and projected information power appears to be unexpectedly strong, and the number of participants needed may be adjusted downward.",
+          "translation": "이 시점에서, 달성된 정보력과 예측된 정보력은 예기치 않게 강하고, 필요한 참가자 수는 아래로 조정될 수 있습니다."
+        },
+        {
+          "source": "This assessment will have to be considered again before closing data collection.",
+          "translation": "이 평가는 데이터 수집을 종료하기 전에 다시 검토되어야 합니다."
+        },
+        {
+          "source": "Besides the use of conducting own research projects, our model may be used to evaluate empirical data from other researchers, if the five items included in the model can be derived from study reports.",
+          "translation": "자체 연구 프로젝트를 수행하는 것을 이용하는 것 외에도, 우리의 모델은 다른 연구자들의 경험적 데이터를 평가하는 데 사용될 수 있습니다. 모델에 포함된 다섯 가지 항목은 연구 보고서에서 도출될 수 있습니다."
+        },
+        {
+          "source": "We therefore encourage fellow researchers to present some reflections on information power in their publications.",
+          "translation": "따라서 우리는 동료 연구자들이 그들의 출판물에서 정보의 힘에 대한 몇 가지 생각들을 제시하도록 격려합니다."
+        },
+        {
+          "source": "Discussion The Logic of Particularities Formal power calculations have been proposed as an alternative to informal, heuristic rules of thumb in qualitative studies for appraisal of sample size (DePaulo, 2000; Guest et al., 2006).",
+          "translation": "토론 특성의 논리 샘플 크기를 평가하기 위한 질적 연구에서 비공식적이고 유리스틱한 엄지손가락 규칙의 대안으로 공식적인 전력 계산이 제안되었습니다 (DePaulo, 2000; Guest et al., 2006)."
+        },
+        {
+          "source": "The basic principle behind such attempts assumes a population where a set of information (such as self-care methods for management of diabetic foot ulcers) of some sort is available, each with different prevalence, and the aim is to identify as much of this information as possible with the least number of participants, selected at random.",
+          "translation": "이러한 시도의 기본 원칙은 어떤 종류의 정보 집합 ( 당뇨병 발병 궤양의 치료에 대한 자치 방법과 같은) 가 사용 가능한 인구를 가정하고 있으며, 각각의 발생률이 다르며, 목표는 이 정보의 가능한 한 많은 부분을 최소한의 수의 참가자와 함께 식별하는 것입니다, 무작위로 선택되었습니다."
+        },
+        {
+          "source": "We do not repudiate the existence of settings where such assumptions might be adequate.",
+          "translation": "우리는 그러한 가정이 적절할 수 있는 상황의 존재를 부인하지 않습니다."
+        },
+        {
+          "source": "Most often, however, they will be violated in a qualitative study.",
+          "translation": "하지만 대부분 양질의 연구에서 침해당하게 됩니다."
+        },
+        {
+          "source": "Participants are selected purposively as to provide the most information, and information will simply not exist, but is elaborated by the researcher, supported by the theory applied (Kvale, 1996; Patton, 2015; Sandelowski, 1995).",
+          "translation": "참가자들은 가장 많은 정보를 제공하기 위해 의도적으로 선택되며, 정보는 단순히 존재하지 않으며, 연구자가 적용된 이론에 의해 뒷받침되어 연구자가 작성합니다 (Kvale, 1996; Patton, 2015; Sandelowski, 1995)."
+        },
+        {
+          "source": "A straightjacket of untenable assumptions may harm the research process (Bacchetti, 2010).",
+          "translation": "견딜 수 없는 가정의 직조는 연구 과정에 해를 끼칠 수 있습니다 (Bacchetti, 2010)."
+        },
+        {
+          "source": "McWhinney urged medical researchers to focus more on particularities, not only universals (McWhinney, 1989), and Sandelowski argued that the case study (N = 1) is the basic unit of analysis in any qualitative study, independent of the amount of empirical data (Sandelowski, 1996).",
+          "translation": "McWhinney는 의학 연구자들에게 보편적인 것이 아니라 특수성에 더 집중하도록 촉구했습니다 (McWhinney, 1989), 그리고 Sandelowski는 사례 연구 (N = 1) 는 임의의 질적 연구에서 경험적 데이터의 양과 독립적으로 분석의 기본 단위라고 주장했다 (Sandelowski, 1996)."
+        },
+        {
+          "source": "In qualitative research, belonging to the interpretative paradigm, the logic of exploration is more emphasized than the logic of justification, and other assumptions for sampling are usually more adequate than what can possibly be predicted or calculated (Kuhn, 1962; Malterud, 2001; Marshall, 1996; Sandelowski, 1996).",
+          "translation": "해석적 패러다임에 속하는 질적 연구에서 탐구 논리는 정당화의 논리보다 더 강조되며 샘플링에 대한 다른 가정은 일반적으로 예측하거나 계산할 수 있는 것보다 더 적절합니다 (Kuhn, 1962; Malterud, 2001; Marshall, 1996; Sandelowski, 1996)."
+        },
+        {
+          "source": "We have presented a pragmatic model for appraisal of sample size in qualitative interview studies.",
+          "translation": "우리는 질적 인터뷰 연구에서 샘플 크기의 평가에 대한 실용적인 모델을 제시했습니다."
+        },
+        {
+          "source": "Our model offers a manageable strategy where the principal assumptions have been explicated for implementation and can be contested for methodological elaboration.",
+          "translation": "우리의 모델은 주요 가정이 구현을 위해 설명되어 방법론적 개발을 위해 논란이 될 수 있는 관리 가능한 전략을 제공합니다."
+        },
+        {
+          "source": "Below, we shall discuss the strengths and limitations of this model and compare it with current leading standards regarding sample size in qualitative studies.",
+          "translation": "아래에서는 이 모델의 강점과 한계를 논의하고 질적 연구에서 샘플 크기에 대한 현재 주요 표준과 비교할 것입니다."
+        },
+        {
+          "source": "The Model—Strengths and Limitations Information power is the core concept of our model.",
+          "translation": "모델 강점과 제한 정보력은 우리의 모델의 핵심 개념입니다."
+        },
+        {
+          "source": "We have argued that information power of an interview sample is determined by items such as study aim, sample specificity, use of established theory, quality of dialogue, and analysis strategy.",
+          "translation": "우리는 인터뷰 샘플의 정보력은 연구 목적, 표본의 특수성, 확립된 이론의 사용, 대화 품질 및 분석 전략과 같은 항목에 의해 결정된다는 것을 주장했습니다."
+        },
+        {
+          "source": "For each of these items, we have proposed dimensions along a continuum where researchers are invited to position themselves and their study to assess an approximate number of participants needed for responsible analysis.",
+          "translation": "이 각 항목에 대해 우리는 연구자들이 책임감 있는 분석에 필요한 참가자의 대략적인 수를 평가하기 위해 스스로와 그들의 연구를 배치하도록 초청하는 연속성을 따라 차원을 제안했습니다."
+        },
+        {
+          "source": "We argue that such an assessment should be stepwise revisited along the research process and not definitely decided in advance.",
+          "translation": "우리는 이러한 평가가 연구 과정에 걸쳐 단계적으로 재검토되어야 한다고 주장하고 미리 결정하지 말아야 한다고 주장합니다."
+        },
+        {
+          "source": "In this way, recruitment can be brought to an end when the sample holds sufficient information power.",
+          "translation": "이렇게 하면 샘플에 충분한 정보력이 있을 때 채용이 종료될 수 있습니다."
+        },
+        {
+          "source": "Still, the model may offer support also in the initial planning of a qualitative interview study.",
+          "translation": "그럼에도 불구하고 모델은 질적 인터뷰 연구를 초기 계획하는 데에도 도움을 줄 수 있습니다."
+        },
+        {
+          "source": "The five items we have included in our model are neither mutually exclusive nor the only conceivable determinants of information power.",
+          "translation": "우리의 모델에 포함된 다섯 가지 항목은 상호 배제적이거나 정보력의 유일한 결정적인 요소가 아닙니다."
+        },
+        {
+          "source": "A common denominator is that exploration of a comprehensive phenomenon requires data with appropriate variation regarding some selected qualities.",
+          "translation": "일반적인 분자로는 종합적인 현상을 탐구하기 위해서는 일부 선택된 특성에 대한 적절한 변이를 가진 데이터가 필요하다는 것입니다."
+        },
+        {
+          "source": "However, a pragmatic model intended for implementation",
+          "translation": "그러나, 실행을 위한 실용적인 모델은"
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 6,
+      "sourceText": "1758\t\nQualitative Health Research 26(13)\n\n\ncalls for prioritization. Following the inductive development path we have described, we therefore decided to \ninclude a limited and feasible amount of vital compatible \nitems whose dimensions with an impact for information \npower could be easily identified, appraised, and presented.\n\n\nOn a list of potential items to be included in the model, \nwe have omitted the recruitment issue, which actually \nraises a paradox. When recruitment is easy, the researcher \nis at liberty to select a relevant and purposive sample and \nthereby reduce the number of participants. However, if \nonly a few among many potential participants volunteer, \nthe specificity of the sample may be jeopardized and \nthereby increase the number of participants necessary. If \nso, information power may be enhanced by considering \nthe reasons for the declines. Simple changes in procedure, such as interviewing at home instead of in the clinic, \nmay remove these obstacles and contribute to a sample \nwhere fewer participants are needed. The five items do \nnot have universal importance, and their relative importance may therefore change from project to project and \nover the course of a research process.\n\n\nTo make the model simple and readily understood, we \nchose to develop it for the context of individual interview \nstudies, where the question of sample size usually refers \nto the number of participants. The sample size concept is \nmore ambiguous when it comes to other qualitative \nresearch designs, such as focus group studies (number of \ngroups, number of participant, or number of interviews), \nobservational studies (number of events to be recorded, \nnumber of people to be included, number of sites to visit), \nor studies with data from written sources (pages of text, \nnumber of documents, number of organizations).\n\n\nSomething Old, Something New, Something \nBorrowed, Something Blue . . .\n\n\nThe information power concept and the items it comprises share some features with existing concepts and \nideas within qualitative methodology. In our model, specificity covers issues usually discussed as matters of sampling (Patton, 2015). The role of aim in our model with \nregard to sample size has also been discussed by Morse \n(2000), and it is likewise related to Patton’s discussion of \ntrade-offs between breadth and depth in a study (Patton, \n2015).\nThe dialogue item in our model shares some features \nwith Spradley’s notion of “good informants” (Spradley, \n1979), which is discussed as an aspect of adequacy by \nsampling (Morse, 1991, 2000, 2015b). Our model differs, \nhowever, in that we emphasize the quality of the dialogue \nrather than the nature of the topic, although these dimensions both cover the accessibility of the data. Adequacy, \nas discussed by Morse, concerns the sufficiency and quality of data. Unlike the concept of adequacy, our model is \n\n\nnot tied to development of theory or theoretical sampling, \nwhich are specific procedures of GT. The most notable \nadvantages of our model are therefore perhaps the addition of the relevance of established theory applied in a \nstudy, furthermore that the model considers types of analysis beyond cross-case analysis.\n\n\nThe best qualitative analysis is conducted from empirical data containing abundant and various accounts of \nnew aspects of the phenomenon we intend to explore \n(Morse, 1991, 2015a; Patton, 2015). The sample should \nbe neither too small nor too large (Kvale, 1996; \nSandelowski, 1995). In our experience, reviewers often \nseem to be more concerned with samples being too small \nthan being too large, instead of appraising the outcome of \nanalysis from these particular interviews. We would warn \nagainst methodological ideologies or strategies unreflectedly leading to too large samples (Chamberlain, 2000). \nBy initial and consecutive assessment of information \npower, the researcher may avoid waste of time and \nresources for collection of unnecessary data, elaboration \nof information that is not relevant for the aim of the study, \nand lack of overview needed for a thorough analysis. Our \nmodel indicates that this can be obtained even with a \nsample of rather few participants, provided that the information power is sufficient.\n\n\nShould “Saturation” Be Replaced by \n“Information Power?”\n\n\nSaturation is often mentioned as a criterion for sample \nsize in qualitative studies (Morse, 1995). The concept has \nbeen presented as an element of the constant comparative \nmethod, which is a central element of GT, intended to \ngenerate theories from empirical data (Glaser & Strauss, \n1999). During data collection, the researcher compares \nsequentially added events until exhaustive saturation of \nproperties of categories and of relations among them is \nobtained (Charmaz, 2006). Furthermore, theoretical sampling based on preliminary theory developed in the study \nis required for saturation in a GT analysis to finally arrive \nat saturation. Saturation occurs when the researcher no \nlonger receives information that adds to the theory that \nhas been developed.\n\n\nThese procedures are, however, not part of all qualitative studies, and O’Reilly and Parker (2013) argue that \nadopting saturation as a generic quality marker is inappropriate. Although GT has clear guidance about what \nconstitutes theoretical saturation, the meaning of saturation within other qualitative approaches is not clear. \nAuthors claiming saturation are not always transparent \nabout how it has been achieved (Morse, 2015a), and several studies are actually not compatible with the saturation concept of GT. Reviews reveal that the concept is \noften poorly specified and definitely not corresponding",
+      "translationText": "1758 질적 건강 연구 26(13) 는 우선 순위를 요구합니다.\n\n따라서 우리가 설명한 인덕티브 개발 경로를 따라, 우리는 정보에 영향을 미치는 차원을 쉽게 식별하고 평가하고 제시할 수 있는 필수적인 호환성 항목의 제한적이고 실현 가능한 양을 포함하기로 결정했습니다.\n\n모델에 포함될 수 있는 잠재적 항목의 목록에서, 우리는 모집 문제를 생략했습니다. 실제로는 역설이 제기됩니다.\n\n채용이 쉬운 경우 연구자는 관련적이고 의도적인 샘플을 선택하여 참가자 수를 줄일 수 있습니다.\n\n그러나 많은 잠재적인 참가자들 중 일부만이 자원봉사를 한다면, 샘플의 특수성이 위험에 처하여 필요한 참가자 수를 증가시킬 수 있습니다.\n\n그렇다면 정보력은 감소의 이유를 고려함으로써 강화될 수 있습니다.\n\n클리닉에서 아닌 집에서 인터뷰하는 것과 같은 간단한 절차 변경은 이러한 장애물을 제거하고 참여자가 적은 샘플을 만드는 데 기여할 수 있습니다.\n\n이 다섯 가지 항목은 보편적인 중요성이 없기 때문에 그 상대적인 중요성은 프로젝트마다 연구 과정에 따라 달라질 수 있습니다.\n\n이 모델을 단순하고 쉽게 이해할 수 있도록 하기 위해 우리는 개별 인터뷰 연구의 맥락에서 그것을 개발하기로 결정했습니다.\n\n표본 크기의 개념은 다른 질적 연구 디자인과 관련하여 더 모호합니다. 예를 들어 집중 그룹 연구 (그룹의 수, 참가자의 수, 또는 인터뷰의 수), 관찰 연구 (기록해야 할 이벤트의 수, 포함되어야 할 사람들의 수, 방문해야 할 사이트의 수), 또는 문서의 페이지, 문서의 수, 조직의 수).\n\nsomething old, something new, something borrowed, something blue . . . 정보력 개념과 그 구성 요소는 질적 방법론 내의 기존 개념과 아이디어와 몇 가지 특징을 공유합니다.\n\n우리의 모델에서, 특수성은 일반적으로 샘플링의 문제로 논의되는 문제를 포함합니다 (Patton, 2015).\n\n모스 (2000) 에서도 표본 크기에 관한 우리의 모델에서 목표의 역할이 논의되었으며, 또한 연구에서 폭과 깊이 사이의 타협에 대한 패튼의 논의와 관련이 있습니다 (Patton, 2015).\n\n우리의 모델의 대화 항목은 좋은 정보주 (Spradley, 1979), 샘플링 (Morse, 1991, 2000, 2015b) 의 적절한 측면으로 논의되는 스프래들의 개념과 몇 가지 특징을 공유합니다.\n\n그러나 우리의 모델은 대화의 질보다 주제의 본질을 강조한다는 점에서 다릅니다. 이 두 차원은 데이터의 접근성을 모두 포함하고 있습니다.\n\n모르스가 논의한 적절한성은 데이터의 충분성과 품질에 관한 것입니다.\n\n적성에 대한 개념과 달리, 우리의 모델은 GT의 특정 절차인 이론의 개발이나 이론적 샘플링과 연결되어 있지 않습니다.\n\n따라서 우리의 모델의 가장 눈에 띄는 장점은 아마도 연구에서 적용된 확립된 이론의 관련성을 추가하는 것입니다. 또한 모델은 교차 사례 분석을 넘어 분석 유형을 고려한다는 것입니다.\n\n가장 좋은 질적 분석은 우리가 탐구하려는 현상의 새로운 측면에 대한 풍부하고 다양한 설명을 포함하는 경험적 데이터에서 수행됩니다 (Morse, 1991, 2015a; Patton, 2015).\n\n표본은 너무 작거나 너무 크지 않아야 합니다 (Kvale, 1996; Sandelowski, 1995).\n\n우리의 경험에 따르면 평론자들은 종종 이러한 특정 인터뷰에서 분석 결과를 평가하는 대신 표본이 너무 작다는 것에 더 관심이있는 것으로 보입니다.\n\n우리는 너무 큰 샘플을 가져오는 방법론적 이데올로기와 전략에 대해 경고 할 것입니다 (Chamberlain, 2000).\n\n정보의 힘에 대한 초기 및 연속적인 평가를 통해 연구자는 불필요한 데이터 수집, 연구 목적에 비례한 정보의 수립 및 철저한 분석에 필요한 전반적인 시각의 부족을 위해 시간과 자원을 낭비하는 것을 피할 수 있습니다.\n\n우리의 모델은 정보의 힘이 충분할 때 상당히 적은 참가자 샘플을 통해서도 이 결과를 얻을 수 있음을 나타냅니다.\n\n충분성  정보력으로 대체되어야 하는가?\n\n질적 연구에서 포화 (Saturation) 는 종종 샘플 크기의 기준으로 언급된다 (Morse, 1995).\n\n이 개념은 GT의 중심적인 요소인 끊임없는 비교 방법의 요소로 제시되었으며, 이는 경험적 데이터에서 이론을 생성하기 위한 것이다 (Glaser & Strauss, 1999).\n\n데이터 수집 과정에서 연구자는 카테고리의 특성과 그 사이의 관계의 완전한 포화까지 순차적으로 추가된 이벤트를 비교한다 (Charmaz, 2006).\n\n또한 연구에서 개발된 예비 이론에 기초한 이론적 샘플링은 GT 분석에서 포화되기 위해 최종적으로 포화로 도달하기 위해 필요합니다.\n\n포화 (saturation) 는 연구자가 더 이상 개발된 이론에 추가되는 정보를 받지 않을 때 발생합니다.\n\n그러나 이러한 절차는 모든 질적 연구의 일부가 아니며, OReilly 및 Parker (2013) 는 포화도를 일반 품질 표시자로 채택하는 것이 부적절하다고 주장합니다.\n\nGT는 이론적 포화라는 것이 무엇인지에 대한 명확한 지침을 가지고 있지만 다른 질적 접근법에서 포화라는 의미는 명확하지 않습니다.\n\n포화라고 주장하는 저자들은 항상 그것이 어떻게 달성되었는지에 대해 투명하지 않습니다 (Morse, 2015a), 그리고 몇몇 연구는 실제로 GT의 포화 개념과 호환되지 않습니다.\n\n리뷰는 종종 개념이 잘 정해지지 않고 확실히 일치하지 않는다는 것을 보여줍니다",
+      "status": "translated",
+      "sourceTextSha256": "bf523b077c032eaed04fe538ecec0fe89b9bcc883282d885898469027978ec14",
+      "segments": [
+        {
+          "source": "1758 Qualitative Health Research 26(13) calls for prioritization.",
+          "translation": "1758 질적 건강 연구 26(13) 는 우선 순위를 요구합니다."
+        },
+        {
+          "source": "Following the inductive development path we have described, we therefore decided to include a limited and feasible amount of vital compatible items whose dimensions with an impact for information power could be easily identified, appraised, and presented.",
+          "translation": "따라서 우리가 설명한 인덕티브 개발 경로를 따라, 우리는 정보에 영향을 미치는 차원을 쉽게 식별하고 평가하고 제시할 수 있는 필수적인 호환성 항목의 제한적이고 실현 가능한 양을 포함하기로 결정했습니다."
+        },
+        {
+          "source": "On a list of potential items to be included in the model, we have omitted the recruitment issue, which actually raises a paradox.",
+          "translation": "모델에 포함될 수 있는 잠재적 항목의 목록에서, 우리는 모집 문제를 생략했습니다. 실제로는 역설이 제기됩니다."
+        },
+        {
+          "source": "When recruitment is easy, the researcher is at liberty to select a relevant and purposive sample and thereby reduce the number of participants.",
+          "translation": "채용이 쉬운 경우 연구자는 관련적이고 의도적인 샘플을 선택하여 참가자 수를 줄일 수 있습니다."
+        },
+        {
+          "source": "However, if only a few among many potential participants volunteer, the specificity of the sample may be jeopardized and thereby increase the number of participants necessary.",
+          "translation": "그러나 많은 잠재적인 참가자들 중 일부만이 자원봉사를 한다면, 샘플의 특수성이 위험에 처하여 필요한 참가자 수를 증가시킬 수 있습니다."
+        },
+        {
+          "source": "If so, information power may be enhanced by considering the reasons for the declines.",
+          "translation": "그렇다면 정보력은 감소의 이유를 고려함으로써 강화될 수 있습니다."
+        },
+        {
+          "source": "Simple changes in procedure, such as interviewing at home instead of in the clinic, may remove these obstacles and contribute to a sample where fewer participants are needed.",
+          "translation": "클리닉에서 아닌 집에서 인터뷰하는 것과 같은 간단한 절차 변경은 이러한 장애물을 제거하고 참여자가 적은 샘플을 만드는 데 기여할 수 있습니다."
+        },
+        {
+          "source": "The five items do not have universal importance, and their relative importance may therefore change from project to project and over the course of a research process.",
+          "translation": "이 다섯 가지 항목은 보편적인 중요성이 없기 때문에 그 상대적인 중요성은 프로젝트마다 연구 과정에 따라 달라질 수 있습니다."
+        },
+        {
+          "source": "To make the model simple and readily understood, we chose to develop it for the context of individual interview studies, where the question of sample size usually refers to the number of participants.",
+          "translation": "이 모델을 단순하고 쉽게 이해할 수 있도록 하기 위해 우리는 개별 인터뷰 연구의 맥락에서 그것을 개발하기로 결정했습니다."
+        },
+        {
+          "source": "The sample size concept is more ambiguous when it comes to other qualitative research designs, such as focus group studies (number of groups, number of participant, or number of interviews), observational studies (number of events to be recorded, number of people to be included, number of sites to visit), or studies with data from written sources (pages of text, number of documents, number of organizations).",
+          "translation": "표본 크기의 개념은 다른 질적 연구 디자인과 관련하여 더 모호합니다. 예를 들어 집중 그룹 연구 (그룹의 수, 참가자의 수, 또는 인터뷰의 수), 관찰 연구 (기록해야 할 이벤트의 수, 포함되어야 할 사람들의 수, 방문해야 할 사이트의 수), 또는 문서의 페이지, 문서의 수, 조직의 수)."
+        },
+        {
+          "source": "Something Old, Something New, Something Borrowed, Something Blue . . . The information power concept and the items it comprises share some features with existing concepts and ideas within qualitative methodology.",
+          "translation": "something old, something new, something borrowed, something blue . . . 정보력 개념과 그 구성 요소는 질적 방법론 내의 기존 개념과 아이디어와 몇 가지 특징을 공유합니다."
+        },
+        {
+          "source": "In our model, specificity covers issues usually discussed as matters of sampling (Patton, 2015).",
+          "translation": "우리의 모델에서, 특수성은 일반적으로 샘플링의 문제로 논의되는 문제를 포함합니다 (Patton, 2015)."
+        },
+        {
+          "source": "The role of aim in our model with regard to sample size has also been discussed by Morse (2000), and it is likewise related to Patton’s discussion of trade-offs between breadth and depth in a study (Patton, 2015).",
+          "translation": "모스 (2000) 에서도 표본 크기에 관한 우리의 모델에서 목표의 역할이 논의되었으며, 또한 연구에서 폭과 깊이 사이의 타협에 대한 패튼의 논의와 관련이 있습니다 (Patton, 2015)."
+        },
+        {
+          "source": "The dialogue item in our model shares some features with Spradley’s notion of “good informants” (Spradley, 1979), which is discussed as an aspect of adequacy by sampling (Morse, 1991, 2000, 2015b).",
+          "translation": "우리의 모델의 대화 항목은 좋은 정보주 (Spradley, 1979), 샘플링 (Morse, 1991, 2000, 2015b) 의 적절한 측면으로 논의되는 스프래들의 개념과 몇 가지 특징을 공유합니다."
+        },
+        {
+          "source": "Our model differs, however, in that we emphasize the quality of the dialogue rather than the nature of the topic, although these dimensions both cover the accessibility of the data.",
+          "translation": "그러나 우리의 모델은 대화의 질보다 주제의 본질을 강조한다는 점에서 다릅니다. 이 두 차원은 데이터의 접근성을 모두 포함하고 있습니다."
+        },
+        {
+          "source": "Adequacy, as discussed by Morse, concerns the sufficiency and quality of data.",
+          "translation": "모르스가 논의한 적절한성은 데이터의 충분성과 품질에 관한 것입니다."
+        },
+        {
+          "source": "Unlike the concept of adequacy, our model is not tied to development of theory or theoretical sampling, which are specific procedures of GT.",
+          "translation": "적성에 대한 개념과 달리, 우리의 모델은 GT의 특정 절차인 이론의 개발이나 이론적 샘플링과 연결되어 있지 않습니다."
+        },
+        {
+          "source": "The most notable advantages of our model are therefore perhaps the addition of the relevance of established theory applied in a study, furthermore that the model considers types of analysis beyond cross-case analysis.",
+          "translation": "따라서 우리의 모델의 가장 눈에 띄는 장점은 아마도 연구에서 적용된 확립된 이론의 관련성을 추가하는 것입니다. 또한 모델은 교차 사례 분석을 넘어 분석 유형을 고려한다는 것입니다."
+        },
+        {
+          "source": "The best qualitative analysis is conducted from empirical data containing abundant and various accounts of new aspects of the phenomenon we intend to explore (Morse, 1991, 2015a; Patton, 2015).",
+          "translation": "가장 좋은 질적 분석은 우리가 탐구하려는 현상의 새로운 측면에 대한 풍부하고 다양한 설명을 포함하는 경험적 데이터에서 수행됩니다 (Morse, 1991, 2015a; Patton, 2015)."
+        },
+        {
+          "source": "The sample should be neither too small nor too large (Kvale, 1996; Sandelowski, 1995).",
+          "translation": "표본은 너무 작거나 너무 크지 않아야 합니다 (Kvale, 1996; Sandelowski, 1995)."
+        },
+        {
+          "source": "In our experience, reviewers often seem to be more concerned with samples being too small than being too large, instead of appraising the outcome of analysis from these particular interviews.",
+          "translation": "우리의 경험에 따르면 평론자들은 종종 이러한 특정 인터뷰에서 분석 결과를 평가하는 대신 표본이 너무 작다는 것에 더 관심이있는 것으로 보입니다."
+        },
+        {
+          "source": "We would warn against methodological ideologies or strategies unreflectedly leading to too large samples (Chamberlain, 2000).",
+          "translation": "우리는 너무 큰 샘플을 가져오는 방법론적 이데올로기와 전략에 대해 경고 할 것입니다 (Chamberlain, 2000)."
+        },
+        {
+          "source": "By initial and consecutive assessment of information power, the researcher may avoid waste of time and resources for collection of unnecessary data, elaboration of information that is not relevant for the aim of the study, and lack of overview needed for a thorough analysis.",
+          "translation": "정보의 힘에 대한 초기 및 연속적인 평가를 통해 연구자는 불필요한 데이터 수집, 연구 목적에 비례한 정보의 수립 및 철저한 분석에 필요한 전반적인 시각의 부족을 위해 시간과 자원을 낭비하는 것을 피할 수 있습니다."
+        },
+        {
+          "source": "Our model indicates that this can be obtained even with a sample of rather few participants, provided that the information power is sufficient.",
+          "translation": "우리의 모델은 정보의 힘이 충분할 때 상당히 적은 참가자 샘플을 통해서도 이 결과를 얻을 수 있음을 나타냅니다."
+        },
+        {
+          "source": "Should “Saturation” Be Replaced by “Information Power?”",
+          "translation": "충분성  정보력으로 대체되어야 하는가?"
+        },
+        {
+          "source": "Saturation is often mentioned as a criterion for sample size in qualitative studies (Morse, 1995).",
+          "translation": "질적 연구에서 포화 (Saturation) 는 종종 샘플 크기의 기준으로 언급된다 (Morse, 1995)."
+        },
+        {
+          "source": "The concept has been presented as an element of the constant comparative method, which is a central element of GT, intended to generate theories from empirical data (Glaser & Strauss, 1999).",
+          "translation": "이 개념은 GT의 중심적인 요소인 끊임없는 비교 방법의 요소로 제시되었으며, 이는 경험적 데이터에서 이론을 생성하기 위한 것이다 (Glaser & Strauss, 1999)."
+        },
+        {
+          "source": "During data collection, the researcher compares sequentially added events until exhaustive saturation of properties of categories and of relations among them is obtained (Charmaz, 2006).",
+          "translation": "데이터 수집 과정에서 연구자는 카테고리의 특성과 그 사이의 관계의 완전한 포화까지 순차적으로 추가된 이벤트를 비교한다 (Charmaz, 2006)."
+        },
+        {
+          "source": "Furthermore, theoretical sampling based on preliminary theory developed in the study is required for saturation in a GT analysis to finally arrive at saturation.",
+          "translation": "또한 연구에서 개발된 예비 이론에 기초한 이론적 샘플링은 GT 분석에서 포화되기 위해 최종적으로 포화로 도달하기 위해 필요합니다."
+        },
+        {
+          "source": "Saturation occurs when the researcher no longer receives information that adds to the theory that has been developed.",
+          "translation": "포화 (saturation) 는 연구자가 더 이상 개발된 이론에 추가되는 정보를 받지 않을 때 발생합니다."
+        },
+        {
+          "source": "These procedures are, however, not part of all qualitative studies, and O’Reilly and Parker (2013) argue that adopting saturation as a generic quality marker is inappropriate.",
+          "translation": "그러나 이러한 절차는 모든 질적 연구의 일부가 아니며, OReilly 및 Parker (2013) 는 포화도를 일반 품질 표시자로 채택하는 것이 부적절하다고 주장합니다."
+        },
+        {
+          "source": "Although GT has clear guidance about what constitutes theoretical saturation, the meaning of saturation within other qualitative approaches is not clear.",
+          "translation": "GT는 이론적 포화라는 것이 무엇인지에 대한 명확한 지침을 가지고 있지만 다른 질적 접근법에서 포화라는 의미는 명확하지 않습니다."
+        },
+        {
+          "source": "Authors claiming saturation are not always transparent about how it has been achieved (Morse, 2015a), and several studies are actually not compatible with the saturation concept of GT.",
+          "translation": "포화라고 주장하는 저자들은 항상 그것이 어떻게 달성되었는지에 대해 투명하지 않습니다 (Morse, 2015a), 그리고 몇몇 연구는 실제로 GT의 포화 개념과 호환되지 않습니다."
+        },
+        {
+          "source": "Reviews reveal that the concept is often poorly specified and definitely not corresponding",
+          "translation": "리뷰는 종종 개념이 잘 정해지지 않고 확실히 일치하지 않는다는 것을 보여줍니다"
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 7,
+      "sourceText": "Malterud et al.\t\n1759\nwith the original meaning of saturation from GT (Carlsen \n& Glenton, 2011).\nFor an exploratory study, we do not head for a complete description of all aspects of the phenomenon we \nstudy. We are usually satisfied when a study offers new \ninsights that contribute substantially to or challenge current understandings. Furthermore, the epistemological \nanticipation of GT that exhaustive sampling of a definite \nset of variations can be obtained and covered by saturation is not the theory of science at the heart of most qualitative research (Malterud, 2012). To be sure, Morse \nrejects such an understanding of saturation, spelling out \ncharacteristics within categories as the domain to be saturated (Morse, 2015a).\nWe consider Morse’s accuracy on this point as rather \nunusual among qualitative researchers, who more often \nrefers to “heard it all” (Morse, 2015a). Research with \nsocial constructivist roots, where knowledge is considered partial, intermediate, and dependent of the situated \nview of the researcher, does not support an idea that \nqualitative studies ideally should comprise a “total” \namount of facts (Alvesson & Sköldberg, 2009; Haraway, \n1991). There are differences in how various approaches \nframe research questions, sample participants, and collect data to achieve richness and depth of analysis. \nDePaulo warns against the risk of missing something \nimportant when the sample of a qualitative study is \ninappropriate or too small (DePaulo, 2000). We agree \nto his point, but not to his ambitions of covering the full \nrange of the phenomenon in question. Finally, saturation is not as objective and indisputable as it might \nappear, at least from a peer reviewer’s perspective. One \nresearcher may regard the case as closed and get bored \nby further interviewing, while another colleague, perhaps with a less thorough knowledge of the field or \nwith empirical data containing less variation, may \nassess further data as new information (Malterud, 2012; \nMorse, 1995).\nInformation power is a concept that differs from \nsaturation in several respects. Our model is, however, \nnot based on a very original methodological idea. We \nlook on information power as an aspect of internal \nvalidity, influencing the potential of the available \nempirical data to provide access to new knowledge by \nmeans of analysis and theoretical interpretations \n(Cohen & Crabtree, 2008; Kvale, 1996). In this regard, \nsample adequacy, data quality, and variability of relevant events are often more important than the number \nof participants. Hence, information power of a sample \nis not very different from being sufficiently large and \nvaried to elucidate the aims of the study but can be considered a specification of how to accomplish it (Kuzel, \n1999; Marshall, 1996; Morse, 1995; Patton, 2015; \nSandelowski, 1995).\nImplications for Research Practice\nQualitative interview studies may benefit from sampling \nstrategies by shifting attention from numerical input of \nparticipants to the contribution of new knowledge from \nthe analysis. Information power indicates that the more \ninformation the sample holds, relevant for the actual \nstudy, the lower number of participants is needed. An initial approximation of sample size is necessary for planning, while the adequacy of the final sample size must be \nevaluated continuously during the research process. The \nresults presented in the final publication will demonstrate \nwhether actual sample held adequate information power \nto develop new knowledge, referring to the aim of the \nstudy at hand.\nDeclaration of Conflicting Interests\nThe authors declared no potential conflicts of interest with \nrespect to the research, authorship, and/or publication of this \narticle.\nFunding\nThe authors received no financial support for the research, \nauthorship, and/or publication of this article.\nReferences\nAlvesson, M., & Sköldberg, K. (2009). Reflexive methodology: \nNew vistas for qualitative research (2nd ed.). Los Angeles: \nSage.\nBacchetti, P. (2010). Current sample size conventions: \nFlaws, harms, and alternatives. BMC Medicine, 8, 17. \ndoi:10.1186/1741-7015-8-17\nCarlsen, B., & Glenton, C. (2011). What about N? A methodological study of sample-size reporting in focus group studies. BMC Medical Research Methodology, 11, Article 26. \ndoi:10.1186/1471-2288-11-26\nChamberlain, K. (2000). Methodolatry and qualitative health \nresearch. Journal of Health Psychology, 5, 285–296. \ndoi:10.1177/135910530000500306\nCharmaz, K. (2006). Constructing grounded theory: A practical guide through qualitative analysis. Thousand Oaks, \nCA: Sage.\nCohen, D. J., & Crabtree, B. F. (2008). Evaluative criteria for \nqualitative research in health care: Controversies and recommendations. Annals of Family Medicine, 6, 331–339.\nDePaulo, P. (2000). Sample size for qualitative research: The \nrisk of missing something important. Quirk’s Marketing \nResearch Review. Retrieved from http://www.quirks.com/\narticles/a2000/20001202.aspx\nGlaser, B., & Strauss, A. (1999). The discovery of grounded \ntheory: Strategies for qualitative research. New York: \nAldine de Gruyter.\nGuest, G., Bunce, A., & Johnson, L. (2006). How many interviews are enough? An experiment with data Saturation and \nvariability. Field Methods, 18, 59–82. doi:10.1177/15258\n22x05279903",
+      "translationText": "1759년 (Carlsen & Glenton, 2011).\n\n탐구적인 연구를 위해, 우리는 우리가 연구하는 현상의 모든 측면에 대한 완전한 설명으로 향하지 않습니다.\n\n우리는 일반적으로 새로운 통찰력을 제공하는 연구를 통해 현재의 이해에 크게 기여하거나 도전할 때 만족합니다.\n\n또한, GT의 정지학적 예견은 특정 변수의 전면 샘플링이 취득되고 포화로 커버될 수 있다는 것은 대부분의 질적 연구의 중심에 있는 과학 이론이 아닙니다 (Malterud, 2012).\n\n확실히, 모스는 포화에 대한 그러한 이해를 거부하고 포화되는 영역과 같은 범주 내에서 특성을 설명합니다 (Morse, 2015a).\n\n우리는 이 점에 대한 모르세의 정확성을 질적 연구자들 사이에서 상당히 특이한 것으로 간주합니다. 그들은 더 자주 heard it all (Morse, 2015a) 를 참조합니다.\n\n사회적 건설주의적 뿌리를 가진 연구는 지식이 부분적, 중간적, 그리고 연구자의 위치적 견해에 의존하는 것으로 간주되는데, 질적 연구는 이상적으로  전체의 사실을 포함해야 한다는 생각을 지지하지 않습니다 (Alvesson & Sköldberg, 2009; Haraway, 1991).\n\n다양한 접근 방식은 연구 질문, 샘플 참가자 및 분석의 풍부함과 깊이를 달성하기 위해 데이터를 수집하는 방법에 차이가 있습니다.\n\n데파울루는 질적 연구의 샘플이 적절하지 않거나 너무 작을 때 중요한 것을 놓칠 위험이 있다고 경고한다 (데파울루, 2000).\n\n우리는 그의 주장에 동의하지만, 문제의 전체 범위를 다루는 그의 야망에 동의하지 않습니다.\n\n마지막으로, 포화성은 적어도 동료 평론가의 관점에서 보이는 것처럼 객관적이고 논쟁의 여지가 없습니다.\n\n한 연구자는 사건을 종결된 것으로 간주하고 추가 인터뷰로 지루하게 될 수 있지만, 다른 동료는 아마도 해당 분야에 대한 철저한 지식이 없거나 더 적은 변수를 포함하는 경험적 데이터를 가지고 추가 데이터를 새로운 정보로 평가할 수 있습니다 (Malterud, 2012; Morse, 1995).\n\n정보력은 여러 가지 측면에서 포화와 다른 개념입니다.\n\n그러나 우리의 모델은 매우 독창적인 방법론적 아이디어에 기반하지 않습니다.\n\n우리는 정보에 대한 힘을 내부 유효성의 측면으로 보고 있으며, 분석과 이론적 해석을 통해 새로운 지식에 접근할 수 있는 사용 가능한 경험적 데이터의 잠재력에 영향을 미칩니다 (Cohen & Crabtree, 2008; Kvale, 1996).\n\n이와 관련하여 샘플 적당성, 데이터 품질 및 관련 이벤트의 변동성은 참가자 수보다 종종 더 중요합니다.\n\n따라서 샘플의 정보력은 연구의 목적을 명확히 하기 위해 충분히 크고 다양하다는 것과 크게 다르지 않지만 그것을 달성하는 방법에 대한 규격으로 간주 될 수 있습니다 (Kuzel, 1999; Marshall, 1996; Morse, 1995; Patton, 2015; Sandelowski, 1995).\n\n연구 실무에 대한 영향 양질의 인터뷰 연구는 참가자의 수치적 입력에서 분석에서 새로운 지식의 기여로 관심을 전환함으로써 샘플링 전략에서 이익을 얻을 수 있습니다.\n\n정보력은 실제 연구와 관련된 샘플에 더 많은 정보가 포함될수록 더 적은 수의 참가자가 필요하다는 것을 나타냅니다.\n\n계획에 있어서 표본 크기의 초기 근접이 필요하고, 최종 표본 크기가 적절하다는 것은 연구 과정에서 지속적으로 평가되어야 한다.\n\n최종 발표에서 제시된 결과는 실제 샘플이 새로운 지식을 개발하기 위해 충분한 정보력을 가지고 있는지 여부를 증명할 것이며, 이는 현재 진행 중인 연구의 목적에 관한 것입니다.\n\n이해관계가 충돌하는 선언 이 기사의 연구, 저작권 및/또는 출판에 대한 잠재적 이해관계 충돌은 없다고 저자들은 선언했다.\n\n자금 지원 이 기사의 연구, 저술 및/또는 출판에 대해 저자들은 재정적 지원을 받지 못했습니다.\n\n참고로 Alvesson, M., & Sköldberg, K. (2009).\n\n반사적인 방법론: 질적 연구의 새로운 전망 (2nd ed.).\n\n로스 앤젤레스:\n\n바체티, P. (2010).\n\n현재 샘플 크기의 협약: 결함, 유해 및 대안.\n\nBMC 의약품, 8, 17.\n\ndoi:10.1186/1741-7015-8-17 칼센, B., & 글렌턴, C. (2011).\n\nN은 어때요?\n\n초점 그룹 연구에서 샘플 크기의 보고에 대한 방법론적 연구.\n\nBMC 의료 연구 방법론 11, 제26조.\n\ndoi:10.1186/1471-2288-11-26 챔버런, K. (2000).\n\n방법론과 질적 건강 연구.\n\n건강 심리학 학술지, 5, 285296.\n\ndoi:10.1177/135910530000500306 카르마즈, K. (2006).\n\n기반 이론을 구축: 질적 분석을 통해 실용적인 지침서.\n\n천 오크스, 크리스 앤더슨:\n\n코헨, D. J., & 크랩트리, B. F. (2008).\n\n보건의료분야의 질적 연구를 위한 평가 기준: 논란과 권고\n\n가족 의학적 기록, 6,331339.\n\n데파울로, P. (2000).\n\n질적 연구를 위한 샘플 크기: 중요한 것을 놓칠 위험이 있습니다.\n\nQuirk 즈의 마케팅 연구 리뷰.\n\nhttp://www.quirks.com/ articles/a2000/20001202.aspx에서 가져온 글래저, B., & 스트라우스, A. (1999).\n\n기초 이론의 발견: 질적 연구를 위한 전략\n\n뉴욕: 알딘 드 그루이터\n\n게스트, G., 반스, A., & 존슨, L. (2006).\n\n얼마나 많은 인터뷰가 충분할까요?\n\n데이터 포화 및 변동성 실험\n\n현장 방법, 18, 5982.\n\n2·10·1177/15258 22x05279903",
+      "status": "translated",
+      "sourceTextSha256": "cd1e87f23ac4289e305fa283dc40f3fe1ad93cd326b7674f2961d49dcc519996",
+      "segments": [
+        {
+          "source": "Malterud et al. 1759 with the original meaning of saturation from GT (Carlsen & Glenton, 2011).",
+          "translation": "1759년 (Carlsen & Glenton, 2011)."
+        },
+        {
+          "source": "For an exploratory study, we do not head for a complete description of all aspects of the phenomenon we study.",
+          "translation": "탐구적인 연구를 위해, 우리는 우리가 연구하는 현상의 모든 측면에 대한 완전한 설명으로 향하지 않습니다."
+        },
+        {
+          "source": "We are usually satisfied when a study offers new insights that contribute substantially to or challenge current understandings.",
+          "translation": "우리는 일반적으로 새로운 통찰력을 제공하는 연구를 통해 현재의 이해에 크게 기여하거나 도전할 때 만족합니다."
+        },
+        {
+          "source": "Furthermore, the epistemological anticipation of GT that exhaustive sampling of a definite set of variations can be obtained and covered by saturation is not the theory of science at the heart of most qualitative research (Malterud, 2012).",
+          "translation": "또한, GT의 정지학적 예견은 특정 변수의 전면 샘플링이 취득되고 포화로 커버될 수 있다는 것은 대부분의 질적 연구의 중심에 있는 과학 이론이 아닙니다 (Malterud, 2012)."
+        },
+        {
+          "source": "To be sure, Morse rejects such an understanding of saturation, spelling out characteristics within categories as the domain to be saturated (Morse, 2015a).",
+          "translation": "확실히, 모스는 포화에 대한 그러한 이해를 거부하고 포화되는 영역과 같은 범주 내에서 특성을 설명합니다 (Morse, 2015a)."
+        },
+        {
+          "source": "We consider Morse’s accuracy on this point as rather unusual among qualitative researchers, who more often refers to “heard it all” (Morse, 2015a).",
+          "translation": "우리는 이 점에 대한 모르세의 정확성을 질적 연구자들 사이에서 상당히 특이한 것으로 간주합니다. 그들은 더 자주 heard it all (Morse, 2015a) 를 참조합니다."
+        },
+        {
+          "source": "Research with social constructivist roots, where knowledge is considered partial, intermediate, and dependent of the situated view of the researcher, does not support an idea that qualitative studies ideally should comprise a “total” amount of facts (Alvesson & Sköldberg, 2009; Haraway, 1991).",
+          "translation": "사회적 건설주의적 뿌리를 가진 연구는 지식이 부분적, 중간적, 그리고 연구자의 위치적 견해에 의존하는 것으로 간주되는데, 질적 연구는 이상적으로  전체의 사실을 포함해야 한다는 생각을 지지하지 않습니다 (Alvesson & Sköldberg, 2009; Haraway, 1991)."
+        },
+        {
+          "source": "There are differences in how various approaches frame research questions, sample participants, and collect data to achieve richness and depth of analysis.",
+          "translation": "다양한 접근 방식은 연구 질문, 샘플 참가자 및 분석의 풍부함과 깊이를 달성하기 위해 데이터를 수집하는 방법에 차이가 있습니다."
+        },
+        {
+          "source": "DePaulo warns against the risk of missing something important when the sample of a qualitative study is inappropriate or too small (DePaulo, 2000).",
+          "translation": "데파울루는 질적 연구의 샘플이 적절하지 않거나 너무 작을 때 중요한 것을 놓칠 위험이 있다고 경고한다 (데파울루, 2000)."
+        },
+        {
+          "source": "We agree to his point, but not to his ambitions of covering the full range of the phenomenon in question.",
+          "translation": "우리는 그의 주장에 동의하지만, 문제의 전체 범위를 다루는 그의 야망에 동의하지 않습니다."
+        },
+        {
+          "source": "Finally, saturation is not as objective and indisputable as it might appear, at least from a peer reviewer’s perspective.",
+          "translation": "마지막으로, 포화성은 적어도 동료 평론가의 관점에서 보이는 것처럼 객관적이고 논쟁의 여지가 없습니다."
+        },
+        {
+          "source": "One researcher may regard the case as closed and get bored by further interviewing, while another colleague, perhaps with a less thorough knowledge of the field or with empirical data containing less variation, may assess further data as new information (Malterud, 2012; Morse, 1995).",
+          "translation": "한 연구자는 사건을 종결된 것으로 간주하고 추가 인터뷰로 지루하게 될 수 있지만, 다른 동료는 아마도 해당 분야에 대한 철저한 지식이 없거나 더 적은 변수를 포함하는 경험적 데이터를 가지고 추가 데이터를 새로운 정보로 평가할 수 있습니다 (Malterud, 2012; Morse, 1995)."
+        },
+        {
+          "source": "Information power is a concept that differs from saturation in several respects.",
+          "translation": "정보력은 여러 가지 측면에서 포화와 다른 개념입니다."
+        },
+        {
+          "source": "Our model is, however, not based on a very original methodological idea.",
+          "translation": "그러나 우리의 모델은 매우 독창적인 방법론적 아이디어에 기반하지 않습니다."
+        },
+        {
+          "source": "We look on information power as an aspect of internal validity, influencing the potential of the available empirical data to provide access to new knowledge by means of analysis and theoretical interpretations (Cohen & Crabtree, 2008; Kvale, 1996).",
+          "translation": "우리는 정보에 대한 힘을 내부 유효성의 측면으로 보고 있으며, 분석과 이론적 해석을 통해 새로운 지식에 접근할 수 있는 사용 가능한 경험적 데이터의 잠재력에 영향을 미칩니다 (Cohen & Crabtree, 2008; Kvale, 1996)."
+        },
+        {
+          "source": "In this regard, sample adequacy, data quality, and variability of relevant events are often more important than the number of participants.",
+          "translation": "이와 관련하여 샘플 적당성, 데이터 품질 및 관련 이벤트의 변동성은 참가자 수보다 종종 더 중요합니다."
+        },
+        {
+          "source": "Hence, information power of a sample is not very different from being sufficiently large and varied to elucidate the aims of the study but can be considered a specification of how to accomplish it (Kuzel, 1999; Marshall, 1996; Morse, 1995; Patton, 2015; Sandelowski, 1995).",
+          "translation": "따라서 샘플의 정보력은 연구의 목적을 명확히 하기 위해 충분히 크고 다양하다는 것과 크게 다르지 않지만 그것을 달성하는 방법에 대한 규격으로 간주 될 수 있습니다 (Kuzel, 1999; Marshall, 1996; Morse, 1995; Patton, 2015; Sandelowski, 1995)."
+        },
+        {
+          "source": "Implications for Research Practice Qualitative interview studies may benefit from sampling strategies by shifting attention from numerical input of participants to the contribution of new knowledge from the analysis.",
+          "translation": "연구 실무에 대한 영향 양질의 인터뷰 연구는 참가자의 수치적 입력에서 분석에서 새로운 지식의 기여로 관심을 전환함으로써 샘플링 전략에서 이익을 얻을 수 있습니다."
+        },
+        {
+          "source": "Information power indicates that the more information the sample holds, relevant for the actual study, the lower number of participants is needed.",
+          "translation": "정보력은 실제 연구와 관련된 샘플에 더 많은 정보가 포함될수록 더 적은 수의 참가자가 필요하다는 것을 나타냅니다."
+        },
+        {
+          "source": "An initial approximation of sample size is necessary for planning, while the adequacy of the final sample size must be evaluated continuously during the research process.",
+          "translation": "계획에 있어서 표본 크기의 초기 근접이 필요하고, 최종 표본 크기가 적절하다는 것은 연구 과정에서 지속적으로 평가되어야 한다."
+        },
+        {
+          "source": "The results presented in the final publication will demonstrate whether actual sample held adequate information power to develop new knowledge, referring to the aim of the study at hand.",
+          "translation": "최종 발표에서 제시된 결과는 실제 샘플이 새로운 지식을 개발하기 위해 충분한 정보력을 가지고 있는지 여부를 증명할 것이며, 이는 현재 진행 중인 연구의 목적에 관한 것입니다."
+        },
+        {
+          "source": "Declaration of Conflicting Interests The authors declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.",
+          "translation": "이해관계가 충돌하는 선언 이 기사의 연구, 저작권 및/또는 출판에 대한 잠재적 이해관계 충돌은 없다고 저자들은 선언했다."
+        },
+        {
+          "source": "Funding The authors received no financial support for the research, authorship, and/or publication of this article.",
+          "translation": "자금 지원 이 기사의 연구, 저술 및/또는 출판에 대해 저자들은 재정적 지원을 받지 못했습니다."
+        },
+        {
+          "source": "References Alvesson, M., & Sköldberg, K. (2009).",
+          "translation": "참고로 Alvesson, M., & Sköldberg, K. (2009)."
+        },
+        {
+          "source": "Reflexive methodology: New vistas for qualitative research (2nd ed.).",
+          "translation": "반사적인 방법론: 질적 연구의 새로운 전망 (2nd ed.)."
+        },
+        {
+          "source": "Los Angeles: Sage.",
+          "translation": "로스 앤젤레스:"
+        },
+        {
+          "source": "Bacchetti, P. (2010).",
+          "translation": "바체티, P. (2010)."
+        },
+        {
+          "source": "Current sample size conventions: Flaws, harms, and alternatives.",
+          "translation": "현재 샘플 크기의 협약: 결함, 유해 및 대안."
+        },
+        {
+          "source": "BMC Medicine, 8, 17.",
+          "translation": "BMC 의약품, 8, 17."
+        },
+        {
+          "source": "doi:10.1186/1741-7015-8-17 Carlsen, B., & Glenton, C. (2011).",
+          "translation": "doi:10.1186/1741-7015-8-17 칼센, B., & 글렌턴, C. (2011)."
+        },
+        {
+          "source": "What about N?",
+          "translation": "N은 어때요?"
+        },
+        {
+          "source": "A methodological study of sample-size reporting in focus group studies.",
+          "translation": "초점 그룹 연구에서 샘플 크기의 보고에 대한 방법론적 연구."
+        },
+        {
+          "source": "BMC Medical Research Methodology, 11, Article 26.",
+          "translation": "BMC 의료 연구 방법론 11, 제26조."
+        },
+        {
+          "source": "doi:10.1186/1471-2288-11-26 Chamberlain, K. (2000).",
+          "translation": "doi:10.1186/1471-2288-11-26 챔버런, K. (2000)."
+        },
+        {
+          "source": "Methodolatry and qualitative health research.",
+          "translation": "방법론과 질적 건강 연구."
+        },
+        {
+          "source": "Journal of Health Psychology, 5, 285–296.",
+          "translation": "건강 심리학 학술지, 5, 285296."
+        },
+        {
+          "source": "doi:10.1177/135910530000500306 Charmaz, K. (2006).",
+          "translation": "doi:10.1177/135910530000500306 카르마즈, K. (2006)."
+        },
+        {
+          "source": "Constructing grounded theory: A practical guide through qualitative analysis.",
+          "translation": "기반 이론을 구축: 질적 분석을 통해 실용적인 지침서."
+        },
+        {
+          "source": "Thousand Oaks, CA: Sage.",
+          "translation": "천 오크스, 크리스 앤더슨:"
+        },
+        {
+          "source": "Cohen, D. J., & Crabtree, B. F. (2008).",
+          "translation": "코헨, D. J., & 크랩트리, B. F. (2008)."
+        },
+        {
+          "source": "Evaluative criteria for qualitative research in health care: Controversies and recommendations.",
+          "translation": "보건의료분야의 질적 연구를 위한 평가 기준: 논란과 권고"
+        },
+        {
+          "source": "Annals of Family Medicine, 6, 331–339.",
+          "translation": "가족 의학적 기록, 6,331339."
+        },
+        {
+          "source": "DePaulo, P. (2000).",
+          "translation": "데파울로, P. (2000)."
+        },
+        {
+          "source": "Sample size for qualitative research: The risk of missing something important.",
+          "translation": "질적 연구를 위한 샘플 크기: 중요한 것을 놓칠 위험이 있습니다."
+        },
+        {
+          "source": "Quirk’s Marketing Research Review.",
+          "translation": "Quirk 즈의 마케팅 연구 리뷰."
+        },
+        {
+          "source": "Retrieved from http://www.quirks.com/ articles/a2000/20001202.aspx Glaser, B., & Strauss, A. (1999).",
+          "translation": "http://www.quirks.com/ articles/a2000/20001202.aspx에서 가져온 글래저, B., & 스트라우스, A. (1999)."
+        },
+        {
+          "source": "The discovery of grounded theory: Strategies for qualitative research.",
+          "translation": "기초 이론의 발견: 질적 연구를 위한 전략"
+        },
+        {
+          "source": "New York: Aldine de Gruyter.",
+          "translation": "뉴욕: 알딘 드 그루이터"
+        },
+        {
+          "source": "Guest, G., Bunce, A., & Johnson, L. (2006).",
+          "translation": "게스트, G., 반스, A., & 존슨, L. (2006)."
+        },
+        {
+          "source": "How many interviews are enough?",
+          "translation": "얼마나 많은 인터뷰가 충분할까요?"
+        },
+        {
+          "source": "An experiment with data Saturation and variability.",
+          "translation": "데이터 포화 및 변동성 실험"
+        },
+        {
+          "source": "Field Methods, 18, 59–82.",
+          "translation": "현장 방법, 18, 5982."
+        },
+        {
+          "source": "doi:10.1177/15258 22x05279903",
+          "translation": "2·10·1177/15258 22x05279903"
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 8,
+      "sourceText": "1760\t\nQualitative Health Research 26(13)\n\n\nHaraway, D. (1991). Situated knowledges: The science question in feminism and the privilege of partial perspective. In \nD. Haraway (Ed.), Simians, cyborgs, and women: The reinvention of nature (pp. 183–201). New York: Routledge.\nKuhn, T. S. (1962). The structure of scientific revolutions. \n\n\nChicago: University of Chicago Press.\nKuzel, A. (1999). Sampling in qualitative inquiry. In W. Miller \n\n\n& B. Crabtree (Eds.), Doing qualitative research (2nd ed., \npp. 33–45). Thousand Oaks, CA: Sage.\nKvale, S. (1996). InterViews: An introduction to qualitative \n\n\nresearch interviewing. Thousand Oaks, CA: Sage.\nMalterud, K. (2001). Qualitative research: Standards, challenges, and guidelines. The Lancet, 358, 483–488. \nRetrieved from http://goo.gl/irFdLB\nMalterud, K. (2012). Systematic text condensation: A strategy \n\n\nfor qualitative analysis. Scandinavian Journal of Public \nHealth, 40, 795–805. doi:10.1177/1403494812465030\nMarshall, M. N. (1996). Sampling for qualitative research. \n\n\nFamily Practice, 13, 522–525. Retrieved from http://fampra.oxfordjournals.org/content/13/6/522.full.pdf\nMason, M. (2010). Sample size and saturation in PhD studies \n\n\nusing qualitative interviews. Forum: Qualitative Social \nResearch, 11, Article 8.\nMcWhinney, I. R. (1989). An acquaintance with particulars. \n\n\nFamily Medicine, 21, 296–298.\nMorse, J. M. (1991). Strategies for sampling. In J. M. Morse \n\n\n(Ed.), Qualitative nursing research—A contemporary dialogue (pp. 127–145). Newbury Park, CA: Sage.\nMorse, J. M. (1995). The significance of saturation. Qualitative \n\n\nHealth Research, 5, 147–149. doi:10.1177/1049732395 \n00500201\nMorse, J. M. (2000). Determining sample size. Qualitative Health \n\n\nResearch, 10, 3–5. doi:10.1177/104973200129118183\nMorse, J. M. (2015a). Data were saturated. Qualitative Health \n\n\nResearch, 25, 587–588. doi:10.1177/1049732315576699\n\n\nMorse, J. M. (2015b). All data are not equal. Qualitative Health \n\n\nResearch, 25, 1169–1170. doi:10.1177/1049732315597655\nO’Reilly, M., & Parker, N. (2013). “Unsatisfactory saturation”: \n\n\nA critical exploration of the notion of saturated sample \nsizes in qualitative research. Qualitative Research, 13, \n190–197. doi:10.1177/1468794112446106\nPatton, M. Q. (2015). Qualitative research & evaluation methods: Integrating theory and practice (4th ed.). Thousand \nOaks, CA: Sage.\nSandelowski, M. (1995). Sample size in qualitative research. \n\n\nResearch in Nursing and Health, 18, 179–183. Retrieved \nfrom http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=\nRetrieve&;db=PubMed&dopt=Citation&list_uids=7899572\nSandelowski, M. (1996). One is the liveliest number: The case \n\n\norientation of qualitative research. Research in Nursing \nand Health, 19, 525–529. doi:10.1002/(SICI)1098-\n240X(199612)19:6<525::AID-NUR8>3.0.CO;2-Q\nSpradley, J. (1979). The ethnographic interview. New York: \n\n\nHolt, Rinehart, & Winston.\n\n\nAuthor Biographies\n\n\nKirsti Malterud, MD, PhD, is a senior researcher and professor \nof general practice  at the Research Unit for General Practice \n(Copenhagen/Denmark), the Research Unit for General Practice, \nUni Research Health (Bergen/Norway) and Department of Global \nPublic Health and Primary Care, University of Bergen/Norway.\n\n\nVolkert Dirk Siersma, PhD, is statistician at The Research \nUnit for General Practice and The Section of General Practice, \nDepartment of Public Health, University of Copenhagen\n\n\nAnn Dorrit Guassora, MD, PhD, is an associate research professor at The Research Unit for General Practice and assistant \nprofessor at The Section of General Practice, Department of \nPublic Health, University of Copenhagen.",
+      "translationText": "1760 질적 건강 연구 26 ((13) Haraway, D. (1991).\n\n위치된 지식: 페미니즘의 과학 문제와 부분적 관점의 특권.\n\nD. 하라웨이 (Ed.), 시미언, 사이보르크, 그리고 여성: 자연의 재발견 (pp. 183201).\n\n뉴욕: 루틀리지\n\n쿠언, T.S. (1962).\n\n과학 혁명의 구조\n\n시카고: 시카고 대학 출판사.\n\n쿠젤, A. (1999)\n\n질적 조사에서 샘플링\n\nW. 밀러 & B. 크랩트리 (Ed.), 질적 연구를 수행 (2nd ed., pp. 3345).\n\n천 오크스, 크리스 앤더슨:\n\nKvale, S. (1996).\n\n인터뷰: 질적 연구 인터뷰에 대한 소개.\n\n천 오크스, 크리스 앤더슨:\n\n말터드, K. (2001).\n\n질적 연구: 표준, 과제 및 지침\n\n랜셋, 358, 483 488.\n\n이 자료는 http://goo.gl/irFdLB Malterud, K. (2012) 에서 가져왔다.\n\n체계적인 텍스트 단축: 질적 분석을 위한 전략\n\n스칸디나비아 공중 보건 학술지, 40, 795805.\n\ndoi:10.1177/1403494812465030 마셜, M.N. (1996).\n\n질적 연구를 위한 샘플링\n\n가족 실습, 13, 522525.\n\nhttp://fampra.oxfordjournals.org/content/13/6/522.full.pdf에서 검색되었습니다.\n\n질적 면접을 이용한 박사 연구의 샘플 크기와 포화\n\n포럼: 질적 사회 연구, 11조 8조\n\n맥윈니, I.R. (1989).\n\n세부 사항에 대해 아는 사람.\n\n가족 의학, 21, 296 298.\n\n모스, J. M. (1991).\n\n샘플링 전략\n\nJ. M. 모스 (편집) 에서 양질의 간호 연구 현대적 대화 (pp. 127145).\n\n뉴베리 파크, CA: Sage.\n\n모스, J. M. (1995).\n\n포화의 중요성.\n\n질적 건강 연구, 5, 147149.\n\ndoi:10.1177/1049732395 00500201 모스, J. M. (2000).\n\n샘플 크기를 결정합니다.\n\n질적 건강 연구, 10, 35.\n\ndoi:10.1177/104973200129118183 모스, J. M. (2015a).\n\n자료는 포화되어 있었습니다.\n\n질적 건강 연구, 25, 587 588.\n\ndoi:10.1177/1049732315576699 모스, J. M. (2015b).\n\n모든 데이터는 동일하지 않습니다.\n\n질적 건강 연구, 25, 11691170.\n\ndoi:10.1177/1049732315597655 OReilly, M., & Parker, N. (2013).\n\n불만족한 포화: 질적 연구에서 포화 된 샘플 크기의 개념을 비판적으로 탐구합니다.\n\n질적 연구, 13, 190~197.\n\ndoi:10.1177/1468794112446106 패튼, M. Q. (2015).\n\n질적 연구 및 평가 방법: 이론과 실제를 통합하는 것 (4번째 발행).\n\n천 오크스, 크리스 앤더슨:\n\n샌델로프스키, M. (1995).\n\n질적 연구에서 샘플 크기는\n\n간호 및 건강 연구, 18, 179~183.\n\nhttp://www.ncbi.nlm.nih.gov/entrez/query.fcgi에서 검색되었나요?\n\ncmd=Retrieve&;db=PubMed&dopt=Citation&list_uids=7899572 샌델로프스키, M. (1996).\n\n하나는 가장 생동감 넘치는 숫자입니다. 질적 연구의 사례 지향입니다.\n\n간호 및 건강 연구, 19, 525529.\n\n(SICI) 1098- 240X (199612) 19:6 <525::AID-NUR8>3.0.CO;2-Q 스프래들리, J. (1979).\n\n민족문제 인터뷰\n\n뉴욕: 홀트, 리네하트, & 윈스턴\n\n저자 서사지 Kirsti Malterud, MD, PhD는 일반 실습 연구 부대 (코펜하겐/덴마크), 일반 실습연구 부대, UN 연구 보건 (베르겐/노르웨이) 및 글로벌 공공 보건 및 초등 의료 부대 (University of Bergen/Norway) 의 고위 연구자 및 일반 실습 교수입니다.\n\nVolkert Dirk Siersma 박사는 코펜하겐대학교 공중보건학과의 일차의료연구실(The Research Unit for General Practice)과 일차의료학부문(The Section of General Practice)에 소속된 통계학자이다. Ann Dorrit Guassora 의학박사·박사는 같은 대학 공중보건학과 일차의료연구실의 연구부교수(associate research professor)이자 일차의료학부문의 조교수이다.",
+      "status": "translated",
+      "sourceTextSha256": "f15c3bf21bd57c58bf2c27bc2ae9a1b9bd594f90f2ec34e8ccd69c6f700d2e95",
+      "segments": [
+        {
+          "source": "1760 Qualitative Health Research 26(13) Haraway, D. (1991).",
+          "translation": "1760 질적 건강 연구 26 ((13) Haraway, D. (1991)."
+        },
+        {
+          "source": "Situated knowledges: The science question in feminism and the privilege of partial perspective.",
+          "translation": "위치된 지식: 페미니즘의 과학 문제와 부분적 관점의 특권."
+        },
+        {
+          "source": "In D. Haraway (Ed.), Simians, cyborgs, and women: The reinvention of nature (pp. 183–201).",
+          "translation": "D. 하라웨이 (Ed.), 시미언, 사이보르크, 그리고 여성: 자연의 재발견 (pp. 183201)."
+        },
+        {
+          "source": "New York: Routledge.",
+          "translation": "뉴욕: 루틀리지"
+        },
+        {
+          "source": "Kuhn, T. S. (1962).",
+          "translation": "쿠언, T.S. (1962)."
+        },
+        {
+          "source": "The structure of scientific revolutions.",
+          "translation": "과학 혁명의 구조"
+        },
+        {
+          "source": "Chicago: University of Chicago Press.",
+          "translation": "시카고: 시카고 대학 출판사."
+        },
+        {
+          "source": "Kuzel, A. (1999).",
+          "translation": "쿠젤, A. (1999)"
+        },
+        {
+          "source": "Sampling in qualitative inquiry.",
+          "translation": "질적 조사에서 샘플링"
+        },
+        {
+          "source": "In W. Miller & B. Crabtree (Eds.), Doing qualitative research (2nd ed., pp. 33–45).",
+          "translation": "W. 밀러 & B. 크랩트리 (Ed.), 질적 연구를 수행 (2nd ed., pp. 3345)."
+        },
+        {
+          "source": "Thousand Oaks, CA: Sage.",
+          "translation": "천 오크스, 크리스 앤더슨:"
+        },
+        {
+          "source": "Kvale, S. (1996).",
+          "translation": "Kvale, S. (1996)."
+        },
+        {
+          "source": "InterViews: An introduction to qualitative research interviewing.",
+          "translation": "인터뷰: 질적 연구 인터뷰에 대한 소개."
+        },
+        {
+          "source": "Thousand Oaks, CA: Sage.",
+          "translation": "천 오크스, 크리스 앤더슨:"
+        },
+        {
+          "source": "Malterud, K. (2001).",
+          "translation": "말터드, K. (2001)."
+        },
+        {
+          "source": "Qualitative research: Standards, challenges, and guidelines.",
+          "translation": "질적 연구: 표준, 과제 및 지침"
+        },
+        {
+          "source": "The Lancet, 358, 483–488.",
+          "translation": "랜셋, 358, 483 488."
+        },
+        {
+          "source": "Retrieved from http://goo.gl/irFdLB Malterud, K. (2012).",
+          "translation": "이 자료는 http://goo.gl/irFdLB Malterud, K. (2012) 에서 가져왔다."
+        },
+        {
+          "source": "Systematic text condensation: A strategy for qualitative analysis.",
+          "translation": "체계적인 텍스트 단축: 질적 분석을 위한 전략"
+        },
+        {
+          "source": "Scandinavian Journal of Public Health, 40, 795–805.",
+          "translation": "스칸디나비아 공중 보건 학술지, 40, 795805."
+        },
+        {
+          "source": "doi:10.1177/1403494812465030 Marshall, M. N. (1996).",
+          "translation": "doi:10.1177/1403494812465030 마셜, M.N. (1996)."
+        },
+        {
+          "source": "Sampling for qualitative research.",
+          "translation": "질적 연구를 위한 샘플링"
+        },
+        {
+          "source": "Family Practice, 13, 522–525.",
+          "translation": "가족 실습, 13, 522525."
+        },
+        {
+          "source": "Retrieved from http://fampra.oxfordjournals.org/content/13/6/522.full.pdf Mason, M. (2010).",
+          "translation": "http://fampra.oxfordjournals.org/content/13/6/522.full.pdf에서 검색되었습니다."
+        },
+        {
+          "source": "Sample size and saturation in PhD studies using qualitative interviews.",
+          "translation": "질적 면접을 이용한 박사 연구의 샘플 크기와 포화"
+        },
+        {
+          "source": "Forum: Qualitative Social Research, 11, Article 8.",
+          "translation": "포럼: 질적 사회 연구, 11조 8조"
+        },
+        {
+          "source": "McWhinney, I. R. (1989).",
+          "translation": "맥윈니, I.R. (1989)."
+        },
+        {
+          "source": "An acquaintance with particulars.",
+          "translation": "세부 사항에 대해 아는 사람."
+        },
+        {
+          "source": "Family Medicine, 21, 296–298.",
+          "translation": "가족 의학, 21, 296 298."
+        },
+        {
+          "source": "Morse, J. M. (1991).",
+          "translation": "모스, J. M. (1991)."
+        },
+        {
+          "source": "Strategies for sampling.",
+          "translation": "샘플링 전략"
+        },
+        {
+          "source": "In J. M. Morse (Ed.), Qualitative nursing research—A contemporary dialogue (pp. 127–145).",
+          "translation": "J. M. 모스 (편집) 에서 양질의 간호 연구 현대적 대화 (pp. 127145)."
+        },
+        {
+          "source": "Newbury Park, CA: Sage.",
+          "translation": "뉴베리 파크, CA: Sage."
+        },
+        {
+          "source": "Morse, J. M. (1995).",
+          "translation": "모스, J. M. (1995)."
+        },
+        {
+          "source": "The significance of saturation.",
+          "translation": "포화의 중요성."
+        },
+        {
+          "source": "Qualitative Health Research, 5, 147–149.",
+          "translation": "질적 건강 연구, 5, 147149."
+        },
+        {
+          "source": "doi:10.1177/1049732395 00500201 Morse, J. M. (2000).",
+          "translation": "doi:10.1177/1049732395 00500201 모스, J. M. (2000)."
+        },
+        {
+          "source": "Determining sample size.",
+          "translation": "샘플 크기를 결정합니다."
+        },
+        {
+          "source": "Qualitative Health Research, 10, 3–5.",
+          "translation": "질적 건강 연구, 10, 35."
+        },
+        {
+          "source": "doi:10.1177/104973200129118183 Morse, J. M. (2015a).",
+          "translation": "doi:10.1177/104973200129118183 모스, J. M. (2015a)."
+        },
+        {
+          "source": "Data were saturated.",
+          "translation": "자료는 포화되어 있었습니다."
+        },
+        {
+          "source": "Qualitative Health Research, 25, 587–588.",
+          "translation": "질적 건강 연구, 25, 587 588."
+        },
+        {
+          "source": "doi:10.1177/1049732315576699 Morse, J. M. (2015b).",
+          "translation": "doi:10.1177/1049732315576699 모스, J. M. (2015b)."
+        },
+        {
+          "source": "All data are not equal.",
+          "translation": "모든 데이터는 동일하지 않습니다."
+        },
+        {
+          "source": "Qualitative Health Research, 25, 1169–1170.",
+          "translation": "질적 건강 연구, 25, 11691170."
+        },
+        {
+          "source": "doi:10.1177/1049732315597655 O’Reilly, M., & Parker, N. (2013).",
+          "translation": "doi:10.1177/1049732315597655 OReilly, M., & Parker, N. (2013)."
+        },
+        {
+          "source": "“Unsatisfactory saturation”: A critical exploration of the notion of saturated sample sizes in qualitative research.",
+          "translation": "불만족한 포화: 질적 연구에서 포화 된 샘플 크기의 개념을 비판적으로 탐구합니다."
+        },
+        {
+          "source": "Qualitative Research, 13, 190–197.",
+          "translation": "질적 연구, 13, 190~197."
+        },
+        {
+          "source": "doi:10.1177/1468794112446106 Patton, M. Q. (2015).",
+          "translation": "doi:10.1177/1468794112446106 패튼, M. Q. (2015)."
+        },
+        {
+          "source": "Qualitative research & evaluation methods: Integrating theory and practice (4th ed.).",
+          "translation": "질적 연구 및 평가 방법: 이론과 실제를 통합하는 것 (4번째 발행)."
+        },
+        {
+          "source": "Thousand Oaks, CA: Sage.",
+          "translation": "천 오크스, 크리스 앤더슨:"
+        },
+        {
+          "source": "Sandelowski, M. (1995).",
+          "translation": "샌델로프스키, M. (1995)."
+        },
+        {
+          "source": "Sample size in qualitative research.",
+          "translation": "질적 연구에서 샘플 크기는"
+        },
+        {
+          "source": "Research in Nursing and Health, 18, 179–183.",
+          "translation": "간호 및 건강 연구, 18, 179~183."
+        },
+        {
+          "source": "Retrieved from http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?",
+          "translation": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi에서 검색되었나요?"
+        },
+        {
+          "source": "cmd= Retrieve&;db=PubMed&dopt=Citation&list_uids=7899572 Sandelowski, M. (1996).",
+          "translation": "cmd=Retrieve&;db=PubMed&dopt=Citation&list_uids=7899572 샌델로프스키, M. (1996)."
+        },
+        {
+          "source": "One is the liveliest number: The case orientation of qualitative research.",
+          "translation": "하나는 가장 생동감 넘치는 숫자입니다. 질적 연구의 사례 지향입니다."
+        },
+        {
+          "source": "Research in Nursing and Health, 19, 525–529.",
+          "translation": "간호 및 건강 연구, 19, 525529."
+        },
+        {
+          "source": "doi:10.1002/(SICI)1098- 240X(199612)19:6<525::AID-NUR8>3.0.CO;2-Q Spradley, J. (1979).",
+          "translation": "(SICI) 1098- 240X (199612) 19:6 <525::AID-NUR8>3.0.CO;2-Q 스프래들리, J. (1979)."
+        },
+        {
+          "source": "The ethnographic interview.",
+          "translation": "민족문제 인터뷰"
+        },
+        {
+          "source": "New York: Holt, Rinehart, & Winston.",
+          "translation": "뉴욕: 홀트, 리네하트, & 윈스턴"
+        },
+        {
+          "source": "Author Biographies Kirsti Malterud, MD, PhD, is a senior researcher and professor of general practice at the Research Unit for General Practice (Copenhagen/Denmark), the Research Unit for General Practice, Uni Research Health (Bergen/Norway) and Department of Global Public Health and Primary Care, University of Bergen/Norway.",
+          "translation": "저자 서사지 Kirsti Malterud, MD, PhD는 일반 실습 연구 부대 (코펜하겐/덴마크), 일반 실습연구 부대, UN 연구 보건 (베르겐/노르웨이) 및 글로벌 공공 보건 및 초등 의료 부대 (University of Bergen/Norway) 의 고위 연구자 및 일반 실습 교수입니다."
+        },
+        {
+          "source": "Volkert Dirk Siersma, PhD, is statistician at The Research Unit for General Practice and The Section of General Practice, Department of Public Health, University of Copenhagen Ann Dorrit Guassora, MD, PhD, is an associate research professor at The Research Unit for General Practice and assistant professor at The Section of General Practice, Department of Public Health, University of Copenhagen.",
+          "translation": "Volkert Dirk Siersma 박사는 코펜하겐대학교 공중보건학과의 일차의료연구실(The Research Unit for General Practice)과 일차의료학부문(The Section of General Practice)에 소속된 통계학자이다. Ann Dorrit Guassora 의학박사·박사는 같은 대학 공중보건학과 일차의료연구실의 연구부교수(associate research professor)이자 일차의료학부문의 조교수이다.",
+          "reviewed": true
+        }
+      ],
+      "textQuality": "text"
+    }
+  ]
+}

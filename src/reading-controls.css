@@ -61,5 +61,9 @@
 .review-app:not(.view-hide-header)>.app-header{padding-right:var(--reading-actions-clearance,220px)}
 @media screen and (max-width:480px){.reading-view-menu{font-size:calc(10px * var(--review-font-scale,1.5))}.reading-view-actions{gap:4px}.reading-collapse-label{display:none}.reading-collapse-short{display:inline}.review-app:not(.view-hide-header)>.app-header{padding-right:var(--reading-actions-clearance,160px)}.review-app .header-title{display:none}}
 
-.review-app.view-hide-header .metadata-pane>.reference-heading{padding-top:calc(var(--reading-actions-height,44px) + 16px + env(safe-area-inset-top))}
+/* A collapsed header still needs a real row for its restore controls.  Keeping
+   these buttons fixed over the first document row obscured reading-mode tabs. */
+.review-app.view-hide-header>.reading-view-menu,.review-app.header-height-small>.reading-view-menu{position:relative;top:auto;right:auto;align-self:stretch;flex:0 0 auto;max-width:none;padding:6px 8px;background:#fff;border-bottom:1px solid #e1dadd}
+.review-app.header-height-small>.app-header{padding-right:12px}
+.review-app.view-hide-header .metadata-pane>.reference-heading{padding-top:6px}
 

@@ -9,15 +9,14 @@ const clamp=(n:number,min:number,max:number)=>Math.min(max,Math.max(min,n));
 /** Positions of the two document dividers, excluding the navigation sidebar. */
 export function normalizeFourPaneCuts(value:unknown):FourPaneCuts{
   const row=value&&typeof value==='object'?value as Partial<FourPaneCuts>:{};
-  const thesis=clamp(finite(row.thesis,DEFAULT_FOUR_PANE_CUTS.thesis),22,60);
-  const sourceEnd=clamp(finite(row.sourceEnd,DEFAULT_FOUR_PANE_CUTS.sourceEnd),thesis+20,80);
+  const thesis=clamp(finite(row.thesis,DEFAULT_FOUR_PANE_CUTS.thesis),0,100);
+  const sourceEnd=clamp(finite(row.sourceEnd,DEFAULT_FOUR_PANE_CUTS.sourceEnd),thesis,100);
   return {thesis,sourceEnd};
 }
 export function moveFourPaneBoundary(cuts:FourPaneCuts,boundary:'thesis'|'source',value:number):FourPaneCuts{
   const current=normalizeFourPaneCuts(cuts);
-  return boundary==='thesis'
-    ?{...current,thesis:clamp(finite(value,current.thesis),22,current.sourceEnd-20)}
-    :{...current,sourceEnd:clamp(finite(value,current.sourceEnd),current.thesis+20,80)};
+  const next=clamp(finite(value,boundary==='thesis'?current.thesis:current.sourceEnd),0,100);
+  return boundary==='thesis'?{thesis:next,sourceEnd:Math.max(current.sourceEnd,next)}:{thesis:Math.min(current.thesis,next),sourceEnd:next};
 }
 export function fourPaneColumns(cuts:FourPaneCuts):string{
   const {thesis,sourceEnd}=normalizeFourPaneCuts(cuts);
@@ -26,7 +25,7 @@ export function fourPaneColumns(cuts:FourPaneCuts):string{
 
 /** Keep the wider reading layout separate from the saved editing layout. */
 export function normalizeCollapsedSplit(value:unknown):number{
-  return clamp(finite(value,DEFAULT_COLLAPSED_SPLIT),28,72);
+  return clamp(finite(value,DEFAULT_COLLAPSED_SPLIT),0,100);
 }
 export function collapsedPaneColumns(value:unknown):string{
   const thesis=normalizeCollapsedSplit(value);

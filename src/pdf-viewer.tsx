@@ -3,6 +3,7 @@ import {assetUrl} from './review-api';
 import {capturePdfReadingPosition,readPdfReadingPosition,restorePdfReadingPosition,writePdfReadingPosition,createPdfRuntimeCache,measurableViewport,movedPointer,normalizedPoint,pendingPdfReflow,pageIndexAt,pageLayout,pdfCanvasSize,pdfLoadError,reflowScrollPosition,reflowHorizontalPosition,targetAt,targetHint,targetLabel,visiblePageRange,watchDocumentInterruption,type PageSize,type PdfTarget,type PdfReadingPosition} from './pdf-viewer-model';
 import './pdf-viewer.css';
 import PdfQuickControls from './pdf-quick-controls';
+import {fittedPdfZoom,type PdfFitMode} from './pdf-scale-model';
 import {pageProposalMarkers,placeProposalMarkers,proposalLabel,type ProposalIndicator} from './proposal-indicators';
 import './proposal-indicators.css';
 type Obj=Record<string,any>;
@@ -18,7 +19,7 @@ const pdfRuntime=createPdfRuntimeCache(async attempt=>{
 const pdfModule=()=>pdfRuntime.get();
 export type PdfIntegrityStatus='checking'|'verified'|'mismatch'|'unavailable';
 
-type Props={id:string;page:number;total:number;zoom?:number;onZoomChange?:(zoom:number)=>void;quickTools?:boolean;pageSizes?:{page:number;width:number;height:number}[];highlights?:Obj[];targets?:PdfTarget[];pins?:Pin[];onPageChange:(page:number)=>void;onTarget?:(id:string)=>void;onPin?:(pin:any)=>void;onPlace?:(x:number,y:number,page:number)=>void;placing?:boolean;label?:string;proposalIndicators?:Record<string,ProposalIndicator>;onProposal?:(proposalId:string)=>void;persistenceKey?:string;navigationToken?:number;onNavigationHandled?:(token:number)=>void;expectedSha256?:string;onIntegrityStatus?:(status:PdfIntegrityStatus)=>void};
+type Props={id:string;documentUrl?:string;page:number;total:number;zoom?:number;onZoomChange?:(zoom:number)=>void;fitMode?:PdfFitMode;onFitModeChange?:(mode:PdfFitMode)=>void;onResolvedZoom?:(zoom:number)=>void;quickTools?:boolean;pageSizes?:{page:number;width:number;height:number}[];highlights?:Obj[];targets?:PdfTarget[];pins?:Pin[];onPageChange:(page:number)=>void;onTarget?:(id:string)=>void;onPin?:(pin:any)=>void;onPlace?:(x:number,y:number,page:number)=>void;placing?:boolean;label?:string;proposalIndicators?:Record<string,ProposalIndicator>;onProposal?:(proposalId:string)=>void;persistenceKey?:string;navigationToken?:number;onNavigationHandled?:(token:number)=>void;expectedSha256?:string;onIntegrityStatus?:(status:PdfIntegrityStatus)=>void};
 type PositionSession={key?:string;pending:PdfReadingPosition|null;ready:boolean;last:PdfReadingPosition|null;timer:ReturnType<typeof setTimeout>|null;handledToken:number;localPage:number|null};
 const positionStorage=()=>{try{return typeof window==='undefined'?undefined:window.localStorage;}catch{return undefined;}};
 function flushPosition(session:PositionSession){if(session.timer!==null){clearTimeout(session.timer);session.timer=null;}if(session.last)writePdfReadingPosition(positionStorage(),session.last);}
@@ -91,7 +92,7 @@ function PdfPage({doc,runtime,page,width,height,highlights,targets,pins,onTarget
   </div>;
 }
 
-export default function PdfPane({id,page,total,zoom=1,onZoomChange,quickTools=false,pageSizes=NO_PAGE_SIZES,highlights=[],targets=[],pins=[],onPageChange,onTarget,onPin,onPlace,placing=false,label='PDF 문서',proposalIndicators={},onProposal,persistenceKey,navigationToken=0,onNavigationHandled,expectedSha256,onIntegrityStatus}:Props){
+export default function PdfPane({id,documentUrl,page,total,zoom=1,onZoomChange,fitMode='custom',onFitModeChange,onResolvedZoom,quickTools=false,pageSizes=NO_PAGE_SIZES,highlights=[],targets=[],pins=[],onPageChange,onTarget,onPin,onPlace,placing=false,label='PDF 문서',proposalIndicators={},onProposal,persistenceKey,navigationToken=0,onNavigationHandled,expectedSha256,onIntegrityStatus}:Props){
   const host=useRef<HTMLDivElement>(null),frame=useRef(0),reported=useRef(page),onPageRef=useRef(onPageChange),onNavigationRef=useRef(onNavigationHandled);
   onPageRef.current=onPageChange;onNavigationRef.current=onNavigationHandled;
   const integrityCallback=useRef(onIntegrityStatus);integrityCallback.current=onIntegrityStatus;
@@ -106,15 +107,18 @@ export default function PdfPane({id,page,total,zoom=1,onZoomChange,quickTools=fa
   useEffect(()=>watchDocumentInterruption(cancelDrag,window,document),[cancelDrag]);
   const doc=loaded?.id===id?loaded.doc:null;
   useEffect(()=>{let stopped=false,task:any;setError('');setLoaded(null);if(expectedSha256)integrityCallback.current?.('checking');const cached=position.pending||position.last;setMeasured({id,values:Object.fromEntries((cached?.sizes||[]).map(([p,width,height])=>[p,{width,height}]))});
-    (async()=>{try{const m=await pdfModule();if(stopped)return;task=m.getDocument({url:assetUrl(id),cMapUrl:localAsset('./vendor/pdfjs/cmaps/'),cMapPacked:true,standardFontDataUrl:localAsset('./vendor/pdfjs/standard_fonts/'),wasmUrl:localAsset('./vendor/pdfjs/wasm/')});const document=await task.promise;if(stopped)return;setLoaded({id,doc:document,runtime:m});if(expectedSha256){try{const bytes=await document.getData();const digest=await crypto.subtle.digest('SHA-256',bytes);const hash=Array.from(new Uint8Array(digest)).map(value=>value.toString(16).padStart(2,'0')).join('');if(!stopped)integrityCallback.current?.(hash===expectedSha256.toLowerCase()?'verified':'mismatch');}catch{if(!stopped)integrityCallback.current?.('unavailable');}}}catch(e){if(!stopped){setError(pdfLoadError(e));if(expectedSha256)integrityCallback.current?.('unavailable');}}})();
+    (async()=>{try{const m=await pdfModule();if(stopped)return;task=m.getDocument({url:documentUrl||assetUrl(id),cMapUrl:localAsset('./vendor/pdfjs/cmaps/'),cMapPacked:true,standardFontDataUrl:localAsset('./vendor/pdfjs/standard_fonts/'),wasmUrl:localAsset('./vendor/pdfjs/wasm/')});const document=await task.promise;if(stopped)return;setLoaded({id,doc:document,runtime:m});if(expectedSha256){try{const bytes=await document.getData();const digest=await crypto.subtle.digest('SHA-256',bytes);const hash=Array.from(new Uint8Array(digest)).map(value=>value.toString(16).padStart(2,'0')).join('');if(!stopped)integrityCallback.current?.(hash===expectedSha256.toLowerCase()?'verified':'mismatch');}catch{if(!stopped)integrityCallback.current?.('unavailable');}}}catch(e){if(!stopped){setError(pdfLoadError(e));if(expectedSha256)integrityCallback.current?.('unavailable');}}})();
     return()=>{stopped=true;void task?.destroy();};
-  },[id,loadAttempt,position,expectedSha256]);
-  const sizes=useMemo(()=>({...Object.fromEntries(pageSizes.map(s=>[s.page,{width:s.width,height:s.height}])),...(measured.id===id?measured.values:{})}),[pageSizes,measured,id]);
-  const layout=useMemo(()=>pageLayout(doc?.numPages||total,viewport.width,zoom,sizes),[doc,total,viewport.width,zoom,sizes]);
+  },[id,documentUrl,loadAttempt,position,expectedSha256]);
+  const sizes=useMemo<Record<number,PageSize>>(()=>({...Object.fromEntries(pageSizes.map(s=>[s.page,{width:s.width,height:s.height}])),...(measured.id===id?measured.values:{})}),[pageSizes,measured,id]);
+  const effectiveZoom=fittedPdfZoom(fitMode,zoom,viewport,sizes[page]||{width:515,height:728});
+  useEffect(()=>{if(fitMode!=='custom'&&Math.abs(zoom-effectiveZoom)>.00001)onResolvedZoom?.(effectiveZoom);},[fitMode,zoom,effectiveZoom,onResolvedZoom]);
+  const layout=useMemo(()=>pageLayout(doc?.numPages||total,viewport.width,effectiveZoom,sizes),[doc,total,viewport.width,effectiveZoom,sizes]);
+  const previousFitMode=useRef(fitMode);
   const previousLayout=useRef<{id:string;layout:typeof layout}|null>(null);
   const renderedWidth=useRef(viewport.width);renderedWidth.current=viewport.width;
   const layoutRef=useRef(layout);layoutRef.current=layout;
-  const readingInfo=useRef({zoom,sizes,docReady:!!doc});readingInfo.current={zoom,sizes,docReady:!!doc};
+  const readingInfo=useRef({zoom:effectiveZoom,sizes,docReady:!!doc});readingInfo.current={zoom:effectiveZoom,sizes,docReady:!!doc};
   const viewportSize=(el:HTMLElement)=>{const style=getComputedStyle(el);return measurableViewport(el.clientWidth,el.clientHeight,parseFloat(style.paddingLeft)+parseFloat(style.paddingRight));};
   const rememberPosition=useCallback((el:HTMLElement)=>{const session=positionRef.current;if(!session.key||!session.ready||!readingInfo.current.docReady)return;
     const current=pageIndexAt(layoutRef.current.offsets,Math.max(0,el.scrollTop-18)+Math.min(el.clientHeight*.2,150))+1;
@@ -129,7 +133,8 @@ export default function PdfPane({id,page,total,zoom=1,onZoomChange,quickTools=fa
   useEffect(()=>{const flush=()=>{updateViewport();flushPosition(position);};const onVisibility=()=>{if(document.hidden)flush();};window.addEventListener('pagehide',flush);document.addEventListener('visibilitychange',onVisibility);return()=>{window.removeEventListener('pagehide',flush);document.removeEventListener('visibilitychange',onVisibility);flushPosition(position);};},[position,updateViewport]);
   useEffect(()=>{const el=host.current!;const observer=new ResizeObserver(()=>{const size=viewportSize(el);if(!size){flushPosition(positionRef.current);hidden.current=true;setRenderable(false);cancelDrag();cancelAnimationFrame(frame.current);return;}setRenderable(true);if(hidden.current){hidden.current=false;resumeScroll.current=true;setAppearance(value=>value+1);}if(Math.abs(size.width-renderedWidth.current)>.5)cancelAnimationFrame(frame.current);setViewport(v=>v.width===size.width&&v.height===size.height?v:{...v,...size});});observer.observe(el);return()=>{observer.disconnect();cancelAnimationFrame(frame.current);};},[cancelDrag]);
   useLayoutEffect(()=>{const el=host.current;if(!el)return;const size=viewportSize(el);if(!size){hidden.current=true;return;}if(hidden.current){hidden.current=false;resumeScroll.current=true;}const previous=previousLayout.current,returning=resumeScroll.current,reflowing=previous?.id===id&&previous.layout!==layout,readingTop=returning||reflowing?savedScroll.current.top:el.scrollTop;let top:number|undefined;
-    const externalNavigation=navigationToken>0&&navigationToken!==position.handledToken,explicit=externalNavigation||position.localPage!==null;
+    const fitChanged=previousFitMode.current!==fitMode;previousFitMode.current=fitMode;
+    const externalNavigation=navigationToken>0&&navigationToken!==position.handledToken,explicit=externalNavigation||position.localPage!==null||fitChanged;
     const targetPage=externalNavigation?page:position.localPage??page;
     if(explicit)position.pending=null;
     const canRestore=!!doc&&Math.abs(viewport.width-size.width)<.5;
@@ -142,15 +147,15 @@ export default function PdfPane({id,page,total,zoom=1,onZoomChange,quickTools=fa
     const left=restored?restored.left:documentChanged?0:reflowing?reflowHorizontalPosition(previous!.layout.width,layout.width,savedScroll.current.left):savedScroll.current.left;
     previousLayout.current={id,layout};resumeScroll.current=false;if(top!==undefined){el.scrollTop=top+18;if(restored||returning||reflowing||documentChanged)el.scrollLeft=left;savedScroll.current={top:el.scrollTop,left:el.scrollLeft};setViewport(v=>({...v,top:el.scrollTop}));cancelAnimationFrame(frame.current);frame.current=requestAnimationFrame(updateViewport);}
     if(canRestore){position.ready=true;position.pending=null;if(explicit){position.localPage=null;if(externalNavigation){position.handledToken=navigationToken;onNavigationRef.current?.(navigationToken);}}if(top===undefined){cancelAnimationFrame(frame.current);frame.current=requestAnimationFrame(updateViewport);}}
-  },[page,id,layout,appearance,updateViewport,position,doc,viewport.width,navigationToken]);
+  },[page,id,layout,appearance,updateViewport,position,doc,viewport.width,navigationToken,fitMode]);
   const onSize=useCallback((p:number,size:PageSize)=>setMeasured(previous=>{const values=previous.id===id?previous.values:{};const old=values[p];return old&&Math.abs(old.width-size.width)<.01&&Math.abs(old.height-size.height)<.01?previous:{id,values:{...values,[p]:size}};}),[id]);
   const visible=renderable?visiblePageRange(layout.offsets,Math.max(0,viewport.top-18),viewport.height,1):[];
   const requestPage=(next:number)=>{position.pending=null;position.localPage=next;setAppearance(value=>value+1);onPageRef.current(next);};
   const currentProposals=pageProposalMarkers(targets.filter(t=>t.page===page),proposalIndicators);
   function finishDrag(e:React.PointerEvent){if(drag.current?.pointerId===e.pointerId)cancelDrag();}
   function changeHandMode(next:boolean){if(next){const selection=window.getSelection();if(selection&&!selection.isCollapsed&&(host.current?.contains(selection.anchorNode)||host.current?.contains(selection.focusNode)))selection.removeAllRanges();}setHand(next);}
-  return <div className="pdf-reader" aria-label={label}>
-    {quickTools&&<PdfQuickControls key={id} id={id} label={label} page={page} total={doc?.numPages||total} zoom={zoom} hand={hand} onPageChange={requestPage} onZoomChange={onZoomChange} onHandChange={changeHandMode} showHighlights={showHighlights} onHighlightsChange={highlights.length?setShowHighlights:undefined}/>}
+  return <div className="pdf-reader" aria-label={label} data-fit-mode={fitMode} data-effective-zoom={effectiveZoom}>
+    {quickTools&&<PdfQuickControls key={id} id={id} label={label} page={page} total={doc?.numPages||total} zoom={effectiveZoom} fitMode={fitMode} onFitModeChange={onFitModeChange} hand={hand} onPageChange={requestPage} onZoomChange={onZoomChange} onHandChange={changeHandMode} showHighlights={showHighlights} onHighlightsChange={highlights.length?setShowHighlights:undefined}/>}
     <div className="pdf-reading-tools"><span>연속 보기</span><div><button className={hand?'selected':''} aria-pressed={hand} onClick={()=>changeHandMode(true)} title="문서를 잡고 위아래로 이동">✋ 이동</button><button className={!hand?'selected':''} aria-pressed={!hand} onClick={()=>changeHandMode(false)} title="글자를 드래그하여 선택·복사">Ⅰ 글자 선택</button>{highlights.length>0&&<button aria-pressed={showHighlights} onClick={()=>setShowHighlights(!showHighlights)}>{showHighlights?'강조 숨기기':'강조 보기'}</button>}</div><span className="pdf-reading-page">{page} / {doc?.numPages||total}</span></div>
     {Object.keys(proposalIndicators).length>0&&<div className="pdf-proposal-legend"><b>수정제안 있음</b>{Object.values(proposalIndicators).some(item=>item.priority==='반드시 수정')&&<span className="proposal-required">필수 · 반드시 수정</span>}{Object.values(proposalIndicators).some(item=>item.priority==='강하게 권고')&&<span className="proposal-recommended">권고 · 강하게 권고</span>}{Object.values(proposalIndicators).some(item=>item.priority==='선택적')&&<span className="proposal-optional">선택 · 선택적</span>}{currentProposals.length>0&&<button onClick={()=>{const first=currentProposals[0];if(onProposal)onProposal(first.indicator.primaryProposalId);else onTarget?.(first.target.noteId);}}>현재 쪽 {currentProposals.length}건 보기</button>}</div>}
     <div className={'pdf-stage continuous-pdf'+(hand?' hand-mode':' selection-mode')+(dragging?' is-dragging':'')+(placing?' placing':'')} ref={host} tabIndex={0} aria-label={`${label} 연속 스크롤`}
@@ -159,7 +164,7 @@ export default function PdfPane({id,page,total,zoom=1,onZoomChange,quickTools=fa
       onPointerMove={e=>{const d=drag.current;if(!d||d.pointerId!==e.pointerId)return;if(!d.moved&&movedPointer(d,e.clientX,e.clientY)){d.moved=true;e.currentTarget.setPointerCapture(e.pointerId);setDragging(true);}if(d.moved){e.currentTarget.scrollTop=d.top-(e.clientY-d.y);e.currentTarget.scrollLeft=d.left-(e.clientX-d.x);}}}
       onPointerUp={finishDrag} onPointerCancel={finishDrag} onLostPointerCapture={finishDrag}
       onClickCapture={e=>{if(e.detail>0&&performance.now()<suppressClickUntil.current){e.preventDefault();e.stopPropagation();}}}>
-      {error&&<div className="pdf-error" role="alert">{error} <button onClick={()=>{pdfRuntime.retry();setLoadAttempt(value=>value+1);}}>다시 불러오기</button> <a href={assetUrl(id)} target="_blank" rel="noreferrer">원문 열기 ↗</a></div>}
+      {error&&<div className="pdf-error" role="alert">{error} <button onClick={()=>{pdfRuntime.retry();setLoadAttempt(value=>value+1);}}>다시 불러오기</button> <a href={documentUrl||assetUrl(id)} target="_blank" rel="noreferrer">원문 열기 ↗</a></div>}
       {!doc&&!error&&<div className="pdf-status" role="status">문서를 불러오는 중…</div>}
       <div className="pdf-continuous-pages" style={{width:layout.width,height:layout.totalHeight}}>
         {visible.map(p=><div key={id+'-'+p} className="pdf-page-slot" style={{top:layout.offsets[p-1],width:layout.width,height:layout.heights[p-1]}} data-slot-page={p}>

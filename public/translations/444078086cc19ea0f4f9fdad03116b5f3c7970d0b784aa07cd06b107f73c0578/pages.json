@@ -1,0 +1,1819 @@
+{
+  "referenceId": "ref-051",
+  "sourceId": "s-cite-444078086cc19ea0f4f9",
+  "sourceSha256": "444078086cc19ea0f4f9fdad03116b5f3c7970d0b784aa07cd06b107f73c0578",
+  "pageCount": 8,
+  "translationType": "machine",
+  "engine": "NLLB-200 distilled 600M / CTranslate2",
+  "modelRevision": "f8d333a098d19b4fd9a8b18f94170487ad3f821d",
+  "pages": [
+    {
+      "page": 1,
+      "sourceText": "Journal of Gerontology: PSYCHOLOGICAL SCIENCES\nCopyright 2007 by The Gerontological Society of America\n2007, Vol. 62B, No. 2, P104–P111\n\n\nLinking Possible Selves and Behavior: Do\nDomain-Speciﬁc Hopes and Fears Translate Into\n\n\nDaily Activities in Very Old Age?\n\n\nChristiane A. Hoppmann,1 Denis Gerstorf,2 Jacqui Smith,3 and Petra L. Klumb4\n\n\n1School of Psychology, Georgia Institute of Technology, Atlanta.\n2Department of Psychology, University of Virginia, Charlottesville.\n3Department of Psychology and Institute for Social Research, University of Michigan, Ann Arbor.\n4Department of Psychology, University of Fribourg, Switzerland.\n\n\nWe used time-sampling information from a subsample of the Berlin Aging Study (N = 83; M = 81.1 years) to\ninvestigate the link between possible selves in three domains (health, everyday cognition, and social relations) and\nperformance of daily activities. In the domains of health and social relations, hoped-for selves were associated\nwith higher probabilities of performing daily activities in those domains. There were no associations in the\ncognitive domain or between feared selves and activities. Individuals who engaged in hope-related activities\nreported concurrent higher positive affect and subsequently had a higher probability of survival over a 10-year\nperiod. These findings speak to important associations between beliefs about possible selves and activities in\nadvanced old age and the value of considering associations between microlevel and macrolevel indicators of\nsuccessful aging.\n\n\nP\n\n\nOSSIBLE selves (Markus & Nurius, 1986) have attracted\nmuch interest in research on the processes involved in\nadaptation to age-related change across the life span (Dunkel &\nKerpelman, 2006; Hooker & McAdams, 2003; Kerpelman &\nPittman, 2001; Smith & Freund, 2002; Whaley & Shrider,\n2005). Possible selves capture the dynamic and goal-oriented\naspects of personality and have been deﬁned as personalized\nhoped-for and feared images of the self in the future that direct\nbehavior over time (Cotrell & Hooker, 2005; Markus & Nurius,\n1986). Studies on possible selves have shown that the contents\nof possible selves mirror age-related themes of life and that, in\nlater adulthood, health, cognitive functioning, and social\nrelationships are among the predominant themes (Cross &\nMarkus, 1991; Frazier, Cotrell, & Hooker, 2003; Smith &\nFreund, 2002). In this study we examine how possible selves in\nthree salient life domains (health, cognition, and social\nrelationships) translate into daily activities in old age. To do\nso, we use data from participants of the Berlin Aging Study\n(BASE; P. B. Baltes & Mayer, 1999) who additionally\nparticipated in a time-sampling study (Klumb & Baltes, 1999a).\n\n\nTheory suggests that possible selves serve motivational and\nevaluative functions. First, possible selves act as motivational\nincentives by deﬁning what is to be approached (hoped-for\nselves) and what is to be avoided (feared selves; Cotrell &\nHooker, 2005; Cross & Markus, 1991; Markus & Nurius,\n1986). Speciﬁcally, having an image of what is possible in the\nfuture allows one to mentally simulate future scenarios that\nfacilitate decisions in favor of or against speciﬁc actions and\nprovide clues about when to persist and when to withdraw.\nRepresentations of hoped-for possible selves involve goals as\nwell as scenarios about the means and strategies to achieve\nthem and thereby organize and energize the adoption of\nbehaviors (Cross & Markus, 1994; Hooker, 1992; Hooker &\nKaus, 1992; Markus & Ruvolo, 1989; Whaley, 2003). For\n\n\nP104\n\n\nexample, wanting to be a good grandparent might be a possible\nself that motivates an older adult to think about ways of\nparticipating in the lives of grandchildren. This simulation may\nlead to decisions to engage in relevant activities (e.g.,\nbabysitting) and fuel long hours of continued patience with\nenergetic grandchildren. Feared possible selves, in contrast, can\ndisorganize behavior and cause inaction by providing the\nindividual with a vivid undesirable image without necessarily\nspecifying means and strategies of how to avoid it (Hooker,\n1992; Markus & Ruvolo, 1989; Oyserman & Markus, 1990).\nThus, we expect that possible selves and, in particular, hopedfor images in the domains of health, cognition, and social relationships set the stage for daily activities in the respective domain.\n\n\nResearchers have investigated possible selves by using many\ndifferent methods (see Dunkel & Kerpelman, 2006 for an\noverview). Using time-sampling methodologies, in the present\nstudy we complement past ﬁndings by investigating whether\npreviously observed between-person relationships regarding\npossible selves and activities replicate at the within-person level\nin an individual’s own environment. In addition, the respective\nonline assessments of participants’ daily activities reduce the\neffects of memory biases in retrospective reports and incorporate context effects as part of the design (Bolger, Davis, &\nRafaeli, 2003; Schwarz, 1999). Given our focus on very old\nage, this seems to be particularly important.\n\n\nIn an attempt to examine the evaluative functions of possible selves, we also consider short-term and long-term outcomes. Discrepancy-reducing theories of affect (e.g. Carver,\nLawrence, & Scheier, 1999), for example, propose that engaging in activities that are instrumental in either minimizing\nthe distance between actual and desired situations or maximizing the distance from a feared scenario contributes to positive\naffect. We therefore expect that, at the intraindividual level,\nperformance of activities in possible self-relevant domains is",
+      "translationText": "Journal of Gerontology: PSYCHOLOGICAL SCIENCES. 저작권 2007, 미국노년학회(The Gerontological Society of America). 2007년, 권\n\n62B, 제2호, P104P111 가능한 자기와 행동 을 연결 하는 것: 특정 영역 에 대한 희망 과 두려움 은 매우 늙은 나이 에 일상적 활동 으로 번역 됩니까?\n\n크리스티안 A. 호프먼,1 데니스 게르스토르프,2 자키 스미스,3 및 페트라 L. 클룸브4 1 조지아 공과대학 심리학학교, 애틀랜타\n\n2 심리학 학부, 버지니아 대학교, 샤를로츠빌\n\n3심리학과 및 사회연구원, 미시간대학교, 앤 아보르\n\n4심리학부, 스위스 프리부르크 대학교.\n\n우리는 베를린 노화 연구의 하위 샘플 (N = 83; M = 81.1 년) 에서 시간 샘플링 정보를 사용하여 세 영역 (보건, 일상적 인식 및 사회적 관계) 에서 가능한 자기와 일상적인 활동 수행 사이의 관계를 조사했습니다.\n\n건강과 사회적 관계의 영역에서, 희망적인 자아들은 그 영역에서 일상적인 활동을 수행하는 확률이 높았기 때문입니다.\n\n인지 영역이나 두려움과 활동 사이의 연관성은 없었습니다.\n\n희망과 관련된 활동에 참여한 사람들은 동시에 더 높은 긍정적 인 영향을 보고했으며 이후 10 년 동안 생존 확률이 더 높았습니다.\n\n이러한 연구결과들은 진보된 노후의 가능한 자기와 활동에 대한 신념과 성공적인 노화의 미세 수준과 거시 수준 지표 사이의 연관성을 고려하는 것의 가치에 중요한 연관성을 보여준다.\n\nP OSSIBLE 본인 (마커스 & 누리우스, 1986) 은 평생 동안 연령과 관련된 변화에 적응하는 과정에 관한 연구에 많은 관심을 끌었다 (Dunkel & Kerpelman, 2006; Hooker & McAdams, 2003; Kerpelman & Pittman, 2001; Smith & Freund, 2002; Whaley & Shrider, 2005).\n\n가능한 자기들은 성격의 역동적이고 목표 지향적인 측면을 포착하고 있으며, 시간이 지남에 따라 행동을 지시하는 미래의 자아에 대한 개인화된 희망과 두려움의 이미지로 정의되었습니다 (Cotrell & Hooker, 2005; Markus & Nurius, 1986).\n\n가능한 자기에 대한 연구는 가능한 자기의 내용이 나이와 관련된 삶의 주제를 반영하고 있으며, 후반 성인기에 건강, 인지 기능 및 사회적 관계는 주류 주제가 (Cross & Markus, 1991; Frazier, Cotrell, & Hooker, 2003; Smith & Freund, 2002).\n\n이 연구에서 우리는 세 가지 중요한 삶의 영역 (건강, 인지 및 사회적 관계) 의 가능한 자기가 노년기에 일상적인 활동에 어떻게 번역되는지를 조사합니다.\n\n이를 위해 우리는 베를린 노화 연구 (BASE; P. B. Baltes & Mayer, 1999) 의 참가자들에 대한 데이터를 사용하며 또한 시간 샘플링 연구에 참여했다 (Klumb & Baltes, 1999a).\n\n이론은 가능한 자기가 동기부여와 평가 기능을 수행한다고 제안합니다.\n\n첫째, 가능한 자기는 접근해야 할 것을 정의함으로써 동기부여 인센티브로 작용합니다 (희망한 자아) 그리고 피해야 할 것을 (피한 자아; 코트렐 & 후커, 2005; 크로스 & 마커스, 1991; 마커스 & 누리우스, 1986).\n\n구체적으로, 미래의 가능성에 대한 이미지를 갖는 것은 특정 행동을 지지하거나 반대하는 결정을 촉진하는 미래의 시나리오를 정신적으로 시뮬레이션 할 수 있으며 언제 지속하고 언제 철수해야 하는지에 대한 단서를 제공합니다.\n\n희망 가능한 자기들의 표현은 목표를 비롯하여 이를 달성하기 위한 수단과 전략에 대한 시나리오를 포함하고 이를 통해 행동의 채택을 조직하고 활력을 불어넣습니다 (Cross & Markus, 1994; Hooker, 1992; Hooker & Kaus, 1992; Markus & Ruvolo, 1989; Whaley, 2003).\n\nP104 예를 들어, 좋은 할아버지가 되고 싶어하는 것은 어른이 손녀의 삶에 참여하는 방법에 대해 생각하도록 유도하는 잠재적인 자아일 수 있습니다.\n\n이러한 시뮬레이션은 관련 활동 (예를 들어, 보육) 에 참여할 결정으로 이어질 수 있으며, 활발한 손자들과 오랜 시간 동안 지속되는 인내심을 유발할 수 있습니다.\n\n반면, 두려움의 잠재적인 자아는 개인에게 생생한 바람직하지 않은 이미지를 제공함으로써 행동을 비조직하고 무작위로 만들 수 있습니다. 이를 피하는 방법의 수단과 전략을 반드시 명시하지 않고 (Hooker, 1992; Markus & Ruvolo, 1989; Oyserman & Markus, 1990).\n\n따라서, 우리는 건강, 인지, 그리고 사회적 관계 분야의 가능한 자기들, 특히 희망된 이미지들이 각 영역에서의 일상적인 활동의 발판을 마련할 것으로 기대한다.\n\n연구자들은 여러 가지 다른 방법을 사용하여 가능한 자기를 조사했습니다 (다널 & 케르펠먼, 2006 년 개요를 참조하십시오).\n\n시간 샘플링 방법론을 사용하여, 본 연구에서는 이전에 관찰 된 개인 간의 관계와 활동이 개인 내 차원에서 자신의 환경에서 재현되는지 조사함으로써 과거의 연구 결과를 보완합니다.\n\n또한, 참가자들의 일상의 활동에 대한 각종 온라인 평가들은 후시 보고에 대한 기억 편향의 효과를 감소시키고 디자인의 일부로 맥락 효과를 통합한다 (Bolger, Davis, & Rafaeli, 2003; Schwarz, 1999).\n\n우리가 매우 노년기에 초점을 맞춘다는 점을 감안하면, 이것은 특히 중요합니다.\n\n가능한 자기들의 평가 기능을 조사하기 위해 우리는 또한 단기 및 장기적인 결과를 고려합니다.\n\n예를 들어, 격차를 줄이는 영향 이론 (Carver, Lawrence, & Scheier, 1999) 은 실제와 원하는 상황 사이의 거리를 최소화하거나 두려워하는 시나리오에서 거리를 극대화하는 데 중요한 역할을 하는 활동에 참여하는 것이 긍정적 인 영향에 기여한다는 것을 제안합니다.\n\n따라서 우리는 개인간 차원에서 가능한 자기 관련 영역에서의 활동의 수행이",
+      "status": "translated",
+      "sourceTextSha256": "ec426bf3674e995fcf0577f216fb16db6895d719ef9b809dc7930ddb904f7248",
+      "segments": [
+        {
+          "source": "Journal of Gerontology: PSYCHOLOGICAL SCIENCES Copyright 2007 by The Gerontological Society of America 2007, Vol.",
+          "translation": "Journal of Gerontology: PSYCHOLOGICAL SCIENCES. 저작권 2007, 미국노년학회(The Gerontological Society of America). 2007년, 권",
+          "reviewed": true
+        },
+        {
+          "source": "62B, No. 2, P104–P111 Linking Possible Selves and Behavior: Do Domain-Speciﬁc Hopes and Fears Translate Into Daily Activities in Very Old Age?",
+          "translation": "62B, 제2호, P104P111 가능한 자기와 행동 을 연결 하는 것: 특정 영역 에 대한 희망 과 두려움 은 매우 늙은 나이 에 일상적 활동 으로 번역 됩니까?"
+        },
+        {
+          "source": "Christiane A. Hoppmann,1 Denis Gerstorf,2 Jacqui Smith,3 and Petra L. Klumb4 1School of Psychology, Georgia Institute of Technology, Atlanta.",
+          "translation": "크리스티안 A. 호프먼,1 데니스 게르스토르프,2 자키 스미스,3 및 페트라 L. 클룸브4 1 조지아 공과대학 심리학학교, 애틀랜타"
+        },
+        {
+          "source": "2Department of Psychology, University of Virginia, Charlottesville.",
+          "translation": "2 심리학 학부, 버지니아 대학교, 샤를로츠빌"
+        },
+        {
+          "source": "3Department of Psychology and Institute for Social Research, University of Michigan, Ann Arbor.",
+          "translation": "3심리학과 및 사회연구원, 미시간대학교, 앤 아보르"
+        },
+        {
+          "source": "4Department of Psychology, University of Fribourg, Switzerland.",
+          "translation": "4심리학부, 스위스 프리부르크 대학교."
+        },
+        {
+          "source": "We used time-sampling information from a subsample of the Berlin Aging Study (N = 83; M = 81.1 years) to investigate the link between possible selves in three domains (health, everyday cognition, and social relations) and performance of daily activities.",
+          "translation": "우리는 베를린 노화 연구의 하위 샘플 (N = 83; M = 81.1 년) 에서 시간 샘플링 정보를 사용하여 세 영역 (보건, 일상적 인식 및 사회적 관계) 에서 가능한 자기와 일상적인 활동 수행 사이의 관계를 조사했습니다."
+        },
+        {
+          "source": "In the domains of health and social relations, hoped-for selves were associated with higher probabilities of performing daily activities in those domains.",
+          "translation": "건강과 사회적 관계의 영역에서, 희망적인 자아들은 그 영역에서 일상적인 활동을 수행하는 확률이 높았기 때문입니다."
+        },
+        {
+          "source": "There were no associations in the cognitive domain or between feared selves and activities.",
+          "translation": "인지 영역이나 두려움과 활동 사이의 연관성은 없었습니다."
+        },
+        {
+          "source": "Individuals who engaged in hope-related activities reported concurrent higher positive affect and subsequently had a higher probability of survival over a 10-year period.",
+          "translation": "희망과 관련된 활동에 참여한 사람들은 동시에 더 높은 긍정적 인 영향을 보고했으며 이후 10 년 동안 생존 확률이 더 높았습니다."
+        },
+        {
+          "source": "These findings speak to important associations between beliefs about possible selves and activities in advanced old age and the value of considering associations between microlevel and macrolevel indicators of successful aging.",
+          "translation": "이러한 연구결과들은 진보된 노후의 가능한 자기와 활동에 대한 신념과 성공적인 노화의 미세 수준과 거시 수준 지표 사이의 연관성을 고려하는 것의 가치에 중요한 연관성을 보여준다."
+        },
+        {
+          "source": "P OSSIBLE selves (Markus & Nurius, 1986) have attracted much interest in research on the processes involved in adaptation to age-related change across the life span (Dunkel & Kerpelman, 2006; Hooker & McAdams, 2003; Kerpelman & Pittman, 2001; Smith & Freund, 2002; Whaley & Shrider, 2005).",
+          "translation": "P OSSIBLE 본인 (마커스 & 누리우스, 1986) 은 평생 동안 연령과 관련된 변화에 적응하는 과정에 관한 연구에 많은 관심을 끌었다 (Dunkel & Kerpelman, 2006; Hooker & McAdams, 2003; Kerpelman & Pittman, 2001; Smith & Freund, 2002; Whaley & Shrider, 2005)."
+        },
+        {
+          "source": "Possible selves capture the dynamic and goal-oriented aspects of personality and have been deﬁned as personalized hoped-for and feared images of the self in the future that direct behavior over time (Cotrell & Hooker, 2005; Markus & Nurius, 1986).",
+          "translation": "가능한 자기들은 성격의 역동적이고 목표 지향적인 측면을 포착하고 있으며, 시간이 지남에 따라 행동을 지시하는 미래의 자아에 대한 개인화된 희망과 두려움의 이미지로 정의되었습니다 (Cotrell & Hooker, 2005; Markus & Nurius, 1986)."
+        },
+        {
+          "source": "Studies on possible selves have shown that the contents of possible selves mirror age-related themes of life and that, in later adulthood, health, cognitive functioning, and social relationships are among the predominant themes (Cross & Markus, 1991; Frazier, Cotrell, & Hooker, 2003; Smith & Freund, 2002).",
+          "translation": "가능한 자기에 대한 연구는 가능한 자기의 내용이 나이와 관련된 삶의 주제를 반영하고 있으며, 후반 성인기에 건강, 인지 기능 및 사회적 관계는 주류 주제가 (Cross & Markus, 1991; Frazier, Cotrell, & Hooker, 2003; Smith & Freund, 2002)."
+        },
+        {
+          "source": "In this study we examine how possible selves in three salient life domains (health, cognition, and social relationships) translate into daily activities in old age.",
+          "translation": "이 연구에서 우리는 세 가지 중요한 삶의 영역 (건강, 인지 및 사회적 관계) 의 가능한 자기가 노년기에 일상적인 활동에 어떻게 번역되는지를 조사합니다."
+        },
+        {
+          "source": "To do so, we use data from participants of the Berlin Aging Study (BASE; P. B. Baltes & Mayer, 1999) who additionally participated in a time-sampling study (Klumb & Baltes, 1999a).",
+          "translation": "이를 위해 우리는 베를린 노화 연구 (BASE; P. B. Baltes & Mayer, 1999) 의 참가자들에 대한 데이터를 사용하며 또한 시간 샘플링 연구에 참여했다 (Klumb & Baltes, 1999a)."
+        },
+        {
+          "source": "Theory suggests that possible selves serve motivational and evaluative functions.",
+          "translation": "이론은 가능한 자기가 동기부여와 평가 기능을 수행한다고 제안합니다."
+        },
+        {
+          "source": "First, possible selves act as motivational incentives by deﬁning what is to be approached (hoped-for selves) and what is to be avoided (feared selves; Cotrell & Hooker, 2005; Cross & Markus, 1991; Markus & Nurius, 1986).",
+          "translation": "첫째, 가능한 자기는 접근해야 할 것을 정의함으로써 동기부여 인센티브로 작용합니다 (희망한 자아) 그리고 피해야 할 것을 (피한 자아; 코트렐 & 후커, 2005; 크로스 & 마커스, 1991; 마커스 & 누리우스, 1986)."
+        },
+        {
+          "source": "Speciﬁcally, having an image of what is possible in the future allows one to mentally simulate future scenarios that facilitate decisions in favor of or against speciﬁc actions and provide clues about when to persist and when to withdraw.",
+          "translation": "구체적으로, 미래의 가능성에 대한 이미지를 갖는 것은 특정 행동을 지지하거나 반대하는 결정을 촉진하는 미래의 시나리오를 정신적으로 시뮬레이션 할 수 있으며 언제 지속하고 언제 철수해야 하는지에 대한 단서를 제공합니다."
+        },
+        {
+          "source": "Representations of hoped-for possible selves involve goals as well as scenarios about the means and strategies to achieve them and thereby organize and energize the adoption of behaviors (Cross & Markus, 1994; Hooker, 1992; Hooker & Kaus, 1992; Markus & Ruvolo, 1989; Whaley, 2003).",
+          "translation": "희망 가능한 자기들의 표현은 목표를 비롯하여 이를 달성하기 위한 수단과 전략에 대한 시나리오를 포함하고 이를 통해 행동의 채택을 조직하고 활력을 불어넣습니다 (Cross & Markus, 1994; Hooker, 1992; Hooker & Kaus, 1992; Markus & Ruvolo, 1989; Whaley, 2003)."
+        },
+        {
+          "source": "For P104 example, wanting to be a good grandparent might be a possible self that motivates an older adult to think about ways of participating in the lives of grandchildren.",
+          "translation": "P104 예를 들어, 좋은 할아버지가 되고 싶어하는 것은 어른이 손녀의 삶에 참여하는 방법에 대해 생각하도록 유도하는 잠재적인 자아일 수 있습니다."
+        },
+        {
+          "source": "This simulation may lead to decisions to engage in relevant activities (e.g., babysitting) and fuel long hours of continued patience with energetic grandchildren.",
+          "translation": "이러한 시뮬레이션은 관련 활동 (예를 들어, 보육) 에 참여할 결정으로 이어질 수 있으며, 활발한 손자들과 오랜 시간 동안 지속되는 인내심을 유발할 수 있습니다."
+        },
+        {
+          "source": "Feared possible selves, in contrast, can disorganize behavior and cause inaction by providing the individual with a vivid undesirable image without necessarily specifying means and strategies of how to avoid it (Hooker, 1992; Markus & Ruvolo, 1989; Oyserman & Markus, 1990).",
+          "translation": "반면, 두려움의 잠재적인 자아는 개인에게 생생한 바람직하지 않은 이미지를 제공함으로써 행동을 비조직하고 무작위로 만들 수 있습니다. 이를 피하는 방법의 수단과 전략을 반드시 명시하지 않고 (Hooker, 1992; Markus & Ruvolo, 1989; Oyserman & Markus, 1990)."
+        },
+        {
+          "source": "Thus, we expect that possible selves and, in particular, hopedfor images in the domains of health, cognition, and social relationships set the stage for daily activities in the respective domain.",
+          "translation": "따라서, 우리는 건강, 인지, 그리고 사회적 관계 분야의 가능한 자기들, 특히 희망된 이미지들이 각 영역에서의 일상적인 활동의 발판을 마련할 것으로 기대한다."
+        },
+        {
+          "source": "Researchers have investigated possible selves by using many different methods (see Dunkel & Kerpelman, 2006 for an overview).",
+          "translation": "연구자들은 여러 가지 다른 방법을 사용하여 가능한 자기를 조사했습니다 (다널 & 케르펠먼, 2006 년 개요를 참조하십시오)."
+        },
+        {
+          "source": "Using time-sampling methodologies, in the present study we complement past ﬁndings by investigating whether previously observed between-person relationships regarding possible selves and activities replicate at the within-person level in an individual’s own environment.",
+          "translation": "시간 샘플링 방법론을 사용하여, 본 연구에서는 이전에 관찰 된 개인 간의 관계와 활동이 개인 내 차원에서 자신의 환경에서 재현되는지 조사함으로써 과거의 연구 결과를 보완합니다."
+        },
+        {
+          "source": "In addition, the respective online assessments of participants’ daily activities reduce the effects of memory biases in retrospective reports and incorporate context effects as part of the design (Bolger, Davis, & Rafaeli, 2003; Schwarz, 1999).",
+          "translation": "또한, 참가자들의 일상의 활동에 대한 각종 온라인 평가들은 후시 보고에 대한 기억 편향의 효과를 감소시키고 디자인의 일부로 맥락 효과를 통합한다 (Bolger, Davis, & Rafaeli, 2003; Schwarz, 1999)."
+        },
+        {
+          "source": "Given our focus on very old age, this seems to be particularly important.",
+          "translation": "우리가 매우 노년기에 초점을 맞춘다는 점을 감안하면, 이것은 특히 중요합니다."
+        },
+        {
+          "source": "In an attempt to examine the evaluative functions of possible selves, we also consider short-term and long-term outcomes.",
+          "translation": "가능한 자기들의 평가 기능을 조사하기 위해 우리는 또한 단기 및 장기적인 결과를 고려합니다."
+        },
+        {
+          "source": "Discrepancy-reducing theories of affect (e.g. Carver, Lawrence, & Scheier, 1999), for example, propose that engaging in activities that are instrumental in either minimizing the distance between actual and desired situations or maximizing the distance from a feared scenario contributes to positive affect.",
+          "translation": "예를 들어, 격차를 줄이는 영향 이론 (Carver, Lawrence, & Scheier, 1999) 은 실제와 원하는 상황 사이의 거리를 최소화하거나 두려워하는 시나리오에서 거리를 극대화하는 데 중요한 역할을 하는 활동에 참여하는 것이 긍정적 인 영향에 기여한다는 것을 제안합니다."
+        },
+        {
+          "source": "We therefore expect that, at the intraindividual level, performance of activities in possible self-relevant domains is",
+          "translation": "따라서 우리는 개인간 차원에서 가능한 자기 관련 영역에서의 활동의 수행이"
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 2,
+      "sourceText": "POSSIBLE SELVES AND DAILY ACTIVITIES IN OLD AGE\nP105\n\n\nassociated with higher positive affect than is performance of\nactivities in other domains. In addition to such subjective\nindicators of successful aging, performance of possible selfrelated activities might also relate to objective long-term\noutcomes such as health and survival (Glass, Mendes de Leon,\nMarottoli, & Berkman, 1999).\n\n\nIn summary, in this study we examine associations between\npossible selves and daily activities in very old age and how\nthese relate to subjective and objective indicators of successful\naging. To do so, we draw on data independently collected in\ntwo subprojects of BASE. One subproject was on the self in old\nage (Smith & Baltes, 1999; Smith & Freund, 2002), which\ncollected data from all BASE participants; the other was on\neveryday competence, and it collected time-use information\nfrom a subsample of BASE participants (M. M. Baltes, Maas,\nWilms, Borchelt, & Little, 1999; Klumb & Baltes, 1999b). In\nour study we reorganize and combine these two data sets.\n\n\nWe pursue two strategies to link possible selves and daily\nactivities. Analogous to previous studies, we ﬁrst consider\npossible selves in the domains of health, cognition, and social\nrelations as individual characteristics in order to examine\ndifferences in the relative amount of possible-self-related daily\nactivities. In a second step, we extend this between-person\nperspective to the within-person level. Speciﬁcally, utilizing\nmultilevel modeling techniques, we examine whether health,\ncognitive, and social possible selves are associated with the\nprobability of performing domain-speciﬁc activities in daily\nlife. Our analyses also account for potential age and gender\ndifferences in health, cognitive, and social activities (Glass\net al., 1999; Maier & Klumb, 2005).\n\n\nOur second major objective is to examine whether the performance of possible-self-related activities is associated with a\nsubjective and an objective indicator of successful aging, namely\nconcurrent positive affect and subsequent survival. Speciﬁcally,\nwe conducted within-person analyses to determine whether\npossible-self-related activities are associated with increased\npositive affect as compared with possible self-unrelated activities. In addition, we explore whether setting possible selves and\nengaging in possible self-related activities is associated with\nhigher probabilities of survival over a 10-year poststudy period.\n\n\nMETHODS\n\n\nParticipants and Procedure\n\n\nThe sample comprised 34 women and 49 men who\nvolunteered to participate in an additional time-sampling study\nafter having completed the third measurement wave of the\nBASE. Comprehensive information about assessment procedures and samples are published elsewhere in P. B. Baltes and\nMayer (1999), Smith and colleagues (2002), and Klumb and\nBaltes (1999a). Participants were on average 81.1 years old\n(range ¼ 72–97; SD ¼ 5.8); 47% were widowed; and 53% lived\nalone. Selectivity analyses showed that, as to be expected for\na volunteer subsample, these participants were a positive\nselection from the larger BASE sample, especially in terms of\ncognitive functioning (SD¼1.2), vision (SD¼1.0), and hearing\n(SD ¼ 0.8; see Klumb & Baltes, 1999b).\n\n\nPossible selves (Markus & Nurius, 1986) were elicited as\npart of an individual face-to-face interview during the third\n\n\nmeasurement wave of BASE (Smith & Freund, 2002). At the\nend of this wave, individuals were asked to participate in an\nadditional study that was not part of the general BASE protocol.\nBetween 13 and 73 days (M¼34 days) later, a research assistant\ncontacted each volunteer at home and explained the study\ndevices and materials for the time-sampling phase. During the\nfollowing consecutive 6 days, participants were prompted by\nportable beepers to complete paper diaries on ﬁve randomly\nchosen time points per day. Each paper diary included affect\nratings and open-ended activity reports. A research assistant\ncollected participants’ diaries at the end of the time-sampling\nphase. We set the minimum distance between two consecutive\nsignals to 15 min. Two signals were on average 150 min apart.\nWe adjusted signals to each participant’s daily routine to avoid\nintrusiveness. Hence, individual windows of possible signals\nranged from average wake-up time to average falling-asleep\ntime as indicated by each participant. In addition, the research\nassistant instructed participants to keep the beepers out of\nhearing distance during naps. Of the 30 possible diary forms (5\noccasions 3 6 days), 87% were returned on average (Klumb &\nBaltes, 1999a).\n\n\nMeasures\n\n\nPossible selves. —We assessed possible selves (Markus &\nNurius, 1986) by asking participants to report two hopes and\ntwo fears regarding their future (Smith & Freund, 2002). A\nresearch assistant read the instruction aloud and tape recorded\nand transcribed answers verbatim. The coding followed\na scheme developed by Freund and Smith (1999) that speciﬁed\n20 different content categories. Interrater agreement was\nsatisfactory (j ¼ 0.89 for hopes; j ¼ 0.88 for fears). For the\npresent study, we aggregated data into separate scores for\npresence of hopes and presence of fears in three life domains:\nhealth and functional capacity (illness, mobility, and sensory\nfunctioning), everyday cognition (memory, home management,\nand daily routines), and social relations (contacts with family\nand friends, church activities).\n\n\nDaily activities. —We categorized open-ended activity reports from the time-sampling phase into 59 categories by using\na coding scheme by Klumb and Baltes (1999b). Interrater\nagreement was satisfactory to high (j ¼ 0.65–1.00). Of the\n2,490 attainable data points (5 occasions 3 6 days 3 83\nparticipants), 313 data points were missing (12.6%). We\ngrouped activity reports into three content domains: health\nand physical activities, everyday cognitive activities, and social\nactivities. Health and physical activities consisted of seeking\nmedical treatment or performing health-related self-treatment;\nengaging in sports, gardening, or heavy household chores; and\ntaking a walk or excursion and engaging in active locomotion.\nEveryday cognitive activities consisted of crossword puzzling,\npaying bills, and engaging in paper work or postal matters;\nengaging in cultural, education, or creative activities; reading\nnewspapers, magazines, or other literature; writing; playing;\nwatching news, political and cultural broadcasts, and information broadcasts; performing paid work; and thinking.\nSocial activities consisted of visiting, talking with someone on\nthe phone or in person, and engaging in social activities; eating\nout; taking part in religious or political activities; caring for",
+      "translationText": "P105 노년층에서의 잠재적인 자아와 일상 활동은 다른 영역에서의 활동의 성과보다 더 높은 긍정적인 영향과 관련이 있습니다.\n\n이러한 주관적인 노화 성공 지표 외에도, 가능한 자기 관련 활동의 수행은 건강과 생존과 같은 객관적인 장기적인 결과와도 관련이 있을 수 있습니다 (Glass, Mendes de Leon, Marottoli, & Berkman, 1999).\n\n요약적으로, 본 연구에서는 가능한 자기와 매우 고령시에서의 일상적인 활동 사이의 연관성을 살펴보고 이러한 것들이 성공적인 노화의 주관적이고 객관적인 지표와 어떻게 관련이 있는지 살펴본다.\n\n이를 위해 우리는 BASE의 두 개의 하위 프로젝트에서 독립적으로 수집된 데이터에 의존합니다.\n\n한 하위 프로젝트는 노후의 자기 (Smith & Baltes, 1999; Smith & Freund, 2002), 모든 BASE 참가자로부터 데이터를 수집했으며 다른 하나는 일상적인 능력에 관한 것이며, BASE 참가자의 하위 샘플에서 시간 사용 정보를 수집했습니다 (M. M. Baltes, Maas, Wilms, Borchelt, & Little, 1999; Klumb & Baltes , 1999b).\n\n우리의 연구에서 우리는 이 두 데이터 세트를 재조직하고 결합합니다.\n\n우리는 가능한 자기와 일상적인 활동을 연결하기 위한 두 가지 전략을 추구합니다.\n\n이전 연구와 유사하게 우리는 먼저 건강, 인지 및 사회적 관계 분야에서 가능한 자기를 개별적인 특성으로 고려하여 가능한 자기 관련 일상 활동의 상대적인 양의 차이를 조사합니다.\n\n두 번째 단계로, 우리는 이 사람 사이의 관점을 사람 내 수준으로 확장합니다.\n\n구체적으로, 다단계 모델링 기술을 사용하여 건강, 인지, 사회적 가능한 자기들이 일상 생활에서 영역에 대한 특정 활동을 수행하는 확률과 연관되어 있는지 여부를 조사합니다.\n\n우리의 분석은 또한 건강, 인지 및 사회적 활동의 잠재적인 나이와 성별 차이를 설명합니다 (Glass et al., 1999; Maier & Klumb, 2005).\n\n우리의 두 번째 주요 목표는 가능한 자기 관련 활동의 수행이 성공적인 노화의 주관적이고 객관적인 지표와 연관되어 있는지 여부를 조사하는 것입니다.\n\n구체적으로, 우리는 개인 안에서의 분석을 수행하여 가능한 자기 관련 활동이 자기 관련 없는 가능한 활동과 비교하여 긍정적인 영향을 증가시키는 것과 연관되어 있는지 여부를 결정했습니다.\n\n또한, 우리는 가능한 자기를 설정하고 가능한 자기 관련 활동에 참여하는 것이 10년 후 연구 기간 동안 생존의 더 높은 확률과 연관되어 있는지 여부를 탐구합니다.\n\n방법과 절차 참가자 표본은 34명의 여성과 49명의 남성들로 구성되어 있으며, 이들은 베이스의 세 번째 측정파를 완료한 후 추가적인 시간 표본 연구에 참여하기 위해 자원했다.\n\n평가 절차와 샘플에 대한 종합적인 정보는 P. B. Baltes and Mayer (1999), Smith and colleagues (2002) 및 Klumb and Baltes (1999a) 에서 다른 곳에서 발표된다.\n\n참가자들은 평균 81.1세 (역량 1⁄47297; SD 1⁄4 5.8); 47%가 과부였으며 53%가 혼자 살았다.\n\n선택성 분석은 자원봉사자 하위 샘플에서 예상되는 것처럼, 이 참가자들은 더 큰 BASE 샘플에서 특히 인지 기능 (SD1⁄41.2), 시력 (SD1⁄41.1), 청각 (SD 1⁄4 0.8; Klumb & Baltes, 1999b 참조) 의 측면에서 긍정적 인 선택이었다는 것을 보여주었다.\n\n가능한 자기 (Markus & Nurius, 1986) 는 BASE의 세 번째 측정파 (Smith & Freund, 2002) 에서 개인 면접의 일환으로 발생했다.\n\n이 물결의 끝에 개인들은 일반적인 BASE 프로토콜의 일부가 아닌 추가 연구에 참여하도록 요청되었습니다.\n\n13일에서 73일 (M1⁄434일) 후, 연구 보조는 각 자원봉사자와 집에서 연락하여 샘플링 단계에 필요한 연구 장치와 자료를 설명했습니다.\n\n다음 6일 연속 참가자들은 휴대용 비퍼에 의해 하루에 무작위로 선택된 5개의 시간점에 종이 일기를 작성하도록 촉구되었습니다.\n\n각 논문 일기에는 영향 등급과 무한한 활동 보고가 포함되어 있습니다.\n\n연구 보조가 샘플링 단계의 끝에서 참가자의 일기를 수집했습니다.\n\n우리는 2개의 연속 신호 사이의 최소 거리를 15분으로 설정합니다.\n\n두 신호는 평균 150분 간격이었습니다.\n\n우리는 침입을 피하기 위해 각각의 참가자의 일상에 신호를 조정했습니다.\n\n따라서 가능한 신호의 개별 창은 참가자 개개인의 지표에 따라 평균 수면시간에서 평균 수면 시간까지 다양했습니다.\n\n또한 연구 보조는 참가자들에게 잠자리에서 비퍼들을 청각 거리로부터 멀리하도록 지시했습니다.\n\n가능한 30개의 일기 양식 (5회 3일 6일) 중 평균 87%가 반환되었다 (Klumb & Baltes, 1999a).\n\n측정 가능한 자기.\n\n우리는 참가자들에게 자신의 미래에 대한 두 가지 희망과 두 가지 두려움을 보고하도록 요청함으로써 가능한 자기를 평가했습니다 (마커스 & 누리우스, 1986) (스미스 & 프렌드, 2002).\n\n연구원 한 분 은 이 지침 을 크게 읽고 테이프 를 녹음 하고 말 그대로 대답 을 기록 하였습니다.\n\n코딩은 20개의 다른 콘텐츠 범주를 명시한 Freund 및 Smith (1999) 에 의해 개발된 계획에 따라 이루어졌다.\n\n인터레이터 합의는 만족스러웠다 (희망의 경우 0.89%, 두려움의 경우 0.88%).\n\n본 연구에서는 건강과 기능적 능력 (질환, 이동성, 감각 기능), 일상적 인지 (기억, 가정 관리, 일상적인 일상) 및 사회적 관계 (가족과 친구들과의 접촉, 교회 활동) 등 세 가지 삶의 영역에서 희망과 두려움의 존재에 대한 데이터를 분리된 점수로 집계했습니다.\n\n일상적인 활동\n\n우리는 Klumb 및 Baltes (1999b) 의 코딩 스키마를 사용하여 시간 샘플링 단계에서 열린 활동 보고를 59 가지로 분류했습니다.\n\n인터레이터 합의는 만족스러운 수준으로 높았다 (j 1⁄4 0.651.00).\n\n2,490개의 데이터 포인트 (5번 3 6일 3 83명의 참가자) 에서 313개의 데이터 포인트 (12.6%) 가 실종되었다.\n\n우리는 활동 보고서를 세 가지 콘텐츠 영역으로 그룹화했습니다. 건강과 신체 활동, 일상적 인지 활동, 그리고 사회적 활동.\n\n건강과 신체적 활동은 의료 치료를 받거나 건강과 관련된 자치법을 수행하는 것; 스포츠, 정원, 또는 무거운 가정 업무에 참여하는 것; 그리고 산책 또는 여행을 하는 것 및 활발한 이동에 참여하는 것입니다.\n\n일상적인 인지 활동은 십자어 퍼즐, 청구서 지불, 종이 작업 또는 우편 업무에 참여, 문화, 교육 또는 창조적 활동에 참여, 신문, 잡지 또는 기타 문학을 읽는, 글쓰기, 놀이, 뉴스, 정치 및 문화 방송 및 정보 방송을 보는, 유료 작업을 수행하는, 그리고 사고를 포함했습니다.\n\n사회 활동 은 방문, 전화 또는 사람 들 과 직접 대화 하는 것, 사회 활동 에 참여 하는 것, 외식 하는 것, 종교 또는 정치 활동 에 참여 한 것,",
+      "status": "translated",
+      "sourceTextSha256": "6a95276d4bee70265274b6a4a1a8611acf75a6eb2560947a279067fcc63ace2d",
+      "segments": [
+        {
+          "source": "POSSIBLE SELVES AND DAILY ACTIVITIES IN OLD AGE P105 associated with higher positive affect than is performance of activities in other domains.",
+          "translation": "P105 노년층에서의 잠재적인 자아와 일상 활동은 다른 영역에서의 활동의 성과보다 더 높은 긍정적인 영향과 관련이 있습니다."
+        },
+        {
+          "source": "In addition to such subjective indicators of successful aging, performance of possible selfrelated activities might also relate to objective long-term outcomes such as health and survival (Glass, Mendes de Leon, Marottoli, & Berkman, 1999).",
+          "translation": "이러한 주관적인 노화 성공 지표 외에도, 가능한 자기 관련 활동의 수행은 건강과 생존과 같은 객관적인 장기적인 결과와도 관련이 있을 수 있습니다 (Glass, Mendes de Leon, Marottoli, & Berkman, 1999)."
+        },
+        {
+          "source": "In summary, in this study we examine associations between possible selves and daily activities in very old age and how these relate to subjective and objective indicators of successful aging.",
+          "translation": "요약적으로, 본 연구에서는 가능한 자기와 매우 고령시에서의 일상적인 활동 사이의 연관성을 살펴보고 이러한 것들이 성공적인 노화의 주관적이고 객관적인 지표와 어떻게 관련이 있는지 살펴본다."
+        },
+        {
+          "source": "To do so, we draw on data independently collected in two subprojects of BASE.",
+          "translation": "이를 위해 우리는 BASE의 두 개의 하위 프로젝트에서 독립적으로 수집된 데이터에 의존합니다."
+        },
+        {
+          "source": "One subproject was on the self in old age (Smith & Baltes, 1999; Smith & Freund, 2002), which collected data from all BASE participants; the other was on everyday competence, and it collected time-use information from a subsample of BASE participants (M. M. Baltes, Maas, Wilms, Borchelt, & Little, 1999; Klumb & Baltes, 1999b).",
+          "translation": "한 하위 프로젝트는 노후의 자기 (Smith & Baltes, 1999; Smith & Freund, 2002), 모든 BASE 참가자로부터 데이터를 수집했으며 다른 하나는 일상적인 능력에 관한 것이며, BASE 참가자의 하위 샘플에서 시간 사용 정보를 수집했습니다 (M. M. Baltes, Maas, Wilms, Borchelt, & Little, 1999; Klumb & Baltes , 1999b)."
+        },
+        {
+          "source": "In our study we reorganize and combine these two data sets.",
+          "translation": "우리의 연구에서 우리는 이 두 데이터 세트를 재조직하고 결합합니다."
+        },
+        {
+          "source": "We pursue two strategies to link possible selves and daily activities.",
+          "translation": "우리는 가능한 자기와 일상적인 활동을 연결하기 위한 두 가지 전략을 추구합니다."
+        },
+        {
+          "source": "Analogous to previous studies, we ﬁrst consider possible selves in the domains of health, cognition, and social relations as individual characteristics in order to examine differences in the relative amount of possible-self-related daily activities.",
+          "translation": "이전 연구와 유사하게 우리는 먼저 건강, 인지 및 사회적 관계 분야에서 가능한 자기를 개별적인 특성으로 고려하여 가능한 자기 관련 일상 활동의 상대적인 양의 차이를 조사합니다."
+        },
+        {
+          "source": "In a second step, we extend this between-person perspective to the within-person level.",
+          "translation": "두 번째 단계로, 우리는 이 사람 사이의 관점을 사람 내 수준으로 확장합니다."
+        },
+        {
+          "source": "Speciﬁcally, utilizing multilevel modeling techniques, we examine whether health, cognitive, and social possible selves are associated with the probability of performing domain-speciﬁc activities in daily life.",
+          "translation": "구체적으로, 다단계 모델링 기술을 사용하여 건강, 인지, 사회적 가능한 자기들이 일상 생활에서 영역에 대한 특정 활동을 수행하는 확률과 연관되어 있는지 여부를 조사합니다."
+        },
+        {
+          "source": "Our analyses also account for potential age and gender differences in health, cognitive, and social activities (Glass et al., 1999; Maier & Klumb, 2005).",
+          "translation": "우리의 분석은 또한 건강, 인지 및 사회적 활동의 잠재적인 나이와 성별 차이를 설명합니다 (Glass et al., 1999; Maier & Klumb, 2005)."
+        },
+        {
+          "source": "Our second major objective is to examine whether the performance of possible-self-related activities is associated with a subjective and an objective indicator of successful aging, namely concurrent positive affect and subsequent survival.",
+          "translation": "우리의 두 번째 주요 목표는 가능한 자기 관련 활동의 수행이 성공적인 노화의 주관적이고 객관적인 지표와 연관되어 있는지 여부를 조사하는 것입니다."
+        },
+        {
+          "source": "Speciﬁcally, we conducted within-person analyses to determine whether possible-self-related activities are associated with increased positive affect as compared with possible self-unrelated activities.",
+          "translation": "구체적으로, 우리는 개인 안에서의 분석을 수행하여 가능한 자기 관련 활동이 자기 관련 없는 가능한 활동과 비교하여 긍정적인 영향을 증가시키는 것과 연관되어 있는지 여부를 결정했습니다."
+        },
+        {
+          "source": "In addition, we explore whether setting possible selves and engaging in possible self-related activities is associated with higher probabilities of survival over a 10-year poststudy period.",
+          "translation": "또한, 우리는 가능한 자기를 설정하고 가능한 자기 관련 활동에 참여하는 것이 10년 후 연구 기간 동안 생존의 더 높은 확률과 연관되어 있는지 여부를 탐구합니다."
+        },
+        {
+          "source": "METHODS Participants and Procedure The sample comprised 34 women and 49 men who volunteered to participate in an additional time-sampling study after having completed the third measurement wave of the BASE.",
+          "translation": "방법과 절차 참가자 표본은 34명의 여성과 49명의 남성들로 구성되어 있으며, 이들은 베이스의 세 번째 측정파를 완료한 후 추가적인 시간 표본 연구에 참여하기 위해 자원했다."
+        },
+        {
+          "source": "Comprehensive information about assessment procedures and samples are published elsewhere in P. B. Baltes and Mayer (1999), Smith and colleagues (2002), and Klumb and Baltes (1999a).",
+          "translation": "평가 절차와 샘플에 대한 종합적인 정보는 P. B. Baltes and Mayer (1999), Smith and colleagues (2002) 및 Klumb and Baltes (1999a) 에서 다른 곳에서 발표된다."
+        },
+        {
+          "source": "Participants were on average 81.1 years old (range ¼ 72–97; SD ¼ 5.8); 47% were widowed; and 53% lived alone.",
+          "translation": "참가자들은 평균 81.1세 (역량 1⁄47297; SD 1⁄4 5.8); 47%가 과부였으며 53%가 혼자 살았다."
+        },
+        {
+          "source": "Selectivity analyses showed that, as to be expected for a volunteer subsample, these participants were a positive selection from the larger BASE sample, especially in terms of cognitive functioning (SD¼1.2), vision (SD¼1.0), and hearing (SD ¼ 0.8; see Klumb & Baltes, 1999b).",
+          "translation": "선택성 분석은 자원봉사자 하위 샘플에서 예상되는 것처럼, 이 참가자들은 더 큰 BASE 샘플에서 특히 인지 기능 (SD1⁄41.2), 시력 (SD1⁄41.1), 청각 (SD 1⁄4 0.8; Klumb & Baltes, 1999b 참조) 의 측면에서 긍정적 인 선택이었다는 것을 보여주었다."
+        },
+        {
+          "source": "Possible selves (Markus & Nurius, 1986) were elicited as part of an individual face-to-face interview during the third measurement wave of BASE (Smith & Freund, 2002).",
+          "translation": "가능한 자기 (Markus & Nurius, 1986) 는 BASE의 세 번째 측정파 (Smith & Freund, 2002) 에서 개인 면접의 일환으로 발생했다."
+        },
+        {
+          "source": "At the end of this wave, individuals were asked to participate in an additional study that was not part of the general BASE protocol.",
+          "translation": "이 물결의 끝에 개인들은 일반적인 BASE 프로토콜의 일부가 아닌 추가 연구에 참여하도록 요청되었습니다."
+        },
+        {
+          "source": "Between 13 and 73 days (M¼34 days) later, a research assistant contacted each volunteer at home and explained the study devices and materials for the time-sampling phase.",
+          "translation": "13일에서 73일 (M1⁄434일) 후, 연구 보조는 각 자원봉사자와 집에서 연락하여 샘플링 단계에 필요한 연구 장치와 자료를 설명했습니다."
+        },
+        {
+          "source": "During the following consecutive 6 days, participants were prompted by portable beepers to complete paper diaries on ﬁve randomly chosen time points per day.",
+          "translation": "다음 6일 연속 참가자들은 휴대용 비퍼에 의해 하루에 무작위로 선택된 5개의 시간점에 종이 일기를 작성하도록 촉구되었습니다."
+        },
+        {
+          "source": "Each paper diary included affect ratings and open-ended activity reports.",
+          "translation": "각 논문 일기에는 영향 등급과 무한한 활동 보고가 포함되어 있습니다."
+        },
+        {
+          "source": "A research assistant collected participants’ diaries at the end of the time-sampling phase.",
+          "translation": "연구 보조가 샘플링 단계의 끝에서 참가자의 일기를 수집했습니다."
+        },
+        {
+          "source": "We set the minimum distance between two consecutive signals to 15 min.",
+          "translation": "우리는 2개의 연속 신호 사이의 최소 거리를 15분으로 설정합니다."
+        },
+        {
+          "source": "Two signals were on average 150 min apart.",
+          "translation": "두 신호는 평균 150분 간격이었습니다."
+        },
+        {
+          "source": "We adjusted signals to each participant’s daily routine to avoid intrusiveness.",
+          "translation": "우리는 침입을 피하기 위해 각각의 참가자의 일상에 신호를 조정했습니다."
+        },
+        {
+          "source": "Hence, individual windows of possible signals ranged from average wake-up time to average falling-asleep time as indicated by each participant.",
+          "translation": "따라서 가능한 신호의 개별 창은 참가자 개개인의 지표에 따라 평균 수면시간에서 평균 수면 시간까지 다양했습니다."
+        },
+        {
+          "source": "In addition, the research assistant instructed participants to keep the beepers out of hearing distance during naps.",
+          "translation": "또한 연구 보조는 참가자들에게 잠자리에서 비퍼들을 청각 거리로부터 멀리하도록 지시했습니다."
+        },
+        {
+          "source": "Of the 30 possible diary forms (5 occasions 3 6 days), 87% were returned on average (Klumb & Baltes, 1999a).",
+          "translation": "가능한 30개의 일기 양식 (5회 3일 6일) 중 평균 87%가 반환되었다 (Klumb & Baltes, 1999a)."
+        },
+        {
+          "source": "Measures Possible selves.",
+          "translation": "측정 가능한 자기."
+        },
+        {
+          "source": "—We assessed possible selves (Markus & Nurius, 1986) by asking participants to report two hopes and two fears regarding their future (Smith & Freund, 2002).",
+          "translation": "우리는 참가자들에게 자신의 미래에 대한 두 가지 희망과 두 가지 두려움을 보고하도록 요청함으로써 가능한 자기를 평가했습니다 (마커스 & 누리우스, 1986) (스미스 & 프렌드, 2002)."
+        },
+        {
+          "source": "A research assistant read the instruction aloud and tape recorded and transcribed answers verbatim.",
+          "translation": "연구원 한 분 은 이 지침 을 크게 읽고 테이프 를 녹음 하고 말 그대로 대답 을 기록 하였습니다."
+        },
+        {
+          "source": "The coding followed a scheme developed by Freund and Smith (1999) that speciﬁed 20 different content categories.",
+          "translation": "코딩은 20개의 다른 콘텐츠 범주를 명시한 Freund 및 Smith (1999) 에 의해 개발된 계획에 따라 이루어졌다."
+        },
+        {
+          "source": "Interrater agreement was satisfactory (j ¼ 0.89 for hopes; j ¼ 0.88 for fears).",
+          "translation": "인터레이터 합의는 만족스러웠다 (희망의 경우 0.89%, 두려움의 경우 0.88%)."
+        },
+        {
+          "source": "For the present study, we aggregated data into separate scores for presence of hopes and presence of fears in three life domains: health and functional capacity (illness, mobility, and sensory functioning), everyday cognition (memory, home management, and daily routines), and social relations (contacts with family and friends, church activities).",
+          "translation": "본 연구에서는 건강과 기능적 능력 (질환, 이동성, 감각 기능), 일상적 인지 (기억, 가정 관리, 일상적인 일상) 및 사회적 관계 (가족과 친구들과의 접촉, 교회 활동) 등 세 가지 삶의 영역에서 희망과 두려움의 존재에 대한 데이터를 분리된 점수로 집계했습니다."
+        },
+        {
+          "source": "Daily activities.",
+          "translation": "일상적인 활동"
+        },
+        {
+          "source": "—We categorized open-ended activity reports from the time-sampling phase into 59 categories by using a coding scheme by Klumb and Baltes (1999b).",
+          "translation": "우리는 Klumb 및 Baltes (1999b) 의 코딩 스키마를 사용하여 시간 샘플링 단계에서 열린 활동 보고를 59 가지로 분류했습니다."
+        },
+        {
+          "source": "Interrater agreement was satisfactory to high (j ¼ 0.65–1.00).",
+          "translation": "인터레이터 합의는 만족스러운 수준으로 높았다 (j 1⁄4 0.651.00)."
+        },
+        {
+          "source": "Of the 2,490 attainable data points (5 occasions 3 6 days 3 83 participants), 313 data points were missing (12.6%).",
+          "translation": "2,490개의 데이터 포인트 (5번 3 6일 3 83명의 참가자) 에서 313개의 데이터 포인트 (12.6%) 가 실종되었다."
+        },
+        {
+          "source": "We grouped activity reports into three content domains: health and physical activities, everyday cognitive activities, and social activities.",
+          "translation": "우리는 활동 보고서를 세 가지 콘텐츠 영역으로 그룹화했습니다. 건강과 신체 활동, 일상적 인지 활동, 그리고 사회적 활동."
+        },
+        {
+          "source": "Health and physical activities consisted of seeking medical treatment or performing health-related self-treatment; engaging in sports, gardening, or heavy household chores; and taking a walk or excursion and engaging in active locomotion.",
+          "translation": "건강과 신체적 활동은 의료 치료를 받거나 건강과 관련된 자치법을 수행하는 것; 스포츠, 정원, 또는 무거운 가정 업무에 참여하는 것; 그리고 산책 또는 여행을 하는 것 및 활발한 이동에 참여하는 것입니다."
+        },
+        {
+          "source": "Everyday cognitive activities consisted of crossword puzzling, paying bills, and engaging in paper work or postal matters; engaging in cultural, education, or creative activities; reading newspapers, magazines, or other literature; writing; playing; watching news, political and cultural broadcasts, and information broadcasts; performing paid work; and thinking.",
+          "translation": "일상적인 인지 활동은 십자어 퍼즐, 청구서 지불, 종이 작업 또는 우편 업무에 참여, 문화, 교육 또는 창조적 활동에 참여, 신문, 잡지 또는 기타 문학을 읽는, 글쓰기, 놀이, 뉴스, 정치 및 문화 방송 및 정보 방송을 보는, 유료 작업을 수행하는, 그리고 사고를 포함했습니다."
+        },
+        {
+          "source": "Social activities consisted of visiting, talking with someone on the phone or in person, and engaging in social activities; eating out; taking part in religious or political activities; caring for",
+          "translation": "사회 활동 은 방문, 전화 또는 사람 들 과 직접 대화 하는 것, 사회 활동 에 참여 하는 것, 외식 하는 것, 종교 또는 정치 활동 에 참여 한 것,"
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 3,
+      "sourceText": "a pet; and providing help to family members or to others. A\nconsiderable number of participants pursued at least one\nactivity in these three domains (see Table 1). Of the total\namount of daily activities reported, 10% fell into the domain of\nhealth and functional capacity, 18% into everyday cognition,\nand 7% into social relations.\nIndicators\nof\nsuccessful\naging. —To\nassess\nconcurrent\npositive affect, we selected four adjectives: interested, active,\nhappy, and relaxed (Moss & Lawton, 1982; Watson, Clark, &\nTellegen, 1988). At each time point, participants used a 5-point\nrating scale to indicate their current affective state. We\ncomputed the positive affect score by aggregating across the\nfour adjectives (overall M ¼ 2.73, SD ¼ 0.75, a ¼ 0.90). We\nobtained information about mortality status and date of death\nfrom the City Registry 10 years after the time-sampling phase\n(June, 2005). Mortality status was missing for 6 of the 83\nparticipants because they had moved out of the Berlin area. We\nexcluded them from the mortality analyses. Overall, 43 (56%)\nparticipants were deceased, and 34 were still alive.\nStatistical Procedure\nTo examine how domain-speciﬁc possible selves were\nassociated with daily activities, we used hierarchical linear\nmodeling (HLM; Raudenbush, Bryk, Cheong, & Congdon,\n2000). HLM allows the consideration of hierarchically nested\ndata structures in that the repeated (within-person) assessment\nof everyday activities is analyzed at Level 1 simultaneously\nwith modeling individual difference (between-person) characteristics at Level 2. We coded the performance of daily\nactivities as a dichotomous dependent variable (yes¼1, no¼0)\nand estimated nonlinear multilevel Bernoulli models by using\na binomial error distribution and the Laplace approximation in\nHLM (Raudenbush & Bryk, 2002). Accordingly, Level 1\nrepresents the log odds of performing activities in a given\ndomain (b0j) for each individual. In models with dichotomous\noutcomes, the residual variance is already determined by the\npredicted value; therefore, we did not estimate residual\nvariances (Snijders & Bosker, 1999).\nAt Level 2, the b0j parameter becomes the outcome\nvariable. We modeled between-person differences in the\nprobability of activities as a function of an intercept (c00),\nwhether one reported hopes or fears in this particular domain\n(c01), age (c02), gender (c03), and a residual component (u0j):\nb0j ¼ c00 þ c01 (hopes/fears) þ c02 (age) þ c03 (gender) þ u0j.\nWe used restricted maximum-likelihood procedures in HLM\nto examine whether engaging in possible self-related activities\nwas associated with concurrent positive affect. That is, we\nmodeled Level 1 positive affect (s) for a given person (i) at\na given occasion ( j) as a function of a person’s mean level of\npositive affect during time in the study (b0j), whether the\nactivity reported was in accord with ones hopes or fears (b1j),\nand a random within-person residual (rij): Positive affect sij ¼\nb0j þ b1j (hope/fear-related activities) þ rii. At Level 2, we\nmodeled a person’s mean level of positive affect (b0j) as\na function of the average level across all participants (c00),\nreports of hopes or fears in the domains of health (c01),\neveryday cognition (c02), social relations (c03), age (c04),\ngender (c05), and a random effect (u0i): b0i ¼ c00 þ c01 (hopes/\nfears: health) þc02 (hopes/fears: cognition) þc03 (hopes/fears:\nsocial relations) þ c04 (age) þ c05 (gender) þ u0i. At Level 2,\nwe modeled a person’s mean Level 1 slopes (b1i) as a function\nof the average slope across all participants (c10) plus a random\neffect (u1i).\nRESULTS\nResults are reported in two sections. First, we examine\nwhether hopes or fears in the domains of health, everyday\ncognition, and social relations were associated with adopting\ndomain-speciﬁc daily activities. Next, we report analyses\ninvestigating whether the performance of possible self-related\nactivities was associated with outcomes of successful aging,\nnamely positive affect and survival.\nDomain-Speciﬁc Hopes and Fears and Daily Activities\nDescriptive information about the number of individuals who\nmentioned hoped-for and feared possible selves in the three\ndomains is given in Table 1. In the health domain, for example,\n45 participants (54%) reported hopes and 23 participants (28%)\nreported fears. With the exception of fears in the cognitive\ndomain, a sizeable portion of participants reported hopes and\nfears across the three domains. More than three fourths of the\nparticipants performed at minimum one activity in each of the\nthree domains (e.g., n ¼ 65 of n ¼ 83 reported health-related\nactivities).\nAt the aggregate between-person level, we conducted\nunivariate analyses of variance to compare the relative number\nof activities in a given domain for participants who reported\nhopes or fears with those who did not (see Table 1). Participants\nwho reported hopes in the domains of health, F(1, 81) ¼ 5.2,\np , .05, and social relations, F(1, 81)¼4.1, p , .05, performed\nmore activities in these domains relative to other activities. We\nfound no association between hopes and activities in everyday\ncognition, F(1, 81) ¼ 0.3, p . .10. In addition, fears in the\nsocial domain were related to relatively more social activities,\nF(1, 81) ¼ 6.7, p , .05, whereas we found no associations for\nhealth, F(1, 81) ¼ 0.6, p . .10, and everyday cognition, F(1,\n81)¼0.0, p . .10. In sum, comparing individuals who reported\nhopes or fears, respectively, in a given domain with those who\ndid not revealed initial evidence that possible selves might\nrelate to a stronger performance of activities, particularly for the\ndomains of health and social relations.\nTable 1. Discriptives for Hopes, Fears and Daily Activities\nFrequency or Percentage\nHealth\nEveryday Cognition\nSocial Relations\nFrequencies\nHopes reported\n45 (54)\n35 (42)\n34 (41)\nFears reported\n23 (28)\n11 (13)\n44 (53)\nDaily activities\n65 (78)\n80 (96)\n62 (75)\n% Possible-self-related activities\nHopes reported\n11.5 (1.5)\n18.3 (1.7)\n8.4 (1.3)\nNo hopes reported\n7.1 (1.1)\n17.0 (1.6)\n5.5 (0.8)\nFears reported\n10.7 (1.9)\n17.2 (2.9)\n8.4 (1.0)\nNo fears reported\n9.0 (1.1)\n17.6 (1.3)\n4.8 (0.9)\nNotes: N ¼ 83; the three salient life domains are shown separately. In parentheses are percentages (for frequencies) and SDs (for percentages). Within\nrows, cells in boldface type signiﬁcantly differ at or below p , .05.\nHOPPMANN ET AL.\nP106",
+      "translationText": "반려동물; 그리고 가족이나 다른 사람들에게 도움을 주는 것.\n\n상당한 수의 참가자들은 이 세 가지 영역에서 적어도 한 가지 활동을 수행했습니다 (표 1 참조).\n\n보고된 일일 활동의 총액의 10%는 건강과 기능적 능력, 18%는 일상적 인지, 7%는 사회적 관계 분야에 속했다.\n\n성공적인 노화의 지표.\n\n동시적 긍정적 인 영향을 평가하기 위해 우리는 관심, 활동, 행복, 그리고 휴식 (Moss & Lawton, 1982; Watson, Clark, & Tellegen, 1988) 라는 네 가지 자질을 선택했습니다.\n\n각 시간점에서는 참가자들이 현재 감정 상태를 표시하기 위해 5점 평가 스케일을 사용했습니다.\n\n우리는 네 개의 자명자 (M 1⁄4 2.73, SD 1⁄4 0.75, a 1⁄4 0.90) 를 합쳐서 긍정적인 영향 점수를 계산했습니다.\n\n우리는 시립 레지스트리로부터 사망률 상태와 사망 날짜에 대한 정보를 시간 샘플링 단계 (10년 6월, 2005년) 이후 얻었습니다.\n\n83명의 참가자 중 6명은 베를린 지역을 떠나기 때문에 사망률이 없어졌습니다.\n\n우리는 그들을 사망률 분석에서 배제했습니다.\n\n전체적으로 43명 (56%) 이 사망했고, 34명이 여전히 살아 있었다.\n\n통계 절차 도메인 특정 가능한 자기들이 일상적인 활동에 어떻게 연관되어 있는지 조사하기 위해 우리는 계층적 선형 모델링을 사용했습니다 (HLM; Raudenbush, Bryk, Cheong, & Congdon, 2000).\n\nHLM는 일상의 활동의 반복적인 (인내) 평가가 레벨 1에서 동시에 분석되고 레벨 2에서 개별 차이 (인간의) 특성을 모델링하는 것을 통해 계층적으로 둥지를 틀린 데이터 구조를 고려할 수 있습니다.\n\n우리는 일상의 활동의 성과를 두각형 의존 변수 (예1⁄41, no1⁄40) 로 코딩하고 이진 오류 분포와 HLM에서 라플라스 근접을 사용하여 비선형 다단계 베르누리 모델을 추정했습니다 (Raudenbush & Bryk, 2002).\n\n따라서 레벨 1은 각 개인에게 주어진 영역 (b0j) 에서 활동을 수행하는 로그 확률을 나타냅니다.\n\n결과변수가 이분형인 모형에서는 잔차분산이 이미 예측값에 의해 결정되므로, 잔차분산을 별도로 추정하지 않았다(Snijders & Bosker, 1999).\n\n레벨 2에서는 b0j 매개 변수가 결과 변수가 됩니다.\n\n우리는 특정 영역 (c01), 연령 (c02), 성별 (c03) 및 잔류 구성 요소 (u0j) 에 대한 기대 또는 두려움에 대한 보고를 한 사람 사이의 활동 확률의 차이를 (c00) 의 함수로 모델링했습니다: b0j 1⁄4 c00 þ c01 (희망/불안) þ c02 (연령) þ c03 (성) þ u0j.\n\n우리는 HLM에서 제한된 최대 확률 절차를 사용하여 가능한 자기 관련 활동에 참여하는 것이 동시 긍정적 인 영향과 관련이 있는지 여부를 조사했습니다.\n\n즉, 우리는 특정 개인에 대한 레벨 1 긍정적 인 영향을 모델링했습니다.\n\n(i) 특정 경우에 (\n\n(j) 연구 기간 동안 사람 (b0j) 의 평균적 긍정적 인 영향 수준 (b1j) 에 따라 보고된 활동이 자신의 희망이나 두려움 (b1J) 과 일치하는지 여부, 그리고 사람 내의 무작위적 잔액 (rij) 에 따라\n\n레벨 2에서는 모든 참가자 (c00), 건강 (c01), 일상적 인 인식 (c02), 사회적 관계 (c03), 연령 (c04), 성별 (c05), 그리고 무작위 효과 (u0i) 분야에서 희망이나 두려움의 보고의 평균 수준 (c00) 의 함수로서 인물의 평균 긍정적 인 영향 (b0j) 수준을 모델링했습니다.\n\n(희망/불안: 사회적 관계) þ c04 (연령) þ c05 (성) þ u0i\n\n레벨 2에서 우리는 모든 참가자 (c10) 과 무작위 효과 (u1i) 의 평균 기울기의 함수로서 한 사람의 평균 레벨 1 기울기를 (b1i) 모델링했습니다.\n\n결과 결과 는 두 섹션 에 나뉘어 보고 됩니다.\n\n첫째, 우리는 건강, 일상적 인식, 그리고 사회적 관계 분야의 희망이나 두려움이 영역에 특화된 일상적인 활동을 채택하는 것과 관련이 있는지 여부를 조사합니다.\n\n다음으로, 우리는 가능한 자기 관련 활동의 수행이 성공적인 노화의 결과와 연관되었는지 여부를 조사하는 분석을 보고합니다.\n\n도메인-특별한 희망과 두려움 및 일상적인 활동 도메인 3개에 대한 희망과 두려움의 가능성을 언급한 개인 수에 대한 설명 정보는 표 1에 있습니다.\n\n예를 들어, 건강 분야에서는 45명의 참가자 (54%) 가 희망과 23명의 참가자 (28%) 가 두려움에 대해 보고했습니다.\n\n인지 영역의 두려움을 제외하고는 참여자의 상당부분은 세 영역에서 희망과 두려움을보고했습니다.\n\n참가자의 4분의 3 이상이 3개의 영역에서 최소 1개의 활동을 수행했다 (예를 들어, n 1⁄4 65의 n 1⁄4 83는 건강 관련 활동을 보고했다).\n\n개인 간 자료를 집계한 수준에서는, 희망이나 두려움을 보고한 참여자와 그렇지 않은 참여자를 대상으로 특정 영역의 상대적인 활동 수를 비교하기 위해 단변량 분산분석을 실시하였다(표 1 참조).\n\n건강, F(1, 81) 1⁄4 5.2, p, .05, 그리고 사회관계, F( 1, 81)1⁄44.1, p, .05 분야에서 희망을 나타낸 참가자들은 다른 활동에 비해 이러한 영역에서 더 많은 활동을 수행했습니다.\n\n우리는 일상적인 인식에서 희망과 활동 사이의 연관성을 발견하지 못했습니다, F ((1, 81) 1⁄4 0.3, p.\n\n.10.\n\n또한, 사회적 영역에서의 두려움은 비교적 더 많은 사회적 활동과 관련이 있었습니다. F(1, 81) 1⁄4 6.7, p, .05, 반면 우리는 건강에 대한 연관성을 발견하지 못했습니다.\n\n.10, 그리고 일상적 인지, F(1, 81)1⁄40.0, p.\n\n.10.\n\n요약적으로, 주어진 영역에서 각각 희망이나 두려움을 보고한 개인과 가능한 자기가 특히 건강과 사회적 관계 영역에서 보다 강력한 활동 수행과 관련이있을 수 있다는 초기 증거를 공개하지 않은 개인을 비교합니다.\n\n표 1\n\n희망, 두려움 및 일일 활동의 설명 주파수 또는 비율 건강 일일 인지 사회적 관계 주파수 희망 보고 45 (54) 35 (42) 34 (41) 두려움 보고 23 (28) 11 (13) 44 (53) 일일 활동 65 (78) 80 (96) 62 (75) % 가능 자기 관련 활동 희망 보고 11.5 (1.5) 18.3 (1.7) 8.4 (1.3) 희망 보고 7.1 (1.1) 17.0 (1.6) 5.5 (0.8) 두려움 보고 10.7 (1.9) 17.2 (2.9) 8.4 (1.0) 두려움 보고 없음\n\n9.0 (1.1) 17.6 (1.3) 4.8 (0.9) 참고: N 1⁄4 83; 세 가지 주요 생명 영역은 별도로 표시됩니다.\n\n괄호에는 비율 (주파수) 과 SD (퍼센트) 이 있다.\n\n라인 내에서, 대문형의 셀은 p, .05에서 또는 그 이하에서 크게 다릅니다.\n\n호프맨 ET AL\n\nP106",
+      "status": "translated",
+      "sourceTextSha256": "1380a68399d2d998fe8b3500c71956c79aa2d2c66b1216b484492d61438458e2",
+      "segments": [
+        {
+          "source": "a pet; and providing help to family members or to others.",
+          "translation": "반려동물; 그리고 가족이나 다른 사람들에게 도움을 주는 것."
+        },
+        {
+          "source": "A considerable number of participants pursued at least one activity in these three domains (see Table 1).",
+          "translation": "상당한 수의 참가자들은 이 세 가지 영역에서 적어도 한 가지 활동을 수행했습니다 (표 1 참조)."
+        },
+        {
+          "source": "Of the total amount of daily activities reported, 10% fell into the domain of health and functional capacity, 18% into everyday cognition, and 7% into social relations.",
+          "translation": "보고된 일일 활동의 총액의 10%는 건강과 기능적 능력, 18%는 일상적 인지, 7%는 사회적 관계 분야에 속했다."
+        },
+        {
+          "source": "Indicators of successful aging.",
+          "translation": "성공적인 노화의 지표."
+        },
+        {
+          "source": "—To assess concurrent positive affect, we selected four adjectives: interested, active, happy, and relaxed (Moss & Lawton, 1982; Watson, Clark, & Tellegen, 1988).",
+          "translation": "동시적 긍정적 인 영향을 평가하기 위해 우리는 관심, 활동, 행복, 그리고 휴식 (Moss & Lawton, 1982; Watson, Clark, & Tellegen, 1988) 라는 네 가지 자질을 선택했습니다."
+        },
+        {
+          "source": "At each time point, participants used a 5-point rating scale to indicate their current affective state.",
+          "translation": "각 시간점에서는 참가자들이 현재 감정 상태를 표시하기 위해 5점 평가 스케일을 사용했습니다."
+        },
+        {
+          "source": "We computed the positive affect score by aggregating across the four adjectives (overall M ¼ 2.73, SD ¼ 0.75, a ¼ 0.90).",
+          "translation": "우리는 네 개의 자명자 (M 1⁄4 2.73, SD 1⁄4 0.75, a 1⁄4 0.90) 를 합쳐서 긍정적인 영향 점수를 계산했습니다."
+        },
+        {
+          "source": "We obtained information about mortality status and date of death from the City Registry 10 years after the time-sampling phase (June, 2005).",
+          "translation": "우리는 시립 레지스트리로부터 사망률 상태와 사망 날짜에 대한 정보를 시간 샘플링 단계 (10년 6월, 2005년) 이후 얻었습니다."
+        },
+        {
+          "source": "Mortality status was missing for 6 of the 83 participants because they had moved out of the Berlin area.",
+          "translation": "83명의 참가자 중 6명은 베를린 지역을 떠나기 때문에 사망률이 없어졌습니다."
+        },
+        {
+          "source": "We excluded them from the mortality analyses.",
+          "translation": "우리는 그들을 사망률 분석에서 배제했습니다."
+        },
+        {
+          "source": "Overall, 43 (56%) participants were deceased, and 34 were still alive.",
+          "translation": "전체적으로 43명 (56%) 이 사망했고, 34명이 여전히 살아 있었다."
+        },
+        {
+          "source": "Statistical Procedure To examine how domain-speciﬁc possible selves were associated with daily activities, we used hierarchical linear modeling (HLM; Raudenbush, Bryk, Cheong, & Congdon, 2000).",
+          "translation": "통계 절차 도메인 특정 가능한 자기들이 일상적인 활동에 어떻게 연관되어 있는지 조사하기 위해 우리는 계층적 선형 모델링을 사용했습니다 (HLM; Raudenbush, Bryk, Cheong, & Congdon, 2000)."
+        },
+        {
+          "source": "HLM allows the consideration of hierarchically nested data structures in that the repeated (within-person) assessment of everyday activities is analyzed at Level 1 simultaneously with modeling individual difference (between-person) characteristics at Level 2.",
+          "translation": "HLM는 일상의 활동의 반복적인 (인내) 평가가 레벨 1에서 동시에 분석되고 레벨 2에서 개별 차이 (인간의) 특성을 모델링하는 것을 통해 계층적으로 둥지를 틀린 데이터 구조를 고려할 수 있습니다."
+        },
+        {
+          "source": "We coded the performance of daily activities as a dichotomous dependent variable (yes¼1, no¼0) and estimated nonlinear multilevel Bernoulli models by using a binomial error distribution and the Laplace approximation in HLM (Raudenbush & Bryk, 2002).",
+          "translation": "우리는 일상의 활동의 성과를 두각형 의존 변수 (예1⁄41, no1⁄40) 로 코딩하고 이진 오류 분포와 HLM에서 라플라스 근접을 사용하여 비선형 다단계 베르누리 모델을 추정했습니다 (Raudenbush & Bryk, 2002)."
+        },
+        {
+          "source": "Accordingly, Level 1 represents the log odds of performing activities in a given domain (b0j) for each individual.",
+          "translation": "따라서 레벨 1은 각 개인에게 주어진 영역 (b0j) 에서 활동을 수행하는 로그 확률을 나타냅니다."
+        },
+        {
+          "source": "In models with dichotomous outcomes, the residual variance is already determined by the predicted value; therefore, we did not estimate residual variances (Snijders & Bosker, 1999).",
+          "translation": "결과변수가 이분형인 모형에서는 잔차분산이 이미 예측값에 의해 결정되므로, 잔차분산을 별도로 추정하지 않았다(Snijders & Bosker, 1999).",
+          "reviewed": true
+        },
+        {
+          "source": "At Level 2, the b0j parameter becomes the outcome variable.",
+          "translation": "레벨 2에서는 b0j 매개 변수가 결과 변수가 됩니다."
+        },
+        {
+          "source": "We modeled between-person differences in the probability of activities as a function of an intercept (c00), whether one reported hopes or fears in this particular domain (c01), age (c02), gender (c03), and a residual component (u0j): b0j ¼ c00 þ c01 (hopes/fears) þ c02 (age) þ c03 (gender) þ u0j.",
+          "translation": "우리는 특정 영역 (c01), 연령 (c02), 성별 (c03) 및 잔류 구성 요소 (u0j) 에 대한 기대 또는 두려움에 대한 보고를 한 사람 사이의 활동 확률의 차이를 (c00) 의 함수로 모델링했습니다: b0j 1⁄4 c00 þ c01 (희망/불안) þ c02 (연령) þ c03 (성) þ u0j."
+        },
+        {
+          "source": "We used restricted maximum-likelihood procedures in HLM to examine whether engaging in possible self-related activities was associated with concurrent positive affect.",
+          "translation": "우리는 HLM에서 제한된 최대 확률 절차를 사용하여 가능한 자기 관련 활동에 참여하는 것이 동시 긍정적 인 영향과 관련이 있는지 여부를 조사했습니다."
+        },
+        {
+          "source": "That is, we modeled Level 1 positive affect (s) for a given person",
+          "translation": "즉, 우리는 특정 개인에 대한 레벨 1 긍정적 인 영향을 모델링했습니다."
+        },
+        {
+          "source": "(i) at a given occasion (",
+          "translation": "(i) 특정 경우에 ("
+        },
+        {
+          "source": "j) as a function of a person’s mean level of positive affect during time in the study (b0j), whether the activity reported was in accord with ones hopes or fears (b1j), and a random within-person residual (rij): Positive affect sij ¼ b0j þ b1j (hope/fear-related activities) þ rii.",
+          "translation": "(j) 연구 기간 동안 사람 (b0j) 의 평균적 긍정적 인 영향 수준 (b1j) 에 따라 보고된 활동이 자신의 희망이나 두려움 (b1J) 과 일치하는지 여부, 그리고 사람 내의 무작위적 잔액 (rij) 에 따라"
+        },
+        {
+          "source": "At Level 2, we modeled a person’s mean level of positive affect (b0j) as a function of the average level across all participants (c00), reports of hopes or fears in the domains of health (c01), everyday cognition (c02), social relations (c03), age (c04), gender (c05), and a random effect (u0i): b0i ¼ c00 þ c01 (hopes/ fears: health) þc02 (hopes/fears: cognition) þc03",
+          "translation": "레벨 2에서는 모든 참가자 (c00), 건강 (c01), 일상적 인 인식 (c02), 사회적 관계 (c03), 연령 (c04), 성별 (c05), 그리고 무작위 효과 (u0i) 분야에서 희망이나 두려움의 보고의 평균 수준 (c00) 의 함수로서 인물의 평균 긍정적 인 영향 (b0j) 수준을 모델링했습니다."
+        },
+        {
+          "source": "(hopes/fears: social relations) þ c04 (age) þ c05 (gender) þ u0i.",
+          "translation": "(희망/불안: 사회적 관계) þ c04 (연령) þ c05 (성) þ u0i"
+        },
+        {
+          "source": "At Level 2, we modeled a person’s mean Level 1 slopes (b1i) as a function of the average slope across all participants (c10) plus a random effect (u1i).",
+          "translation": "레벨 2에서 우리는 모든 참가자 (c10) 과 무작위 효과 (u1i) 의 평균 기울기의 함수로서 한 사람의 평균 레벨 1 기울기를 (b1i) 모델링했습니다."
+        },
+        {
+          "source": "RESULTS Results are reported in two sections.",
+          "translation": "결과 결과 는 두 섹션 에 나뉘어 보고 됩니다."
+        },
+        {
+          "source": "First, we examine whether hopes or fears in the domains of health, everyday cognition, and social relations were associated with adopting domain-speciﬁc daily activities.",
+          "translation": "첫째, 우리는 건강, 일상적 인식, 그리고 사회적 관계 분야의 희망이나 두려움이 영역에 특화된 일상적인 활동을 채택하는 것과 관련이 있는지 여부를 조사합니다."
+        },
+        {
+          "source": "Next, we report analyses investigating whether the performance of possible self-related activities was associated with outcomes of successful aging, namely positive affect and survival.",
+          "translation": "다음으로, 우리는 가능한 자기 관련 활동의 수행이 성공적인 노화의 결과와 연관되었는지 여부를 조사하는 분석을 보고합니다."
+        },
+        {
+          "source": "Domain-Speciﬁc Hopes and Fears and Daily Activities Descriptive information about the number of individuals who mentioned hoped-for and feared possible selves in the three domains is given in Table 1.",
+          "translation": "도메인-특별한 희망과 두려움 및 일상적인 활동 도메인 3개에 대한 희망과 두려움의 가능성을 언급한 개인 수에 대한 설명 정보는 표 1에 있습니다."
+        },
+        {
+          "source": "In the health domain, for example, 45 participants (54%) reported hopes and 23 participants (28%) reported fears.",
+          "translation": "예를 들어, 건강 분야에서는 45명의 참가자 (54%) 가 희망과 23명의 참가자 (28%) 가 두려움에 대해 보고했습니다."
+        },
+        {
+          "source": "With the exception of fears in the cognitive domain, a sizeable portion of participants reported hopes and fears across the three domains.",
+          "translation": "인지 영역의 두려움을 제외하고는 참여자의 상당부분은 세 영역에서 희망과 두려움을보고했습니다."
+        },
+        {
+          "source": "More than three fourths of the participants performed at minimum one activity in each of the three domains (e.g., n ¼ 65 of n ¼ 83 reported health-related activities).",
+          "translation": "참가자의 4분의 3 이상이 3개의 영역에서 최소 1개의 활동을 수행했다 (예를 들어, n 1⁄4 65의 n 1⁄4 83는 건강 관련 활동을 보고했다)."
+        },
+        {
+          "source": "At the aggregate between-person level, we conducted univariate analyses of variance to compare the relative number of activities in a given domain for participants who reported hopes or fears with those who did not (see Table 1).",
+          "translation": "개인 간 자료를 집계한 수준에서는, 희망이나 두려움을 보고한 참여자와 그렇지 않은 참여자를 대상으로 특정 영역의 상대적인 활동 수를 비교하기 위해 단변량 분산분석을 실시하였다(표 1 참조).",
+          "reviewed": true
+        },
+        {
+          "source": "Participants who reported hopes in the domains of health, F(1, 81) ¼ 5.2, p , .05, and social relations, F(1, 81)¼4.1, p , .05, performed more activities in these domains relative to other activities.",
+          "translation": "건강, F(1, 81) 1⁄4 5.2, p, .05, 그리고 사회관계, F( 1, 81)1⁄44.1, p, .05 분야에서 희망을 나타낸 참가자들은 다른 활동에 비해 이러한 영역에서 더 많은 활동을 수행했습니다."
+        },
+        {
+          "source": "We found no association between hopes and activities in everyday cognition, F(1, 81) ¼ 0.3, p .",
+          "translation": "우리는 일상적인 인식에서 희망과 활동 사이의 연관성을 발견하지 못했습니다, F ((1, 81) 1⁄4 0.3, p."
+        },
+        {
+          "source": ".10.",
+          "translation": ".10."
+        },
+        {
+          "source": "In addition, fears in the social domain were related to relatively more social activities, F(1, 81) ¼ 6.7, p , .05, whereas we found no associations for health, F(1, 81) ¼ 0.6, p .",
+          "translation": "또한, 사회적 영역에서의 두려움은 비교적 더 많은 사회적 활동과 관련이 있었습니다. F(1, 81) 1⁄4 6.7, p, .05, 반면 우리는 건강에 대한 연관성을 발견하지 못했습니다."
+        },
+        {
+          "source": ".10, and everyday cognition, F(1, 81)¼0.0, p .",
+          "translation": ".10, 그리고 일상적 인지, F(1, 81)1⁄40.0, p."
+        },
+        {
+          "source": ".10.",
+          "translation": ".10."
+        },
+        {
+          "source": "In sum, comparing individuals who reported hopes or fears, respectively, in a given domain with those who did not revealed initial evidence that possible selves might relate to a stronger performance of activities, particularly for the domains of health and social relations.",
+          "translation": "요약적으로, 주어진 영역에서 각각 희망이나 두려움을 보고한 개인과 가능한 자기가 특히 건강과 사회적 관계 영역에서 보다 강력한 활동 수행과 관련이있을 수 있다는 초기 증거를 공개하지 않은 개인을 비교합니다."
+        },
+        {
+          "source": "Table 1.",
+          "translation": "표 1"
+        },
+        {
+          "source": "Discriptives for Hopes, Fears and Daily Activities Frequency or Percentage Health Everyday Cognition Social Relations Frequencies Hopes reported 45 (54) 35 (42) 34 (41) Fears reported 23 (28) 11 (13) 44 (53) Daily activities 65 (78) 80 (96) 62 (75) % Possible-self-related activities Hopes reported 11.5 (1.5) 18.3 (1.7) 8.4 (1.3) No hopes reported 7.1 (1.1) 17.0 (1.6) 5.5 (0.8) Fears reported 10.7 (1.9) 17.2 (2.9) 8.4 (1.0) No fears reported",
+          "translation": "희망, 두려움 및 일일 활동의 설명 주파수 또는 비율 건강 일일 인지 사회적 관계 주파수 희망 보고 45 (54) 35 (42) 34 (41) 두려움 보고 23 (28) 11 (13) 44 (53) 일일 활동 65 (78) 80 (96) 62 (75) % 가능 자기 관련 활동 희망 보고 11.5 (1.5) 18.3 (1.7) 8.4 (1.3) 희망 보고 7.1 (1.1) 17.0 (1.6) 5.5 (0.8) 두려움 보고 10.7 (1.9) 17.2 (2.9) 8.4 (1.0) 두려움 보고 없음"
+        },
+        {
+          "source": "9.0 (1.1) 17.6 (1.3) 4.8 (0.9) Notes: N ¼ 83; the three salient life domains are shown separately.",
+          "translation": "9.0 (1.1) 17.6 (1.3) 4.8 (0.9) 참고: N 1⁄4 83; 세 가지 주요 생명 영역은 별도로 표시됩니다."
+        },
+        {
+          "source": "In parentheses are percentages (for frequencies) and SDs (for percentages).",
+          "translation": "괄호에는 비율 (주파수) 과 SD (퍼센트) 이 있다."
+        },
+        {
+          "source": "Within rows, cells in boldface type signiﬁcantly differ at or below p , .05.",
+          "translation": "라인 내에서, 대문형의 셀은 p, .05에서 또는 그 이하에서 크게 다릅니다."
+        },
+        {
+          "source": "HOPPMANN ET AL.",
+          "translation": "호프맨 ET AL"
+        },
+        {
+          "source": "P106",
+          "translation": "P106"
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 4,
+      "sourceText": "Next, we proceeded to the within-person level analyses. We\nemployed HLM to regress the log odds of engaging in activities\nin a given domain on reports of hopes or fears in that domain,\nage, and gender (see Table 2). In the health domain, for\nexample, the ﬁxed effect of the intercept was \u00012.34, SE ¼ 0.17,\np , .001, which corresponds to a person who has not reported\nhopes in this domain, was 81 years old (mean age), and was\na man. Using the formula 1/[1 þ exp (\u0001predicted log odds)], we\nﬁnd that this grand mean translates into a probability of .088 for\nhaving performed a health-related activity. The coefﬁcients for\nthe ﬁxed effects of age and gender were not signiﬁcantly\ndifferent from zero, but the coefﬁcient for hopes was (0.50,\nSE ¼ 0.23, p , .05), suggesting a conditional probability of\n.137. We observed no statistically signiﬁcant associations for\ncognitive activities. For social activities, however, we found\nsigniﬁcant associations with being a woman (0.56, SE ¼ 0.20,\np , .01; performance probability ¼ .088; performance\nprobability for men ¼ .052) and hopes in the social domain\n(0.39, SE ¼ 0.20, p , .05; performance probability ¼ .075;\nperformance probability for not having reported hopes ¼ .052).\nThe models explained 2.3% and 4.0% of the variance in health\nand social activities, respectively. The respective deviance\nreductions (3.83; 3.60) indicated a better model ﬁt for the\nconditional than the unconditional models. Fears were not\nassociated with engaging in more activities in a given domain\n(health, \u00010.06, SE ¼ 0.276, p . .10; everyday cognition, 0.27,\nSE ¼ 0.27, p . .10; social relations, 0.11, SE ¼ 0.22, p . .10).\nEnacting Hope-Related or Fear-Related Daily\nActivities and Indicators of Successful Aging\nNext, we examined associations between enacting hoperelated or fear-related activities on the one hand and self-reports\nof concurrent positive affect and subsequent 10-year mortality\non the other hand. Speciﬁcally, we applied HLM to test whether\nengaging in activities that are related to hopes or fears was\nassociated with elevations of positive affect. In addition, we\nexplored whether enacting hope-related or fear-related daily\nactivities was subsequently associated with differential mortality hazards over time.\nPositive affect. —Results concerning positive affect are\nreported in Table 3 for hope-related and fear-related activities.\nAt the within-person level, the coefﬁcient for both hope-related\nactivities (0.10, SE ¼ 0.04, p , .01) and fear-related activities\n(0.17, SE ¼ 0.05, p , .01) was positive and statistically\nsigniﬁcant. This indicates that being engaged in possible-selfrelated activities was indeed associated with an elevation of\npositive affect. At the between-person level, we found that in\nthe models for hope-related activities, hopes in the health\ndomain (\u00010.30, SE ¼ 0.15, p , .05) as well as age (\u00010.03, SE¼\n0.01, p , .05) attenuated the level of positive affect (estimated\nintercept ¼ 2.98, SE ¼ 0.15, p , .001). We found no associations for reports of social hopes, cognitive hopes, and gender.\nIn the models for fear-related activities, we found that age\n(\u00010.04, SE ¼ 0.01, p , .05) was associated with lower positive\naffect (estimated intercept ¼ 3.03, SE ¼ 0.14, p , .001). We\nTable 2. HLMs Predicting Daily Activities from Possible Selves,\nAge, and Gender\nDomain-Speciﬁc Activities\nEffect (SE)\nHealth\nEveryday\nCognition\nSocial\nRelations\nFixed effects estimates\nIntercept, b00\n\u00012.34 (0.17)\n\u00011.81 (0.14)\n\u00012.90 (0.18)\nt (77)\n\u000113.88***\n\u000112.61***\n\u000116.31***\nAge, b01\n\u00010.01 (0.02)\n0.02 (0.02)\n\u00010.03 (0.02)\nt (77)\n\u00010.37\n1.22\n\u00011.46\nGender, b02\n\u00010.30 (0.24)\n\u00010.22 (0.19)\n0.56 (0.20)\nt (77)\n\u00011.25\n\u00011.13\n2.83**\nHopes reported, b03\n0.50 (0.23)\n0.24 (0.18)\n0.39 (0.20)\nt (77)\n2.16*\n1.31\n1.97*\nRandom effects estimates\nVariance of\nintercept\n0.55 (0.27)***\n0.26 (0.14)***\n0.10 (0.13)\nDeviance\nreduction (\u0001 df)\n3.83 (1)*\n1.65 (1)\n3.60 (1)\nNotes: HLMs ¼ hierarchical linear models; the predictions are made by the\nuse of Laplace estimation (hierarchical linear modeling). For gender, men ¼ 0,\nwomen ¼ 1; N ¼ 83. There were 2,177 observations. For reasons of model\nidentiﬁcation, the residual variance in estimating dichotomous dependent variables at Level 1 was set to unity. Deviance reduction refers to adding the Level\n2 predictor hopes reported (1; no hopes reported ¼ 0) to the baseline model\nthat included age and gender as Level 2 predictors. SE ¼ standard error.\n*p , .05, **p , .01, ***p , .001.\nTable 3. HLMs Predicting Mood From the Possible-Self-Relevance\nof Daily Activities, Possible Selves, Age, and Gender\nPositive Affect\nEffect (SE)\nHopes\nFears\nFixed effects estimates\nWithin-person\nPossible self-related activities, b1j\n0.10 (0.04)\n0.17 (0.05)\nt (80)\n2.57**\n3.67***\nBetween-person\nIntercept, c00\n2.98 (0.15)\n3.03 (0.14)\nt (76)\n20.47***\n21.95***\nPossible selves concerning\nhealth, c01\n\u00010.30 (0.15)\n\u00010.22 (0.18)\nt (76)\n\u00012.01*\n\u00011.22\nPossible selves concerning social\nrelations, c02\n\u00010.02 (0.16)\n\u00010.19 (0.17)\nt (76)\n\u00010.15\n\u00011.12\nPossible selves concerning\neveryday cognition, c03\n0.03 (0.16)\n\u00010.13 (0.15)\nt (76)\n0.20\n\u00010.83\nAge, c04\n\u00010.03 (0.01)\n\u00010.04 (0.01)\nt (76)\n\u00012.46*\n\u00012.53*\nGender, c05\n\u00010.22 (0.15)\n\u00010.30 (0.16)\nt (76)\n\u00011.45\n\u00011.90\nRandom effects estimates\nVariance of intercept (SD)\n0.51 (0.72)***\n0.52 (0.72)***\nVariance of possible self-related\nactivities (SD)\n0.03 (0.16)**\n0.03 (0.16)\nDeviance reduction (\u0001 df)\n12.14 (4)**\n21.07 (4)***\nNotes: HLMs ¼ hierarchical linear models; the predictions are made by\nthe use of restricted maximum likelihood estimation (hierarchical linear modeling). For gender, men ¼ 0, women ¼ 1; N ¼ 83. There were 2,177 observations. Deviance reduction refers to adding the Level 2 predictor hopes\nreported (1; no hopes reported ¼ 0) to the baseline model that included age\nand gender as Level 2 predictors. SE ¼ standard error.\n*p , .05, **p , .01, ***p , .001.\nPOSSIBLE SELVES AND DAILY ACTIVITIES IN OLD AGE\nP107",
+      "translationText": "그 다음으로, 우리는 개인 차원의 분석을 진행했습니다.\n\n우리는 HLM를 사용하여 특정 영역에 대한 희망이나 두려움의 보고에 따라 특정 영역, 연령 및 성별에 대한 활동에 참여하는 로그 확률을 되돌려 놓았습니다 (표 2 참조).\n\n예를 들어 건강 영역에서, 검열의 고정 효과는 2.34, SE 1⁄4 0.17, p, .001였습니다. 이는 이 영역에 대한 희망이 없는, 81 세 (평균 연령) 이며 남성인 사람에게 해당됩니다.\n\n공식 1/[1 þ exp (예측된 로그 확률) ]을 사용하여, 우리는 이 큰 평균이 건강 관련 활동을 수행한 확률 0.088로 번역된다는 것을 발견합니다.\n\n나이와 성별의 고정적인 영향의 계수는 0과 크게 다르지 않았지만 희망의 계수는 (0.50, SE 1⁄4 0.23, p, .05) 이며, 조건적 확률은 .137입니다.\n\n우리는 인지 활동에 대한 통계적으로 중요한 연관성을 관찰하지 않았습니다.\n\n그러나 사회적 활동에서는 여성인 (0.56, SE 1⁄4 0.20, p .01; 성능 확률 1⁄4 .088; 남성의 성능 확률 1/4 .052) 와 사회적 영역에서의 희망 (0.39, SE 1⁄4 0.20; p .05; 성능 확률\n\n모델들은 각각 2.3%와 4.0%의 건강 및 사회 활동의 차이를 설명했습니다.\n\n각자의 이탈 감소 (3.83; 3.60) 는 조건부 모델보다 조건부 모델에 더 적합한 모델을 나타냈다.\n\n두려움은 주어진 영역에서 더 많은 활동에 참여하는 것과 연관되지 않았다 (보건, 0.06, SE 1⁄4 0.276, p .10; 일상적 인지, 0.27, SE 1⁄4 0.27, p. .10; 사회적 관계, 0.11, SE 1⁄4 0.22; p. .10)\n\n희망과 공포와 관련된 일상의 활동과 성공적인 노화의 지표를 활성화하는 데 있어서 우리는 한쪽으로는 희망과 두려움과 관련된 활동을 시행하는 것과 다른 한편으로는 동시 긍정적 인 영향과 10 년 후 사망률의 자기보고 사이의 연관성을 조사했습니다.\n\n구체적으로, 우리는 희망이나 두려움과 관련된 활동에 참여하는 것이 긍정적 인 영향의 증가와 관련이 있는지 테스트하기 위해 HLM를 적용했습니다.\n\n또한 희망과 두려움과 관련된 일상적인 활동을 시행하는 것이 시간이 지남에 따라 사망률의 차이를 초래하는 것과 관련이 있는지 여부를 조사했습니다.\n\n긍정적인 영향.\n\n희망과 두려움과 관련된 활동에 대한 긍정적 인 영향에 대한 결과는 표 3에 보고되어 있습니다.\n\n인격 차원에서 희망과 관련된 활동 (0.10, SE 1⁄4 0.04, p , .01) 과 두려움과 관련된 활동 (0,17, SE 1⁄4 0.05 , p, .01) 모두 긍정적 인 계수이며 통계적으로 의미있는 것으로 나타났습니다.\n\n이것은 자기 관련 가능한 활동에 참여하는 것이 실제로 긍정적 인 영향을 증가시키는 것과 관련이 있음을 나타냅니다.\n\n사람 간 차원에서, 우리는 희망과 관련된 활동 모델에서 건강 영역 (0.30, SE 1⁄4 0.15, p, .05) 에 대한 희망과 연령 (0.03, SE1⁄4 0.01, p, .05), 긍정적 인 영향의 수준을 완화시켰다는 것을 발견했습니다.\n\n우리는 사회적 희망, 인지 희망, 그리고 성별에 대한 보고에 대한 연관성을 찾지 못했습니다.\n\n두려움과 관련된 활동에 대한 모델에서, 우리는 연령 (0.04, SE 1⁄4 0.01, p, .05) 가 낮은 긍정적 인 영향과 연관되어 있음을 발견했습니다 (평균적 인터셉트 1⁄4 3.03, SE 1⁄4 0.14, p , .001).\n\n우리는 테이블 2\n\nHLMs 가능한 자기, 연령 및 성분별 활동의 일일 활동 예측 효과 (SE) 건강 일일 인지 사회적 관계 고정된 효과 추정치 간섭, b00 2.34 (0.17) 1.81 (0.14) 2.90 (0.18) t (77) 13.88*** 12.61*** 16.31*** 연령, b01 0.01 (0.02) 0.02 (0.02) 0,03 (0.02) t (77) 0.37 1.22 1.46 성, b02 0.30 (0.24) 0.22 (0.19)\n\n0.56 (0.20) t (77) 1.25 1.13 2.83** 보고된 희망, b03 0.50 (0.23) 0.24 (0.18) 0.39 (0.20) t (87) 2.16* 1.31 1.97* 무작위 효과 추정 간섭의 변동 0.55 (0.27)*** 0.26 (0.14)*** 0.10 (0.13) Deviance Reduction (df) 3.83 (1)* 1.65 (1) 3.60 (1)\n\n(열차적 선형 모델링)\n\n성별에 대해서는 남성 1⁄4 0, 여성 1⁄4 1; N 1⁄4 83.\n\n2,177개의 관측이 있었습니다.\n\n모델 식별의 이유로, 레벨 1에서 두각형 의존 변수를 추정하는 잔여 변수는 통일로 설정되었습니다.\n\n디바이언스 감소는 레벨 2 예측기 기대가 보고된 (1; 희망이 보고되지 않은 1⁄4 0) 를 레벨 2 예측자로서 연령과 성별을 포함한 기본 모델에 추가하는 것을 의미합니다.\n\nSE 1⁄4 표준 오류\n\n*p , .05, **p , .01, ***p , .001.\n\n표 3\n\nHLMs 일일 활동, 가능한 자기, 연령, 성적 긍정적 영향 효과 (SE) 의 가능한 자기 관련성 (self-relevantness) 에서 기분을 예측하는 희망 (HLMs) 의 두려움 고정된 영향 추정 인내 인내 인 내 0.10 (0.04) 0.17 (0.05) t (80) 2.57** 3.67*** 사람 간 간 간섭, c00 2.98 (0.15) 3.03 (0.14) (76) 20.47*** 21.95 t*** 건강에 관한 가능한 자기\n\nc01 0.30 (0.15) 0.22 (0.18) t (76) 2.01* 1.22 사회적 관계에 관한 가능한 자기들, c02 0.02 (0.16) 0.19 (0.17) t (76) 0.15 1.12 일상적인 인식에 관한 가능한 존재들, c03 0.03 (0.16) 0,13 (0.15) t (76) 0,20 0.83 연령, c04 0.03 (0.01) 0.04 (0.01) t (76) 2,46* 2.53* 성별, c05 0.22 (0.1) 0.30 (0.16) t (76) 1.45\n\n1.90 무작위 효과 추정치 간섭의 변동 (SD) 0.51 (0.72)*** 0.52 (0.72) *** 가능한 자기 관련 활동의 변동은 0.03 (0.16)** 0.03 (0.16) Deviance reduction (df) 12.14 (4)** 21.07 (4)*** 참고: HLMs 1⁄4 계열형 선형 모델; 예측은 제한된 최대 확률 추정치 (하이라키적 선형 모델링) 를 이용하여 이루어진다.\n\n성별에 대해서는 남성 1⁄4 0, 여성 1⁄4 1; N 1⁄4 83.\n\n2,177개의 관측이 있었습니다.\n\n디바이언스 감소는 레벨 2 예측기 기대가 보고된 (1; 희망이 보고되지 않은 1⁄4 0) 를 레벨 2 예측자로서 연령과 성별을 포함한 기본 모델에 추가하는 것을 의미합니다.\n\nSE 1⁄4 표준 오류\n\n*p , .05, **p , .01, ***p , .001.\n\n늙은 사람 들 에게 가능한 자기 생활 과 일상 활동 P107",
+      "status": "translated",
+      "sourceTextSha256": "2d0767cb4009da4ed98f2b09fd6ea2ddb49cbd0e62167baef016f5a9afe55b45",
+      "segments": [
+        {
+          "source": "Next, we proceeded to the within-person level analyses.",
+          "translation": "그 다음으로, 우리는 개인 차원의 분석을 진행했습니다."
+        },
+        {
+          "source": "We employed HLM to regress the log odds of engaging in activities in a given domain on reports of hopes or fears in that domain, age, and gender (see Table 2).",
+          "translation": "우리는 HLM를 사용하여 특정 영역에 대한 희망이나 두려움의 보고에 따라 특정 영역, 연령 및 성별에 대한 활동에 참여하는 로그 확률을 되돌려 놓았습니다 (표 2 참조)."
+        },
+        {
+          "source": "In the health domain, for example, the ﬁxed effect of the intercept was \u00012.34, SE ¼ 0.17, p , .001, which corresponds to a person who has not reported hopes in this domain, was 81 years old (mean age), and was a man.",
+          "translation": "예를 들어 건강 영역에서, 검열의 고정 효과는 2.34, SE 1⁄4 0.17, p, .001였습니다. 이는 이 영역에 대한 희망이 없는, 81 세 (평균 연령) 이며 남성인 사람에게 해당됩니다."
+        },
+        {
+          "source": "Using the formula 1/[1 þ exp (\u0001predicted log odds)], we ﬁnd that this grand mean translates into a probability of .088 for having performed a health-related activity.",
+          "translation": "공식 1/[1 þ exp (예측된 로그 확률) ]을 사용하여, 우리는 이 큰 평균이 건강 관련 활동을 수행한 확률 0.088로 번역된다는 것을 발견합니다."
+        },
+        {
+          "source": "The coefﬁcients for the ﬁxed effects of age and gender were not signiﬁcantly different from zero, but the coefﬁcient for hopes was (0.50, SE ¼ 0.23, p , .05), suggesting a conditional probability of .137.",
+          "translation": "나이와 성별의 고정적인 영향의 계수는 0과 크게 다르지 않았지만 희망의 계수는 (0.50, SE 1⁄4 0.23, p, .05) 이며, 조건적 확률은 .137입니다."
+        },
+        {
+          "source": "We observed no statistically signiﬁcant associations for cognitive activities.",
+          "translation": "우리는 인지 활동에 대한 통계적으로 중요한 연관성을 관찰하지 않았습니다."
+        },
+        {
+          "source": "For social activities, however, we found signiﬁcant associations with being a woman (0.56, SE ¼ 0.20, p , .01; performance probability ¼ .088; performance probability for men ¼ .052) and hopes in the social domain (0.39, SE ¼ 0.20, p , .05; performance probability ¼ .075; performance probability for not having reported hopes ¼ .052).",
+          "translation": "그러나 사회적 활동에서는 여성인 (0.56, SE 1⁄4 0.20, p .01; 성능 확률 1⁄4 .088; 남성의 성능 확률 1/4 .052) 와 사회적 영역에서의 희망 (0.39, SE 1⁄4 0.20; p .05; 성능 확률"
+        },
+        {
+          "source": "The models explained 2.3% and 4.0% of the variance in health and social activities, respectively.",
+          "translation": "모델들은 각각 2.3%와 4.0%의 건강 및 사회 활동의 차이를 설명했습니다."
+        },
+        {
+          "source": "The respective deviance reductions (3.83; 3.60) indicated a better model ﬁt for the conditional than the unconditional models.",
+          "translation": "각자의 이탈 감소 (3.83; 3.60) 는 조건부 모델보다 조건부 모델에 더 적합한 모델을 나타냈다."
+        },
+        {
+          "source": "Fears were not associated with engaging in more activities in a given domain (health, \u00010.06, SE ¼ 0.276, p . .10; everyday cognition, 0.27, SE ¼ 0.27, p . .10; social relations, 0.11, SE ¼ 0.22, p . .10).",
+          "translation": "두려움은 주어진 영역에서 더 많은 활동에 참여하는 것과 연관되지 않았다 (보건, 0.06, SE 1⁄4 0.276, p .10; 일상적 인지, 0.27, SE 1⁄4 0.27, p. .10; 사회적 관계, 0.11, SE 1⁄4 0.22; p. .10)"
+        },
+        {
+          "source": "Enacting Hope-Related or Fear-Related Daily Activities and Indicators of Successful Aging Next, we examined associations between enacting hoperelated or fear-related activities on the one hand and self-reports of concurrent positive affect and subsequent 10-year mortality on the other hand.",
+          "translation": "희망과 공포와 관련된 일상의 활동과 성공적인 노화의 지표를 활성화하는 데 있어서 우리는 한쪽으로는 희망과 두려움과 관련된 활동을 시행하는 것과 다른 한편으로는 동시 긍정적 인 영향과 10 년 후 사망률의 자기보고 사이의 연관성을 조사했습니다."
+        },
+        {
+          "source": "Speciﬁcally, we applied HLM to test whether engaging in activities that are related to hopes or fears was associated with elevations of positive affect.",
+          "translation": "구체적으로, 우리는 희망이나 두려움과 관련된 활동에 참여하는 것이 긍정적 인 영향의 증가와 관련이 있는지 테스트하기 위해 HLM를 적용했습니다."
+        },
+        {
+          "source": "In addition, we explored whether enacting hope-related or fear-related daily activities was subsequently associated with differential mortality hazards over time.",
+          "translation": "또한 희망과 두려움과 관련된 일상적인 활동을 시행하는 것이 시간이 지남에 따라 사망률의 차이를 초래하는 것과 관련이 있는지 여부를 조사했습니다."
+        },
+        {
+          "source": "Positive affect.",
+          "translation": "긍정적인 영향."
+        },
+        {
+          "source": "—Results concerning positive affect are reported in Table 3 for hope-related and fear-related activities.",
+          "translation": "희망과 두려움과 관련된 활동에 대한 긍정적 인 영향에 대한 결과는 표 3에 보고되어 있습니다."
+        },
+        {
+          "source": "At the within-person level, the coefﬁcient for both hope-related activities (0.10, SE ¼ 0.04, p , .01) and fear-related activities (0.17, SE ¼ 0.05, p , .01) was positive and statistically signiﬁcant.",
+          "translation": "인격 차원에서 희망과 관련된 활동 (0.10, SE 1⁄4 0.04, p , .01) 과 두려움과 관련된 활동 (0,17, SE 1⁄4 0.05 , p, .01) 모두 긍정적 인 계수이며 통계적으로 의미있는 것으로 나타났습니다."
+        },
+        {
+          "source": "This indicates that being engaged in possible-selfrelated activities was indeed associated with an elevation of positive affect.",
+          "translation": "이것은 자기 관련 가능한 활동에 참여하는 것이 실제로 긍정적 인 영향을 증가시키는 것과 관련이 있음을 나타냅니다."
+        },
+        {
+          "source": "At the between-person level, we found that in the models for hope-related activities, hopes in the health domain (\u00010.30, SE ¼ 0.15, p , .05) as well as age (\u00010.03, SE¼ 0.01, p , .05) attenuated the level of positive affect (estimated intercept ¼ 2.98, SE ¼ 0.15, p , .001).",
+          "translation": "사람 간 차원에서, 우리는 희망과 관련된 활동 모델에서 건강 영역 (0.30, SE 1⁄4 0.15, p, .05) 에 대한 희망과 연령 (0.03, SE1⁄4 0.01, p, .05), 긍정적 인 영향의 수준을 완화시켰다는 것을 발견했습니다."
+        },
+        {
+          "source": "We found no associations for reports of social hopes, cognitive hopes, and gender.",
+          "translation": "우리는 사회적 희망, 인지 희망, 그리고 성별에 대한 보고에 대한 연관성을 찾지 못했습니다."
+        },
+        {
+          "source": "In the models for fear-related activities, we found that age (\u00010.04, SE ¼ 0.01, p , .05) was associated with lower positive affect (estimated intercept ¼ 3.03, SE ¼ 0.14, p , .001).",
+          "translation": "두려움과 관련된 활동에 대한 모델에서, 우리는 연령 (0.04, SE 1⁄4 0.01, p, .05) 가 낮은 긍정적 인 영향과 연관되어 있음을 발견했습니다 (평균적 인터셉트 1⁄4 3.03, SE 1⁄4 0.14, p , .001)."
+        },
+        {
+          "source": "We Table 2.",
+          "translation": "우리는 테이블 2"
+        },
+        {
+          "source": "HLMs Predicting Daily Activities from Possible Selves, Age, and Gender Domain-Speciﬁc Activities Effect (SE) Health Everyday Cognition Social Relations Fixed effects estimates Intercept, b00 \u00012.34 (0.17) \u00011.81 (0.14) \u00012.90 (0.18) t (77) \u000113.88*** \u000112.61*** \u000116.31*** Age, b01 \u00010.01 (0.02) 0.02 (0.02) \u00010.03 (0.02) t (77) \u00010.37 1.22 \u00011.46 Gender, b02 \u00010.30 (0.24) \u00010.22 (0.19)",
+          "translation": "HLMs 가능한 자기, 연령 및 성분별 활동의 일일 활동 예측 효과 (SE) 건강 일일 인지 사회적 관계 고정된 효과 추정치 간섭, b00 2.34 (0.17) 1.81 (0.14) 2.90 (0.18) t (77) 13.88*** 12.61*** 16.31*** 연령, b01 0.01 (0.02) 0.02 (0.02) 0,03 (0.02) t (77) 0.37 1.22 1.46 성, b02 0.30 (0.24) 0.22 (0.19)"
+        },
+        {
+          "source": "0.56 (0.20) t (77) \u00011.25 \u00011.13 2.83** Hopes reported, b03 0.50 (0.23) 0.24 (0.18) 0.39 (0.20) t (77) 2.16* 1.31 1.97* Random effects estimates Variance of intercept 0.55 (0.27)*** 0.26 (0.14)*** 0.10 (0.13) Deviance reduction (\u0001 df) 3.83 (1)* 1.65 (1) 3.60 (1) Notes: HLMs ¼ hierarchical linear models; the predictions are made by the use of Laplace estimation",
+          "translation": "0.56 (0.20) t (77) 1.25 1.13 2.83** 보고된 희망, b03 0.50 (0.23) 0.24 (0.18) 0.39 (0.20) t (87) 2.16* 1.31 1.97* 무작위 효과 추정 간섭의 변동 0.55 (0.27)*** 0.26 (0.14)*** 0.10 (0.13) Deviance Reduction (df) 3.83 (1)* 1.65 (1) 3.60 (1)"
+        },
+        {
+          "source": "(hierarchical linear modeling).",
+          "translation": "(열차적 선형 모델링)"
+        },
+        {
+          "source": "For gender, men ¼ 0, women ¼ 1; N ¼ 83.",
+          "translation": "성별에 대해서는 남성 1⁄4 0, 여성 1⁄4 1; N 1⁄4 83."
+        },
+        {
+          "source": "There were 2,177 observations.",
+          "translation": "2,177개의 관측이 있었습니다."
+        },
+        {
+          "source": "For reasons of model identiﬁcation, the residual variance in estimating dichotomous dependent variables at Level 1 was set to unity.",
+          "translation": "모델 식별의 이유로, 레벨 1에서 두각형 의존 변수를 추정하는 잔여 변수는 통일로 설정되었습니다."
+        },
+        {
+          "source": "Deviance reduction refers to adding the Level 2 predictor hopes reported (1; no hopes reported ¼ 0) to the baseline model that included age and gender as Level 2 predictors.",
+          "translation": "디바이언스 감소는 레벨 2 예측기 기대가 보고된 (1; 희망이 보고되지 않은 1⁄4 0) 를 레벨 2 예측자로서 연령과 성별을 포함한 기본 모델에 추가하는 것을 의미합니다."
+        },
+        {
+          "source": "SE ¼ standard error.",
+          "translation": "SE 1⁄4 표준 오류"
+        },
+        {
+          "source": "*p , .05, **p , .01, ***p , .001.",
+          "translation": "*p , .05, **p , .01, ***p , .001."
+        },
+        {
+          "source": "Table 3.",
+          "translation": "표 3"
+        },
+        {
+          "source": "HLMs Predicting Mood From the Possible-Self-Relevance of Daily Activities, Possible Selves, Age, and Gender Positive Affect Effect (SE) Hopes Fears Fixed effects estimates Within-person Possible self-related activities, b1j 0.10 (0.04) 0.17 (0.05) t (80) 2.57** 3.67*** Between-person Intercept, c00 2.98 (0.15) 3.03 (0.14) t (76) 20.47*** 21.95*** Possible selves concerning health,",
+          "translation": "HLMs 일일 활동, 가능한 자기, 연령, 성적 긍정적 영향 효과 (SE) 의 가능한 자기 관련성 (self-relevantness) 에서 기분을 예측하는 희망 (HLMs) 의 두려움 고정된 영향 추정 인내 인내 인 내 0.10 (0.04) 0.17 (0.05) t (80) 2.57** 3.67*** 사람 간 간 간섭, c00 2.98 (0.15) 3.03 (0.14) (76) 20.47*** 21.95 t*** 건강에 관한 가능한 자기"
+        },
+        {
+          "source": "c01 \u00010.30 (0.15) \u00010.22 (0.18) t (76) \u00012.01* \u00011.22 Possible selves concerning social relations, c02 \u00010.02 (0.16) \u00010.19 (0.17) t (76) \u00010.15 \u00011.12 Possible selves concerning everyday cognition, c03 0.03 (0.16) \u00010.13 (0.15) t (76) 0.20 \u00010.83 Age, c04 \u00010.03 (0.01) \u00010.04 (0.01) t (76) \u00012.46* \u00012.53* Gender, c05 \u00010.22 (0.15) \u00010.30 (0.16) t (76) \u00011.45",
+          "translation": "c01 0.30 (0.15) 0.22 (0.18) t (76) 2.01* 1.22 사회적 관계에 관한 가능한 자기들, c02 0.02 (0.16) 0.19 (0.17) t (76) 0.15 1.12 일상적인 인식에 관한 가능한 존재들, c03 0.03 (0.16) 0,13 (0.15) t (76) 0,20 0.83 연령, c04 0.03 (0.01) 0.04 (0.01) t (76) 2,46* 2.53* 성별, c05 0.22 (0.1) 0.30 (0.16) t (76) 1.45"
+        },
+        {
+          "source": "\u00011.90 Random effects estimates Variance of intercept (SD) 0.51 (0.72)*** 0.52 (0.72)*** Variance of possible self-related activities (SD) 0.03 (0.16)** 0.03 (0.16) Deviance reduction (\u0001 df) 12.14 (4)** 21.07 (4)*** Notes: HLMs ¼ hierarchical linear models; the predictions are made by the use of restricted maximum likelihood estimation (hierarchical linear modeling).",
+          "translation": "1.90 무작위 효과 추정치 간섭의 변동 (SD) 0.51 (0.72)*** 0.52 (0.72) *** 가능한 자기 관련 활동의 변동은 0.03 (0.16)** 0.03 (0.16) Deviance reduction (df) 12.14 (4)** 21.07 (4)*** 참고: HLMs 1⁄4 계열형 선형 모델; 예측은 제한된 최대 확률 추정치 (하이라키적 선형 모델링) 를 이용하여 이루어진다."
+        },
+        {
+          "source": "For gender, men ¼ 0, women ¼ 1; N ¼ 83.",
+          "translation": "성별에 대해서는 남성 1⁄4 0, 여성 1⁄4 1; N 1⁄4 83."
+        },
+        {
+          "source": "There were 2,177 observations.",
+          "translation": "2,177개의 관측이 있었습니다."
+        },
+        {
+          "source": "Deviance reduction refers to adding the Level 2 predictor hopes reported (1; no hopes reported ¼ 0) to the baseline model that included age and gender as Level 2 predictors.",
+          "translation": "디바이언스 감소는 레벨 2 예측기 기대가 보고된 (1; 희망이 보고되지 않은 1⁄4 0) 를 레벨 2 예측자로서 연령과 성별을 포함한 기본 모델에 추가하는 것을 의미합니다."
+        },
+        {
+          "source": "SE ¼ standard error.",
+          "translation": "SE 1⁄4 표준 오류"
+        },
+        {
+          "source": "*p , .05, **p , .01, ***p , .001.",
+          "translation": "*p , .05, **p , .01, ***p , .001."
+        },
+        {
+          "source": "POSSIBLE SELVES AND DAILY ACTIVITIES IN OLD AGE P107",
+          "translation": "늙은 사람 들 에게 가능한 자기 생활 과 일상 활동 P107"
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 5,
+      "sourceText": "HOPPMANN ET AL.\nP108\n\n\nfound no associations with gender for fears and gender. Hopes\nand hope-related activities explained 3.9% of the variance in\npositive affect (deviance reduction ¼ 12.14). Fears and fearrelated activities explained 2.6% of the variance in positive\naffect (deviance reduction ¼ 21.07). In sum, our results show\nthat health-related hopes were associated with lower overall\nlevels of positive affect, but engaging in hope-related activities\nand engaging in fear-related activities elevates positive affect.\n\n\nMortality. —To examine the effects of enacting hope-related\nor\nfear-related\nactivities,\nwe\nevaluated\nhierarchical\nCox\nproportional\nhazards\nregression\nmodels\n(Cox,\n1972)\nas\nimplemented in the PHREG procedure from the SAS software\npackage (1997) for differences in mortality risks over 10 years.\nDescriptively, 43 participants were deceased, 34 were still\nalive, and mortality information was missing for 6 participants\nwho moved out of the Berlin area.\n\n\nHazard regression models showed that the adoption of hoperelated\nactivities\nin\nthe\nthree\nconsidered\ndomains\nwas\nassociated with a lower relative risk (RR) of dying, v2(1, N ¼\n77) ¼ 4.4, p , .05, RR ¼ 0.97, and conﬁdence interval or CI ¼\n0.95–0.99. We also examined whether this association was\nspurious and simply reﬂected the effects of common determinants of mortality in very old age such as age, gender,\nintelligence, and physical functioning (balance).We controlled\nthese variables in the ﬁrst step of a hierarchical hazard\nregression model before we entered hope-related activities in\na second step. The effect for hope-related activities remained\nuniquely signiﬁcant, v2(1, N ¼ 77) ¼ 3.9, p , .05, RR ¼ 0.97,\nCI¼0.95–0.99, in addition to the effects of age, v2(1, N¼77)¼\n12.6, p , .001, RR ¼ 1.12, CI ¼ 1.05–1.20; gender, v2(1, N ¼\n77) ¼ 2.7, p . .05, RR ¼ 0.58, CI ¼ 0.30–1.11; intelligence,\nv2(1, N ¼ 77) ¼ 1.2, p . .05, RR ¼ 0.97, CI ¼ 0.93–1.02; and\nbalance, v2(1, N ¼ 77) ¼ 0.2, p . .05, RR ¼ 0.97, CI ¼ 0.61–\n1.54. In contrast, fear-related activities were independent of\nmortality hazards, v2(1, N¼77)¼0.7, p . .10, RR¼1.01, CI¼\n0.98–1.04, suggesting that hope-related activities and fearrelated activities are differentially related to mortality.\n\n\nDISCUSSION\n\n\nUsing time-sampling information from 83 BASE participants, this study demonstrates that domain-speciﬁc possible\nselves translate into daily activities and are related with\nconcurrent affective experiences and subsequent mortality\nhazards in old and very old age. Speciﬁcally, we showed that\nhopes in the domains of health and social relations are\npositively associated with the performance of health-related\nand social activities. Although participants with health-related\nhopes reported lower overall levels of positive affect, the\nperformance of possible-self-related activities was associated\nwith elevations in concurrent positive affect. Furthermore, our\nanalyses linking possible-self-related activities in the timesampling phase and subsequent mortality risks suggest that\nsuch microlevel processes may be associated with long-term\noutcomes of successful aging.\n\n\nOur results indicate that hopes are associated with an\nengagement in domain-speciﬁc activities; however, this was\nnot the case for fears. These ﬁndings parallel previous research\non the differential role of hoped-for and feared possible selves.\n\n\nThey suggest that older adults who reported hopes had elaborate\nimages of what to do in the service of their desired future selves\nthat helped them to actually perform domain-speciﬁc activities\n(Cross & Markus, 1994; Hooker, 1992; Hooker & Kaus, 1992;\nMarkus & Ruvolo, 1989; Whaley, 2003).\n\n\nIn contrast, older adults who had reported feared possible\nselves may have felt trapped by vivid images of undesired\nsituations and lacked the means and strategies to avoid them\n(Hooker, 1992; Hooker & Kaus, 1992). In addition, older adults\nmay have perceived low control over feared outcomes,\nparticularly in the domains of health and cognition (Hooker,\n1992). This might apply less to the domain of social relations\nwhere a positive association between fears and activities was\nfound at the between-person but not at the within-person level\nbecause older adults play an active role in shaping their\nnetworks even under losses (Carstensen, 1995; Lang, 2001).\nAlternatively, it may also be that older adults successfully\navoided situations that were related to their feared selves\n(Carstensen, Mikels, & Mather, 2006).\n\n\nOur ﬁndings revealed a positive association between hopes\nand daily activities in the domains of health and social relations\nbut not in the cognitive domain. One reason for these\ndifferential associations might be that by the time individuals\nreach old age, they can draw on lifelong experience to help\nthem decide how to stay in good health (e.g., engaging in\nphysical activity or getting medical checkups; see Seiffge-\nKrenke, 2001) and keep satisfying relationships (e.g., calling\nfriends, solving social conﬂicts; see Watson & Blanchard-\nFields, 1998). In contrast, cognitive decline takes place\ngradually and usually does not constrain everyday functioning\nfor a large part of the adult life span. Therefore, we speculate\nthat older adults may have less experience with and knowledge\nof how to effectively implement their cognitive possible selves.\nAlternatively, older adults may be less able to inﬂuence\ncognitive processes by setting goals. Research by West and\ncolleagues (e.g., West & Thorn, 2001) shows that memory goal\nsetting increased self-efﬁcacy in younger adults but not in older\nadults. This suggests that memory self-efﬁcacy is not fueled by\nmemory goals in old age. In a similar way, it might be the case\nthat possible selves in the cognitive domain are unrelated to\ncognitive activities because participants did not believe in their\nsuccess. However, the present data set does not allow an\nexamination of this speculation. Finally, it is also possible that\nparticipants performed activities in the service of their cognitive\npossible selves that we did not classify as cognitive activities.\nResearch by Hertzog and colleagues (Hertzog, McGuire,\nPowell-Moman, & York, 2001) supports this argument. In\ntheir study, older adults, among others, believed that they could\ncontrol their memory by keeping a proper diet and engaging in\nphysical exercise. In the present study the daily activities were\nnot rated by participants themselves but represent a post hoc\nexternal coding. Neither of these categories was rated as\nrelevant for cognitive functioning.\n\n\nAnother objective of this study was to investigate the link\nbetween the performance of possible self-related activities and\noutcomes of successful aging. In terms of affective experiences\nin daily life, our results are in line with previous ﬁndings on\nthe positive relationship between the performance of goalrelated activities and well-being (Brunstein, 1993; Cantor &\nSanderson, 1999), but they also extend them in important ways.",
+      "translationText": "호프맨 ET AL\n\nP108은 두려움과 성별에 대한 성과의 연관성을 발견하지 못했습니다.\n\n희망과 희망과 관련된 활동은 긍정적 인 영향의 3.9%의 차이를 설명했습니다 (방향 감소 1⁄4 12.14).\n\n두려움과 두려움과 관련된 활동은 긍정적인 영향의 2.6%의 차이를 설명했습니다 (방향 감소 1⁄4 21.07).\n\n결론적으로, 우리의 결과는 건강과 관련된 희망이 전반적인 긍정적 인 영향의 낮은 수준과 연관되어 있음을 보여줍니다. 그러나 희망과 관련된 활동과 두려움과 관련된 활동에 참여하는 것은 긍정적 인 영향을 높여줍니다.\n\n죽음.\n\n희망과 두려움과 관련된 활동을 시행하는 효과들을 조사하기 위해 SAS 소프트웨어 패키지 (1997) 에서 시행된 PHREG 절차에 적용된 10년 이상 사망 위험의 차이에 대한 카엑스 비례적 위험 회귀 모델 (Cox, 1972) 을 평가했습니다.\n\n설명적으로, 43명의 참가자가 사망했고, 34명이 여전히 살아있었고, 베를린 지역을 떠난 6명의 참가자의 사망률 정보는 실종되었다.\n\n위험 회귀 모델은 고려된 세 영역에서 희망 관련 활동의 채택이 사망의 상대적 위험 (RR) 의 감소와 연관되어 있음을 보여주었습니다. v2(1, N 1⁄4 77) 1⁄4 4.4, p , .05, RR 1⁄4 0.97, 그리고 신뢰 간격 또는 CI 1⁄4 0.95 0.99.\n\n우리는 또한 이 연관성이 거짓인지 여부를 조사했고, 나이, 성별, 지능, 신체적 기능 (균형) 같은 매우 고령에 사망률을 결정하는 일반적인 요인의 영향을 단순히 반영했습니다.\n\n우리는 이 변수들을 상위적인 위험 회귀 모델의 첫 단계에서 통제했습니다. 그리고 두 번째 단계에 희망과 관련된 활동을 시작하기 전에 말이죠.\n\n희망과 관련된 활동에 대한 효과는 여전히 독특하게 중요합니다. v2(1, N 1⁄4 77) 1⁄4 3.9, p , .05, RR 1⁄4 0.97, CI1⁄40.950.99, CI1⁄40.95, N1⁄477) 1⁄4 12.6, p , .001, RR 1⁄4 1.12, CI 1⁄4 1.051.20; 성별, v2( 1, N 1⁄4 77,\n\n.05, RR 1⁄4 0.58, CI 1⁄4 0.301.11; 지능, v2(1, N 1⁄4 77) 1⁄4 1.2, p.\n\n.05, RR 1⁄4 0.97, CI 1⁄4 0.93 1.02; 그리고 균형, v2(1, N 1⁄4 77) 1⁄4 0.2, p.\n\n.05, RR 1⁄4 0.97, CI 1⁄4 0.61  1.54.\n\n반대로, 두려움과 관련된 활동은 사망 위험으로부터 독립적이었다, v2(1, N1⁄477) 0.7, p.\n\n.10, RR1⁄41.01, CI1⁄4 0.981.04, 희망과 두려움과 관련된 활동이 사망률과 차별적으로 관련이 있음을 시사합니다.\n\n토론 이 연구에서는 83명의 BASE 참가자로부터의 시간 샘플링 정보를 사용하여 영역에 특화된 가능한 자기들이 일상적인 활동으로 번역되고 노년층과 매우 노년층의 동시적인 감정적 경험과 추후의 사망 위험과 관련이 있음을 보여줍니다.\n\n특히 우리는 건강과 사회적 관계 분야의 희망이 건강과 관련된 사회적 활동의 수행과 긍정적으로 연관되어 있음을 보여주었습니다.\n\n건강과 관련된 희망을 가진 참가자들은 전반적인 긍정적 인 영향의 수준이 낮았지만, 가능한 자기 관련 활동의 수행은 동시에 긍정적 인 영향이 증가하는 것과 관련이있었습니다.\n\n또한, 시간 샘플링 단계에서 가능한 자기 관련 활동과 그 이후의 사망률 위험을 연결하는 우리의 분석은 이러한 미세 수준 과정이 성공적인 노화의 장기적인 결과와 연관될 수 있음을 시사한다.\n\n우리의 결과는 희망이 특정 영역에 대한 활동에 참여하는 것과 연관되어 있음을 나타냅니다. 그러나 두려움은 그렇지 않았습니다.\n\n이러한 연구 결과는 기대하고 두려워하는 가능한 자기들의 차별적 역할에 대한 이전 연구와 병행된다.\n\n그들은 희망에 대한 보고를 한 노인 성인들은 그들이 원하는 미래의 자아에 대한 봉사에서 무엇을 할 것인지에 대한 정교한 이미지를 가지고 있었고 실제로 영역에 대한 특정 활동을 수행하는 데 도움이되었다고 제안합니다 (Cross & Markus, 1994; Hooker, 1992; Hooker & Kaus, 1992; Markus & Ruvolo, 1989; Whaley, 2003).\n\n반면, 잠재적인 자아에 대한 두려움이 있다고 보고한 노인들은 바람직하지 않은 상황의 생생한 이미지로 포착되어 있고, 이를 피하기 위한 수단과 전략이 부족했을지도 모른다 (Hooker, 1992; Hooker & Kaus, 1992).\n\n또한, 노인들은 특히 건강과 인지 영역에서 우려되는 결과에 대한 통제력이 낮다고 인식할 수 있습니다 (Hooker, 1992).\n\n이것은 사회적 관계 영역에 덜 적용될 수 있습니다. 두려움과 활동 사이의 긍정적 인 연관성은 사람 사이의 수준에서 발견되었지만 사람 내부 수준에서 발견되지 않습니다. 왜냐하면 노인들은 손실에도 불구하고 자신의 네트워크를 형성하는 데 적극적인 역할을 하기 때문입니다 (Carstensen, 1995; Lang, 2001).\n\n대안적으로, 나이가 많은 성인들은 자신의 두려움과 관련된 상황을 성공적으로 피했을 수도 있습니다 (Carstensen, Mikels, & Mather, 2006).\n\n우리의 연구 결과는 건강과 사회적 관계의 영역에서 희망과 일상 활동 사이의 긍정적 인 연관성을 나타냈지만 인지 영역에서는 그렇지 않았습니다.\n\n이러한 차별적 연관성의 이유 중 하나는 사람들이 노령에 도달할 때 평생 경험을 바탕으로 좋은 건강을 유지하는 방법을 결정하는 데 도움이 될 수 있다는 것입니다 (예를 들어 신체 활동에 참여하거나 의료 검사를 받는 것; Seiffge- Krenke, 2001) 및 만족스러운 관계를 유지하는 것 (예를 들어 친구에게 전화를 걸고 사회적 갈등을 해결하는 것; Watson & Blanchard- Fields, 1998 참조).\n\n이와는 대조적으로 인지적 쇠퇴는 점진적으로 이루어지고 보통 성인 생활의 대부분 동안 일상적인 기능을 제한하지 않습니다.\n\n따라서 우리는 나이가 많은 사람들이 자신의 인지 가능한 자기를 효과적으로 구현하는 방법에 대한 경험과 지식을 덜 가질 수 있다고 추측합니다.\n\n또 다른 방법으로는, 나이가 많은 사람들은 목표를 설정함으로써 인지 과정에 영향을 미치지 못하는 경우가 있습니다.\n\n웨스트와 동료들의 연구 (예를 들어, 웨스트 앤 토른, 2001) 는 기억 목표를 설정하는 것이 젊은 성인에서 자율성을 높였지만 노인 성인에서는 그렇지 않다는 것을 보여줍니다.\n\n이것은 기억의 자기효율이 노년기의 기억 목표에 의해 촉진되지 않는다는 것을 암시합니다.\n\n비슷한 방식으로, 인지 영역에서 가능한 자기들이 인지 활동과 관련이 없기 때문에 참가자들은 그들의 성공에 믿지 않았기 때문일 수 있습니다.\n\n그러나 현재 데이터 집합은 이러한 추측을 검토할 수 없습니다.\n\n마지막으로, 우리는 인지적 활동으로 분류하지 않은 그들의 인지적 가능한 자기에 봉사하는 활동을 수행하는 참가자들이 있을 수도 있습니다.\n\n헤르츠그 및 동료 (헤르츠그, 맥가이어, 파웰-모먼, & 요크, 2001) 의 연구는 이 주장을 뒷받침합니다.\n\n연구 결과, 다른 사람들 중에서도 나이가 많은 사람들은 올바른 식이요법과 운동으로 자신의 기억을 조절할 수 있다고 믿었습니다.\n\n본 연구에서는 일상적인 활동은 참가자들에 의해 평가되지 않고, 포스트하크 외부 코딩을 나타냅니다.\n\n이 두 가지 범주 중 어느 것도 인지 기능에 관련 있다고 평가되지 않았습니다.\n\n이 연구의 또 다른 목적은 가능한 자기 관련 활동의 수행과 성공적인 노화의 결과 사이의 연관성을 조사하는 것이었다.\n\n일상 생활에서의 감정적 경험의 측면에서, 우리의 결과는 목표와 관련된 활동의 수행과 행복 사이의 긍정적 인 관계에 대한 이전 연구와 일치하지만, 또한 중요한 방식으로 확장됩니다.",
+      "status": "translated",
+      "sourceTextSha256": "e2e1ca8e5722fb6d30ae219998f5a7d33b7c34a871f6fcd175d7493a6a6a9154",
+      "segments": [
+        {
+          "source": "HOPPMANN ET AL.",
+          "translation": "호프맨 ET AL"
+        },
+        {
+          "source": "P108 found no associations with gender for fears and gender.",
+          "translation": "P108은 두려움과 성별에 대한 성과의 연관성을 발견하지 못했습니다."
+        },
+        {
+          "source": "Hopes and hope-related activities explained 3.9% of the variance in positive affect (deviance reduction ¼ 12.14).",
+          "translation": "희망과 희망과 관련된 활동은 긍정적 인 영향의 3.9%의 차이를 설명했습니다 (방향 감소 1⁄4 12.14)."
+        },
+        {
+          "source": "Fears and fearrelated activities explained 2.6% of the variance in positive affect (deviance reduction ¼ 21.07).",
+          "translation": "두려움과 두려움과 관련된 활동은 긍정적인 영향의 2.6%의 차이를 설명했습니다 (방향 감소 1⁄4 21.07)."
+        },
+        {
+          "source": "In sum, our results show that health-related hopes were associated with lower overall levels of positive affect, but engaging in hope-related activities and engaging in fear-related activities elevates positive affect.",
+          "translation": "결론적으로, 우리의 결과는 건강과 관련된 희망이 전반적인 긍정적 인 영향의 낮은 수준과 연관되어 있음을 보여줍니다. 그러나 희망과 관련된 활동과 두려움과 관련된 활동에 참여하는 것은 긍정적 인 영향을 높여줍니다."
+        },
+        {
+          "source": "Mortality.",
+          "translation": "죽음."
+        },
+        {
+          "source": "—To examine the effects of enacting hope-related or fear-related activities, we evaluated hierarchical Cox proportional hazards regression models (Cox, 1972) as implemented in the PHREG procedure from the SAS software package (1997) for differences in mortality risks over 10 years.",
+          "translation": "희망과 두려움과 관련된 활동을 시행하는 효과들을 조사하기 위해 SAS 소프트웨어 패키지 (1997) 에서 시행된 PHREG 절차에 적용된 10년 이상 사망 위험의 차이에 대한 카엑스 비례적 위험 회귀 모델 (Cox, 1972) 을 평가했습니다."
+        },
+        {
+          "source": "Descriptively, 43 participants were deceased, 34 were still alive, and mortality information was missing for 6 participants who moved out of the Berlin area.",
+          "translation": "설명적으로, 43명의 참가자가 사망했고, 34명이 여전히 살아있었고, 베를린 지역을 떠난 6명의 참가자의 사망률 정보는 실종되었다."
+        },
+        {
+          "source": "Hazard regression models showed that the adoption of hoperelated activities in the three considered domains was associated with a lower relative risk (RR) of dying, v2(1, N ¼ 77) ¼ 4.4, p , .05, RR ¼ 0.97, and conﬁdence interval or CI ¼ 0.95–0.99.",
+          "translation": "위험 회귀 모델은 고려된 세 영역에서 희망 관련 활동의 채택이 사망의 상대적 위험 (RR) 의 감소와 연관되어 있음을 보여주었습니다. v2(1, N 1⁄4 77) 1⁄4 4.4, p , .05, RR 1⁄4 0.97, 그리고 신뢰 간격 또는 CI 1⁄4 0.95 0.99."
+        },
+        {
+          "source": "We also examined whether this association was spurious and simply reﬂected the effects of common determinants of mortality in very old age such as age, gender, intelligence, and physical functioning (balance).",
+          "translation": "우리는 또한 이 연관성이 거짓인지 여부를 조사했고, 나이, 성별, 지능, 신체적 기능 (균형) 같은 매우 고령에 사망률을 결정하는 일반적인 요인의 영향을 단순히 반영했습니다."
+        },
+        {
+          "source": "We controlled these variables in the ﬁrst step of a hierarchical hazard regression model before we entered hope-related activities in a second step.",
+          "translation": "우리는 이 변수들을 상위적인 위험 회귀 모델의 첫 단계에서 통제했습니다. 그리고 두 번째 단계에 희망과 관련된 활동을 시작하기 전에 말이죠."
+        },
+        {
+          "source": "The effect for hope-related activities remained uniquely signiﬁcant, v2(1, N ¼ 77) ¼ 3.9, p , .05, RR ¼ 0.97, CI¼0.95–0.99, in addition to the effects of age, v2(1, N¼77)¼ 12.6, p , .001, RR ¼ 1.12, CI ¼ 1.05–1.20; gender, v2(1, N ¼ 77) ¼ 2.7, p .",
+          "translation": "희망과 관련된 활동에 대한 효과는 여전히 독특하게 중요합니다. v2(1, N 1⁄4 77) 1⁄4 3.9, p , .05, RR 1⁄4 0.97, CI1⁄40.950.99, CI1⁄40.95, N1⁄477) 1⁄4 12.6, p , .001, RR 1⁄4 1.12, CI 1⁄4 1.051.20; 성별, v2( 1, N 1⁄4 77,"
+        },
+        {
+          "source": ".05, RR ¼ 0.58, CI ¼ 0.30–1.11; intelligence, v2(1, N ¼ 77) ¼ 1.2, p .",
+          "translation": ".05, RR 1⁄4 0.58, CI 1⁄4 0.301.11; 지능, v2(1, N 1⁄4 77) 1⁄4 1.2, p."
+        },
+        {
+          "source": ".05, RR ¼ 0.97, CI ¼ 0.93–1.02; and balance, v2(1, N ¼ 77) ¼ 0.2, p .",
+          "translation": ".05, RR 1⁄4 0.97, CI 1⁄4 0.93 1.02; 그리고 균형, v2(1, N 1⁄4 77) 1⁄4 0.2, p."
+        },
+        {
+          "source": ".05, RR ¼ 0.97, CI ¼ 0.61– 1.54.",
+          "translation": ".05, RR 1⁄4 0.97, CI 1⁄4 0.61  1.54."
+        },
+        {
+          "source": "In contrast, fear-related activities were independent of mortality hazards, v2(1, N¼77)¼0.7, p .",
+          "translation": "반대로, 두려움과 관련된 활동은 사망 위험으로부터 독립적이었다, v2(1, N1⁄477) 0.7, p."
+        },
+        {
+          "source": ".10, RR¼1.01, CI¼ 0.98–1.04, suggesting that hope-related activities and fearrelated activities are differentially related to mortality.",
+          "translation": ".10, RR1⁄41.01, CI1⁄4 0.981.04, 희망과 두려움과 관련된 활동이 사망률과 차별적으로 관련이 있음을 시사합니다."
+        },
+        {
+          "source": "DISCUSSION Using time-sampling information from 83 BASE participants, this study demonstrates that domain-speciﬁc possible selves translate into daily activities and are related with concurrent affective experiences and subsequent mortality hazards in old and very old age.",
+          "translation": "토론 이 연구에서는 83명의 BASE 참가자로부터의 시간 샘플링 정보를 사용하여 영역에 특화된 가능한 자기들이 일상적인 활동으로 번역되고 노년층과 매우 노년층의 동시적인 감정적 경험과 추후의 사망 위험과 관련이 있음을 보여줍니다."
+        },
+        {
+          "source": "Speciﬁcally, we showed that hopes in the domains of health and social relations are positively associated with the performance of health-related and social activities.",
+          "translation": "특히 우리는 건강과 사회적 관계 분야의 희망이 건강과 관련된 사회적 활동의 수행과 긍정적으로 연관되어 있음을 보여주었습니다."
+        },
+        {
+          "source": "Although participants with health-related hopes reported lower overall levels of positive affect, the performance of possible-self-related activities was associated with elevations in concurrent positive affect.",
+          "translation": "건강과 관련된 희망을 가진 참가자들은 전반적인 긍정적 인 영향의 수준이 낮았지만, 가능한 자기 관련 활동의 수행은 동시에 긍정적 인 영향이 증가하는 것과 관련이있었습니다."
+        },
+        {
+          "source": "Furthermore, our analyses linking possible-self-related activities in the timesampling phase and subsequent mortality risks suggest that such microlevel processes may be associated with long-term outcomes of successful aging.",
+          "translation": "또한, 시간 샘플링 단계에서 가능한 자기 관련 활동과 그 이후의 사망률 위험을 연결하는 우리의 분석은 이러한 미세 수준 과정이 성공적인 노화의 장기적인 결과와 연관될 수 있음을 시사한다."
+        },
+        {
+          "source": "Our results indicate that hopes are associated with an engagement in domain-speciﬁc activities; however, this was not the case for fears.",
+          "translation": "우리의 결과는 희망이 특정 영역에 대한 활동에 참여하는 것과 연관되어 있음을 나타냅니다. 그러나 두려움은 그렇지 않았습니다."
+        },
+        {
+          "source": "These ﬁndings parallel previous research on the differential role of hoped-for and feared possible selves.",
+          "translation": "이러한 연구 결과는 기대하고 두려워하는 가능한 자기들의 차별적 역할에 대한 이전 연구와 병행된다."
+        },
+        {
+          "source": "They suggest that older adults who reported hopes had elaborate images of what to do in the service of their desired future selves that helped them to actually perform domain-speciﬁc activities (Cross & Markus, 1994; Hooker, 1992; Hooker & Kaus, 1992; Markus & Ruvolo, 1989; Whaley, 2003).",
+          "translation": "그들은 희망에 대한 보고를 한 노인 성인들은 그들이 원하는 미래의 자아에 대한 봉사에서 무엇을 할 것인지에 대한 정교한 이미지를 가지고 있었고 실제로 영역에 대한 특정 활동을 수행하는 데 도움이되었다고 제안합니다 (Cross & Markus, 1994; Hooker, 1992; Hooker & Kaus, 1992; Markus & Ruvolo, 1989; Whaley, 2003)."
+        },
+        {
+          "source": "In contrast, older adults who had reported feared possible selves may have felt trapped by vivid images of undesired situations and lacked the means and strategies to avoid them (Hooker, 1992; Hooker & Kaus, 1992).",
+          "translation": "반면, 잠재적인 자아에 대한 두려움이 있다고 보고한 노인들은 바람직하지 않은 상황의 생생한 이미지로 포착되어 있고, 이를 피하기 위한 수단과 전략이 부족했을지도 모른다 (Hooker, 1992; Hooker & Kaus, 1992)."
+        },
+        {
+          "source": "In addition, older adults may have perceived low control over feared outcomes, particularly in the domains of health and cognition (Hooker, 1992).",
+          "translation": "또한, 노인들은 특히 건강과 인지 영역에서 우려되는 결과에 대한 통제력이 낮다고 인식할 수 있습니다 (Hooker, 1992)."
+        },
+        {
+          "source": "This might apply less to the domain of social relations where a positive association between fears and activities was found at the between-person but not at the within-person level because older adults play an active role in shaping their networks even under losses (Carstensen, 1995; Lang, 2001).",
+          "translation": "이것은 사회적 관계 영역에 덜 적용될 수 있습니다. 두려움과 활동 사이의 긍정적 인 연관성은 사람 사이의 수준에서 발견되었지만 사람 내부 수준에서 발견되지 않습니다. 왜냐하면 노인들은 손실에도 불구하고 자신의 네트워크를 형성하는 데 적극적인 역할을 하기 때문입니다 (Carstensen, 1995; Lang, 2001)."
+        },
+        {
+          "source": "Alternatively, it may also be that older adults successfully avoided situations that were related to their feared selves (Carstensen, Mikels, & Mather, 2006).",
+          "translation": "대안적으로, 나이가 많은 성인들은 자신의 두려움과 관련된 상황을 성공적으로 피했을 수도 있습니다 (Carstensen, Mikels, & Mather, 2006)."
+        },
+        {
+          "source": "Our ﬁndings revealed a positive association between hopes and daily activities in the domains of health and social relations but not in the cognitive domain.",
+          "translation": "우리의 연구 결과는 건강과 사회적 관계의 영역에서 희망과 일상 활동 사이의 긍정적 인 연관성을 나타냈지만 인지 영역에서는 그렇지 않았습니다."
+        },
+        {
+          "source": "One reason for these differential associations might be that by the time individuals reach old age, they can draw on lifelong experience to help them decide how to stay in good health (e.g., engaging in physical activity or getting medical checkups; see Seiffge- Krenke, 2001) and keep satisfying relationships (e.g., calling friends, solving social conﬂicts; see Watson & Blanchard- Fields, 1998).",
+          "translation": "이러한 차별적 연관성의 이유 중 하나는 사람들이 노령에 도달할 때 평생 경험을 바탕으로 좋은 건강을 유지하는 방법을 결정하는 데 도움이 될 수 있다는 것입니다 (예를 들어 신체 활동에 참여하거나 의료 검사를 받는 것; Seiffge- Krenke, 2001) 및 만족스러운 관계를 유지하는 것 (예를 들어 친구에게 전화를 걸고 사회적 갈등을 해결하는 것; Watson & Blanchard- Fields, 1998 참조)."
+        },
+        {
+          "source": "In contrast, cognitive decline takes place gradually and usually does not constrain everyday functioning for a large part of the adult life span.",
+          "translation": "이와는 대조적으로 인지적 쇠퇴는 점진적으로 이루어지고 보통 성인 생활의 대부분 동안 일상적인 기능을 제한하지 않습니다."
+        },
+        {
+          "source": "Therefore, we speculate that older adults may have less experience with and knowledge of how to effectively implement their cognitive possible selves.",
+          "translation": "따라서 우리는 나이가 많은 사람들이 자신의 인지 가능한 자기를 효과적으로 구현하는 방법에 대한 경험과 지식을 덜 가질 수 있다고 추측합니다."
+        },
+        {
+          "source": "Alternatively, older adults may be less able to inﬂuence cognitive processes by setting goals.",
+          "translation": "또 다른 방법으로는, 나이가 많은 사람들은 목표를 설정함으로써 인지 과정에 영향을 미치지 못하는 경우가 있습니다."
+        },
+        {
+          "source": "Research by West and colleagues (e.g., West & Thorn, 2001) shows that memory goal setting increased self-efﬁcacy in younger adults but not in older adults.",
+          "translation": "웨스트와 동료들의 연구 (예를 들어, 웨스트 앤 토른, 2001) 는 기억 목표를 설정하는 것이 젊은 성인에서 자율성을 높였지만 노인 성인에서는 그렇지 않다는 것을 보여줍니다."
+        },
+        {
+          "source": "This suggests that memory self-efﬁcacy is not fueled by memory goals in old age.",
+          "translation": "이것은 기억의 자기효율이 노년기의 기억 목표에 의해 촉진되지 않는다는 것을 암시합니다."
+        },
+        {
+          "source": "In a similar way, it might be the case that possible selves in the cognitive domain are unrelated to cognitive activities because participants did not believe in their success.",
+          "translation": "비슷한 방식으로, 인지 영역에서 가능한 자기들이 인지 활동과 관련이 없기 때문에 참가자들은 그들의 성공에 믿지 않았기 때문일 수 있습니다."
+        },
+        {
+          "source": "However, the present data set does not allow an examination of this speculation.",
+          "translation": "그러나 현재 데이터 집합은 이러한 추측을 검토할 수 없습니다."
+        },
+        {
+          "source": "Finally, it is also possible that participants performed activities in the service of their cognitive possible selves that we did not classify as cognitive activities.",
+          "translation": "마지막으로, 우리는 인지적 활동으로 분류하지 않은 그들의 인지적 가능한 자기에 봉사하는 활동을 수행하는 참가자들이 있을 수도 있습니다."
+        },
+        {
+          "source": "Research by Hertzog and colleagues (Hertzog, McGuire, Powell-Moman, & York, 2001) supports this argument.",
+          "translation": "헤르츠그 및 동료 (헤르츠그, 맥가이어, 파웰-모먼, & 요크, 2001) 의 연구는 이 주장을 뒷받침합니다."
+        },
+        {
+          "source": "In their study, older adults, among others, believed that they could control their memory by keeping a proper diet and engaging in physical exercise.",
+          "translation": "연구 결과, 다른 사람들 중에서도 나이가 많은 사람들은 올바른 식이요법과 운동으로 자신의 기억을 조절할 수 있다고 믿었습니다."
+        },
+        {
+          "source": "In the present study the daily activities were not rated by participants themselves but represent a post hoc external coding.",
+          "translation": "본 연구에서는 일상적인 활동은 참가자들에 의해 평가되지 않고, 포스트하크 외부 코딩을 나타냅니다."
+        },
+        {
+          "source": "Neither of these categories was rated as relevant for cognitive functioning.",
+          "translation": "이 두 가지 범주 중 어느 것도 인지 기능에 관련 있다고 평가되지 않았습니다."
+        },
+        {
+          "source": "Another objective of this study was to investigate the link between the performance of possible self-related activities and outcomes of successful aging.",
+          "translation": "이 연구의 또 다른 목적은 가능한 자기 관련 활동의 수행과 성공적인 노화의 결과 사이의 연관성을 조사하는 것이었다."
+        },
+        {
+          "source": "In terms of affective experiences in daily life, our results are in line with previous ﬁndings on the positive relationship between the performance of goalrelated activities and well-being (Brunstein, 1993; Cantor & Sanderson, 1999), but they also extend them in important ways.",
+          "translation": "일상 생활에서의 감정적 경험의 측면에서, 우리의 결과는 목표와 관련된 활동의 수행과 행복 사이의 긍정적 인 관계에 대한 이전 연구와 일치하지만, 또한 중요한 방식으로 확장됩니다."
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 6,
+      "sourceText": "POSSIBLE SELVES AND DAILY ACTIVITIES IN OLD AGE\nP109\n\n\nFirst, they illustrate that this mechanism, primarily established with relatively young age groups (e.g., Carver & Scheier,\n1990; Diener, Suh, Lucas, & Smith, 1999), is still intact in old\nand very old age. Second, the performance of possible selfrelated activities was associated with positive affect not only in\nhigh-functioning older adults but also in those participants who\ndisplayed relatively low overall levels of positive affect, as\nillustrated for participants who reported health-related hopes.\nThis phenomenon points to the robustness of the motivational\naffect system in late life. Because we suspected that the\nnegative relationship between health-related hopes and positive\naffect may be related to a third variable, namely functional\nhealth, we examined this association in the larger BASE\nsample. Results showed that constraints in functional health\nwere associated with reports of health-related hopes. These results are in line with previous studies (e.g., Kunzmann, Little, &\nSmith, 2000) that showed that functional health modulates\npositive affect in older adults. Hence, the negative relationship\nbetween health-related hopes and positive affect may very well\nbe due to the fact that both of them are related to health\nconstraints. Alternatively, research by Hooker (1992) indicates\nthat older adults spend a lot of time thinking about their healthrelated possible selves. Following her interpretation, we can\nspeculate that rumination over poor health may be another\nfactor that is related to low positive affect in the present sample\n(Hooker, 1992; Lyubomirsky & Nolen-Hoeksema, 1995).\n\n\nOne\nadvantage\nof\nusing\nmicrolongitudinal\ndata\nfrom\nparticipants in a large-scale longitudinal study like the BASE\nis that we could link microlevel processes and long-term\noutcomes. As a follow-up, we investigated whether the extent\nto which participants engaged in possible-self related activities\nin daily life was related to survival. Our ﬁndings indicate that\nparticipants who performed few activities relating to their\nhealth, cognitive, and social hopes carried a higher mortality\nrisk than those who performed many hope-related activities.\nHowever, we found no relationship between the performance\nof fear-related activities and mortality, which points to the\ndifferential role of hope-related as compared with fear-related\nprocesses. One possible interpretation for this ﬁnding could lie\nin the relative infrequency of fear-related activities: Despite the\nfact that working on fear-related activities was associated with\nelevations in positive affect, in the long run these few fearrelated activities may not have made a difference with respect\nto health and survival. In addition, some may be realistic fears\nabout inevitable declines. Even if participants worked on them\nvery frequently, this may not have a strong impact on health\nand survival. This ﬁnding extends existing knowledge on the\nrelationship between the performance of daily activities and\nmortality risk in very old age (e.g., Glass et al., 1999; Maier &\nKlumb, 2005; Lennartsson & Silverstein, 2001) by identifying\nhope-related processes as a speciﬁc mechanism related to latelife survival. One possible link may be that working on hopes\nenhances an individual’s purpose in life and leads to better\nhealth (Ryff, 1995).\n\n\nStrengths and Limitations\n\n\nIn this study, we used time-sampling information in order to\ncapture life as it is lived. Online assessments of participants’\nactivities and feelings have a high ecological validity and\nreduce the effects of memory biases in retrospective reports.\n\n\nHowever, they confront the researcher with a multitude of\ninﬂuences that are difﬁcult to control. As a result, investigations\nbased on time-sampling methods often explain only small\namounts of variance (Bolger et al., 2003; Schwarz, 1999). In\nthis study, assessments of possible selves and time-sampling\ninformation were separated by an average of 1 month. Ideally,\npossible selves would have been collected at the beginning of\nthe time-sampling phase. We still assume that the possible\nselves were relevant during the time-sampling phase. From\na theoretical point of view, possible selves operate at a high\nlevel of abstraction and do not change very quickly because\nthey involve many lower level goals (Austin & Vancouver,\n1996). Empirically, past research indicates relative instability\nof possible selves earlier in life in anticipation of important\ntransitions (Kerpelman & Pittman, 2001), but research on\npossible selves in old age shows relatively high continuity\n(Frazier, Hooker, Johnson, & Kaus, 2000; Smith & Freund,\n2002). Hence, despite the fact that possible selves are thought\nto be stable in late life, we do not know to what extent they may\nalso be context driven and show day-to-day ﬂuctuations. This\nshould be addressed in future research. Analyses of the\nrelationship between possible selves and the performance of\ndomain-speciﬁc activities are based on post hoc ratings of\nactivity contents. This has the advantage of minimizing\nreactivity because possible selves were not mentioned during\nthe study. At the same time, it comes with the disadvantage that\nwe do not know whether participants attributed the same\nmeaning to their activities that we did when coding them. In\naddition, the content categories of possible selves and activities\nshould be reﬁned, particularly in relation to underlying\ntemporal\ncycles,\nmotivational\norientations,\nand\ncognitive\ndemand. For example, the current coding does not differentiate\nwhether different activities, such as crossword puzzling and\nplaying games, are equally cognitively demanding.\n\n\nWe acknowledge that this study represents a snapshot of\ndaily life within a relatively small sample. The randomly\nsampled activities do not provide a complete picture of\nparticipants’ daily life. A comparison between time-sampling\ndata and information assessed with a continuous Yesterday-\nInterview procedure showed, however, that the two methods\nyielded largely equivalent results (Klumb & Baltes, 1999a).\nOur results indicate a close link between motivational and\naffective processes but do not allow causal inferences. For\nexample, an older adult might feel good because he or she is\nperforming a possible self-related activity, or he or she could\nperform possible self-related activities only when feeling good.\nThe time intervals in between two consecutive beeps varied\nconsiderably in length and did not allow us to address lead–lag\nrelationships. In the future, researchers may want to incorporate\nthis question into the research design so that not only momentto-moment but also day-to-day relationships can be examined.\n\n\nConclusions\n\n\nThe ﬁndings of the present study indicate that an investigation of possible self-activity linkages provides important insights into the operation of developmental processes in\nold age, and their association with microlevel (daily affect\nquality) and macrolevel (mortality risk) indicators of successful aging. From a methodological point of view, they\nunderscore the usefulness of implementing measurement",
+      "translationText": "P109 첫째로, 그들은 이 메커니즘이 비교적 젊은 연령층 (예를 들어, 카버 & 셰이어, 1990; 디너, Suh, 루카스, & 스미스, 1999) 에 의해 주로 구축되었음을 보여준다.\n\n둘째, 가능한 자기 관련 활동의 수행은 높은 기능이 있는 노인뿐만 아니라 건강과 관련된 희망을 보고한 참가자들에서도 비교적 낮은 전반적인 긍정적 인 영향 수준을 보이는 참가자들에서도 긍정적 인 영향과 연관되었다.\n\n이 현상은 늦은 삶의 동기부여 효과 시스템의 강도를 나타냅니다.\n\n우리는 건강과 관련된 희망과 긍정적인 영향 사이의 부정적인 관계가 기능적 건강이라는 세 번째 변수와 관련이 있다고 의심했기 때문에 우리는 더 큰 BASE 샘플에서 이 연관성을 조사했습니다.\n\n결과는 기능적 건강의 제약이 건강과 관련된 희망의 보고와 연관되어 있음을 보여주었습니다.\n\n이러한 결과는 이전 연구 (예를 들어, Kunzmann, Little, & Smith, 2000) 와 일치하여 기능적 건강은 노인 성인에서 긍정적 인 영향을 조절한다는 것을 보여주었습니다.\n\n따라서 건강과 관련된 희망과 긍정적인 영향 사이의 부정적인 관계는 두 가지 모두 건강적 제약과 관련이 있다는 사실 때문일 수 있습니다.\n\n다른 방법으로, Hooker (1992) 의 연구 결과에 따르면, 노인들은 자신의 건강 관련 가능한 자기에 대해 생각하는 데 많은 시간을 투자합니다.\n\n그녀의 해석에 따라, 우리는 건강이 좋지 않은 것에 대한 재생이 현재의 샘플에서 낮은 긍정적 인 영향과 관련된 또 다른 요인이 될 수 있다고 추측 할 수 있습니다 (Hooker, 1992; Lyubomirsky & Nolen-Hoeksema, 1995).\n\nBASE와 같은 대규모 longitudinal 연구의 참가자로부터의 마이크로롱투디널 데이터를 이용하는 한 장점은 우리가 마이크로 레벨 프로세스와 장기적인 결과를 연결할 수 있다는 것입니다.\n\n후속으로, 우리는 참가자들이 일상 생활에서 가능한 자기 관련 활동에 참여하는 정도가 생존과 관련이 있는지 여부를 조사했습니다.\n\n우리의 연구 결과에 따르면 건강, 인지 및 사회적 희망과 관련된 활동을 거의 수행하지 않은 참가자들은 희망과 관련된 많은 활동을 수행한 참가자보다 사망 위험이 높았습니다.\n\n그러나 우리는 두려움과 관련된 활동의 수행과 사망률 사이의 관계를 발견하지 못했습니다. 이는 두려움과 관련된 과정과 비교해 희망과 관련된 과정의 다른 역할을 지적합니다.\n\n이 연구결과에 대한 가능한 해석은 두려움과 관련된 활동의 상대적인 빈도가 낮아질 수 있습니다. 두려움과 관련된 활동에 대한 작업이 긍정적 인 영향의 증가와 연관되어 있음에도 불구하고, 장기적으로 이러한 몇 가지 두려움과 관련된 행동은 건강과 생존에 대한 차이를 만들지 않을 수 있습니다.\n\n또한, 어떤 사람들은 피할 수 없는 감소에 대한 현실적인 두려움이 있을 수 있습니다.\n\n참가자들이 매우 자주 작업했더라도 이것은 건강과 생존에 큰 영향을 미치지 않을 수 있습니다.\n\n이 연구 결과는 희망과 관련된 프로세스를 낙후 생존과 관련된 특정 메커니즘으로 식별함으로써 매우 고령시에서의 일상의 활동 수행과 사망 위험 사이의 관계에 대한 기존의 지식을 확장합니다 (예를 들어, 글래스 및 기타, 1999; Maier & Klumb, 2005; Lennartsson & Silverstein, 2001)\n\n희망에 대한 작업은 개인의 삶의 목적을 높이고 더 나은 건강을 이끌어 낼 수 있다는 것이 가능한 한 연결고리일 수 있습니다 (Ryff, 1995).\n\n강점 과 한계 이 연구 에서, 우리는 시간의 샘플링 정보를 사용 하여 생명 을 어떻게 살아가는지 파악 하였습니다.\n\n참가자들의 온라인 평가 활동과 감정은 생태학적 유효성이 높고 후시 보고에 있어서 기억 편향의 영향을 줄인다.\n\n그러나 그들은 연구자에게 통제하기 어려운 수많은 영향에 직면합니다.\n\n그 결과, 시간 샘플링 방법에 기반한 연구는 종종 소량의 변수를 설명합니다 (Bolger et al., 2003; Schwarz, 1999).\n\n이 연구에서, 가능한 자기에 대한 평가와 시간 샘플링 정보는 평균 1개월 동안 분리되었습니다.\n\n이상적으로, 가능한 자기들은 시간 샘플링 단계에서 수집되었을 것입니다.\n\n우리는 여전히 가능한 자기들이 시간 샘플링 단계에서 관련이 있다고 가정합니다.\n\n이론적 관점에서 볼 때, 가능한 자기들은 높은 수준의 추상화에서 작동하고 매우 빠르게 변하지 않습니다. 왜냐하면 그들은 많은 낮은 수준의 목표를 포함하기 때문입니다 (오스틴 & 밴쿠버, 1996).\n\n경험적으로, 과거의 연구는 중요한 전환을 예상하기 위해 인생에서 일찍이 가능한 자기들의 상대적인 불안정을 나타냅니다 (Kerpelman & Pittman, 2001), 그러나 노후의 가능한 자기에 대한 연구는 비교적 높은 연속성을 보여줍니다 (Frazier, Hooker, Johnson, & Kaus, 2000; Smith & Freund, 2002).\n\n따라서, 잠재적인 자아들이 늦은 생애에 안정적이라고 여겨지는 사실에도 불구하고, 우리는 또한 어떤 범위에서 맥락에 의해 움직이고 일상적인 변동을 나타낼 수 있는지 알지 못합니다.\n\n이것은 미래의 연구에서 다루어야 합니다.\n\n가능한 자기와 영역별 활동의 수행 사이의 관계에 대한 분석은 활동 내용의 포스트 호크 등급을 기반으로 한다.\n\n이것은 반응성을 최소화하는 장점이 있습니다. 왜냐하면 연구 중에 가능한 자기들이 언급되지 않았기 때문입니다.\n\n동시에, 우리는 참가자들이 그들의 활동에 우리가 코딩을 할 때 했던 것과 같은 의미를 부여했는지 알지 못한다는 단점이 있습니다.\n\n또한, 가능한 자기와 활동의 내용 카테고리들은 특히 근본적인 시간 순환, 동기부여 지향 및 인지 수요와 관련하여 정밀화되어야 한다.\n\n예를 들어, 현재의 코딩은 십자어 퍼즐링과 게임을 하는 것과 같은 다른 활동이 인지적으로 똑같이 요구되는지 구별하지 않습니다.\n\n우리는 이 연구는 비교적 작은 표본 내에서 일상생활의 간략한 사진을 나타낸다는 것을 인정합니다.\n\n무작위로 샘플링된 활동은 참가자의 일상의 완전한 그림을 제공하지 않습니다.\n\n그러나, 지속된 Yesterday-Interview 절차를 통해 평가된 시간 샘플링 데이터와 정보의 비교는 두 가지 방법이 크게 동등한 결과를 가져온다는 것을 보여주었다 (Klumb & Baltes, 1999a).\n\n우리의 결과는 동기부여와 감정적 인 과정 사이의 긴밀한 연관성을 나타냅니다. 그러나 인과적 추론을 허용하지 않습니다.\n\n예를 들어, 나이가 많은 어른은 자기 자신과 관련된 일을 하고 있기 때문에 기분이 좋아질 수도 있고, 자기 자신과 관련된 일들을 할 수 있는 것은 기분이 좋아 있을 때만 될 수도 있습니다.\n\n두 개의 연속적인 비프 사이의 시간 간격은 길이가 상당히 다양하여 납 래그 관계를 해결할 수 없었습니다.\n\n앞으로 연구자들은 이 질문을 연구 설계에 포함시키고자 할 수도 있습니다. 그렇게 되면 순간적 뿐만 아니라 일상적 관계도 살펴볼 수 있습니다.\n\n결론 본 연구의 연구결과는 자기활동의 가능한 연관성에 대한 조사가 노년기의 발달 과정의 작동에 대한 중요한 통찰력을 제공하고, 성공적 노화의 미세 수준 (일간 품질에 영향을 미치는) 및 거시 수준 (죽음 위험) 지표와 연관되어 있음을 나타냅니다.\n\n방법론적 관점에서, 그들은 측정의 활용성을 강조합니다.",
+      "status": "translated",
+      "sourceTextSha256": "3fdfb19d10938cb1b9180a47f83840bd911a14053bfba5f4636dc258ff83af2a",
+      "segments": [
+        {
+          "source": "POSSIBLE SELVES AND DAILY ACTIVITIES IN OLD AGE P109 First, they illustrate that this mechanism, primarily established with relatively young age groups (e.g., Carver & Scheier, 1990; Diener, Suh, Lucas, & Smith, 1999), is still intact in old and very old age.",
+          "translation": "P109 첫째로, 그들은 이 메커니즘이 비교적 젊은 연령층 (예를 들어, 카버 & 셰이어, 1990; 디너, Suh, 루카스, & 스미스, 1999) 에 의해 주로 구축되었음을 보여준다."
+        },
+        {
+          "source": "Second, the performance of possible selfrelated activities was associated with positive affect not only in high-functioning older adults but also in those participants who displayed relatively low overall levels of positive affect, as illustrated for participants who reported health-related hopes.",
+          "translation": "둘째, 가능한 자기 관련 활동의 수행은 높은 기능이 있는 노인뿐만 아니라 건강과 관련된 희망을 보고한 참가자들에서도 비교적 낮은 전반적인 긍정적 인 영향 수준을 보이는 참가자들에서도 긍정적 인 영향과 연관되었다."
+        },
+        {
+          "source": "This phenomenon points to the robustness of the motivational affect system in late life.",
+          "translation": "이 현상은 늦은 삶의 동기부여 효과 시스템의 강도를 나타냅니다."
+        },
+        {
+          "source": "Because we suspected that the negative relationship between health-related hopes and positive affect may be related to a third variable, namely functional health, we examined this association in the larger BASE sample.",
+          "translation": "우리는 건강과 관련된 희망과 긍정적인 영향 사이의 부정적인 관계가 기능적 건강이라는 세 번째 변수와 관련이 있다고 의심했기 때문에 우리는 더 큰 BASE 샘플에서 이 연관성을 조사했습니다."
+        },
+        {
+          "source": "Results showed that constraints in functional health were associated with reports of health-related hopes.",
+          "translation": "결과는 기능적 건강의 제약이 건강과 관련된 희망의 보고와 연관되어 있음을 보여주었습니다."
+        },
+        {
+          "source": "These results are in line with previous studies (e.g., Kunzmann, Little, & Smith, 2000) that showed that functional health modulates positive affect in older adults.",
+          "translation": "이러한 결과는 이전 연구 (예를 들어, Kunzmann, Little, & Smith, 2000) 와 일치하여 기능적 건강은 노인 성인에서 긍정적 인 영향을 조절한다는 것을 보여주었습니다."
+        },
+        {
+          "source": "Hence, the negative relationship between health-related hopes and positive affect may very well be due to the fact that both of them are related to health constraints.",
+          "translation": "따라서 건강과 관련된 희망과 긍정적인 영향 사이의 부정적인 관계는 두 가지 모두 건강적 제약과 관련이 있다는 사실 때문일 수 있습니다."
+        },
+        {
+          "source": "Alternatively, research by Hooker (1992) indicates that older adults spend a lot of time thinking about their healthrelated possible selves.",
+          "translation": "다른 방법으로, Hooker (1992) 의 연구 결과에 따르면, 노인들은 자신의 건강 관련 가능한 자기에 대해 생각하는 데 많은 시간을 투자합니다."
+        },
+        {
+          "source": "Following her interpretation, we can speculate that rumination over poor health may be another factor that is related to low positive affect in the present sample (Hooker, 1992; Lyubomirsky & Nolen-Hoeksema, 1995).",
+          "translation": "그녀의 해석에 따라, 우리는 건강이 좋지 않은 것에 대한 재생이 현재의 샘플에서 낮은 긍정적 인 영향과 관련된 또 다른 요인이 될 수 있다고 추측 할 수 있습니다 (Hooker, 1992; Lyubomirsky & Nolen-Hoeksema, 1995)."
+        },
+        {
+          "source": "One advantage of using microlongitudinal data from participants in a large-scale longitudinal study like the BASE is that we could link microlevel processes and long-term outcomes.",
+          "translation": "BASE와 같은 대규모 longitudinal 연구의 참가자로부터의 마이크로롱투디널 데이터를 이용하는 한 장점은 우리가 마이크로 레벨 프로세스와 장기적인 결과를 연결할 수 있다는 것입니다."
+        },
+        {
+          "source": "As a follow-up, we investigated whether the extent to which participants engaged in possible-self related activities in daily life was related to survival.",
+          "translation": "후속으로, 우리는 참가자들이 일상 생활에서 가능한 자기 관련 활동에 참여하는 정도가 생존과 관련이 있는지 여부를 조사했습니다."
+        },
+        {
+          "source": "Our ﬁndings indicate that participants who performed few activities relating to their health, cognitive, and social hopes carried a higher mortality risk than those who performed many hope-related activities.",
+          "translation": "우리의 연구 결과에 따르면 건강, 인지 및 사회적 희망과 관련된 활동을 거의 수행하지 않은 참가자들은 희망과 관련된 많은 활동을 수행한 참가자보다 사망 위험이 높았습니다."
+        },
+        {
+          "source": "However, we found no relationship between the performance of fear-related activities and mortality, which points to the differential role of hope-related as compared with fear-related processes.",
+          "translation": "그러나 우리는 두려움과 관련된 활동의 수행과 사망률 사이의 관계를 발견하지 못했습니다. 이는 두려움과 관련된 과정과 비교해 희망과 관련된 과정의 다른 역할을 지적합니다."
+        },
+        {
+          "source": "One possible interpretation for this ﬁnding could lie in the relative infrequency of fear-related activities: Despite the fact that working on fear-related activities was associated with elevations in positive affect, in the long run these few fearrelated activities may not have made a difference with respect to health and survival.",
+          "translation": "이 연구결과에 대한 가능한 해석은 두려움과 관련된 활동의 상대적인 빈도가 낮아질 수 있습니다. 두려움과 관련된 활동에 대한 작업이 긍정적 인 영향의 증가와 연관되어 있음에도 불구하고, 장기적으로 이러한 몇 가지 두려움과 관련된 행동은 건강과 생존에 대한 차이를 만들지 않을 수 있습니다."
+        },
+        {
+          "source": "In addition, some may be realistic fears about inevitable declines.",
+          "translation": "또한, 어떤 사람들은 피할 수 없는 감소에 대한 현실적인 두려움이 있을 수 있습니다."
+        },
+        {
+          "source": "Even if participants worked on them very frequently, this may not have a strong impact on health and survival.",
+          "translation": "참가자들이 매우 자주 작업했더라도 이것은 건강과 생존에 큰 영향을 미치지 않을 수 있습니다."
+        },
+        {
+          "source": "This ﬁnding extends existing knowledge on the relationship between the performance of daily activities and mortality risk in very old age (e.g., Glass et al., 1999; Maier & Klumb, 2005; Lennartsson & Silverstein, 2001) by identifying hope-related processes as a speciﬁc mechanism related to latelife survival.",
+          "translation": "이 연구 결과는 희망과 관련된 프로세스를 낙후 생존과 관련된 특정 메커니즘으로 식별함으로써 매우 고령시에서의 일상의 활동 수행과 사망 위험 사이의 관계에 대한 기존의 지식을 확장합니다 (예를 들어, 글래스 및 기타, 1999; Maier & Klumb, 2005; Lennartsson & Silverstein, 2001)"
+        },
+        {
+          "source": "One possible link may be that working on hopes enhances an individual’s purpose in life and leads to better health (Ryff, 1995).",
+          "translation": "희망에 대한 작업은 개인의 삶의 목적을 높이고 더 나은 건강을 이끌어 낼 수 있다는 것이 가능한 한 연결고리일 수 있습니다 (Ryff, 1995)."
+        },
+        {
+          "source": "Strengths and Limitations In this study, we used time-sampling information in order to capture life as it is lived.",
+          "translation": "강점 과 한계 이 연구 에서, 우리는 시간의 샘플링 정보를 사용 하여 생명 을 어떻게 살아가는지 파악 하였습니다."
+        },
+        {
+          "source": "Online assessments of participants’ activities and feelings have a high ecological validity and reduce the effects of memory biases in retrospective reports.",
+          "translation": "참가자들의 온라인 평가 활동과 감정은 생태학적 유효성이 높고 후시 보고에 있어서 기억 편향의 영향을 줄인다."
+        },
+        {
+          "source": "However, they confront the researcher with a multitude of inﬂuences that are difﬁcult to control.",
+          "translation": "그러나 그들은 연구자에게 통제하기 어려운 수많은 영향에 직면합니다."
+        },
+        {
+          "source": "As a result, investigations based on time-sampling methods often explain only small amounts of variance (Bolger et al., 2003; Schwarz, 1999).",
+          "translation": "그 결과, 시간 샘플링 방법에 기반한 연구는 종종 소량의 변수를 설명합니다 (Bolger et al., 2003; Schwarz, 1999)."
+        },
+        {
+          "source": "In this study, assessments of possible selves and time-sampling information were separated by an average of 1 month.",
+          "translation": "이 연구에서, 가능한 자기에 대한 평가와 시간 샘플링 정보는 평균 1개월 동안 분리되었습니다."
+        },
+        {
+          "source": "Ideally, possible selves would have been collected at the beginning of the time-sampling phase.",
+          "translation": "이상적으로, 가능한 자기들은 시간 샘플링 단계에서 수집되었을 것입니다."
+        },
+        {
+          "source": "We still assume that the possible selves were relevant during the time-sampling phase.",
+          "translation": "우리는 여전히 가능한 자기들이 시간 샘플링 단계에서 관련이 있다고 가정합니다."
+        },
+        {
+          "source": "From a theoretical point of view, possible selves operate at a high level of abstraction and do not change very quickly because they involve many lower level goals (Austin & Vancouver, 1996).",
+          "translation": "이론적 관점에서 볼 때, 가능한 자기들은 높은 수준의 추상화에서 작동하고 매우 빠르게 변하지 않습니다. 왜냐하면 그들은 많은 낮은 수준의 목표를 포함하기 때문입니다 (오스틴 & 밴쿠버, 1996)."
+        },
+        {
+          "source": "Empirically, past research indicates relative instability of possible selves earlier in life in anticipation of important transitions (Kerpelman & Pittman, 2001), but research on possible selves in old age shows relatively high continuity (Frazier, Hooker, Johnson, & Kaus, 2000; Smith & Freund, 2002).",
+          "translation": "경험적으로, 과거의 연구는 중요한 전환을 예상하기 위해 인생에서 일찍이 가능한 자기들의 상대적인 불안정을 나타냅니다 (Kerpelman & Pittman, 2001), 그러나 노후의 가능한 자기에 대한 연구는 비교적 높은 연속성을 보여줍니다 (Frazier, Hooker, Johnson, & Kaus, 2000; Smith & Freund, 2002)."
+        },
+        {
+          "source": "Hence, despite the fact that possible selves are thought to be stable in late life, we do not know to what extent they may also be context driven and show day-to-day ﬂuctuations.",
+          "translation": "따라서, 잠재적인 자아들이 늦은 생애에 안정적이라고 여겨지는 사실에도 불구하고, 우리는 또한 어떤 범위에서 맥락에 의해 움직이고 일상적인 변동을 나타낼 수 있는지 알지 못합니다."
+        },
+        {
+          "source": "This should be addressed in future research.",
+          "translation": "이것은 미래의 연구에서 다루어야 합니다."
+        },
+        {
+          "source": "Analyses of the relationship between possible selves and the performance of domain-speciﬁc activities are based on post hoc ratings of activity contents.",
+          "translation": "가능한 자기와 영역별 활동의 수행 사이의 관계에 대한 분석은 활동 내용의 포스트 호크 등급을 기반으로 한다."
+        },
+        {
+          "source": "This has the advantage of minimizing reactivity because possible selves were not mentioned during the study.",
+          "translation": "이것은 반응성을 최소화하는 장점이 있습니다. 왜냐하면 연구 중에 가능한 자기들이 언급되지 않았기 때문입니다."
+        },
+        {
+          "source": "At the same time, it comes with the disadvantage that we do not know whether participants attributed the same meaning to their activities that we did when coding them.",
+          "translation": "동시에, 우리는 참가자들이 그들의 활동에 우리가 코딩을 할 때 했던 것과 같은 의미를 부여했는지 알지 못한다는 단점이 있습니다."
+        },
+        {
+          "source": "In addition, the content categories of possible selves and activities should be reﬁned, particularly in relation to underlying temporal cycles, motivational orientations, and cognitive demand.",
+          "translation": "또한, 가능한 자기와 활동의 내용 카테고리들은 특히 근본적인 시간 순환, 동기부여 지향 및 인지 수요와 관련하여 정밀화되어야 한다."
+        },
+        {
+          "source": "For example, the current coding does not differentiate whether different activities, such as crossword puzzling and playing games, are equally cognitively demanding.",
+          "translation": "예를 들어, 현재의 코딩은 십자어 퍼즐링과 게임을 하는 것과 같은 다른 활동이 인지적으로 똑같이 요구되는지 구별하지 않습니다."
+        },
+        {
+          "source": "We acknowledge that this study represents a snapshot of daily life within a relatively small sample.",
+          "translation": "우리는 이 연구는 비교적 작은 표본 내에서 일상생활의 간략한 사진을 나타낸다는 것을 인정합니다."
+        },
+        {
+          "source": "The randomly sampled activities do not provide a complete picture of participants’ daily life.",
+          "translation": "무작위로 샘플링된 활동은 참가자의 일상의 완전한 그림을 제공하지 않습니다."
+        },
+        {
+          "source": "A comparison between time-sampling data and information assessed with a continuous Yesterday- Interview procedure showed, however, that the two methods yielded largely equivalent results (Klumb & Baltes, 1999a).",
+          "translation": "그러나, 지속된 Yesterday-Interview 절차를 통해 평가된 시간 샘플링 데이터와 정보의 비교는 두 가지 방법이 크게 동등한 결과를 가져온다는 것을 보여주었다 (Klumb & Baltes, 1999a)."
+        },
+        {
+          "source": "Our results indicate a close link between motivational and affective processes but do not allow causal inferences.",
+          "translation": "우리의 결과는 동기부여와 감정적 인 과정 사이의 긴밀한 연관성을 나타냅니다. 그러나 인과적 추론을 허용하지 않습니다."
+        },
+        {
+          "source": "For example, an older adult might feel good because he or she is performing a possible self-related activity, or he or she could perform possible self-related activities only when feeling good.",
+          "translation": "예를 들어, 나이가 많은 어른은 자기 자신과 관련된 일을 하고 있기 때문에 기분이 좋아질 수도 있고, 자기 자신과 관련된 일들을 할 수 있는 것은 기분이 좋아 있을 때만 될 수도 있습니다."
+        },
+        {
+          "source": "The time intervals in between two consecutive beeps varied considerably in length and did not allow us to address lead–lag relationships.",
+          "translation": "두 개의 연속적인 비프 사이의 시간 간격은 길이가 상당히 다양하여 납 래그 관계를 해결할 수 없었습니다."
+        },
+        {
+          "source": "In the future, researchers may want to incorporate this question into the research design so that not only momentto-moment but also day-to-day relationships can be examined.",
+          "translation": "앞으로 연구자들은 이 질문을 연구 설계에 포함시키고자 할 수도 있습니다. 그렇게 되면 순간적 뿐만 아니라 일상적 관계도 살펴볼 수 있습니다."
+        },
+        {
+          "source": "Conclusions The ﬁndings of the present study indicate that an investigation of possible self-activity linkages provides important insights into the operation of developmental processes in old age, and their association with microlevel (daily affect quality) and macrolevel (mortality risk) indicators of successful aging.",
+          "translation": "결론 본 연구의 연구결과는 자기활동의 가능한 연관성에 대한 조사가 노년기의 발달 과정의 작동에 대한 중요한 통찰력을 제공하고, 성공적 노화의 미세 수준 (일간 품질에 영향을 미치는) 및 거시 수준 (죽음 위험) 지표와 연관되어 있음을 나타냅니다."
+        },
+        {
+          "source": "From a methodological point of view, they underscore the usefulness of implementing measurement",
+          "translation": "방법론적 관점에서, 그들은 측정의 활용성을 강조합니다."
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 7,
+      "sourceText": "HOPPMANN ET AL.\nP110\n\n\nbursts into longitudinal studies in order to relate everyday\nprocesses with long-term outcomes. Future research must\nsubstantiate these ﬁndings by investigating correlates and\npotential mechanisms, such as self-regulatory processes, social\nsupport, or the inﬂuence of matched hopes and fears (e.g.,\nDunkel & Kerpelman, 2006; Frazier et al., 2003; Oyserman,\nGant, & Ager, 1995; Smith & Freund, 2002; Unemori,\nOmoregie, & Markus, 2004; West & Thorn, 2001), through\nwhich possible selves and daily activities are linked with\npositive affect and longer life.\n\n\nACKNOWLEDGMENTS\n\n\nPreparation for this article was supported by research fellowships\nawarded by the German Research Foundation (DFG) to Christiane\nHoppmann and Denis Gerstorf.\n\n\nThe BASE was ﬁnancially supported by two German federal departments, that is, the Department of Research and Technology (13 TA 011:\n1988–1991) and the Department of Family and Senior Citizens (1991–\n1998), as well as by the Max Planck Society. The beeper study was ﬁnancially supported by the German Research Foundation (Grant Ba 902/8-1\nto Margret M. Baltes).\n\n\nWe thank Andrea Nies, Antje Haensch, Astrid Meyer, Barbara\nWoermann, Christian Geng, Jens Bisanz, and Martina Junker for assistance\nin data collection in the beeper study. Franziska Perels and Sigrun Wuerfel\nhelped with the data coding. We also thank Claudia Hauschild, Ute\nKunzmann, Andreas Mu¨ller-Heydenreich, Irmgard Pahl, Anita Guenther,\nDominik Boultwood, Simone Elsing, Brigitte Nill, Claus Stefan, and\nAndrea Wilcke for assistance in coding the possible selves data.\n\n\nAddress correspondence to Christiane A. Hoppmann, Georgia Institute\nof Technology, School of Psychology, 654 Cherry Street, Atlanta, GA\n30332. E-mail: ch295@mail.gatech.edu\n\n\nREFERENCES\n\n\nAustin, J. T., & Vancouver, J. B. (1996). Goal constructs in psychology:\n\n\nStructure, process, and content. Psychological Bulletin, 120, 338–375.\nBaltes, M. M., Maas, I., Wilms, H.-U., Borchelt, M., & Little, T. (1999).\n\n\nEveryday competence in old and very old age: Theoretical considerations and empirical ﬁndings. In P. B. Baltes & K. U. Mayer (Eds.),\nThe Berlin Aging Study: Aging from 70 to 100 (pp. 384–402). New\nYork: Cambridge University Press.\nBaltes, P. B., & Mayer, K. U. (1999). The Berlin Aging Study: Aging from\n\n\n70 to 100. New York: Cambridge University Press.\nBolger, N., Davis, A., & Rafaeli, E. (2003). Diary methods: Capturing life\n\n\nas it is lived. Annual Review of Psychology, 54, 579–616.\nBrunstein, J. C. (1993). Personal goals and subjective well-being: A\n\n\nlongitudinal study. Journal of Personality and Social Psychology, 65,\n1061–1070.\nCantor, N., & Sanderson, C. A. (1999). Life task participation and wellbeing: The importance of taking part in daily life. In D. Kahneman &\nE. Diener (Eds.), Well-being: The foundations of hedonic psychology\n(pp. 230–243). New York: Russell Sage Foundation.\nCarstensen, L. L. (1995). Evidence for a life-span theory of socioemotional\n\n\nselectivity. Current Directions in Psychological Science, 4, 151–156.\nCarstensen, L. L., Mikels, J. A., & Mather, M. (2006). Aging and the\n\n\nintersection of cognition, motivation and emotion. In J. Birren & K. W.\nSchaie (Eds.), Handbook of the psychology of Aging (pp. 343–362). San\nDiego, CA: Academic Press.\nCarver, C. S., Lawrence, J. W., & Scheier, M. F. (1999). Self-discrepancies:\n\n\nIncorporating the role of feared selves. Personality and Social\nPsychology Bulletin, 25, 783–792.\nCarver, C. S., & Scheier, M. F. (1990). Origins and functions of positive\n\n\nand negative affect: A control-process view. Psychological Review, 97,\n19–35.\nCotrell, V., & Hooker, K. (2005). Possible selves of individuals with\n\n\nAlzheimer’s disease. Psychology and Aging, 20, 285–294.\nCox, D. R. (1972). Regression models and life tables. Journal of the Royal\n\n\nStatistical Society, B34, 187–220.\n\n\nCross, S., & Markus, H. (1991). Possible selves across the life span. Human\n\n\nDevelopment, 34, 230–255.\nCross, S. E., & Markus, H. R. (1994). Self-schemas, possible selves, and\n\n\ncompetent performance. Journal of Educational Psychology, 86, 423–\n438.\nDiener, E., Suh, E. M., Lucas, R. E., & Smith, H. L. (1999). Subjective\n\n\nwell-being: Three decades of progress. Psychological Bulletin, 125,\n276–302.\nDunkel, C. S., & Kerpelman, J. L. (2006). Possible selves: Theory,\n\n\nresearch, and applications. New York: Nova Science.\nFrazier, L. D., Cotrell, V., & Hooker, K. (2003). Possible selves and illness:\n\n\nA comparison of individuals with Parkinson’s disease, early-stage\nAlzheimer’s disease, and healthy older adults. International Journal of\nBehavioral Development, 27, 1–11.\nFrazier, L. D., Hooker, K., Johnson, P. M., & Kaus, C. R. (2000).\n\n\nContinuity and change in possible selves in later life: A 5-year\nlongitudinal study. Basic and Applied Social Psychology, 22, 237–\n243.\nFreund, A. M., & Smith, J. (1999). Content and function of the selfdeﬁnition in old and very old age. Journal of Gerontology:\nPsychological Sciences, 54B, P55–P67.\nGlass, T. A., Mendes de Leon, C., Marottoli, R. A., & Berkman, L. F.\n\n\n(1999). Population based study of social and productive activities as\npredictors of survival among elderly Americans. British Medical\nJournal, 319, 478–483.\nHertzog, C., McGuire, C. L., Powell-Moman, A., & York, A. R. (2001,\n\n\nAugust). Implicit theories and self-referent beliefs regarding control\nover memory. Poster session presented at the 109th annual convention\nof the American Psychological Association, San Francisco.\nHooker, K. (1992). Possible selves and perceived health in older adults and\n\n\ncollege students. Journal of Gerontology: Psychological Sciences, 47,\nP85–P95.\nHooker, K., & Kaus, C. R. (1992). Possible selves and health behaviors in\n\n\nlater life. Journal of Aging and Health, 4, 390–411.\nHooker, K., & McAdams, D. P. (2003). Personality reconsidered: A new\n\n\nagenda for aging research. Journal of Gerontology: Psychological\nSciences, 58B, P296–P304.\nKerpelman, J. L., & Pittman, J. F. (2001). The instability of possible selves:\n\n\nIdentity processes within late adolescents’ close peer relationships.\nJournal of Adolescence, 24, 491–512.\nKlumb, P. L., & Baltes, M. M. (1999a) Validity of retrospective time-use\n\n\nreports in old age. Applied Cognitive Psychology, 13, 527–539.\nKlumb, P. L., & Baltes, M. M. (1999b). Time use of old and very old\n\n\nBerliners: Productive and consumptive activities as functions of\nresources. Journal of Gerontology: Social Sciences, 54B, S271–\nS278.\nKunzmann, U., Little, T. D., & Smith, J. (2000). Is age-related stability of\n\n\nsubjective well-being a paradox? Cross-sectional and longitudinal\nevidence from the Berlin Aging Study. Psychology & Aging, 15, 511–\n526.\nLang, F. R. (2001). Regulation of social relationships in later adulthood.\n\n\nJournal of Gerontology: Psychological Sciences, 56B, P321–P326.\nLennartsson, C., & Silverstein, M. (2001). Does engagement with life\n\n\nenhance survival of elderly people in Sweden? The role of social\nand leisure activities. Journal of Gerontology: Social Sciences, 56B,\nS335–S342.\nLyubomirsky, S., & Nolen-Hoeksema, S. (1995). Effects of self-focused\n\n\nrumination on negative thinking and interpersonal problem solving.\nJournal of Personality and Social Psychology, 69, 176–190.\nMaier, H., & Klumb, P. L. (2005). Social participation and survival at older\n\n\nages: Is the effect driven by activity or context? European Journal on\nAgeing, 2, 31–39.\nMarkus, H., & Nurius, P. (1986). Possible selves. American Psychologist,\n\n\n41, 954–969.\nMarkus, H., & Ruvolo, A. (1989). Possible selves: Personalized\n\n\nrepresentations of goals. In L. A. Pervin (Ed.), Goal concepts in\npersonality and social psychology (pp. 211–241). Hillsdale, NJ:\nErlbaum.\nMoss, M. S., & Lawton, M. P. (1982). Time budgets of older people: A\n\n\nwindow on four lifestyles. Journal of Gerontology: Social Sciences,\n37, S115–S123.\nOyserman, D., Gant, L., & Ager, J. (1995). A socially contextualized\n\n\nmodel of African American identity: Possible selves and school",
+      "translationText": "호프맨 ET AL\n\nP110는 일상적인 과정을 장기적인 결과와 연결하기 위해 연장 연구로 니다.\n\n미래 연구는 자기 규제 과정, 사회적 지원, 또는 일치하는 희망과 두려움의 영향 (예를 들어, Dunkel & Kerpelman, 2006; Frazier et al., 2003; Oyserman, Gant, & Ager, 1995; Smith & Freund, 2002; Unemori, Omoregie, & Markus, 2004; West & Thorn, 2001) 같은 상관관계와 잠재적 메커니즘을 조사함으로써 이러한 연구 결과를 입증해야 합니다.\n\n이 기사에 대한 준비는 독일 연구 재단 (DFG) 에서 Christiane Hoppmann과 Denis Gerstorf에게 수여된 연구 장학금으로 지원되었습니다.\n\nBASE는 2개의 독일 연방 부처, 즉 연구 및 기술부 (13 TA 011: 19881991) 와 가족 및 고령 시민부 (19911998) 에 의해 재정적으로 지원되었으며, 맥스 플랑크 협회에 의해 지원되었습니다.\n\n비퍼 연구 는 독일 연구 재단 (Grant Ba 902/8-1 Margret M. Baltes) 에서 재정적 지원 을 받았다.\n\n우리는 Andrea Nies, Antje Haensch, Astrid Meyer, Barbara Woermann, Christian Geng, Jens Bisanz, 그리고 Martina Junker에게 beeper 연구에서 데이터 수집에 도움을 주셔서 감사합니다.\n\n프란시스카 페렐스와 시그런 워펠은 데이터 코딩에 도움을 주었습니다.\n\n또한 클라우디아 하우스칠드, 유테 즈만, 안드레아스 무얼러-하이덴리히, 이르mgard Pahl, 아니타 구엔터, 도미니크 볼트우드, 시몬 엘싱, 브리지트 닐, 클라우스 스테판, 앤드레아 윌케 등이 가능한 자기 데이터의 코딩에 도움을 주셔서 감사합니다.\n\n조지아 공과대학, 심리학 학교, 654 체리 스트리트, 애틀랜타, GA 30332에 있는 크리스티안 A. 호프먼의 주소 편지.\n\n이메일: ch295@mail.gatech.edu REFERENCES 오스틴, J. T., & 밴쿠버, J. B. (1996).\n\n심리학에서의 목표 구성: 구조, 과정 및 내용.\n\n심리신문, 120, 338375.\n\nBaltes, M. M., Maas, I., Wilms, H.\n\n-U.\n\n, 보르첼트, M., & 리틀, T. (1999).\n\n고령과 매우 고령의 일상적 능력: 이론적 고려와 경험적 연구결과\n\nP. B. Baltes & K. U. Mayer (Eds.) 에서 베를린 노화 연구: 70 년에서 100 년 사이 (pp. 384402)\n\n뉴욕: 케임브리지 대학교 출판사.\n\n발테스, P. B., & 메이어, K. U. (1999).\n\n베를린 노화 연구: 70대에서 100대\n\n뉴욕: 케임브리지 대학교 출판사.\n\n볼거, N., 데이비스, A., & 라파엘리, E. (2003).\n\n일기 방법: 삶을 살아가던 모습으로 담아내는 방법\n\n심리학의 연간 검토, 54, 579616.\n\n브런슈타인, J. C. (1993).\n\n개인적 목표와 주관적 안녕감: 연장 연구\n\n개인성 및 사회 심리학 학술지, 65, 10611070.\n\n캔터, N., & 샌더슨, CA (1999).\n\n생활 과제 참여와 복지: 일상 생활에 참여하는 것의 중요성\n\nD. 카네만 & E. 디너 (Ed.), 안녕감: 헤도닉 심리학의 기초 (pp. 230243).\n\n뉴욕: 러셀 세이지 재단.\n\n카스텐슨, L.L. (1995).\n\n사회정서적 선택성의 수명 이론에 대한 증거.\n\n심리학 과학의 현재 방향, 4, 151156.\n\n카스텐슨, L. L., 미켈스, J. A., & 매더, M. (2006).\n\n노화와 인지, 동기 및 감정의 교차.\n\nJ. Birren & K. W. Schaie (Ed.), 고령화 심리학의 수서 (pp. 343362).\n\n샌디에이고, CA: 학술신문.\n\n카버, C. S., 로렌스, J. W., & Scheier, M. F. (1999).\n\n자기 불일치: 두려움의 자아 역할을 포함합니다.\n\n인격 및 사회 심리학 게시판, 25, 783792.\n\n카버, C. S., & Scheier, M. F. (1990).\n\n긍정적인 영향과 부정적인 영향의 기원 및 기능: 제어 과정 관점.\n\n심리학 리뷰, 97, 1935.\n\n코트렐, V., & 후커, K. (2005).\n\n알츠하이머 병을 앓고 있는 사람들의 가능한 자기.\n\n심리학과 노화, 20, 285294.\n\n코크스, D. R. (1972).\n\n회귀 모델과 생명 표\n\n왕립 통계학회 학술지, B34, 187220.\n\n크로스, S., & 마르쿠스, H. (1991).\n\n평생 동안 가능한 자기.\n\n인적 개발, 34, 230~255.\n\n크로스, S. E., & 마르쿠스, H. R. (1994).\n\n자기계획, 가능한 자, 그리고 능숙한 수행.\n\n교육심리학 학술지, 86, 423 438.\n\n디너, E., Suh, E. M., 루카스, R. E., & 스미스, H. L. (1999).\n\n주관적 안녕감: 30년간의 발전\n\n심리신문 125, 276 302\n\n켈, C. S., & Kerpelman, J. L. (2006).\n\n가능한 자기: 이론, 연구, 응용\n\n뉴욕: 노바 사이언스\n\n프레이저, L. D., 코트렐, V., & 후커, K. (2003).\n\n가능한 자기와 질병: 파킨슨병, 초기 단계의 알츠하이머병, 그리고 건강한 노인들의 비교.\n\n국제 행동 개발 학술지, 27, 111.\n\n프레이저, L. D., 후커, K., 존슨, P. M., & 카우스, C. R. (2000).\n\n노년기에서 가능한 자기들의 연속성과 변화: 5년간의 연장 연구.\n\n기초 및 응용 사회 심리학, 22, 237 243.\n\n프뢰드, A. M., & 스미스, J. (1999).\n\n고령과 매우 고령의 자기 정의의 내용과 기능\n\n게론톨로지 저널: 심리학 과학, 54B, P55P67.\n\n글래스, T. A., Mendes de Leon, C., Marottoli, R. A., & Berkman, L. F. (1999).\n\n인구 기반의 사회 및 생산적 활동에 대한 연구는 노인 미국인들 사이에서 생존을 예측하는 것으로 나타났습니다.\n\n브리티시 메디컬 저널, 319, 478483.\n\n헤르츠그, C., 맥가이어, C. L., 파웰-모먼, A., & 요크, A. R. (2001, 8월).\n\n기억에 대한 통제에 대한 암시적인 이론과 자칭적 신념\n\n미국 심리학 협회 (American Psychological Association) 의 109회 정기 대회에서 발표된 포스터 세션.\n\n호커, K. (1992).\n\n나이가 많은 성인과 대학생의 가능한 자기와 인식된 건강.\n\n게론톨로지 저널: 심리학 과학, 47, P85P95.\n\n호커, K., & 카우스, C. R. (1992).\n\n나중에 가능한 자기와 건강 행동.\n\n노화 와 건강 의 잡지, 4,390411.\n\n호커, K., & 맥 애덤스, D. P. (2003).\n\n성격 재검토: 고령화 연구에 대한 새로운 일정은\n\n게론톨로지 저널: 심리학 과학, 58B, P296 P304.\n\nKerpelman, J.L., & Pittman, JF (2001).\n\n가능한 자기들의 불안정성: 늦은 청소년들 내의 정체성 프로세스\n\n청소년 학술지, 24, 491512.\n\nKlumb, P. L., & Baltes, M. M. (1999a) 노년기의 후시적 시간 사용 보고서의 유효성\n\n응용 인지 심리학, 13, 527539.\n\n클룸프, P. L., & 발테스, M. M. (1999b).\n\n오래된 베를린 주민들의 시간 사용: 자원의 기능으로서 생산적이고 소비적인 활동\n\n게론톨로지 저널: 사회과학, 54B, S271 S278.\n\nKunzmann, U., 리틀, T. D., & 스미스, J. (2000).\n\n주관적 안녕감의 나이와 관련된 안정성은 역설입니까?\n\n베를린 노화 연구의 교차 및 길쭉한 증거\n\n심리학 및 노화, 15, 511 526.\n\n랭, F.R. (2001).\n\n후반 성인기에 사회관계의 규제\n\n게론톨로지 저널: 심리학 과학, 56B, P321 P326.\n\nLennartsson, C., & Silverstein, M. (2001).\n\n스웨덴의 노인들의 생존을 높이는 것은 삶에 대한 관심일까요?\n\n사회적 활동과 여가 활동의 역할\n\n게론톨로지 저널: 사회과학, 56B, S335S342.\n\n루보미르스키, S., & Nolen-Hoeksema, S. (1995).\n\n자기중심적 재고가 부정적인 사고와 인간간의 문제 해결에 미치는 영향\n\n개인성 및 사회 심리학 학술지, 69, 176~190.\n\nMaier, H., & Klumb, P.L. (2005).\n\n사회 참여와 노년층 생존: 그 영향은 활동이나 맥락에 의해 좌우되는가?\n\n노화 에 관한 유럽 학술지, 2, 3139.\n\n마커스, H., & 누리우스, P. (1986).\n\n가능한 나들.\n\n미국 심리학자, 41, 954~969.\n\n마커스, H., & 루볼로, A. (1989).\n\n가능한 자기: 목표의 개인화된 표현.\n\nLA 퍼빈 (편집) 에서 개인성과 사회 심리학의 목표 개념 (pp. 211241).\n\n힐스데일, 뉴저지:\n\n모스, M. S., & 로튼, M. P. (1982).\n\n노인들의 시간 예산: 네 가지 생활 방식에 대한 창구\n\n게론톨로지 저널: 사회과학, 37, S115S123.\n\n오이스먼, D., Gant, L., & Ager, J. (1995).\n\n아프리카계 미국인 정체성의 사회적으로 맥락화 된 모델: 가능한 자기와 학교",
+      "status": "translated",
+      "sourceTextSha256": "aed9fb5f089ae526379ee26580ab253ef638c84ba90b1267b0dc4892606e5354",
+      "segments": [
+        {
+          "source": "HOPPMANN ET AL.",
+          "translation": "호프맨 ET AL"
+        },
+        {
+          "source": "P110 bursts into longitudinal studies in order to relate everyday processes with long-term outcomes.",
+          "translation": "P110는 일상적인 과정을 장기적인 결과와 연결하기 위해 연장 연구로 니다."
+        },
+        {
+          "source": "Future research must substantiate these ﬁndings by investigating correlates and potential mechanisms, such as self-regulatory processes, social support, or the inﬂuence of matched hopes and fears (e.g., Dunkel & Kerpelman, 2006; Frazier et al., 2003; Oyserman, Gant, & Ager, 1995; Smith & Freund, 2002; Unemori, Omoregie, & Markus, 2004; West & Thorn, 2001), through which possible selves and daily activities are linked with positive affect and longer life.",
+          "translation": "미래 연구는 자기 규제 과정, 사회적 지원, 또는 일치하는 희망과 두려움의 영향 (예를 들어, Dunkel & Kerpelman, 2006; Frazier et al., 2003; Oyserman, Gant, & Ager, 1995; Smith & Freund, 2002; Unemori, Omoregie, & Markus, 2004; West & Thorn, 2001) 같은 상관관계와 잠재적 메커니즘을 조사함으로써 이러한 연구 결과를 입증해야 합니다."
+        },
+        {
+          "source": "ACKNOWLEDGMENTS Preparation for this article was supported by research fellowships awarded by the German Research Foundation (DFG) to Christiane Hoppmann and Denis Gerstorf.",
+          "translation": "이 기사에 대한 준비는 독일 연구 재단 (DFG) 에서 Christiane Hoppmann과 Denis Gerstorf에게 수여된 연구 장학금으로 지원되었습니다."
+        },
+        {
+          "source": "The BASE was ﬁnancially supported by two German federal departments, that is, the Department of Research and Technology (13 TA 011: 1988–1991) and the Department of Family and Senior Citizens (1991– 1998), as well as by the Max Planck Society.",
+          "translation": "BASE는 2개의 독일 연방 부처, 즉 연구 및 기술부 (13 TA 011: 19881991) 와 가족 및 고령 시민부 (19911998) 에 의해 재정적으로 지원되었으며, 맥스 플랑크 협회에 의해 지원되었습니다."
+        },
+        {
+          "source": "The beeper study was ﬁnancially supported by the German Research Foundation (Grant Ba 902/8-1 to Margret M. Baltes).",
+          "translation": "비퍼 연구 는 독일 연구 재단 (Grant Ba 902/8-1 Margret M. Baltes) 에서 재정적 지원 을 받았다."
+        },
+        {
+          "source": "We thank Andrea Nies, Antje Haensch, Astrid Meyer, Barbara Woermann, Christian Geng, Jens Bisanz, and Martina Junker for assistance in data collection in the beeper study.",
+          "translation": "우리는 Andrea Nies, Antje Haensch, Astrid Meyer, Barbara Woermann, Christian Geng, Jens Bisanz, 그리고 Martina Junker에게 beeper 연구에서 데이터 수집에 도움을 주셔서 감사합니다."
+        },
+        {
+          "source": "Franziska Perels and Sigrun Wuerfel helped with the data coding.",
+          "translation": "프란시스카 페렐스와 시그런 워펠은 데이터 코딩에 도움을 주었습니다."
+        },
+        {
+          "source": "We also thank Claudia Hauschild, Ute Kunzmann, Andreas Mu¨ller-Heydenreich, Irmgard Pahl, Anita Guenther, Dominik Boultwood, Simone Elsing, Brigitte Nill, Claus Stefan, and Andrea Wilcke for assistance in coding the possible selves data.",
+          "translation": "또한 클라우디아 하우스칠드, 유테 즈만, 안드레아스 무얼러-하이덴리히, 이르mgard Pahl, 아니타 구엔터, 도미니크 볼트우드, 시몬 엘싱, 브리지트 닐, 클라우스 스테판, 앤드레아 윌케 등이 가능한 자기 데이터의 코딩에 도움을 주셔서 감사합니다."
+        },
+        {
+          "source": "Address correspondence to Christiane A. Hoppmann, Georgia Institute of Technology, School of Psychology, 654 Cherry Street, Atlanta, GA 30332.",
+          "translation": "조지아 공과대학, 심리학 학교, 654 체리 스트리트, 애틀랜타, GA 30332에 있는 크리스티안 A. 호프먼의 주소 편지."
+        },
+        {
+          "source": "E-mail: ch295@mail.gatech.edu REFERENCES Austin, J. T., & Vancouver, J. B. (1996).",
+          "translation": "이메일: ch295@mail.gatech.edu REFERENCES 오스틴, J. T., & 밴쿠버, J. B. (1996)."
+        },
+        {
+          "source": "Goal constructs in psychology: Structure, process, and content.",
+          "translation": "심리학에서의 목표 구성: 구조, 과정 및 내용."
+        },
+        {
+          "source": "Psychological Bulletin, 120, 338–375.",
+          "translation": "심리신문, 120, 338375."
+        },
+        {
+          "source": "Baltes, M. M., Maas, I., Wilms, H.",
+          "translation": "Baltes, M. M., Maas, I., Wilms, H.",
+          "reviewed": true
+        },
+        {
+          "source": "-U.",
+          "translation": "-U."
+        },
+        {
+          "source": ", Borchelt, M., & Little, T. (1999).",
+          "translation": ", 보르첼트, M., & 리틀, T. (1999)."
+        },
+        {
+          "source": "Everyday competence in old and very old age: Theoretical considerations and empirical ﬁndings.",
+          "translation": "고령과 매우 고령의 일상적 능력: 이론적 고려와 경험적 연구결과"
+        },
+        {
+          "source": "In P. B. Baltes & K. U. Mayer (Eds.), The Berlin Aging Study: Aging from 70 to 100 (pp. 384–402).",
+          "translation": "P. B. Baltes & K. U. Mayer (Eds.) 에서 베를린 노화 연구: 70 년에서 100 년 사이 (pp. 384402)"
+        },
+        {
+          "source": "New York: Cambridge University Press.",
+          "translation": "뉴욕: 케임브리지 대학교 출판사."
+        },
+        {
+          "source": "Baltes, P. B., & Mayer, K. U. (1999).",
+          "translation": "발테스, P. B., & 메이어, K. U. (1999)."
+        },
+        {
+          "source": "The Berlin Aging Study: Aging from 70 to 100.",
+          "translation": "베를린 노화 연구: 70대에서 100대"
+        },
+        {
+          "source": "New York: Cambridge University Press.",
+          "translation": "뉴욕: 케임브리지 대학교 출판사."
+        },
+        {
+          "source": "Bolger, N., Davis, A., & Rafaeli, E. (2003).",
+          "translation": "볼거, N., 데이비스, A., & 라파엘리, E. (2003)."
+        },
+        {
+          "source": "Diary methods: Capturing life as it is lived.",
+          "translation": "일기 방법: 삶을 살아가던 모습으로 담아내는 방법"
+        },
+        {
+          "source": "Annual Review of Psychology, 54, 579–616.",
+          "translation": "심리학의 연간 검토, 54, 579616."
+        },
+        {
+          "source": "Brunstein, J. C. (1993).",
+          "translation": "브런슈타인, J. C. (1993)."
+        },
+        {
+          "source": "Personal goals and subjective well-being: A longitudinal study.",
+          "translation": "개인적 목표와 주관적 안녕감: 연장 연구"
+        },
+        {
+          "source": "Journal of Personality and Social Psychology, 65, 1061–1070.",
+          "translation": "개인성 및 사회 심리학 학술지, 65, 10611070."
+        },
+        {
+          "source": "Cantor, N., & Sanderson, C. A. (1999).",
+          "translation": "캔터, N., & 샌더슨, CA (1999)."
+        },
+        {
+          "source": "Life task participation and wellbeing: The importance of taking part in daily life.",
+          "translation": "생활 과제 참여와 복지: 일상 생활에 참여하는 것의 중요성"
+        },
+        {
+          "source": "In D. Kahneman & E. Diener (Eds.), Well-being: The foundations of hedonic psychology (pp. 230–243).",
+          "translation": "D. 카네만 & E. 디너 (Ed.), 안녕감: 헤도닉 심리학의 기초 (pp. 230243)."
+        },
+        {
+          "source": "New York: Russell Sage Foundation.",
+          "translation": "뉴욕: 러셀 세이지 재단."
+        },
+        {
+          "source": "Carstensen, L. L. (1995).",
+          "translation": "카스텐슨, L.L. (1995)."
+        },
+        {
+          "source": "Evidence for a life-span theory of socioemotional selectivity.",
+          "translation": "사회정서적 선택성의 수명 이론에 대한 증거."
+        },
+        {
+          "source": "Current Directions in Psychological Science, 4, 151–156.",
+          "translation": "심리학 과학의 현재 방향, 4, 151156."
+        },
+        {
+          "source": "Carstensen, L. L., Mikels, J. A., & Mather, M. (2006).",
+          "translation": "카스텐슨, L. L., 미켈스, J. A., & 매더, M. (2006)."
+        },
+        {
+          "source": "Aging and the intersection of cognition, motivation and emotion.",
+          "translation": "노화와 인지, 동기 및 감정의 교차."
+        },
+        {
+          "source": "In J. Birren & K. W. Schaie (Eds.), Handbook of the psychology of Aging (pp. 343–362).",
+          "translation": "J. Birren & K. W. Schaie (Ed.), 고령화 심리학의 수서 (pp. 343362)."
+        },
+        {
+          "source": "San Diego, CA: Academic Press.",
+          "translation": "샌디에이고, CA: 학술신문."
+        },
+        {
+          "source": "Carver, C. S., Lawrence, J. W., & Scheier, M. F. (1999).",
+          "translation": "카버, C. S., 로렌스, J. W., & Scheier, M. F. (1999)."
+        },
+        {
+          "source": "Self-discrepancies: Incorporating the role of feared selves.",
+          "translation": "자기 불일치: 두려움의 자아 역할을 포함합니다."
+        },
+        {
+          "source": "Personality and Social Psychology Bulletin, 25, 783–792.",
+          "translation": "인격 및 사회 심리학 게시판, 25, 783792."
+        },
+        {
+          "source": "Carver, C. S., & Scheier, M. F. (1990).",
+          "translation": "카버, C. S., & Scheier, M. F. (1990)."
+        },
+        {
+          "source": "Origins and functions of positive and negative affect: A control-process view.",
+          "translation": "긍정적인 영향과 부정적인 영향의 기원 및 기능: 제어 과정 관점."
+        },
+        {
+          "source": "Psychological Review, 97, 19–35.",
+          "translation": "심리학 리뷰, 97, 1935."
+        },
+        {
+          "source": "Cotrell, V., & Hooker, K. (2005).",
+          "translation": "코트렐, V., & 후커, K. (2005)."
+        },
+        {
+          "source": "Possible selves of individuals with Alzheimer’s disease.",
+          "translation": "알츠하이머 병을 앓고 있는 사람들의 가능한 자기."
+        },
+        {
+          "source": "Psychology and Aging, 20, 285–294.",
+          "translation": "심리학과 노화, 20, 285294."
+        },
+        {
+          "source": "Cox, D. R. (1972).",
+          "translation": "코크스, D. R. (1972)."
+        },
+        {
+          "source": "Regression models and life tables.",
+          "translation": "회귀 모델과 생명 표"
+        },
+        {
+          "source": "Journal of the Royal Statistical Society, B34, 187–220.",
+          "translation": "왕립 통계학회 학술지, B34, 187220."
+        },
+        {
+          "source": "Cross, S., & Markus, H. (1991).",
+          "translation": "크로스, S., & 마르쿠스, H. (1991)."
+        },
+        {
+          "source": "Possible selves across the life span.",
+          "translation": "평생 동안 가능한 자기."
+        },
+        {
+          "source": "Human Development, 34, 230–255.",
+          "translation": "인적 개발, 34, 230~255."
+        },
+        {
+          "source": "Cross, S. E., & Markus, H. R. (1994).",
+          "translation": "크로스, S. E., & 마르쿠스, H. R. (1994)."
+        },
+        {
+          "source": "Self-schemas, possible selves, and competent performance.",
+          "translation": "자기계획, 가능한 자, 그리고 능숙한 수행."
+        },
+        {
+          "source": "Journal of Educational Psychology, 86, 423– 438.",
+          "translation": "교육심리학 학술지, 86, 423 438."
+        },
+        {
+          "source": "Diener, E., Suh, E. M., Lucas, R. E., & Smith, H. L. (1999).",
+          "translation": "디너, E., Suh, E. M., 루카스, R. E., & 스미스, H. L. (1999)."
+        },
+        {
+          "source": "Subjective well-being: Three decades of progress.",
+          "translation": "주관적 안녕감: 30년간의 발전"
+        },
+        {
+          "source": "Psychological Bulletin, 125, 276–302.",
+          "translation": "심리신문 125, 276 302"
+        },
+        {
+          "source": "Dunkel, C. S., & Kerpelman, J. L. (2006).",
+          "translation": "켈, C. S., & Kerpelman, J. L. (2006)."
+        },
+        {
+          "source": "Possible selves: Theory, research, and applications.",
+          "translation": "가능한 자기: 이론, 연구, 응용"
+        },
+        {
+          "source": "New York: Nova Science.",
+          "translation": "뉴욕: 노바 사이언스"
+        },
+        {
+          "source": "Frazier, L. D., Cotrell, V., & Hooker, K. (2003).",
+          "translation": "프레이저, L. D., 코트렐, V., & 후커, K. (2003)."
+        },
+        {
+          "source": "Possible selves and illness: A comparison of individuals with Parkinson’s disease, early-stage Alzheimer’s disease, and healthy older adults.",
+          "translation": "가능한 자기와 질병: 파킨슨병, 초기 단계의 알츠하이머병, 그리고 건강한 노인들의 비교."
+        },
+        {
+          "source": "International Journal of Behavioral Development, 27, 1–11.",
+          "translation": "국제 행동 개발 학술지, 27, 111."
+        },
+        {
+          "source": "Frazier, L. D., Hooker, K., Johnson, P. M., & Kaus, C. R. (2000).",
+          "translation": "프레이저, L. D., 후커, K., 존슨, P. M., & 카우스, C. R. (2000)."
+        },
+        {
+          "source": "Continuity and change in possible selves in later life: A 5-year longitudinal study.",
+          "translation": "노년기에서 가능한 자기들의 연속성과 변화: 5년간의 연장 연구."
+        },
+        {
+          "source": "Basic and Applied Social Psychology, 22, 237– 243.",
+          "translation": "기초 및 응용 사회 심리학, 22, 237 243."
+        },
+        {
+          "source": "Freund, A. M., & Smith, J. (1999).",
+          "translation": "프뢰드, A. M., & 스미스, J. (1999)."
+        },
+        {
+          "source": "Content and function of the selfdeﬁnition in old and very old age.",
+          "translation": "고령과 매우 고령의 자기 정의의 내용과 기능"
+        },
+        {
+          "source": "Journal of Gerontology: Psychological Sciences, 54B, P55–P67.",
+          "translation": "게론톨로지 저널: 심리학 과학, 54B, P55P67."
+        },
+        {
+          "source": "Glass, T. A., Mendes de Leon, C., Marottoli, R. A., & Berkman, L. F. (1999).",
+          "translation": "글래스, T. A., Mendes de Leon, C., Marottoli, R. A., & Berkman, L. F. (1999)."
+        },
+        {
+          "source": "Population based study of social and productive activities as predictors of survival among elderly Americans.",
+          "translation": "인구 기반의 사회 및 생산적 활동에 대한 연구는 노인 미국인들 사이에서 생존을 예측하는 것으로 나타났습니다."
+        },
+        {
+          "source": "British Medical Journal, 319, 478–483.",
+          "translation": "브리티시 메디컬 저널, 319, 478483."
+        },
+        {
+          "source": "Hertzog, C., McGuire, C. L., Powell-Moman, A., & York, A. R. (2001, August).",
+          "translation": "헤르츠그, C., 맥가이어, C. L., 파웰-모먼, A., & 요크, A. R. (2001, 8월)."
+        },
+        {
+          "source": "Implicit theories and self-referent beliefs regarding control over memory.",
+          "translation": "기억에 대한 통제에 대한 암시적인 이론과 자칭적 신념"
+        },
+        {
+          "source": "Poster session presented at the 109th annual convention of the American Psychological Association, San Francisco.",
+          "translation": "미국 심리학 협회 (American Psychological Association) 의 109회 정기 대회에서 발표된 포스터 세션."
+        },
+        {
+          "source": "Hooker, K. (1992).",
+          "translation": "호커, K. (1992)."
+        },
+        {
+          "source": "Possible selves and perceived health in older adults and college students.",
+          "translation": "나이가 많은 성인과 대학생의 가능한 자기와 인식된 건강."
+        },
+        {
+          "source": "Journal of Gerontology: Psychological Sciences, 47, P85–P95.",
+          "translation": "게론톨로지 저널: 심리학 과학, 47, P85P95."
+        },
+        {
+          "source": "Hooker, K., & Kaus, C. R. (1992).",
+          "translation": "호커, K., & 카우스, C. R. (1992)."
+        },
+        {
+          "source": "Possible selves and health behaviors in later life.",
+          "translation": "나중에 가능한 자기와 건강 행동."
+        },
+        {
+          "source": "Journal of Aging and Health, 4, 390–411.",
+          "translation": "노화 와 건강 의 잡지, 4,390411."
+        },
+        {
+          "source": "Hooker, K., & McAdams, D. P. (2003).",
+          "translation": "호커, K., & 맥 애덤스, D. P. (2003)."
+        },
+        {
+          "source": "Personality reconsidered: A new agenda for aging research.",
+          "translation": "성격 재검토: 고령화 연구에 대한 새로운 일정은"
+        },
+        {
+          "source": "Journal of Gerontology: Psychological Sciences, 58B, P296–P304.",
+          "translation": "게론톨로지 저널: 심리학 과학, 58B, P296 P304."
+        },
+        {
+          "source": "Kerpelman, J. L., & Pittman, J. F. (2001).",
+          "translation": "Kerpelman, J.L., & Pittman, JF (2001)."
+        },
+        {
+          "source": "The instability of possible selves: Identity processes within late adolescents’ close peer relationships.",
+          "translation": "가능한 자기들의 불안정성: 늦은 청소년들 내의 정체성 프로세스"
+        },
+        {
+          "source": "Journal of Adolescence, 24, 491–512.",
+          "translation": "청소년 학술지, 24, 491512."
+        },
+        {
+          "source": "Klumb, P. L., & Baltes, M. M. (1999a) Validity of retrospective time-use reports in old age.",
+          "translation": "Klumb, P. L., & Baltes, M. M. (1999a) 노년기의 후시적 시간 사용 보고서의 유효성"
+        },
+        {
+          "source": "Applied Cognitive Psychology, 13, 527–539.",
+          "translation": "응용 인지 심리학, 13, 527539."
+        },
+        {
+          "source": "Klumb, P. L., & Baltes, M. M. (1999b).",
+          "translation": "클룸프, P. L., & 발테스, M. M. (1999b)."
+        },
+        {
+          "source": "Time use of old and very old Berliners: Productive and consumptive activities as functions of resources.",
+          "translation": "오래된 베를린 주민들의 시간 사용: 자원의 기능으로서 생산적이고 소비적인 활동"
+        },
+        {
+          "source": "Journal of Gerontology: Social Sciences, 54B, S271– S278.",
+          "translation": "게론톨로지 저널: 사회과학, 54B, S271 S278."
+        },
+        {
+          "source": "Kunzmann, U., Little, T. D., & Smith, J. (2000).",
+          "translation": "Kunzmann, U., 리틀, T. D., & 스미스, J. (2000)."
+        },
+        {
+          "source": "Is age-related stability of subjective well-being a paradox?",
+          "translation": "주관적 안녕감의 나이와 관련된 안정성은 역설입니까?"
+        },
+        {
+          "source": "Cross-sectional and longitudinal evidence from the Berlin Aging Study.",
+          "translation": "베를린 노화 연구의 교차 및 길쭉한 증거"
+        },
+        {
+          "source": "Psychology & Aging, 15, 511– 526.",
+          "translation": "심리학 및 노화, 15, 511 526."
+        },
+        {
+          "source": "Lang, F. R. (2001).",
+          "translation": "랭, F.R. (2001)."
+        },
+        {
+          "source": "Regulation of social relationships in later adulthood.",
+          "translation": "후반 성인기에 사회관계의 규제"
+        },
+        {
+          "source": "Journal of Gerontology: Psychological Sciences, 56B, P321–P326.",
+          "translation": "게론톨로지 저널: 심리학 과학, 56B, P321 P326."
+        },
+        {
+          "source": "Lennartsson, C., & Silverstein, M. (2001).",
+          "translation": "Lennartsson, C., & Silverstein, M. (2001)."
+        },
+        {
+          "source": "Does engagement with life enhance survival of elderly people in Sweden?",
+          "translation": "스웨덴의 노인들의 생존을 높이는 것은 삶에 대한 관심일까요?"
+        },
+        {
+          "source": "The role of social and leisure activities.",
+          "translation": "사회적 활동과 여가 활동의 역할"
+        },
+        {
+          "source": "Journal of Gerontology: Social Sciences, 56B, S335–S342.",
+          "translation": "게론톨로지 저널: 사회과학, 56B, S335S342."
+        },
+        {
+          "source": "Lyubomirsky, S., & Nolen-Hoeksema, S. (1995).",
+          "translation": "루보미르스키, S., & Nolen-Hoeksema, S. (1995)."
+        },
+        {
+          "source": "Effects of self-focused rumination on negative thinking and interpersonal problem solving.",
+          "translation": "자기중심적 재고가 부정적인 사고와 인간간의 문제 해결에 미치는 영향"
+        },
+        {
+          "source": "Journal of Personality and Social Psychology, 69, 176–190.",
+          "translation": "개인성 및 사회 심리학 학술지, 69, 176~190."
+        },
+        {
+          "source": "Maier, H., & Klumb, P. L. (2005).",
+          "translation": "Maier, H., & Klumb, P.L. (2005)."
+        },
+        {
+          "source": "Social participation and survival at older ages: Is the effect driven by activity or context?",
+          "translation": "사회 참여와 노년층 생존: 그 영향은 활동이나 맥락에 의해 좌우되는가?"
+        },
+        {
+          "source": "European Journal on Ageing, 2, 31–39.",
+          "translation": "노화 에 관한 유럽 학술지, 2, 3139."
+        },
+        {
+          "source": "Markus, H., & Nurius, P. (1986).",
+          "translation": "마커스, H., & 누리우스, P. (1986)."
+        },
+        {
+          "source": "Possible selves.",
+          "translation": "가능한 나들."
+        },
+        {
+          "source": "American Psychologist, 41, 954–969.",
+          "translation": "미국 심리학자, 41, 954~969."
+        },
+        {
+          "source": "Markus, H., & Ruvolo, A. (1989).",
+          "translation": "마커스, H., & 루볼로, A. (1989)."
+        },
+        {
+          "source": "Possible selves: Personalized representations of goals.",
+          "translation": "가능한 자기: 목표의 개인화된 표현."
+        },
+        {
+          "source": "In L. A. Pervin (Ed.), Goal concepts in personality and social psychology (pp. 211–241).",
+          "translation": "LA 퍼빈 (편집) 에서 개인성과 사회 심리학의 목표 개념 (pp. 211241)."
+        },
+        {
+          "source": "Hillsdale, NJ: Erlbaum.",
+          "translation": "힐스데일, 뉴저지:"
+        },
+        {
+          "source": "Moss, M. S., & Lawton, M. P. (1982).",
+          "translation": "모스, M. S., & 로튼, M. P. (1982)."
+        },
+        {
+          "source": "Time budgets of older people: A window on four lifestyles.",
+          "translation": "노인들의 시간 예산: 네 가지 생활 방식에 대한 창구"
+        },
+        {
+          "source": "Journal of Gerontology: Social Sciences, 37, S115–S123.",
+          "translation": "게론톨로지 저널: 사회과학, 37, S115S123."
+        },
+        {
+          "source": "Oyserman, D., Gant, L., & Ager, J. (1995).",
+          "translation": "오이스먼, D., Gant, L., & Ager, J. (1995)."
+        },
+        {
+          "source": "A socially contextualized model of African American identity: Possible selves and school",
+          "translation": "아프리카계 미국인 정체성의 사회적으로 맥락화 된 모델: 가능한 자기와 학교"
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 8,
+      "sourceText": "POSSIBLE SELVES AND DAILY ACTIVITIES IN OLD AGE\nP111\n\n\npersistence. Journal of Personality and Social Psychology, 69,\n1216–1232.\nOyserman, D., & Markus, H. R. (1990). Possible selves and delinquency.\n\n\nJournal of Personality and Social Psychology, 59, 112–125.\nRaudenbush, S. W., & Bryk, A. S. (2002). Hierarchical linear models:\n\n\nApplications and data analysis methods. Thousand Oaks, CA: Sage.\nRaudenbush, S. W., Bryk, A. S., Cheong, Y. F., & Congdon, R. (2000).\n\n\nHLM 5. Hierarchical linear and nonlinear modeling. Chicago, IL:\nScientiﬁc Software International.\nRyff, C. D. (1995). Psychological well-being in adult life. Current\n\n\nDirections in Psychological Science, 4, 99–104.\nSAS Institute. (1997). SAS/STAT software: Changes and enhancements\n\n\nthrough Release 6.12. San Diego, CA: Academic Press.\nSchwarz, N. (1999). Self reports: How the questions shape the answers.\n\n\nAmerican Psychologist, 54, 93–105.\nSeiffge-Krenke, I. (2001). Health promotion in schools. In P. B. Baltes &\n\n\nN. J. Smelser (Eds.), International encyclopedia of the social and\nbehavioral sciences (pp. 6598–6602). New York: Elsevier.\nSmith, J., & Baltes, P. B. (1999). Trends and proﬁles of psychological\n\n\nfunctioning in very old age. In P. B. Baltes & K. U. Mayer (Eds.), The\nBerlin Aging Study: Aging from 70 to 100 (pp. 197–226). New York:\nCambridge University Press.\nSmith, J., & Freund, A. (2002). The dynamics of possible selves in very\n\n\nold age. Journal of Gerontology: Psychological Sciences, 57B, P492–\nP500.\nSmith, J., Maas, I., Mayer, K. U., Helmchen, H., Steinhagen-Thiessen, E., &\n\n\nBaltes, P. B. (2002). Two-wave longitudinal ﬁndings from the Berlin\n\n\nAging Study: Introduction to a collection of articles. Journal of\nGerontology: Psychological Sciences, 57B, P471–P473.\nSnijders, T. A. B., & Bosker, R. J. (1999). Multilevel analysis: An\n\n\nintroduction to basic and advanced multilevel modeling. London: Sage.\nUnemori, P., Omoregie, H., & Markus, H. R. (2004). Self-portraits:\n\n\nPossible selves in European-American, Chilean, Japanese, and\nJapanese-American cultural contexts. Self & Identity, 3, 321–338.\nWatson, D., Clark, L., & Tellegen, A. (1988). Development and validation of a brief measure of positive and negative affect: The PANAS\nscales. Journal of Personality and Social Psychology, 98, 1063–1070.\nWatson, T. L., & Blanchard-Fields, F. (1998). Thinking with your head and\n\n\nyour heart: Age differences in everyday problem-solving strategy\npreferences. Aging, Neuropsychology & Cognition, 5, 225–240.\nWest, R. L., & Thorn, R. M. (2001). Goal-setting, self-efﬁcacy, and\n\n\nmemory performance in older and younger adults. Experimental Aging\nResearch, 27, 41–65.\nWhaley, D. E. (2003). Future-oriented self-perceptions and exercise\n\n\nbehavior in middle-aged women. Journal of Aging and Physical\nActivity, 11, 1–17.\nWhaley, D. E., & Shrider, A. F. (2005). The process of adult exercise\n\n\nadherence: Self-perceptions and competence. Sport Psychologist, 19,\n148–163.\n\n\nReceived February 24, 2006\nAccepted September 19, 2006\nDecision Editor: Karen Hooker, PhD",
+      "translationText": "P111 늙은 나이에 지속 가능한 자기와 일상 활동\n\n개인성 및 사회심리학 학술지, 69, 12161232.\n\n오이스먼, D., & 마르쿠스, H. R. (1990).\n\n잠재적인 자아와 범죄.\n\n개인성 및 사회 심리학 학술지, 59, 112125.\n\n라우덴부시, S. W., & 브릭, A. S. (2002).\n\n계층형 선형 모델: 응용 및 데이터 분석 방법\n\n천 오크스, 크리스 앤더슨:\n\n라우덴부시, S.W., 브릭, A.S., , Y.F., & 콩돈, R. (2000).\n\nHLM 5\n\n직선형 및 비 직선형 모델링\n\n시카고, IL: 과학 소프트웨어 국제\n\n라이프, C.D. (1995).\n\n성인 생활의 심리적 안녕감\n\n심리학 과학의 현재 방향, 4, 99104.\n\nSAS 연구소\n\n(1997).\n\nSAS/STAT 소프트웨어: 6.12 버전으로 변경 및 개선\n\n샌디에이고, CA: 학술신문.\n\n스와르츠, N. (1999).\n\n자기보고: 질문들이 답을 어떻게 형성하는지.\n\n미국 심리학자, 54, 93105.\n\n세이프지-크렌크, I. (2001).\n\n학교에서의 건강 증진\n\nP. B. Baltes & N. J. Smelser (Eds.), 사회 및 행동 과학의 국제 백과사전 (pp. 65986602).\n\n뉴욕: 엘세비어\n\n스미스, J., & 발테스, P. B. (1999).\n\n매우 고령시대의 심리적 기능의 흐름과 프로파일\n\nP. B. Baltes & K. U. Mayer (Ed.), 베를린 노화 연구: 70~100년 (pp. 197226)\n\n뉴욕: 케임브리지 대학교 출판사.\n\n스미스, J., & Freund, A. (2002).\n\n아주 늙은 나이에 가능한 자기들의 역학.\n\n게론톨로지 저널: 심리학 과학, 57B, P492 P500.\n\n스미스, J., 마스, I., 메이어, K.U., 헬름첸, H., 슈타인하겐-티센, E., & 발테스, P. B. (2002).\n\n베를린 고령화 연구의 두 파동 연장 연구결과: 기사의 집합에 대한 소개\n\n게론톨로지 저널: 심리학 과학, 57B, P471 P473.\n\n스니더스, T. A. B., & 보스커, R. J. (1999).\n\n다단계 분석: 기본 및 고급 다단계 모델링에 대한 소개\n\n런던: 사이즈\n\n유네모리, P., 오모레기, H., & 마르쿠스, H. R. (2004).\n\n자기 초상화: 유럽-아메리카, 칠레, 일본, 일본-아메리카 문화 맥락에서 가능한 자기.\n\n셀프 & 아이덴티티, 3, 321338.\n\n왓슨, D., 클라크, L., & 텔레겐, A. (1988).\n\n긍정적인 영향과 부정적인 영향의 짧은 측정의 개발 및 검증: PANAS 스케일.\n\n개인성 및 사회 심리학 학술지, 98, 10631070.\n\n왓슨, T. L., & 블랑차드 필드스, F. (1998).\n\n머리와 마음으로 생각하는 것: 일상적인 문제 해결 전략을 선호하는 나이 차이가 있습니다.\n\n노화, 신경심리학 및 인지, 5, 225240.\n\n웨스트, R.L., & 토른, R.M. (2001).\n\n목표 설정, 자기효율, 그리고 노인과 젊은 성인들의 기억력\n\n실험적 노화 연구, 27, 4165.\n\n와일리, D. E. (2003).\n\n미래 지향적인 자기 인식과 중년 여성들의 운동 행동.\n\n'노령화 와 신체 활동'의 잡지, 11, 117.\n\n웨일리, D. E., & 슈라이더, A. F. (2005).\n\n성인의 운동에 충실하는 과정: 자기 인식과 능력.\n\n스포츠 심리학자, 19, 148 163.\n\n2006년 2월 24일에 수신되었습니다 2006년 9월 19일에 승인되었습니다 결정 편집자: Karen Hooker, PhD",
+      "status": "translated",
+      "sourceTextSha256": "01d77cbf201a792b0b9d0c7b1d6ad85abde0016105298655fa9930037370db0b",
+      "segments": [
+        {
+          "source": "POSSIBLE SELVES AND DAILY ACTIVITIES IN OLD AGE P111 persistence.",
+          "translation": "P111 늙은 나이에 지속 가능한 자기와 일상 활동"
+        },
+        {
+          "source": "Journal of Personality and Social Psychology, 69, 1216–1232.",
+          "translation": "개인성 및 사회심리학 학술지, 69, 12161232."
+        },
+        {
+          "source": "Oyserman, D., & Markus, H. R. (1990).",
+          "translation": "오이스먼, D., & 마르쿠스, H. R. (1990)."
+        },
+        {
+          "source": "Possible selves and delinquency.",
+          "translation": "잠재적인 자아와 범죄."
+        },
+        {
+          "source": "Journal of Personality and Social Psychology, 59, 112–125.",
+          "translation": "개인성 및 사회 심리학 학술지, 59, 112125."
+        },
+        {
+          "source": "Raudenbush, S. W., & Bryk, A. S. (2002).",
+          "translation": "라우덴부시, S. W., & 브릭, A. S. (2002)."
+        },
+        {
+          "source": "Hierarchical linear models: Applications and data analysis methods.",
+          "translation": "계층형 선형 모델: 응용 및 데이터 분석 방법"
+        },
+        {
+          "source": "Thousand Oaks, CA: Sage.",
+          "translation": "천 오크스, 크리스 앤더슨:"
+        },
+        {
+          "source": "Raudenbush, S. W., Bryk, A. S., Cheong, Y. F., & Congdon, R. (2000).",
+          "translation": "라우덴부시, S.W., 브릭, A.S., , Y.F., & 콩돈, R. (2000)."
+        },
+        {
+          "source": "HLM 5.",
+          "translation": "HLM 5"
+        },
+        {
+          "source": "Hierarchical linear and nonlinear modeling.",
+          "translation": "직선형 및 비 직선형 모델링"
+        },
+        {
+          "source": "Chicago, IL: Scientiﬁc Software International.",
+          "translation": "시카고, IL: 과학 소프트웨어 국제"
+        },
+        {
+          "source": "Ryff, C. D. (1995).",
+          "translation": "라이프, C.D. (1995)."
+        },
+        {
+          "source": "Psychological well-being in adult life.",
+          "translation": "성인 생활의 심리적 안녕감"
+        },
+        {
+          "source": "Current Directions in Psychological Science, 4, 99–104.",
+          "translation": "심리학 과학의 현재 방향, 4, 99104."
+        },
+        {
+          "source": "SAS Institute.",
+          "translation": "SAS 연구소"
+        },
+        {
+          "source": "(1997).",
+          "translation": "(1997)."
+        },
+        {
+          "source": "SAS/STAT software: Changes and enhancements through Release 6.12.",
+          "translation": "SAS/STAT 소프트웨어: 6.12 버전으로 변경 및 개선"
+        },
+        {
+          "source": "San Diego, CA: Academic Press.",
+          "translation": "샌디에이고, CA: 학술신문."
+        },
+        {
+          "source": "Schwarz, N. (1999).",
+          "translation": "스와르츠, N. (1999)."
+        },
+        {
+          "source": "Self reports: How the questions shape the answers.",
+          "translation": "자기보고: 질문들이 답을 어떻게 형성하는지."
+        },
+        {
+          "source": "American Psychologist, 54, 93–105.",
+          "translation": "미국 심리학자, 54, 93105."
+        },
+        {
+          "source": "Seiffge-Krenke, I. (2001).",
+          "translation": "세이프지-크렌크, I. (2001)."
+        },
+        {
+          "source": "Health promotion in schools.",
+          "translation": "학교에서의 건강 증진"
+        },
+        {
+          "source": "In P. B. Baltes & N. J. Smelser (Eds.), International encyclopedia of the social and behavioral sciences (pp. 6598–6602).",
+          "translation": "P. B. Baltes & N. J. Smelser (Eds.), 사회 및 행동 과학의 국제 백과사전 (pp. 65986602)."
+        },
+        {
+          "source": "New York: Elsevier.",
+          "translation": "뉴욕: 엘세비어"
+        },
+        {
+          "source": "Smith, J., & Baltes, P. B. (1999).",
+          "translation": "스미스, J., & 발테스, P. B. (1999)."
+        },
+        {
+          "source": "Trends and proﬁles of psychological functioning in very old age.",
+          "translation": "매우 고령시대의 심리적 기능의 흐름과 프로파일"
+        },
+        {
+          "source": "In P. B. Baltes & K. U. Mayer (Eds.), The Berlin Aging Study: Aging from 70 to 100 (pp. 197–226).",
+          "translation": "P. B. Baltes & K. U. Mayer (Ed.), 베를린 노화 연구: 70~100년 (pp. 197226)"
+        },
+        {
+          "source": "New York: Cambridge University Press.",
+          "translation": "뉴욕: 케임브리지 대학교 출판사."
+        },
+        {
+          "source": "Smith, J., & Freund, A. (2002).",
+          "translation": "스미스, J., & Freund, A. (2002)."
+        },
+        {
+          "source": "The dynamics of possible selves in very old age.",
+          "translation": "아주 늙은 나이에 가능한 자기들의 역학."
+        },
+        {
+          "source": "Journal of Gerontology: Psychological Sciences, 57B, P492– P500.",
+          "translation": "게론톨로지 저널: 심리학 과학, 57B, P492 P500."
+        },
+        {
+          "source": "Smith, J., Maas, I., Mayer, K. U., Helmchen, H., Steinhagen-Thiessen, E., & Baltes, P. B. (2002).",
+          "translation": "스미스, J., 마스, I., 메이어, K.U., 헬름첸, H., 슈타인하겐-티센, E., & 발테스, P. B. (2002)."
+        },
+        {
+          "source": "Two-wave longitudinal ﬁndings from the Berlin Aging Study: Introduction to a collection of articles.",
+          "translation": "베를린 고령화 연구의 두 파동 연장 연구결과: 기사의 집합에 대한 소개"
+        },
+        {
+          "source": "Journal of Gerontology: Psychological Sciences, 57B, P471–P473.",
+          "translation": "게론톨로지 저널: 심리학 과학, 57B, P471 P473."
+        },
+        {
+          "source": "Snijders, T. A. B., & Bosker, R. J. (1999).",
+          "translation": "스니더스, T. A. B., & 보스커, R. J. (1999)."
+        },
+        {
+          "source": "Multilevel analysis: An introduction to basic and advanced multilevel modeling.",
+          "translation": "다단계 분석: 기본 및 고급 다단계 모델링에 대한 소개"
+        },
+        {
+          "source": "London: Sage.",
+          "translation": "런던: 사이즈"
+        },
+        {
+          "source": "Unemori, P., Omoregie, H., & Markus, H. R. (2004).",
+          "translation": "유네모리, P., 오모레기, H., & 마르쿠스, H. R. (2004)."
+        },
+        {
+          "source": "Self-portraits: Possible selves in European-American, Chilean, Japanese, and Japanese-American cultural contexts.",
+          "translation": "자기 초상화: 유럽-아메리카, 칠레, 일본, 일본-아메리카 문화 맥락에서 가능한 자기."
+        },
+        {
+          "source": "Self & Identity, 3, 321–338.",
+          "translation": "셀프 & 아이덴티티, 3, 321338."
+        },
+        {
+          "source": "Watson, D., Clark, L., & Tellegen, A. (1988).",
+          "translation": "왓슨, D., 클라크, L., & 텔레겐, A. (1988)."
+        },
+        {
+          "source": "Development and validation of a brief measure of positive and negative affect: The PANAS scales.",
+          "translation": "긍정적인 영향과 부정적인 영향의 짧은 측정의 개발 및 검증: PANAS 스케일."
+        },
+        {
+          "source": "Journal of Personality and Social Psychology, 98, 1063–1070.",
+          "translation": "개인성 및 사회 심리학 학술지, 98, 10631070."
+        },
+        {
+          "source": "Watson, T. L., & Blanchard-Fields, F. (1998).",
+          "translation": "왓슨, T. L., & 블랑차드 필드스, F. (1998)."
+        },
+        {
+          "source": "Thinking with your head and your heart: Age differences in everyday problem-solving strategy preferences.",
+          "translation": "머리와 마음으로 생각하는 것: 일상적인 문제 해결 전략을 선호하는 나이 차이가 있습니다."
+        },
+        {
+          "source": "Aging, Neuropsychology & Cognition, 5, 225–240.",
+          "translation": "노화, 신경심리학 및 인지, 5, 225240."
+        },
+        {
+          "source": "West, R. L., & Thorn, R. M. (2001).",
+          "translation": "웨스트, R.L., & 토른, R.M. (2001)."
+        },
+        {
+          "source": "Goal-setting, self-efﬁcacy, and memory performance in older and younger adults.",
+          "translation": "목표 설정, 자기효율, 그리고 노인과 젊은 성인들의 기억력"
+        },
+        {
+          "source": "Experimental Aging Research, 27, 41–65.",
+          "translation": "실험적 노화 연구, 27, 4165."
+        },
+        {
+          "source": "Whaley, D. E. (2003).",
+          "translation": "와일리, D. E. (2003)."
+        },
+        {
+          "source": "Future-oriented self-perceptions and exercise behavior in middle-aged women.",
+          "translation": "미래 지향적인 자기 인식과 중년 여성들의 운동 행동."
+        },
+        {
+          "source": "Journal of Aging and Physical Activity, 11, 1–17.",
+          "translation": "'노령화 와 신체 활동'의 잡지, 11, 117."
+        },
+        {
+          "source": "Whaley, D. E., & Shrider, A. F. (2005).",
+          "translation": "웨일리, D. E., & 슈라이더, A. F. (2005)."
+        },
+        {
+          "source": "The process of adult exercise adherence: Self-perceptions and competence.",
+          "translation": "성인의 운동에 충실하는 과정: 자기 인식과 능력."
+        },
+        {
+          "source": "Sport Psychologist, 19, 148–163.",
+          "translation": "스포츠 심리학자, 19, 148 163."
+        },
+        {
+          "source": "Received February 24, 2006 Accepted September 19, 2006 Decision Editor: Karen Hooker, PhD",
+          "translation": "2006년 2월 24일에 수신되었습니다 2006년 9월 19일에 승인되었습니다 결정 편집자: Karen Hooker, PhD"
+        }
+      ],
+      "textQuality": "text"
+    }
+  ]
+}

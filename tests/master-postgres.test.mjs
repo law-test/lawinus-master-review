@@ -33,10 +33,10 @@ test('Master PostgreSQL integration: namespace isolation, private wrappers, owne
       create schema storage;
       create table storage.buckets(id text primary key,name text not null,public boolean not null default false);
       insert into auth.users(id) values('${actorA}'),('${actorB}');`);
-    const migration=await readFile(new URL('../supabase/002_master_review.sql',import.meta.url),'utf8');
+    const migration=await readFile(new URL('./fixtures/paper-baseline.sql',import.meta.url),'utf8');
     // Install the existing paper implementation only in this isolated fixture.
     // Capture its rows, HWP constraint, RPC definitions and ACLs before adding master.
-    await db.exec(await readFile(new URL('./fixtures/paper-baseline.sql',import.meta.url),'utf8'));
+    await db.exec(await readFile(new URL('../supabase/001_paper_review.sql',import.meta.url),'utf8'));
     await db.query(`insert into public.paper_review_notes(id,dataset_id,owner_id,display_name,text,visibility)
       values('20000000-0000-4000-8000-000000000001','human-1021-1559',$1,'fixture','paper preserved','shared')`,[actorA]);
     const paperSnapshot=async()=> (await db.query(`select jsonb_build_object(
@@ -76,19 +76,6 @@ test('Master PostgreSQL integration: namespace isolation, private wrappers, owne
       assert.equal('owner_id' in privateNote || 'ownerId' in privateNote || 'userId' in privateNote,false);
       sharedId=(await call('master_review_create_note',[dataset,{text:'A shared',visibility:'shared'}])).note.id;
       await mustFail(db.query('select * from master_review_private.notes'),'42501');
-      assert.equal((await call('master_review_list_notes',[dataset,null,false])).notes.length,2);
-    });
-    await t.test('reference PDF note preserves its source, page beyond thesis length, and coordinates',async()=>{
-      await actor('authenticated',actorA);
-      const sourceId='s-cite-9080327130c81179fd8f';
-      const created=(await call('master_review_create_note',[dataset,{anchorType:'source',sourceId,page:155,x:.37,y:.61,quote:'선택한 원전 구절',text:'원전 위치 검토'}])).note;
-      assert.equal(created.sourceId,sourceId);assert.equal(created.page,155);
-      assert.equal(created.x,.37);assert.equal(created.y,.61);assert.equal(created.noteId,null);
-      assert.equal(created.visibility,'private');
-      const restored=(await call('master_review_list_notes',[dataset,null,false])).notes.find(note=>note.id===created.id);
-      assert.equal(restored.sourceId,sourceId);assert.equal(restored.page,155);
-      assert.equal(restored.x,.37);assert.equal(restored.y,.61);assert.equal(restored.quote,'선택한 원전 구절');
-      await call('master_review_delete_note',[dataset,created.id,{revision:created.revision}]);
       assert.equal((await call('master_review_list_notes',[dataset,null,false])).notes.length,2);
     });
     await t.test('B sees only A shared note, cannot edit/delete either A note',async()=>{

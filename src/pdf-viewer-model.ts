@@ -48,7 +48,7 @@ export function normalizedPoint(clientX:number,clientY:number,box:{left:number;t
   return {x:Math.max(0,Math.min(1,(clientX-box.left)/box.width)),y:Math.max(0,Math.min(1,(clientY-box.top)/box.height))};
 }
 export function pageLayout(count:number,width:number,zoom:number,sizes:Record<number,PageSize>,fallback:PageSize={width:515,height:728},gap=24){
-  const heights:number[]=[],offsets=[0];const fitted=Math.max(160,width)*zoom;
+  const heights:number[]=[],offsets=[0];const fitted=Math.max(1,width)*zoom;
   for(let p=1;p<=Math.max(1,count);p++){const size=sizes[p]||fallback;const h=fitted*size.height/size.width;heights.push(h);offsets.push(offsets[p-1]+h+gap);}
   return {heights,offsets,width:fitted,totalHeight:offsets.at(-1)!-gap,gap};
 }
@@ -77,7 +77,7 @@ export function pendingPdfReflow(committed:ReturnType<typeof pageLayout>|undefin
 export function movedPointer(start:{x:number;y:number}|null,x:number,y:number){return !!start&&Math.hypot(x-start.x,y-start.y)>5;}
 export function measurableViewport(width:number,height:number,paddingX=0):{width:number;height:number}|null{
   if(!Number.isFinite(width)||!Number.isFinite(height)||width<=0||height<=0)return null;
-  return {width:Math.max(160,width-(Number.isFinite(paddingX)?paddingX:0)),height};
+  return {width:Math.max(1,width-(Number.isFinite(paddingX)?paddingX:0)),height};
 }
 
 type PdfStorage=Pick<Storage,'getItem'|'setItem'>;
@@ -92,7 +92,7 @@ export function readPdfReadingPosition(storage:PdfStorage|undefined,key:string,p
   if(!v||v.version!==1||v.key!==key||v.pages!==pages||!Number.isInteger(v.pages)||!finiteWithin(v.pages,1,20000)||
    !Number.isInteger(v.page)||!finiteWithin(v.page,1,pages)||!Number.isInteger(v.anchorPage)||!finiteWithin(v.anchorPage,1,pages)||
    !finiteWithin(v.fraction,0,1)||!finiteWithin(v.gapOffset,0,24)||!finiteWithin(v.inset,0,18)||!finiteWithin(v.top,0,1e9)||!finiteWithin(v.left,0,50000)||
-   !finiteWithin(v.width,1,50000)||!finiteWithin(v.anchorOffset,0,1e9)||!finiteWithin(v.anchorHeight,1,100000)||!finiteWithin(v.zoom,.5,4)||
+   !finiteWithin(v.width,1,50000)||!finiteWithin(v.anchorOffset,0,1e9)||!finiteWithin(v.anchorHeight,1,100000)||!finiteWithin(v.zoom,.01,4)||
    !Array.isArray(v.sizes)||v.sizes.length>256||v.sizes.some((row:unknown)=>!Array.isArray(row)||row.length!==3||!Number.isInteger(row[0])||!finiteWithin(row[0],1,pages)||!finiteWithin(row[1],1,20000)||!finiteWithin(row[2],1,20000)))return null;
   if(new Set(v.sizes.map((row:number[])=>row[0])).size!==v.sizes.length)return null;
   return v;
@@ -102,7 +102,7 @@ export function writePdfReadingPosition(storage:PdfStorage|undefined,position:Pd
  try{const key=pdfReadingStorageKey(position.key);if(!storage||!key)return false;storage.setItem(key,JSON.stringify(position));return true;}catch{return false;}
 }
 export function capturePdfReadingPosition(key:string,layout:ReturnType<typeof pageLayout>,top:number,left:number,page:number,zoom:number,sizes:Record<number,PageSize>):PdfReadingPosition|null {
- if(!pdfReadingStorageKey(key)||!finiteWithin(top,0,1e9)||!finiteWithin(left,0,50000)||!finiteWithin(layout.width,1,50000)||!finiteWithin(zoom,.5,4)||!Number.isInteger(page)||page<1||page>layout.heights.length||layout.heights.length>20000)return null;
+ if(!pdfReadingStorageKey(key)||!finiteWithin(top,0,1e9)||!finiteWithin(left,0,50000)||!finiteWithin(layout.width,1,50000)||!finiteWithin(zoom,.01,4)||!Number.isInteger(page)||page<1||page>layout.heights.length||layout.heights.length>20000)return null;
  const position=Math.max(0,top-18),index=pageIndexAt(layout.offsets,position),offset=position-layout.offsets[index],height=layout.heights[index];
  const known=Object.entries(sizes).map(([p,s])=>[Number(p),s.width,s.height] as [number,number,number]).filter(row=>Number.isInteger(row[0])&&finiteWithin(row[0],1,layout.heights.length)&&finiteWithin(row[1],1,20000)&&finiteWithin(row[2],1,20000));
  known.sort((a,b)=>Math.abs(a[0]-(index+1))-Math.abs(b[0]-(index+1)));

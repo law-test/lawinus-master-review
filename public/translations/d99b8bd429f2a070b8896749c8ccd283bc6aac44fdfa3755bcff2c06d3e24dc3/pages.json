@@ -1,0 +1,1451 @@
+{
+  "referenceId": "ref-050",
+  "sourceId": "s-cite-d99b8bd429f2a070b889",
+  "sourceSha256": "d99b8bd429f2a070b8896749c8ccd283bc6aac44fdfa3755bcff2c06d3e24dc3",
+  "pageCount": 8,
+  "translationType": "machine",
+  "engine": "NLLB-200 distilled 600M / CTranslate2",
+  "modelRevision": "f8d333a098d19b4fd9a8b18f94170487ad3f821d",
+  "pages": [
+    {
+      "page": 1,
+      "sourceText": "Basic and Applied Social Psychology\nISSN: 0197-3533 (Print) 1532-4834 (Online) Journal homepage: www.tandfonline.com/journals/hbas20\nContinuity and Change in Possible Selves in Later\nLife: A 5-Year Longitudinal Study\nLeslie D. Frazier, Karen Hooker, Paulette M. Johnson & Cheryl R. Kaus\nTo cite this article: Leslie D. Frazier, Karen Hooker, Paulette M. Johnson & Cheryl R. Kaus (2000)\nContinuity and Change in Possible Selves in Later Life: A 5-Year Longitudinal Study, Basic and\nApplied Social Psychology, 22:3, 237-243, DOI: 10.1207/S15324834BASP2203_10\nTo link to this article:  https://doi.org/10.1207/S15324834BASP2203_10\nPublished online: 07 Jun 2010.\nSubmit your article to this journal \nArticle views: 608\nView related articles \nCiting articles: 5 View citing articles \nFull Terms & Conditions of access and use can be found at\nhttps://www.tandfonline.com/action/journalInformation?journalCode=hbas20\n\n[Text in illustration 1]\nBASIC AND APPLIED SOCIAL PSYCHOLOGY",
+      "translationText": "기초 및 응용 사회 심리학 ISSN: 0197-3533 (프린트) 1532-4834 (온라인) 학술지 홈페이지: www.tandfonline.com/journals/hbas20 후생에서의 가능한 자기들의 연속성과 변화: 5년 연장 연구 레슬리 D. 프레이저, 카렌 후커, 파울레 M. 존슨 & 셜리 R. 카우스 이 기사를 인용하기 위해: 레슬리\n\n후생에서의 지속성 및 변화: 5년 연장 연구, 기초 및 응용 사회 심리학, 22:3, 237-243, DOI: 10.1207/S15324834BASP2203_10 이 기사에 연결하기 위해: https://doi.org/10.1207/S-15324835BASP 2203_ 10 온라인 게시: 07 Jun 2010.\n\n이 잡지에 기사를 제출 기사의 조회관: 608 관련 기사를 참조 기사를 인용하는 기사를 참조 5 기사를 인용한 기사를 참조하는 기사를 확인해 볼 수 있습니다.\n\n저널Code=hbas20 [이러스트 1의 텍스트] 기초 및 응용 사회 심리학",
+      "status": "translated",
+      "sourceTextSha256": "c17cd7cbe89e9411a1c0634049bd7c1311c654b196df07975b89fa833e92c6b8",
+      "segments": [
+        {
+          "source": "Basic and Applied Social Psychology ISSN: 0197-3533 (Print) 1532-4834 (Online) Journal homepage: www.tandfonline.com/journals/hbas20 Continuity and Change in Possible Selves in Later Life: A 5-Year Longitudinal Study Leslie D. Frazier, Karen Hooker, Paulette M. Johnson & Cheryl R. Kaus To cite this article: Leslie D. Frazier, Karen Hooker, Paulette M. Johnson & Cheryl R. Kaus (2000)",
+          "translation": "기초 및 응용 사회 심리학 ISSN: 0197-3533 (프린트) 1532-4834 (온라인) 학술지 홈페이지: www.tandfonline.com/journals/hbas20 후생에서의 가능한 자기들의 연속성과 변화: 5년 연장 연구 레슬리 D. 프레이저, 카렌 후커, 파울레 M. 존슨 & 셜리 R. 카우스 이 기사를 인용하기 위해: 레슬리"
+        },
+        {
+          "source": "Continuity and Change in Possible Selves in Later Life: A 5-Year Longitudinal Study, Basic and Applied Social Psychology, 22:3, 237-243, DOI: 10.1207/S15324834BASP2203_10 To link to this article: https://doi.org/10.1207/S15324834BASP2203_10 Published online: 07 Jun 2010.",
+          "translation": "후생에서의 지속성 및 변화: 5년 연장 연구, 기초 및 응용 사회 심리학, 22:3, 237-243, DOI: 10.1207/S15324834BASP2203_10 이 기사에 연결하기 위해: https://doi.org/10.1207/S-15324835BASP 2203_ 10 온라인 게시: 07 Jun 2010."
+        },
+        {
+          "source": "Submit your article to this journal Article views: 608 View related articles Citing articles: 5 View citing articles Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?",
+          "translation": "이 잡지에 기사를 제출 기사의 조회관: 608 관련 기사를 참조 기사를 인용하는 기사를 참조 5 기사를 인용한 기사를 참조하는 기사를 확인해 볼 수 있습니다."
+        },
+        {
+          "source": "journalCode=hbas20 [Text in illustration 1] BASIC AND APPLIED SOCIAL PSYCHOLOGY",
+          "translation": "저널Code=hbas20 [이러스트 1의 텍스트] 기초 및 응용 사회 심리학"
+        }
+      ],
+      "imageTexts": [
+        {
+          "imageIndex": 0,
+          "sourceText": "BASIC AND APPLIED SOCIAL PSYCHOLOGY",
+          "status": "small-cover-title-verified",
+          "statisticsNote": "Numeric values and plotted positions remain in the original image; no estimated values were transcribed."
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 2,
+      "sourceText": "Continuity and Change in Possible Selves in Later Life:\nA 5-Year Longitudinal Study\nFRAZIER ET AL.\nCONTINUITY AND CHANGE IN POSSIBLE SELVES\nLeslie D. Frazier\nDepartment of Psychology\nFlorida International University\nKaren Hooker\nHuman Development and Family Studies\nOregon State University\nPaulette M. Johnson\nDepartment of Statistics\nFlorida International University\nCheryl R. Kaus\nDepartment of Psychology\nState University of New York at Oswego\nThis study explored how older adults’ possible selves (i.e., images of the self in the future) are\ninfluenced by the passage of time. We investigated whether possible selves would display continuity or change, and whether balance exists in the possible selves repertoire (i.e., presence of a\nhoped-for and a feared self in the same domain). In addition, we examined the influence of\npsychosocial factors (i.e., health locus of control, life satisfaction). Findings show that both\nhoped and feared possible selves remain stable and balanced over time. When change was found\nit was generally emergent in nature, with domains becoming important over time. This was especially true for the domain of health. As the first reported longitudinal study of possible selves,\nthis study highlights the developmental sensitivity of possible selves as a tool for understanding\nthe age-related concerns of older adults.\nThis study identifies patterns of preservation, growth, and\nchange that distinguish the aging self. Recent research reveals a developmental pattern of continuity as a marker of\nsuccessful adaptation to the experiences and transitions of\nlater life (Atchley, 1989, 1992; Baltes & Baltes, 1990;\nBrandtstädter & Baltes-Gotz, 1990; Dittmann-Kohli, 1990;\nErikson, 1980; Markus & Herzog, 1992; McCrae & Costa,\n1988; Troll & Skaff, 1997). Other recent work suggests\nchanges in sense of self across the life span (Brandtstädter &\nBaltes-Gotz, 1990; Freund & Smith, 1999; Hooker, 1992;\nHooker & Kaus, 1992; Markus & Herzog, 1992; Ryff, 1991).\nAlthough it is enticing to conclude that successful aging is\ncharacterized by one particular pattern (i.e., continuity or\nchange), adjustment in late life is more complex. Indeed, evidence suggests that the self and identity can both be changed\nand remain stable through time (Markus & Kunda, 1986;\nRyff, 1984; Whitbourne, 1986, 1987, 1996). The resilient nature of the self in old age requires a perspective that accounts\nfor both continuity and change.\nThisperspectivemaybeexploredusingtheconceptofpossibleselves—imagesoftheselfinthefuturethatservetoorganize\nand energize action and behavior. Possible selves are dynamic\nand situationally responsive, and yet stable and contextually\ngrounded visions of self (Cross & Markus, 1991; Markus &\nNurius, 1986; Markus & Ruvolo, 1989; Oyserman & Markus,\n1990a). Consistent with a life-span developmental approach,\npossible selves are self-directed and goal-oriented embodi-\nBASIC AND APPLIED SOCIAL PSYCHOLOGY, 22(3), 237–243\nCopyright © 2000, Lawrence Erlbaum Associates, Inc.\nRequests for reprints should be sent to Leslie D. Frazier, Department of\nPsychology, University Park Campus, Florida International University, Miami, FL 33199. E-mail: frazier@fiu.edu",
+      "translationText": "노년기에서 가능한 자기들의 연속성과 변화: 5년간의 장기적인 연구 FRAZIER ET AL.\n\n지속과 가능한 자기에 대한 변화 레슬리 D. 프레이저 심리학 학부 플로리다 국제대학교 카렌 후커 인간 개발 및 가족 연구 오리건 주립대학교 파울렛 M. 존슨 통계학 학부 플로리다 국제대학교 셰릴 R. 카우스 심리학 학부 뉴욕 주립대학 오스웨고 이 연구는 나이가 많은 성인의 가능한 자기 (즉, 미래의 자아 이미지) 가 시간의 흐름에 영향을 받는 방법을 탐구했습니다.\n\n우리는 가능한 자기들이 연속성이나 변화를 표시하는지 여부를 조사했고, 가능한 자기들의 레퍼토리에 균형이 존재하는지 여부를 연구했습니다 (즉, 같은 영역에 희망과 두려움의 자아의 존재).\n\n또한 건강통제소재와 삶의 만족도 등의 심리사회적 요인이 미치는 영향을 살펴보았다.\n\n연구 결과에 따르면 희망과 두려움의 잠재적인 자아는 시간이 지남에 따라 안정적이고 균형 잡힌 상태로 유지됩니다.\n\n변화가 발견되었을 때 그것은 일반적으로 자연에서 나타났으며, 시간이 지남에 따라 영역이 중요해지고 있습니다.\n\n이것은 특히 건강 분야에 적용되었습니다.\n\n가능한 자기에 대한 첫 번째 보고된 연장 연구로서, 이 연구는 나이가 많은 성인들의 나이와 관련된 우려를 이해하는 도구로서 가능한 자기들의 발달 감수성을 강조합니다.\n\n이 연구는 고령화 자아를 구별하는 보존, 성장, 변화 패턴을 식별합니다.\n\n최근 연구에 따르면 연속성의 발달 패턴은 노년기의 경험과 전환에 성공적으로 적응하는 지표로 나타난다 (Atchley, 1989, 1992; Baltes & Baltes, 1990; Brandtstädter & Baltes-Gotz, 1990; Dittmann-Kohli, 1990; Erikson, 1980; Markus & Herzog, 1992; McCrae & Costa, 1988; Troll & Skaff, 1997).\n\n다른 최근의 연구는 평생 동안 자아에 대한 감각의 변화를 제안합니다 (Brandtstädter & Baltes-Gotz, 1990; Freund & Smith, 1999; Hooker, 1992; Hooker & Kaus, 1992; Markus & Herzog, 1992; Ryff, 1991).\n\n성공적 인 노화는 특정 패턴 (즉, 연속성 또는 변화) 에 의해 특징인다고 결론 내리는 것은 유혹적이지만, 늦은 삶에서의 적응은 더 복잡합니다.\n\n사실, 증거는 자아와 정체성이 동시에 변화하고 시간이 지남에 따라 안정적으로 유지될 수 있음을 시사한다 (Markus & Kunda, 1986; Ryff, 1984; Whitbourne, 1986, 1987, 1996).\n\n노년기의 자기의 탄력적 성격은 연속성과 변화를 모두 고려하는 관점을 요구합니다.\n\n이 관점은 행동을 조직하고 활력을 부여하는 미래의 자기 모습, 즉 가능한 자기의 개념을 통해 탐구할 수 있다.\n\n가능한 자기들은 역동적이고 상황에 반응하며, 그럼에도 불구하고 안정적이고 맥락에 근거한 자아 비전 (Cross & Markus, 1991; Markus & Nurius, 1986; Markus & Ruvolo, 1989; Oyserman & Markus, 1990a).\n\n평생 개발적 접근과 일치하여 가능한 자기들은 자기 주도적이고 목표 지향적인 인체입니다.\n\n재출판 요청은 플로리다 국제 대학교, 마이애미 FL 33199의 심리학 학과 레슬리 D. 프레이저에게 보내야 한다.\n\n이메일: frazier@fiu.edu",
+      "status": "translated",
+      "sourceTextSha256": "173eb4cee600320b12042018ee1657d8469ba71dd03455b68f25d412ae3eaf1b",
+      "segments": [
+        {
+          "source": "Continuity and Change in Possible Selves in Later Life: A 5-Year Longitudinal Study FRAZIER ET AL.",
+          "translation": "노년기에서 가능한 자기들의 연속성과 변화: 5년간의 장기적인 연구 FRAZIER ET AL."
+        },
+        {
+          "source": "CONTINUITY AND CHANGE IN POSSIBLE SELVES Leslie D. Frazier Department of Psychology Florida International University Karen Hooker Human Development and Family Studies Oregon State University Paulette M. Johnson Department of Statistics Florida International University Cheryl R. Kaus Department of Psychology State University of New York at Oswego This study explored how older adults’ possible selves (i.e., images of the self in the future) are influenced by the passage of time.",
+          "translation": "지속과 가능한 자기에 대한 변화 레슬리 D. 프레이저 심리학 학부 플로리다 국제대학교 카렌 후커 인간 개발 및 가족 연구 오리건 주립대학교 파울렛 M. 존슨 통계학 학부 플로리다 국제대학교 셰릴 R. 카우스 심리학 학부 뉴욕 주립대학 오스웨고 이 연구는 나이가 많은 성인의 가능한 자기 (즉, 미래의 자아 이미지) 가 시간의 흐름에 영향을 받는 방법을 탐구했습니다."
+        },
+        {
+          "source": "We investigated whether possible selves would display continuity or change, and whether balance exists in the possible selves repertoire (i.e., presence of a hoped-for and a feared self in the same domain).",
+          "translation": "우리는 가능한 자기들이 연속성이나 변화를 표시하는지 여부를 조사했고, 가능한 자기들의 레퍼토리에 균형이 존재하는지 여부를 연구했습니다 (즉, 같은 영역에 희망과 두려움의 자아의 존재)."
+        },
+        {
+          "source": "In addition, we examined the influence of psychosocial factors (i.e., health locus of control, life satisfaction).",
+          "translation": "또한 건강통제소재와 삶의 만족도 등의 심리사회적 요인이 미치는 영향을 살펴보았다.",
+          "reviewed": true
+        },
+        {
+          "source": "Findings show that both hoped and feared possible selves remain stable and balanced over time.",
+          "translation": "연구 결과에 따르면 희망과 두려움의 잠재적인 자아는 시간이 지남에 따라 안정적이고 균형 잡힌 상태로 유지됩니다."
+        },
+        {
+          "source": "When change was found it was generally emergent in nature, with domains becoming important over time.",
+          "translation": "변화가 발견되었을 때 그것은 일반적으로 자연에서 나타났으며, 시간이 지남에 따라 영역이 중요해지고 있습니다."
+        },
+        {
+          "source": "This was especially true for the domain of health.",
+          "translation": "이것은 특히 건강 분야에 적용되었습니다."
+        },
+        {
+          "source": "As the first reported longitudinal study of possible selves, this study highlights the developmental sensitivity of possible selves as a tool for understanding the age-related concerns of older adults.",
+          "translation": "가능한 자기에 대한 첫 번째 보고된 연장 연구로서, 이 연구는 나이가 많은 성인들의 나이와 관련된 우려를 이해하는 도구로서 가능한 자기들의 발달 감수성을 강조합니다."
+        },
+        {
+          "source": "This study identifies patterns of preservation, growth, and change that distinguish the aging self.",
+          "translation": "이 연구는 고령화 자아를 구별하는 보존, 성장, 변화 패턴을 식별합니다."
+        },
+        {
+          "source": "Recent research reveals a developmental pattern of continuity as a marker of successful adaptation to the experiences and transitions of later life (Atchley, 1989, 1992; Baltes & Baltes, 1990; Brandtstädter & Baltes-Gotz, 1990; Dittmann-Kohli, 1990; Erikson, 1980; Markus & Herzog, 1992; McCrae & Costa, 1988; Troll & Skaff, 1997).",
+          "translation": "최근 연구에 따르면 연속성의 발달 패턴은 노년기의 경험과 전환에 성공적으로 적응하는 지표로 나타난다 (Atchley, 1989, 1992; Baltes & Baltes, 1990; Brandtstädter & Baltes-Gotz, 1990; Dittmann-Kohli, 1990; Erikson, 1980; Markus & Herzog, 1992; McCrae & Costa, 1988; Troll & Skaff, 1997)."
+        },
+        {
+          "source": "Other recent work suggests changes in sense of self across the life span (Brandtstädter & Baltes-Gotz, 1990; Freund & Smith, 1999; Hooker, 1992; Hooker & Kaus, 1992; Markus & Herzog, 1992; Ryff, 1991).",
+          "translation": "다른 최근의 연구는 평생 동안 자아에 대한 감각의 변화를 제안합니다 (Brandtstädter & Baltes-Gotz, 1990; Freund & Smith, 1999; Hooker, 1992; Hooker & Kaus, 1992; Markus & Herzog, 1992; Ryff, 1991)."
+        },
+        {
+          "source": "Although it is enticing to conclude that successful aging is characterized by one particular pattern (i.e., continuity or change), adjustment in late life is more complex.",
+          "translation": "성공적 인 노화는 특정 패턴 (즉, 연속성 또는 변화) 에 의해 특징인다고 결론 내리는 것은 유혹적이지만, 늦은 삶에서의 적응은 더 복잡합니다."
+        },
+        {
+          "source": "Indeed, evidence suggests that the self and identity can both be changed and remain stable through time (Markus & Kunda, 1986; Ryff, 1984; Whitbourne, 1986, 1987, 1996).",
+          "translation": "사실, 증거는 자아와 정체성이 동시에 변화하고 시간이 지남에 따라 안정적으로 유지될 수 있음을 시사한다 (Markus & Kunda, 1986; Ryff, 1984; Whitbourne, 1986, 1987, 1996)."
+        },
+        {
+          "source": "The resilient nature of the self in old age requires a perspective that accounts for both continuity and change.",
+          "translation": "노년기의 자기의 탄력적 성격은 연속성과 변화를 모두 고려하는 관점을 요구합니다."
+        },
+        {
+          "source": "Thisperspectivemaybeexploredusingtheconceptofpossibleselves—imagesoftheselfinthefuturethatservetoorganize and energize action and behavior.",
+          "translation": "이 관점은 행동을 조직하고 활력을 부여하는 미래의 자기 모습, 즉 가능한 자기의 개념을 통해 탐구할 수 있다.",
+          "reviewed": true
+        },
+        {
+          "source": "Possible selves are dynamic and situationally responsive, and yet stable and contextually grounded visions of self (Cross & Markus, 1991; Markus & Nurius, 1986; Markus & Ruvolo, 1989; Oyserman & Markus, 1990a).",
+          "translation": "가능한 자기들은 역동적이고 상황에 반응하며, 그럼에도 불구하고 안정적이고 맥락에 근거한 자아 비전 (Cross & Markus, 1991; Markus & Nurius, 1986; Markus & Ruvolo, 1989; Oyserman & Markus, 1990a)."
+        },
+        {
+          "source": "Consistent with a life-span developmental approach, possible selves are self-directed and goal-oriented embodi- BASIC AND APPLIED SOCIAL PSYCHOLOGY, 22(3), 237–243 Copyright © 2000, Lawrence Erlbaum Associates, Inc.",
+          "translation": "평생 개발적 접근과 일치하여 가능한 자기들은 자기 주도적이고 목표 지향적인 인체입니다."
+        },
+        {
+          "source": "Requests for reprints should be sent to Leslie D. Frazier, Department of Psychology, University Park Campus, Florida International University, Miami, FL 33199.",
+          "translation": "재출판 요청은 플로리다 국제 대학교, 마이애미 FL 33199의 심리학 학과 레슬리 D. 프레이저에게 보내야 한다."
+        },
+        {
+          "source": "E-mail: frazier@fiu.edu",
+          "translation": "이메일: frazier@fiu.edu"
+        }
+      ],
+      "printed": "237",
+      "textQuality": "text"
+    },
+    {
+      "page": 3,
+      "sourceText": "238\nFRAZIER ET AL.\nments of self that illustrate how individuals are producers of\ntheirowndevelopment(Lerner,1978).Future-orientedimages\nof the self have also been conceptualized as life tasks, personal\nprojects, and personal strivings (see Cantor & Zirkel, 1990, for\nreview), yet possible selves are unique as motivational influences on behavior. Hoped-for possible selves are images of\nwhat one strives to achieve (e.g., the successful self, the compassionateself,thehealthy/fitself),andfearedselvesaretheimages of what one seeks to avoid (e.g., the lonely self, the\ndepressed self, the debilitated self).\nTheories of self-discrepancy illustrate the narrowing of\ngaps between the “real” and the “ideal” (see Higgins, 1987;\nJames, 1890; Rogers, 1961; Ryff, 1991). Discrepancies may\nalso be narrowed by a balance between one’s hoped-for and\nfeared possible selves (Markus & Herzog, 1992; Oyserman\n& Markus, 1990a, 1990b; Oyserman & Saltz, 1993; see also\nRyff, 1991). Oyserman and Markus (1990a) conceptualized\nbalance as the presence of a hoped-for and a feared self in the\nsame domain. Aside from Oyserman’s work on delinquency,\nthe concept of balance has not been adequately explored. As\nmotivational, goal-oriented components of the self-system,\npossible selves and their balance may be integral to understanding successful aging (see also Holahan, 1988; Linville,\n1985, 1987).\nAGE DIFFERENCES IN POSSIBLE\nSELVES\nAt present there are no reported longitudinal studies of possible selves, although age differences in possible selves have\nbeen found in cross-sectional studies. For example, compared to young and middle-aged adults, older adults report\nfewer possible selves (Markus & Herzog, 1992). Older\nadults are more likely than other age groups to report selves\nin the physical or leisure domains, and often mention lifestyle-related fears such as being institutionalized, disabled,\nor physically dependent (Bearon, 1989; Cotrell, Frazier, &\nHooker, 2000; Cross & Markus, 1991; Hooker, 1992;\nHooker & Kaus, 1994). The domain of health is especially\nimportant in late life; in fact, health was the most prominent\ndomain reported for both hoped and feared selves, and reporting a health-related possible self was predictive of engaging in health-promoting and health-protecting behaviors\n(Hooker, 1992; Hooker & Kaus, 1992, 1994).\nThese earlier studies show that with age, health and other\nage-related concerns become integrated into one’s images of\nself in the future (Hooker, 1992; Whitbourne, 1996), and that\nthese images serve as powerful motivational influences on\ncurrent behavior (Hooker & Kaus, 1992). Developmentally,\nthe impact of aging is visible in the possible selves repertoire.\nHowever, prior studies have been cross-sectional, preventing\na clear understanding of what patterns of growth, change, or\nstability may be present across the life span.\nThis longitudinal study was designed to explore the domains of possible selves that become salient in late life and\nto determine whether there is continuity or change in\npossible selves over time. Based on prior research, we were\ninterested in how health-related possible selves would be\naffected by the passage of time. Several other domains of\nself were also examined because of their potential sensitivity to age-related changes (i.e., illness or injury, caregiving,\ndeath of a spouse, changing living conditions). Specifically,\nthis study examined developmental trends in the domains\nof health, physical functioning, independence/dependence,\nfamily, and lifestyle. Of interest was the direction of\nchange in possible selves. Would certain domains emerge\nin importance and other domains fade with advancing age?\nIn addition, we were interested in whether there would be\nbalance in possible selves. That is, if someone reported a\nhoped-for health-related possible self, would he or she also\nreport a feared health-related self. Based on prior literature\n(Markus & Kunda, 1986; Oyserman & Markus, 1990a,\n1990b; Oyserman & Saltz, 1993) it was assumed that balance would be found in the most important domains of self.\nFinally, we examined the associations of psychosocial variables at Time 1 (i.e., self-reported health, perceived control\nover health, life satisfaction) and continuity/change and\nbalance/disparity.\nMETHODS\nParticipants\nThe original sample was interviewed in 1988, for a research\nproject directed by Hooker and her colleagues (see Hooker,\n1992 for details). The Time 1 sample consisted of 114 community-residing adults (71.6% women) between the ages of\n55 and 89 (M = 72, SD = 6.3). Participants were recruited\nfrom two senior centers in a large northeastern city. The sample was predominantly White (97%), retired (79%), and of\nmiddle-class socioeconomic background based on the\nHollingshead Index (Hollingshead Four Factor Index;\nHollingshead, 1975). At Time 1, 44% of the sample were\nwidowed, 37% were married, and 19% were separated or divorced. The average number of years of education was 12.\nTime 2 data were collected during the Spring of 1993. At\nthat time, letters were sent to all the addresses on file (N =\n108) for the participants in the Time 1 sample. Time 2 recruitment was extensive. Yet, 46% of the Time 1 participants\nwere lost to follow-up; their mailings were returned with no\nforwarding address and despite our efforts to track them\ndown (e.g., contacting senior centers where they were originally recruited, searching telephone directories for new addresses) we could not locate them. In addition, 6% of the\nTime 1 sample were known to have died. Thus, of the 108\noriginal participants only 48% remained in the area where\nthey could be recruited into the longitudinal follow-up. Of\nthese potential participants, 77% sent back the postcard and\nagreed to be reinterviewed. Nine out of the remaining 12 people (23%) who chose not to participate at Time 2 declined to",
+      "translationText": "238 FRAZIER ET AL. 개인이 자기발전의 생산자라는 것을 보여주는 자기소개론 (Lerner, 1978).\n\n미래 지향적인 자아는 또한 삶의 과제, 개인 프로젝트 및 개인 노력으로 개념화되었습니다 (검토를 위해 Cantor & Zirkel, 1990 참조), 그러나 가능한 자기는 행동에 대한 동기부여 영향으로 독특합니다.\n\n희망하는 가능한 자기는 성취하고자 하는 모습의 이미지이다. 예를 들면 성공한 자기, 타인을 배려하는 자기, 건강하고 체력이 좋은 자기 등이 있다. 두려워하는 자기는 피하고자 하는 모습의 이미지로, 외로운 자기, 우울한 자기, 쇠약해진 자기 등이 해당한다.\n\n자기차별 이론은 현실과  이상 사이의 격차가 좁아지는 것을 보여준다 (히킨스, 1987; 제임스, 1890; 로저스, 1961; 라이프, 1991)\n\n또 다른 차이점은 기대하고 두려워하는 가능한 자기들 사이의 균형으로 좁힐 수 있다 (Markus & Herzog, 1992; Oyserman & Markus, 1990a, 1990b; Oyserman& Saltz, 1993; 또한 Ryff, 1991).\n\n오이스먼과 마커스 (1990a) 는 균형은 같은 영역에서 기대하고 두려워하는 자아의 존재로 개념화했다.\n\n범죄에 관한 오이스마네의 연구 이외에도 균형이라는 개념은 적절히 연구되지 않았습니다.\n\n동기부여적이고 목표 지향적인 자기 시스템의 구성 요소로서, 가능한 자기와 그 균형은 성공적인 노화를 이해하는 데 필수적인 요소가 될 수 있습니다 (Holahan, 1988; Linville, 1985, 1987)\n\n가능한 자기에 대한 연령의 차이 현재는 가능한 자기에 관한 연장 연구가 보고되지 않았으나, 가능한 자기의 연령의 차이가 교차적인 연구에서 발견되었다.\n\n예를 들어, 젊고 중년인 성인과 비교했을 때, 나이가 많은 성인들은 가능한 자기를 덜 보고한다 (Markus & Herzog, 1992).\n\n나이가 많은 성인들은 다른 연령대보다 신체적 또는 여가 영역에서 자신을보고하는 경향이 있으며, 종종 제도화, 장애 또는 신체적으로 의존하는 것과 같은 생활 방식과 관련된 두려움을 언급합니다 (Bearon, 1989; Cotrell, Frazier, & Hooker, 2000; Cross & Markus, 1991; Hooker, 1992; Hooker & Kaus, 1994).\n\n건강 영역은 특히 늦은 생활에서 중요합니다; 실제로 건강은 희망과 두려움 모두에 대한 가장 눈에 띄는 영역으로 보고되었으며 건강과 관련된 가능한 자기를 보고하는 것은 건강을 촉진하고 건강을 보호하는 행동에 참여하는 것을 예측했습니다 (Hooker, 1992; Hooker & Kaus, 1992, 1994).\n\n이 이전의 연구들은 나이와 함께, 건강 및 다른 나이와 관련된 관심사가 미래의 자기 이미지에 통합된다는 것을 보여줍니다 (Hooker, 1992; Whitbourne, 1996), 그리고 이러한 이미지는 현재의 행동에 강력한 동기부여 영향을 미칩니다 (Hooker & Kaus, 1992).\n\n발달적으로, 노화의 영향은 가능한 자기들의 레퍼토리에 눈에 띄습니다.\n\n그러나 이전 연구들은 교차적이었으며, 성장, 변화 또는 안정성의 패턴이 평생 동안 존재할 수 있다는 명확한 이해를 방해했습니다.\n\n이 연장 연구는 늦은 삶에서 눈에 띄게 되는 가능한 자기들의 영역을 탐구하고 시간이 지남에 따라 가능한 자기들의 연속성 또는 변화 여부를 결정하기 위해 설계되었습니다.\n\n이전 연구에 근거하여 우리는 건강과 관련된 가능한 자기들이 시간이 지남에 따라 어떻게 영향을 받을지에 관심이 있었습니다.\n\n또 다른 여러 영역은 나이와 관련된 변화에 대한 잠재적인 감수성 (즉, 질병이나 부상, 돌봄, 배우자의 죽음, 생활 조건의 변화) 때문에 조사되었다.\n\n특히, 이 연구는 건강, 신체적 기능, 독립/ 의존성, 가족 및 생활 방식의 발달 경향을 조사했습니다.\n\n흥미로운 것은 가능한 자기들의 변화의 방향이었습니다.\n\n특정 영역이 중요하게 나타나고 다른 영역은 나이가 들어감에 따라 사라질 것인가?\n\n또한, 우리는 가능한 자기들의 균형이 있는지에 관심이 있었습니다.\n\n즉, 만약 누군가가 건강과 관련된 희망의 가능한 자기를 보고한다면, 그는 또한 건강과 관련된 두려움의 자아를 보고할 수 있을까.\n\n이전 문학 (Markus & Kunda, 1986; Oyserman & Markus, 1990a, 1990b; Oyserman and Saltz, 1993) 에 근거하여 가장 중요한 자기 영역에서 균형이 찾을 수 있다고 가정되었다.\n\n마지막으로, 우리는 시간 1의 심리사회 변수의 연관성을 조사했습니다 (즉, 자기보고의 건강, 건강에 대한 인식 통제, 삶의 만족) 및 연속성/변화 및 균형/분등성.\n\n방법 참가자 원본 샘플은 1988년에 후커와 그녀의 동료가 지휘한 연구 프로젝트에서 인터뷰되었다 (정확한 내용은 후커, 1992 참조).\n\n타임 1 샘플은 55세에서 89세 사이의 지역사회 거주 성인 (71. 6%) 114명으로 구성되었다 (M = 72, SD = 6. 3).\n\n참가자들은 북동쪽의 큰 도시에서 두 개의 고위 센터에서 모집되었습니다.\n\n표본은 주로 백인 (97%), 퇴직자 (79%) 이며, 홀링스헤드 지수를 기반으로 한 중산층 사회경제적 배경 (Hollingshead Four Factor Index; Hollingshead, 1975) 이다.\n\n시간 1, 샘플의 44%는 부인이었고, 37%는 결혼했고, 19%는 분리되거나 이혼했습니다.\n\n평균 교육 기간은 12년이었다.\n\n타임 2 데이터는 1993년 봄에 수집되었습니다.\n\n그 당시, 타임 1 샘플에 참여한 모든 주소에 편지를 보냈습니다 (N = 108).\n\n타임 2 부대 모집은 광범위했습니다.\n\n그러나 1차 조사 참여자의 46%는 추적조사에서 탈락하였다. 발송한 우편물이 새 주소 안내 없이 반송되었으며, 처음 모집했던 노인센터에 연락하고 전화번호부에서 새 주소를 찾는 등의 노력에도 불구하고 이들의 소재를 확인하지 못했다.\n\n또한, 타임 1 샘플의 6%가 사망한 것으로 알려져 있었다.\n\n따라서 초기 참가자 108명 중 48%만이 연장 추적에 모집될 수 있는 지역에 남아 있었다.\n\n이 잠재적인 참가자들 중 77%가 우편 카드를 돌려보냈고 다시 인터뷰하기로 동의했습니다.\n\n나머지 12명 중 9명 (23%) 는 타임 2에 참여하지 않기로 결정했습니다.",
+      "status": "translated",
+      "sourceTextSha256": "6cd98ad2b9ac0b086641700db1d0961771515705ee5d5f605cce89bfa8edbd54",
+      "segments": [
+        {
+          "source": "238 FRAZIER ET AL. ments of self that illustrate how individuals are producers of theirowndevelopment(Lerner,1978).",
+          "translation": "238 FRAZIER ET AL. 개인이 자기발전의 생산자라는 것을 보여주는 자기소개론 (Lerner, 1978)."
+        },
+        {
+          "source": "Future-orientedimages of the self have also been conceptualized as life tasks, personal projects, and personal strivings (see Cantor & Zirkel, 1990, for review), yet possible selves are unique as motivational influences on behavior.",
+          "translation": "미래 지향적인 자아는 또한 삶의 과제, 개인 프로젝트 및 개인 노력으로 개념화되었습니다 (검토를 위해 Cantor & Zirkel, 1990 참조), 그러나 가능한 자기는 행동에 대한 동기부여 영향으로 독특합니다."
+        },
+        {
+          "source": "Hoped-for possible selves are images of what one strives to achieve (e.g., the successful self, the compassionateself,thehealthy/fitself),andfearedselvesaretheimages of what one seeks to avoid (e.g., the lonely self, the depressed self, the debilitated self).",
+          "translation": "희망하는 가능한 자기는 성취하고자 하는 모습의 이미지이다. 예를 들면 성공한 자기, 타인을 배려하는 자기, 건강하고 체력이 좋은 자기 등이 있다. 두려워하는 자기는 피하고자 하는 모습의 이미지로, 외로운 자기, 우울한 자기, 쇠약해진 자기 등이 해당한다.",
+          "reviewed": true
+        },
+        {
+          "source": "Theories of self-discrepancy illustrate the narrowing of gaps between the “real” and the “ideal” (see Higgins, 1987; James, 1890; Rogers, 1961; Ryff, 1991).",
+          "translation": "자기차별 이론은 현실과  이상 사이의 격차가 좁아지는 것을 보여준다 (히킨스, 1987; 제임스, 1890; 로저스, 1961; 라이프, 1991)"
+        },
+        {
+          "source": "Discrepancies may also be narrowed by a balance between one’s hoped-for and feared possible selves (Markus & Herzog, 1992; Oyserman & Markus, 1990a, 1990b; Oyserman & Saltz, 1993; see also Ryff, 1991).",
+          "translation": "또 다른 차이점은 기대하고 두려워하는 가능한 자기들 사이의 균형으로 좁힐 수 있다 (Markus & Herzog, 1992; Oyserman & Markus, 1990a, 1990b; Oyserman& Saltz, 1993; 또한 Ryff, 1991)."
+        },
+        {
+          "source": "Oyserman and Markus (1990a) conceptualized balance as the presence of a hoped-for and a feared self in the same domain.",
+          "translation": "오이스먼과 마커스 (1990a) 는 균형은 같은 영역에서 기대하고 두려워하는 자아의 존재로 개념화했다."
+        },
+        {
+          "source": "Aside from Oyserman’s work on delinquency, the concept of balance has not been adequately explored.",
+          "translation": "범죄에 관한 오이스마네의 연구 이외에도 균형이라는 개념은 적절히 연구되지 않았습니다."
+        },
+        {
+          "source": "As motivational, goal-oriented components of the self-system, possible selves and their balance may be integral to understanding successful aging (see also Holahan, 1988; Linville, 1985, 1987).",
+          "translation": "동기부여적이고 목표 지향적인 자기 시스템의 구성 요소로서, 가능한 자기와 그 균형은 성공적인 노화를 이해하는 데 필수적인 요소가 될 수 있습니다 (Holahan, 1988; Linville, 1985, 1987)"
+        },
+        {
+          "source": "AGE DIFFERENCES IN POSSIBLE SELVES At present there are no reported longitudinal studies of possible selves, although age differences in possible selves have been found in cross-sectional studies.",
+          "translation": "가능한 자기에 대한 연령의 차이 현재는 가능한 자기에 관한 연장 연구가 보고되지 않았으나, 가능한 자기의 연령의 차이가 교차적인 연구에서 발견되었다."
+        },
+        {
+          "source": "For example, compared to young and middle-aged adults, older adults report fewer possible selves (Markus & Herzog, 1992).",
+          "translation": "예를 들어, 젊고 중년인 성인과 비교했을 때, 나이가 많은 성인들은 가능한 자기를 덜 보고한다 (Markus & Herzog, 1992)."
+        },
+        {
+          "source": "Older adults are more likely than other age groups to report selves in the physical or leisure domains, and often mention lifestyle-related fears such as being institutionalized, disabled, or physically dependent (Bearon, 1989; Cotrell, Frazier, & Hooker, 2000; Cross & Markus, 1991; Hooker, 1992; Hooker & Kaus, 1994).",
+          "translation": "나이가 많은 성인들은 다른 연령대보다 신체적 또는 여가 영역에서 자신을보고하는 경향이 있으며, 종종 제도화, 장애 또는 신체적으로 의존하는 것과 같은 생활 방식과 관련된 두려움을 언급합니다 (Bearon, 1989; Cotrell, Frazier, & Hooker, 2000; Cross & Markus, 1991; Hooker, 1992; Hooker & Kaus, 1994)."
+        },
+        {
+          "source": "The domain of health is especially important in late life; in fact, health was the most prominent domain reported for both hoped and feared selves, and reporting a health-related possible self was predictive of engaging in health-promoting and health-protecting behaviors (Hooker, 1992; Hooker & Kaus, 1992, 1994).",
+          "translation": "건강 영역은 특히 늦은 생활에서 중요합니다; 실제로 건강은 희망과 두려움 모두에 대한 가장 눈에 띄는 영역으로 보고되었으며 건강과 관련된 가능한 자기를 보고하는 것은 건강을 촉진하고 건강을 보호하는 행동에 참여하는 것을 예측했습니다 (Hooker, 1992; Hooker & Kaus, 1992, 1994)."
+        },
+        {
+          "source": "These earlier studies show that with age, health and other age-related concerns become integrated into one’s images of self in the future (Hooker, 1992; Whitbourne, 1996), and that these images serve as powerful motivational influences on current behavior (Hooker & Kaus, 1992).",
+          "translation": "이 이전의 연구들은 나이와 함께, 건강 및 다른 나이와 관련된 관심사가 미래의 자기 이미지에 통합된다는 것을 보여줍니다 (Hooker, 1992; Whitbourne, 1996), 그리고 이러한 이미지는 현재의 행동에 강력한 동기부여 영향을 미칩니다 (Hooker & Kaus, 1992)."
+        },
+        {
+          "source": "Developmentally, the impact of aging is visible in the possible selves repertoire.",
+          "translation": "발달적으로, 노화의 영향은 가능한 자기들의 레퍼토리에 눈에 띄습니다."
+        },
+        {
+          "source": "However, prior studies have been cross-sectional, preventing a clear understanding of what patterns of growth, change, or stability may be present across the life span.",
+          "translation": "그러나 이전 연구들은 교차적이었으며, 성장, 변화 또는 안정성의 패턴이 평생 동안 존재할 수 있다는 명확한 이해를 방해했습니다."
+        },
+        {
+          "source": "This longitudinal study was designed to explore the domains of possible selves that become salient in late life and to determine whether there is continuity or change in possible selves over time.",
+          "translation": "이 연장 연구는 늦은 삶에서 눈에 띄게 되는 가능한 자기들의 영역을 탐구하고 시간이 지남에 따라 가능한 자기들의 연속성 또는 변화 여부를 결정하기 위해 설계되었습니다."
+        },
+        {
+          "source": "Based on prior research, we were interested in how health-related possible selves would be affected by the passage of time.",
+          "translation": "이전 연구에 근거하여 우리는 건강과 관련된 가능한 자기들이 시간이 지남에 따라 어떻게 영향을 받을지에 관심이 있었습니다."
+        },
+        {
+          "source": "Several other domains of self were also examined because of their potential sensitivity to age-related changes (i.e., illness or injury, caregiving, death of a spouse, changing living conditions).",
+          "translation": "또 다른 여러 영역은 나이와 관련된 변화에 대한 잠재적인 감수성 (즉, 질병이나 부상, 돌봄, 배우자의 죽음, 생활 조건의 변화) 때문에 조사되었다."
+        },
+        {
+          "source": "Specifically, this study examined developmental trends in the domains of health, physical functioning, independence/dependence, family, and lifestyle.",
+          "translation": "특히, 이 연구는 건강, 신체적 기능, 독립/ 의존성, 가족 및 생활 방식의 발달 경향을 조사했습니다."
+        },
+        {
+          "source": "Of interest was the direction of change in possible selves.",
+          "translation": "흥미로운 것은 가능한 자기들의 변화의 방향이었습니다."
+        },
+        {
+          "source": "Would certain domains emerge in importance and other domains fade with advancing age?",
+          "translation": "특정 영역이 중요하게 나타나고 다른 영역은 나이가 들어감에 따라 사라질 것인가?"
+        },
+        {
+          "source": "In addition, we were interested in whether there would be balance in possible selves.",
+          "translation": "또한, 우리는 가능한 자기들의 균형이 있는지에 관심이 있었습니다."
+        },
+        {
+          "source": "That is, if someone reported a hoped-for health-related possible self, would he or she also report a feared health-related self.",
+          "translation": "즉, 만약 누군가가 건강과 관련된 희망의 가능한 자기를 보고한다면, 그는 또한 건강과 관련된 두려움의 자아를 보고할 수 있을까."
+        },
+        {
+          "source": "Based on prior literature (Markus & Kunda, 1986; Oyserman & Markus, 1990a, 1990b; Oyserman & Saltz, 1993) it was assumed that balance would be found in the most important domains of self.",
+          "translation": "이전 문학 (Markus & Kunda, 1986; Oyserman & Markus, 1990a, 1990b; Oyserman and Saltz, 1993) 에 근거하여 가장 중요한 자기 영역에서 균형이 찾을 수 있다고 가정되었다."
+        },
+        {
+          "source": "Finally, we examined the associations of psychosocial variables at Time 1 (i.e., self-reported health, perceived control over health, life satisfaction) and continuity/change and balance/disparity.",
+          "translation": "마지막으로, 우리는 시간 1의 심리사회 변수의 연관성을 조사했습니다 (즉, 자기보고의 건강, 건강에 대한 인식 통제, 삶의 만족) 및 연속성/변화 및 균형/분등성."
+        },
+        {
+          "source": "METHODS Participants The original sample was interviewed in 1988, for a research project directed by Hooker and her colleagues (see Hooker, 1992 for details).",
+          "translation": "방법 참가자 원본 샘플은 1988년에 후커와 그녀의 동료가 지휘한 연구 프로젝트에서 인터뷰되었다 (정확한 내용은 후커, 1992 참조)."
+        },
+        {
+          "source": "The Time 1 sample consisted of 114 community-residing adults (71.6% women) between the ages of 55 and 89 (M = 72, SD = 6.3).",
+          "translation": "타임 1 샘플은 55세에서 89세 사이의 지역사회 거주 성인 (71. 6%) 114명으로 구성되었다 (M = 72, SD = 6. 3)."
+        },
+        {
+          "source": "Participants were recruited from two senior centers in a large northeastern city.",
+          "translation": "참가자들은 북동쪽의 큰 도시에서 두 개의 고위 센터에서 모집되었습니다."
+        },
+        {
+          "source": "The sample was predominantly White (97%), retired (79%), and of middle-class socioeconomic background based on the Hollingshead Index (Hollingshead Four Factor Index; Hollingshead, 1975).",
+          "translation": "표본은 주로 백인 (97%), 퇴직자 (79%) 이며, 홀링스헤드 지수를 기반으로 한 중산층 사회경제적 배경 (Hollingshead Four Factor Index; Hollingshead, 1975) 이다."
+        },
+        {
+          "source": "At Time 1, 44% of the sample were widowed, 37% were married, and 19% were separated or divorced.",
+          "translation": "시간 1, 샘플의 44%는 부인이었고, 37%는 결혼했고, 19%는 분리되거나 이혼했습니다."
+        },
+        {
+          "source": "The average number of years of education was 12.",
+          "translation": "평균 교육 기간은 12년이었다."
+        },
+        {
+          "source": "Time 2 data were collected during the Spring of 1993.",
+          "translation": "타임 2 데이터는 1993년 봄에 수집되었습니다."
+        },
+        {
+          "source": "At that time, letters were sent to all the addresses on file (N = 108) for the participants in the Time 1 sample.",
+          "translation": "그 당시, 타임 1 샘플에 참여한 모든 주소에 편지를 보냈습니다 (N = 108)."
+        },
+        {
+          "source": "Time 2 recruitment was extensive.",
+          "translation": "타임 2 부대 모집은 광범위했습니다."
+        },
+        {
+          "source": "Yet, 46% of the Time 1 participants were lost to follow-up; their mailings were returned with no forwarding address and despite our efforts to track them down (e.g., contacting senior centers where they were originally recruited, searching telephone directories for new addresses) we could not locate them.",
+          "translation": "그러나 1차 조사 참여자의 46%는 추적조사에서 탈락하였다. 발송한 우편물이 새 주소 안내 없이 반송되었으며, 처음 모집했던 노인센터에 연락하고 전화번호부에서 새 주소를 찾는 등의 노력에도 불구하고 이들의 소재를 확인하지 못했다.",
+          "reviewed": true
+        },
+        {
+          "source": "In addition, 6% of the Time 1 sample were known to have died.",
+          "translation": "또한, 타임 1 샘플의 6%가 사망한 것으로 알려져 있었다."
+        },
+        {
+          "source": "Thus, of the 108 original participants only 48% remained in the area where they could be recruited into the longitudinal follow-up.",
+          "translation": "따라서 초기 참가자 108명 중 48%만이 연장 추적에 모집될 수 있는 지역에 남아 있었다."
+        },
+        {
+          "source": "Of these potential participants, 77% sent back the postcard and agreed to be reinterviewed.",
+          "translation": "이 잠재적인 참가자들 중 77%가 우편 카드를 돌려보냈고 다시 인터뷰하기로 동의했습니다."
+        },
+        {
+          "source": "Nine out of the remaining 12 people (23%) who chose not to participate at Time 2 declined to",
+          "translation": "나머지 12명 중 9명 (23%) 는 타임 2에 참여하지 않기로 결정했습니다."
+        }
+      ],
+      "printed": "238",
+      "textQuality": "text"
+    },
+    {
+      "page": 4,
+      "sourceText": "be interviewed due to ill health. The other 3 people gave no\nexplanation for not wanting to take part at Time 2.\n\n\nAlthough higher follow-up participation would have been\ndesirable, several factors make this a respectable return rate.\nFirst, the original study was not designed to be longitudinal;\nparticipants did not expect to be recontacted, and there was\nno communication with them in the intervening years (other\nthan a research summary sent to them after the original\nstudy). Second, 5 years is a long time, especially in later\nadulthood when the likelihood of losing track of people increases with time. Finally, a sample of 40 is comparable to\nother studies in the literature (e.g., Cross & Markus, 1991).\n\n\nThe average age at Time 2 was 77 (SD = 5.6). This sample\nwas entirely White, 73% women, 80% retired, 50% widowed, 37% married, and of average middle-class socioeconomic standing (Hollingshead, 1975). To assess attrition\neffects, a series of t tests and chi-square analyses were performed on basic demographic variables, scores on health,\nhealth locus of control, life satisfaction, and possible selves\ncategories to determine if there were any differences among\nthose individuals who participated in the follow-up interview\nand those who did not. No significant differences were\nfound.\n\n\nMeasures\n\n\nPossible selves.\nAt both Time 1 and Time 2, possible\nselves were assessed through a face-to-face interview designed by Hooker (1992) and modeled after Cross and\nMarkus (1991). After the interviewer had established rapport\nwith the participant and gathered demographic information,\nthe concept of possible selves was introduced and participants were asked to generate as many hoped-for possible\nselves as they could. They were then asked to identify their\nthree currently most important hoped-for selves, why each\nself was important, and what activities they engaged in on a\ndaily basis to help this future self become a reality. These secondary questions were designed to generate as much qualitative information as possible about each self, however these\ndata were not analyzed in this study. A similar procedure was\nfollowed to generate feared selves. Respondents identified as\nmany feared selves as they could. They were asked to identify\nthe three currently most important or most dreaded feared\nselves, why they had chosen each one, and some of the things\nthey were doing on a daily basis to avoid this self becoming a\nreality.\n\n\nParticipants’ hoped and feared possible selves were recorded on an interview sheet and later coded by trained raters\ninto one of 17 content categories (e.g., family, physical, lifestyle, health, leisure, independence/dependence, success,\ncaregiving). A possible self was coded as health-related if the\nessence of the self was concerned with general health (e.g.,\n“staying healthy”) or specific illness (e.g., “getting Alzheimer’s disease”). Physical-related possible selves were coded\n\n\nCONTINUITY AND CHANGE IN POSSIBLE SELVES\n239\n\n\nas such if the content of the participant’s possible self\npertained to physical disability (e.g., “becoming blind,” “disabled,” or “not being able to walk”). Dependency-related\npossible selves (e.g., “being a burden to my family,” “being\ndependent on my daughter”), which are implicitly rather than\nexplicitly\nlinked\nwith\nhealth,\nwere\nnot\ncoded\nas\nhealth-related (e.g., Hooker, 1992; Hooker & Kaus, 1992,\n1994). This decision establishes a more conservative assessment of the presence of health-related possible selves. All\npossible selves generated were coded, but only the three most\nimportant hoped-for and feared selves were used in data\nanalysis. Twenty percent of the data at Time 1 and 75% of the\ndata at Time 2 were randomly selected and given to a second\ntrained rater, who did not conduct any interviews and who\nwas unfamiliar with the hypotheses (κ = .81). Interrater reliability across all domains was 87% for Time 1 and 91% for\nTime 2 (κ = .85). In cases in which disagreements arose, a\nthird trained rater coded the possible self, and in these cases,\nthe third rater agreed with one of the codes given by the first\ntwo raters.\n\n\nPerceived health.\nPerceived\nhealth\n(see\nLau,\nHartman, & Ware, 1986) was assessed at Time 1 with a composite of four Likert-type questions concerning general\nhealth, frequency, severity, and degree of interference of\nhealth problems. Answer choices are rated on a 4-point scale,\nranging from 1 (poor) to 4 (excellent). Average score for the\nlongitudinal sample was 13.14, SD = 2.11. Cronbach’s alpha\nfor this 4-item scale was .78.\n\n\nHealth locus of control.\nPerceived\ncontrol\nover\nhealth was assessed at Time 1 with the Health Attitudes scale,\na modified 27-item measure based on the Multidimensional\nHealth Locus of Control scale (Wallston & Wallston, 1981).\nThe Health Attitudes scale has four subscales, which identify\nthe agent influencing an individual’s health: (a) Self-Control,\n(b) Physician Control, (c) General Control, and (d) Chance.\nAnswers range along a 7-point Likert-type scale from 1\n(strongly disagree) to 7 (strongly agree). Average score for\nthe longitudinal sample was 17.65, SD = 2.54. Cronbach’s alpha was .72.\n\n\nLife satisfaction.\nSatisfaction with life was assessed at\nTime 1 using an 11-point rating scale, which ranged from 0\n(totally dissatisfied) to 10 (entirely satisfied) with one’s current life. Although it would be ideal to utilize a scale rather\nthan a single-item indicator, reviews of life satisfaction measures indicate that single-item indexes show adequate\npsychometric properties for assessing global life satisfaction\n(Sauer & Warland, 1982). Average score for the longitudinal\nsample was 8.18, SD = 1.87.",
+      "translationText": "건강상의 문제로 면접을 받을 수 있습니다.\n\n나머지 3명은 타임 2에 참가하기를 원하지 않는 이유를 설명하지 않았습니다.\n\n더 많은 후속 참여가 바람직했음에도 불구하고, 여러 가지 요인이 이 수익률을 존중할 수 있는 것으로 만듭니다.\n\n첫째, 본연 연구는 연장형으로 설계되지 않았으며, 참가자들은 다시 연락을 기대하지 않았으며, 그 사이에 몇 년 동안 그들과 연락이 없었다 (본연구 후에 그들에게 보낸 연구 요약 이외에).\n\n둘째, 5년이란 오랜 시간입니다. 특히 어른이 되어서야, 시간이 지남에 따라 사람들의 인식을 잃는 확률이 증가합니다.\n\n마지막으로, 40의 샘플은 문헌의 다른 연구와 비교될 수 있습니다 (예를 들어, 크로스 & 마커스, 1991).\n\n시간 2의 평균 연령은 77세 (SD = 5.6) 이다.\n\n이 표본은 전적으로 백인, 73%는 여성, 80%는 은퇴자, 50%는 과부, 37%는 결혼했으며 평균 중산층의 사회경제적 지위를 가지고 있었다 (홀링스헤드, 1975).\n\n마비 효과를 평가하기 위해 t 테스트와 chi-square 분석이 일련의 기본 인구 변수, 건강 점수, 건강 통제 장소, 삶의 만족, 그리고 가능한 자기 카테고리를 대상으로 수행되었으며, 후속 인터뷰에 참여한 개인과 그렇지 않은 사람들 사이에 차이가 있는지 여부를 결정했습니다.\n\n큰 차이가 발견되지 않았습니다.\n\n측정 가능한 자기.\n\n타임 1과 타임 2 모두에서, 가능한 자기는 Hooker (1992) 이 설계하고 크로스 및 마커스 (1991) 를 모델로 한 면접을 통해 평가되었습니다.\n\n인터뷰자가 참가자와 관계를 맺고 인구 통계적 정보를 수집한 후 가능한 자기 개념이 도입되었으며 참가자들은 가능한 많은 희망 가능한 자기를 생성하도록 요청되었습니다.\n\n그 후 그들은 현재 가장 중요한 세 개의 기대하는 자아를 식별하도록 요청되었습니다. 각각의 자아가 중요한 이유는 무엇이며, 이 미래의 자아가 현실이 될 수 있도록 돕기 위해 매일 어떤 활동에 참여했습니다.\n\n이 부차적 질문들은 각 자아에 대해 가능한 한 많은 질적 정보를 생성하도록 설계되었지만 이 연구에서 이러한 데이터는 분석되지 않았습니다.\n\n비슷한 절차를 거쳐 두려움의 자아를 만들어 냈습니다.\n\n응답자들은 가능한 한 많은 두려움의 자아를 확인했습니다.\n\n그들은 현재 가장 중요하거나 가장 두려워하는 세 가지 자아를 식별하도록 요청되었습니다. 왜 각각을 선택했는지, 그리고 이러한 자아가 현실이 되지 않도록 매일 어떤 일을 하고 있었는지요.\n\n참가자들은  희망과 두려움의 잠재적인 자아를 인터뷰 표에 기록하고 나중에 훈련된 평가자들에 의해 17개의 콘텐츠 카테고리 (예를 들어, 가족, 신체, 라이프 스타일, 건강, 여가, 독립/ 의존성, 성공, 돌봄) 로 코딩했습니다.\n\n가능한 자기는 건강 관련자로 코딩되었습니다. 만약 그 자아의 본질이 일반적인 건강 (예를 들어, 건강 유지) 또는 특정 질병 (예를 들어 알츠하이머병을 앓는 것) 에 관한 경우.\n\n신체적 관련 가능한 자기들은 참가자의 가능한 자기의 내용이 신체적 장애 (예를 들어, 시각장애인, 장애인, 걷지 못하는) 에 관련된 경우, 239번으로 코딩되었습니다.\n\n의존성 관련 가능한 자기 (예를 들어, 내 가족에게 부담이 되는 것, 딸에게 의존하는 것) 은 건강과 명시적으로 연관되어 있는 것이 아니라, 건강과 관련된 것으로 코딩되지 않았습니다 (예를 들어 Hooker, 1992; Hooker & Kaus, 1992, 1994).\n\n이 결정은 건강과 관련된 가능한 존재에 대한 더 보수적인 평가를 제공합니다.\n\n생성된 모든 가능한 자기들은 코딩되었으나 데이터 분석에 있어서 가장 중요하게 기대하고 두려워하는 세 개의 자아들만이 사용되었습니다.\n\n시간 1의 데이터의 20%와 시간 2의 데이터의 75%는 무작위로 선택되어 두 번째 훈련된 평가자에게 주어졌습니다. 이 사람은 인터뷰를 하지 않았고 가설에 익숙하지 않았습니다 (κ = .81).\n\n모든 도메인에서 인터레이터 신뢰성은 시간 1에서 87%이고 시간 2에서는 91% (κ = .85) 이었다.\n\n의견 충돌이 발생했을 때, 세 번째 훈련된 평가가 가능한 자기를 코딩했고, 이러한 경우에는 세 번째 평가가 첫 번째 두 평가가 제시한 코드 중 하나를 동의했습니다.\n\n건강에 대한 인식.\n\n인식된 건강 (라우, 하트먼, & 웨어, 1986) 은 일반 건강, 빈도, 심각성 및 건강 문제의 간섭 정도에 관한 네 가지 리커트 유형의 질문의 합으로 시간 1에서 평가되었습니다.\n\n답변 선택은 1 (빈) 에서 4 (우수) 까지의 4점 스케일에서 평가된다.\n\n연장 샘플의 평균 점수는 13.14이며, SD = 2.11이다.\n\n크론바흐의 알파는 0.78입니다.\n\n건강 통제 장소.\n\n건강에 대한 인식된 통제는 건강 태도 스케일 (Health Attitudes scale) 으로 1회에 평가되었다. 이는 다차원 건강 통제 로커스 스케일 (Wallston & Wallston, 1981) 에 기초한 27개 항목의 수정된 측정이다.\n\n건강 태도 척도는 네 가지 하위 척도로 구성되어 있으며, 이는 개인의 건강에 영향을 미치는 요인을 식별합니다.\n\n(a) 자기 통제,\n\n(b) 의사 통제,\n\n(c) 일반 통제 및\n\n(d) 기회\n\n답변은 7점 리커트형 스케일에서 1점 (강하게 동의하지 않는) 에서 7점 (강도로 동의하는) 까지 다양합니다.\n\n연장 표본의 평균 점수는 17.65, SD = 2.54.\n\n크론바흐의 알파는 .72였습니다.\n\n삶의 만족.\n\n생활에 대한 만족도는 11점 평가를 받으며 1회에 평가되었으며, 이는 현재 생활에 대한 0점 (종합적으로 불만족) 에서 10점 (완전히 만족) 까지의 평가를 받았다.\n\n단 항목 지표보다는 척도를 사용하는 것이 이상적이지만, 삶의 만족도 측정에 대한 검토는 단 항목 지수가 세계적 삶의 만족도를 평가하기 위해 적절한 심리 측정 성질을 보여주는 것을 나타냅니다 (Sauer & Warland, 1982).\n\n연장 샘플의 평균 점수는 8.18, SD = 1.87.",
+      "status": "translated",
+      "sourceTextSha256": "be7f01db2f3f047895e5764a0ddf972be06caede81f1ecfab304198777a1debf",
+      "segments": [
+        {
+          "source": "be interviewed due to ill health.",
+          "translation": "건강상의 문제로 면접을 받을 수 있습니다."
+        },
+        {
+          "source": "The other 3 people gave no explanation for not wanting to take part at Time 2.",
+          "translation": "나머지 3명은 타임 2에 참가하기를 원하지 않는 이유를 설명하지 않았습니다."
+        },
+        {
+          "source": "Although higher follow-up participation would have been desirable, several factors make this a respectable return rate.",
+          "translation": "더 많은 후속 참여가 바람직했음에도 불구하고, 여러 가지 요인이 이 수익률을 존중할 수 있는 것으로 만듭니다."
+        },
+        {
+          "source": "First, the original study was not designed to be longitudinal; participants did not expect to be recontacted, and there was no communication with them in the intervening years (other than a research summary sent to them after the original study).",
+          "translation": "첫째, 본연 연구는 연장형으로 설계되지 않았으며, 참가자들은 다시 연락을 기대하지 않았으며, 그 사이에 몇 년 동안 그들과 연락이 없었다 (본연구 후에 그들에게 보낸 연구 요약 이외에)."
+        },
+        {
+          "source": "Second, 5 years is a long time, especially in later adulthood when the likelihood of losing track of people increases with time.",
+          "translation": "둘째, 5년이란 오랜 시간입니다. 특히 어른이 되어서야, 시간이 지남에 따라 사람들의 인식을 잃는 확률이 증가합니다."
+        },
+        {
+          "source": "Finally, a sample of 40 is comparable to other studies in the literature (e.g., Cross & Markus, 1991).",
+          "translation": "마지막으로, 40의 샘플은 문헌의 다른 연구와 비교될 수 있습니다 (예를 들어, 크로스 & 마커스, 1991)."
+        },
+        {
+          "source": "The average age at Time 2 was 77 (SD = 5.6).",
+          "translation": "시간 2의 평균 연령은 77세 (SD = 5.6) 이다."
+        },
+        {
+          "source": "This sample was entirely White, 73% women, 80% retired, 50% widowed, 37% married, and of average middle-class socioeconomic standing (Hollingshead, 1975).",
+          "translation": "이 표본은 전적으로 백인, 73%는 여성, 80%는 은퇴자, 50%는 과부, 37%는 결혼했으며 평균 중산층의 사회경제적 지위를 가지고 있었다 (홀링스헤드, 1975)."
+        },
+        {
+          "source": "To assess attrition effects, a series of t tests and chi-square analyses were performed on basic demographic variables, scores on health, health locus of control, life satisfaction, and possible selves categories to determine if there were any differences among those individuals who participated in the follow-up interview and those who did not.",
+          "translation": "마비 효과를 평가하기 위해 t 테스트와 chi-square 분석이 일련의 기본 인구 변수, 건강 점수, 건강 통제 장소, 삶의 만족, 그리고 가능한 자기 카테고리를 대상으로 수행되었으며, 후속 인터뷰에 참여한 개인과 그렇지 않은 사람들 사이에 차이가 있는지 여부를 결정했습니다."
+        },
+        {
+          "source": "No significant differences were found.",
+          "translation": "큰 차이가 발견되지 않았습니다."
+        },
+        {
+          "source": "Measures Possible selves.",
+          "translation": "측정 가능한 자기."
+        },
+        {
+          "source": "At both Time 1 and Time 2, possible selves were assessed through a face-to-face interview designed by Hooker (1992) and modeled after Cross and Markus (1991).",
+          "translation": "타임 1과 타임 2 모두에서, 가능한 자기는 Hooker (1992) 이 설계하고 크로스 및 마커스 (1991) 를 모델로 한 면접을 통해 평가되었습니다."
+        },
+        {
+          "source": "After the interviewer had established rapport with the participant and gathered demographic information, the concept of possible selves was introduced and participants were asked to generate as many hoped-for possible selves as they could.",
+          "translation": "인터뷰자가 참가자와 관계를 맺고 인구 통계적 정보를 수집한 후 가능한 자기 개념이 도입되었으며 참가자들은 가능한 많은 희망 가능한 자기를 생성하도록 요청되었습니다."
+        },
+        {
+          "source": "They were then asked to identify their three currently most important hoped-for selves, why each self was important, and what activities they engaged in on a daily basis to help this future self become a reality.",
+          "translation": "그 후 그들은 현재 가장 중요한 세 개의 기대하는 자아를 식별하도록 요청되었습니다. 각각의 자아가 중요한 이유는 무엇이며, 이 미래의 자아가 현실이 될 수 있도록 돕기 위해 매일 어떤 활동에 참여했습니다."
+        },
+        {
+          "source": "These secondary questions were designed to generate as much qualitative information as possible about each self, however these data were not analyzed in this study.",
+          "translation": "이 부차적 질문들은 각 자아에 대해 가능한 한 많은 질적 정보를 생성하도록 설계되었지만 이 연구에서 이러한 데이터는 분석되지 않았습니다."
+        },
+        {
+          "source": "A similar procedure was followed to generate feared selves.",
+          "translation": "비슷한 절차를 거쳐 두려움의 자아를 만들어 냈습니다."
+        },
+        {
+          "source": "Respondents identified as many feared selves as they could.",
+          "translation": "응답자들은 가능한 한 많은 두려움의 자아를 확인했습니다."
+        },
+        {
+          "source": "They were asked to identify the three currently most important or most dreaded feared selves, why they had chosen each one, and some of the things they were doing on a daily basis to avoid this self becoming a reality.",
+          "translation": "그들은 현재 가장 중요하거나 가장 두려워하는 세 가지 자아를 식별하도록 요청되었습니다. 왜 각각을 선택했는지, 그리고 이러한 자아가 현실이 되지 않도록 매일 어떤 일을 하고 있었는지요."
+        },
+        {
+          "source": "Participants’ hoped and feared possible selves were recorded on an interview sheet and later coded by trained raters into one of 17 content categories (e.g., family, physical, lifestyle, health, leisure, independence/dependence, success, caregiving).",
+          "translation": "참가자들은  희망과 두려움의 잠재적인 자아를 인터뷰 표에 기록하고 나중에 훈련된 평가자들에 의해 17개의 콘텐츠 카테고리 (예를 들어, 가족, 신체, 라이프 스타일, 건강, 여가, 독립/ 의존성, 성공, 돌봄) 로 코딩했습니다."
+        },
+        {
+          "source": "A possible self was coded as health-related if the essence of the self was concerned with general health (e.g., “staying healthy”) or specific illness (e.g., “getting Alzheimer’s disease”).",
+          "translation": "가능한 자기는 건강 관련자로 코딩되었습니다. 만약 그 자아의 본질이 일반적인 건강 (예를 들어, 건강 유지) 또는 특정 질병 (예를 들어 알츠하이머병을 앓는 것) 에 관한 경우."
+        },
+        {
+          "source": "Physical-related possible selves were coded CONTINUITY AND CHANGE IN POSSIBLE SELVES 239 as such if the content of the participant’s possible self pertained to physical disability (e.g., “becoming blind,” “disabled,” or “not being able to walk”).",
+          "translation": "신체적 관련 가능한 자기들은 참가자의 가능한 자기의 내용이 신체적 장애 (예를 들어, 시각장애인, 장애인, 걷지 못하는) 에 관련된 경우, 239번으로 코딩되었습니다."
+        },
+        {
+          "source": "Dependency-related possible selves (e.g., “being a burden to my family,” “being dependent on my daughter”), which are implicitly rather than explicitly linked with health, were not coded as health-related (e.g., Hooker, 1992; Hooker & Kaus, 1992, 1994).",
+          "translation": "의존성 관련 가능한 자기 (예를 들어, 내 가족에게 부담이 되는 것, 딸에게 의존하는 것) 은 건강과 명시적으로 연관되어 있는 것이 아니라, 건강과 관련된 것으로 코딩되지 않았습니다 (예를 들어 Hooker, 1992; Hooker & Kaus, 1992, 1994)."
+        },
+        {
+          "source": "This decision establishes a more conservative assessment of the presence of health-related possible selves.",
+          "translation": "이 결정은 건강과 관련된 가능한 존재에 대한 더 보수적인 평가를 제공합니다."
+        },
+        {
+          "source": "All possible selves generated were coded, but only the three most important hoped-for and feared selves were used in data analysis.",
+          "translation": "생성된 모든 가능한 자기들은 코딩되었으나 데이터 분석에 있어서 가장 중요하게 기대하고 두려워하는 세 개의 자아들만이 사용되었습니다."
+        },
+        {
+          "source": "Twenty percent of the data at Time 1 and 75% of the data at Time 2 were randomly selected and given to a second trained rater, who did not conduct any interviews and who was unfamiliar with the hypotheses (κ = .81).",
+          "translation": "시간 1의 데이터의 20%와 시간 2의 데이터의 75%는 무작위로 선택되어 두 번째 훈련된 평가자에게 주어졌습니다. 이 사람은 인터뷰를 하지 않았고 가설에 익숙하지 않았습니다 (κ = .81)."
+        },
+        {
+          "source": "Interrater reliability across all domains was 87% for Time 1 and 91% for Time 2 (κ = .85).",
+          "translation": "모든 도메인에서 인터레이터 신뢰성은 시간 1에서 87%이고 시간 2에서는 91% (κ = .85) 이었다."
+        },
+        {
+          "source": "In cases in which disagreements arose, a third trained rater coded the possible self, and in these cases, the third rater agreed with one of the codes given by the first two raters.",
+          "translation": "의견 충돌이 발생했을 때, 세 번째 훈련된 평가가 가능한 자기를 코딩했고, 이러한 경우에는 세 번째 평가가 첫 번째 두 평가가 제시한 코드 중 하나를 동의했습니다."
+        },
+        {
+          "source": "Perceived health.",
+          "translation": "건강에 대한 인식."
+        },
+        {
+          "source": "Perceived health (see Lau, Hartman, & Ware, 1986) was assessed at Time 1 with a composite of four Likert-type questions concerning general health, frequency, severity, and degree of interference of health problems.",
+          "translation": "인식된 건강 (라우, 하트먼, & 웨어, 1986) 은 일반 건강, 빈도, 심각성 및 건강 문제의 간섭 정도에 관한 네 가지 리커트 유형의 질문의 합으로 시간 1에서 평가되었습니다."
+        },
+        {
+          "source": "Answer choices are rated on a 4-point scale, ranging from 1 (poor) to 4 (excellent).",
+          "translation": "답변 선택은 1 (빈) 에서 4 (우수) 까지의 4점 스케일에서 평가된다."
+        },
+        {
+          "source": "Average score for the longitudinal sample was 13.14, SD = 2.11.",
+          "translation": "연장 샘플의 평균 점수는 13.14이며, SD = 2.11이다."
+        },
+        {
+          "source": "Cronbach’s alpha for this 4-item scale was .78.",
+          "translation": "크론바흐의 알파는 0.78입니다."
+        },
+        {
+          "source": "Health locus of control.",
+          "translation": "건강 통제 장소."
+        },
+        {
+          "source": "Perceived control over health was assessed at Time 1 with the Health Attitudes scale, a modified 27-item measure based on the Multidimensional Health Locus of Control scale (Wallston & Wallston, 1981).",
+          "translation": "건강에 대한 인식된 통제는 건강 태도 스케일 (Health Attitudes scale) 으로 1회에 평가되었다. 이는 다차원 건강 통제 로커스 스케일 (Wallston & Wallston, 1981) 에 기초한 27개 항목의 수정된 측정이다."
+        },
+        {
+          "source": "The Health Attitudes scale has four subscales, which identify the agent influencing an individual’s health:",
+          "translation": "건강 태도 척도는 네 가지 하위 척도로 구성되어 있으며, 이는 개인의 건강에 영향을 미치는 요인을 식별합니다."
+        },
+        {
+          "source": "(a) Self-Control,",
+          "translation": "(a) 자기 통제,"
+        },
+        {
+          "source": "(b) Physician Control,",
+          "translation": "(b) 의사 통제,"
+        },
+        {
+          "source": "(c) General Control, and",
+          "translation": "(c) 일반 통제 및"
+        },
+        {
+          "source": "(d) Chance.",
+          "translation": "(d) 기회"
+        },
+        {
+          "source": "Answers range along a 7-point Likert-type scale from 1 (strongly disagree) to 7 (strongly agree).",
+          "translation": "답변은 7점 리커트형 스케일에서 1점 (강하게 동의하지 않는) 에서 7점 (강도로 동의하는) 까지 다양합니다."
+        },
+        {
+          "source": "Average score for the longitudinal sample was 17.65, SD = 2.54.",
+          "translation": "연장 표본의 평균 점수는 17.65, SD = 2.54."
+        },
+        {
+          "source": "Cronbach’s alpha was .72.",
+          "translation": "크론바흐의 알파는 .72였습니다."
+        },
+        {
+          "source": "Life satisfaction.",
+          "translation": "삶의 만족."
+        },
+        {
+          "source": "Satisfaction with life was assessed at Time 1 using an 11-point rating scale, which ranged from 0 (totally dissatisfied) to 10 (entirely satisfied) with one’s current life.",
+          "translation": "생활에 대한 만족도는 11점 평가를 받으며 1회에 평가되었으며, 이는 현재 생활에 대한 0점 (종합적으로 불만족) 에서 10점 (완전히 만족) 까지의 평가를 받았다."
+        },
+        {
+          "source": "Although it would be ideal to utilize a scale rather than a single-item indicator, reviews of life satisfaction measures indicate that single-item indexes show adequate psychometric properties for assessing global life satisfaction (Sauer & Warland, 1982).",
+          "translation": "단 항목 지표보다는 척도를 사용하는 것이 이상적이지만, 삶의 만족도 측정에 대한 검토는 단 항목 지수가 세계적 삶의 만족도를 평가하기 위해 적절한 심리 측정 성질을 보여주는 것을 나타냅니다 (Sauer & Warland, 1982)."
+        },
+        {
+          "source": "Average score for the longitudinal sample was 8.18, SD = 1.87.",
+          "translation": "연장 샘플의 평균 점수는 8.18, SD = 1.87."
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 5,
+      "sourceText": "240\nFRAZIER ET AL.\n\n\nProcedure\n\n\nAt Time 1, participants were recruited through announcements at meetings and posted notices at senior centers. At\nTime 2, letters were mailed to all the participants from Time\n1, informing them of our interest to interview them again for\na follow-up study. They were provided with a self-addressed\nand prestamped postcard to return if they were interested in\ntaking part in the follow-up. At both Time 1 and Time 2, individuals who expressed interest in participating were phoned,\nand a convenient meeting was arranged. Participants were interviewed in a quiet, private room at the senior center or at\ntheir home if they preferred. Interviews were conducted by\ntrained doctoral candidates in a psychology program. Interviews took approximately 1 hr to complete. Participants were\npaid $10 at Time 1 and $5 at Time 2 for their time.\n\n\nRESULTS\n\n\nPercentages of the most important (i.e., first self-reported)\nhoped-for and feared possible selves reported at Time 1 and\nTime 2 are shown in Figure 1 and Figure 2, respectively. All\nof the results reported are derived from the data of the 40 participants who took part at Time 1 and Time 2. As Figure 1\nshows, health was the most important domain of hoped-for\nselves at both time points. At Time 1, health was followed by\nfamily and leisure. At Time 2, health was followed by family\nand independence. As Figure 2 shows, independence-related\nfeared selves were most important at Time 1, whereas\nhealth-related feared selves had become most important by\nTime 2. In general, categories mentioned appear consistent\nacross time, but certain categories do appear or disappear in\nfrequency of reporting from Time 1 to Time 2. A total of 13\ncategories were mentioned as most important hoped-for\nselves and 11 of these categories were mentioned again as\nmost dreaded feared selves.\n\n\nContinuity and Change\n\n\nMore specifically, to determine whether there was continuity\nor change in particular domains of possible selves over time,\nthe presence or absence of each of the coded categories was\nassessed at each time of measurement. Three conditions were\nconstructed to represent each of three possibilities: (a) no\nchange from Time 1 to Time 2 (no change), (b) domain not\npresent at Time 1 but present at Time 2 (emergent), and (c)\ndomain present at Time 1 but not present at Time 2 (fading).\nVariables were constructed in this manner for hoped-for and\nfeared health-related selves, hoped-for and feared independence-related selves, hoped-for and feared physical-related\nselves, hoped-for and feared family-related selves, and\nhoped-for and feared lifestyle-related selves. McNemar’s\n\n\nFIGURE 1\nPercentages of hoped-for possible selves (n = 40).\n\n\nFIGURE 2\nPercentages of feared possible selves (n = 40).\n\n\ntests (nonparametric tests for dichotomous, nominal data using exact p values) were conducted to determine if there were\nsignificant differences in the percentage of participants who\nchanged in either the emergent or fading direction. For all\nanalyses reported, an alpha of .01 or less was used to decrease the likelihood of Type I error.\n\n\nAs displayed in Table 1, the results of the McNemar’s\ntests show that there was a significant difference between\nemergent and fading change in the domain of health.\nHoped-for health-related selves were more likely to show\nemergent change (p = .01). Similarly, physical hoped-for (p\n= .01) and feared selves (p = .01) were more likely to emerge\nas important over time. Yet, continuity in possible selves is\nprevalent. To determine whether continuity was significantly\ndifferent from change (in either direction) z tests were con-\n\n[Text in illustration 1]\nFeared Selves Domains. Time 1; Time 2. Personal; Physical; Family; Lifestyle; Relationships; Material; Health; Independence; Death; Bereavement; Threats.\n\n[Text in illustration 2]\nDomains of Hoped-for Selves. Time 1; Time 2. Personal; Physical; Abilities/Educ.; Lifestyle; Family; Relationships; Success; Material; Soc. Responsibility; Leisure; Health; Independence; Occupation.",
+      "translationText": "240 프라지어 ET AL\n\n절차 시간 1 참가자들은 회의에서 발표를 통해 모집되었고, 고위 센터에 알림을 게시했습니다.\n\n타임 2에서는 모든 참가자들에게 편지를 보냈습니다. 타임 1의 모든 참가자들에게는 우리의 흥미에 대해 알려줍니다.\n\n그들은 자기 주소로 표시된 우편카드를 제공받았고, 그들이 후속 활동에 참여하는 것에 관심이 있는 경우 반환할 수 있었습니다.\n\n제 1 와 제 2 시간 에 참석 의 관심 을 나타낸 사람 들 은 전화 를 받아 편리 한 모임 을 마련 하였다.\n\n참가자들은 연령자 센터의 조용하고 사적인 방에서 또는 그들이 선호하는 경우 집에서 인터뷰를 했습니다.\n\n심리학 프로그램에서 훈련된 박사후보자들에 의해 인터뷰가 진행되었습니다.\n\n인터뷰는 1시간 정도 걸렸습니다.\n\n참가자들은 시간 1에서 10달러, 시간 2에서는 5달러를 지불했습니다.\n\n결과 시간 1 및 시간 2에서 보고된 가장 중요한 (즉, 처음으로 자기보고된) 희망 및 두려움 가능한 자기의 비율은 각각 그림 1 및 그림 2에서 나타납니다.\n\n보고된 모든 결과는 시간 1 및 시간 2에서 참여한 40명의 참가자의 데이터에서 유래되었습니다.\n\n그림 1에서 알 수 있듯이, 건강은 두 가지 시간점에서 가장 중요한 희망의 영역이었습니다.\n\n시간 1에서 건강은 가족과 여가로 이어졌습니다.\n\n타임 2에서 건강은 가족과 독립으로 이어졌습니다.\n\n그림 2에서 볼 수 있듯이, 독립과 관련된 두려움은 시간 1에서 가장 중요했지만, 건강과 관련된 두려움이 시간 2에서 가장 중요했습니다.\n\n일반적으로 언급된 카테고리는 시간이 지남에 따라 일관된 것으로 보이지만, 특정 카테고리들은 시간 1에서 시간 2까지 보고되는 빈도에 따라 나타나거나 사라집니다.\n\n총 13개의 카테고리가 가장 중요한 희망된 자아로 언급되었고 이 11개의 카테고는 가장 두려워하는 두려움된 자아로 다시 언급되었다.\n\n연속성 및 변화 보다 구체적으로, 시간의 흐름에 따라 가능한 자기들의 특정 영역에서 연속성 또는 변화가 있었는지 여부를 결정하기 위해, 각 코딩된 카테고리의 존재 또는 부재는 측정 시점에 평가되었습니다.\n\n세 가지 가능성을 표현하기 위해 세 가지 조건이 만들어졌습니다.\n\n(a) 시간 1에서 시간 2까지의 변화는 없다 (변화 없음),\n\n(b) 도메인은 시간 1에 존재하지 않지만 시간 2에 존재하며 (출현)\n\n(c) 시간 1 에 존재하지만 시간 2 에 존재하지 않는 영역 (연멸)\n\n변수는 이러한 방식으로 건강과 관련된 희망과 두려움, 독립과 관련된 희망 및 두려움, 신체와 관련된 희망 및 공포, 가족과 관련된 희망하고 두려움, 그리고 삶의 방식과 관련된 희망와 두려움의 자아를 위해 구성되었습니다.\n\n맥네마르의 FIGURE 1 희망 가능한 자기의 비율 (n = 40).\n\nFIGURE 2 우려되는 가능한 자기의 비율 (n = 40).\n\n실험 (정확한 p 값을 사용하여 두각형, 명목적 데이터를 위한 비정상 테스트) 는 등장하거나 사라지는 방향으로 변화하는 참가자의 비율에 상당한 차이가 있는지 확인하기 위해 수행되었습니다.\n\n보고된 모든 분석에 대해서는 .01 이하의 알파가 사용되어 1형 오류의 가능성을 줄였습니다.\n\n표 1에 표시된 것처럼, 맥네마르 테스트의 결과는 건강 분야에서 급성장하고 점차 사라지는 변화 사이에 상당한 차이가 있음을 보여줍니다.\n\n건강과 관련된 희망적인 자아들은 급격한 변화를 나타내는 가능성이 더 높았다 (p = .01).\n\n마찬가지로, 신체적 희망 (p = .01) 과 두려움 (p =.01) 은 시간이 지남에 따라 중요하게 나타날 가능성이 더 높습니다.\n\n하지만, 가능한 자기들의 연속성은 지배적이다.\n\n연속성이 변화와 크게 다르는지 여부를 확인하기 위해 (어떤 방향으로든) z 테스트는\n\n시간 1, 시간 2.\n\n개인적; 신체적; 가족; 생활 방식; 관계; 물질적; 건강; 독립; 죽음; 슬픔; 위협.\n\n[사진 의 문장 2] 희망적 인 자 들 의 영역\n\n시간 1, 시간 2.\n\n개인; 신체적; 능력/교육\n\n; 생활 방식; 가족; 인간관계; 성공; 물질; 사회\n\n책임; 여가; 건강; 독립; 직업.",
+      "status": "translated",
+      "sourceTextSha256": "45cc2543bdaa823db901d77c04cf9a0376547a4d580440782ae38b49326c0b70",
+      "segments": [
+        {
+          "source": "240 FRAZIER ET AL.",
+          "translation": "240 프라지어 ET AL"
+        },
+        {
+          "source": "Procedure At Time 1, participants were recruited through announcements at meetings and posted notices at senior centers.",
+          "translation": "절차 시간 1 참가자들은 회의에서 발표를 통해 모집되었고, 고위 센터에 알림을 게시했습니다."
+        },
+        {
+          "source": "At Time 2, letters were mailed to all the participants from Time 1, informing them of our interest to interview them again for a follow-up study.",
+          "translation": "타임 2에서는 모든 참가자들에게 편지를 보냈습니다. 타임 1의 모든 참가자들에게는 우리의 흥미에 대해 알려줍니다."
+        },
+        {
+          "source": "They were provided with a self-addressed and prestamped postcard to return if they were interested in taking part in the follow-up.",
+          "translation": "그들은 자기 주소로 표시된 우편카드를 제공받았고, 그들이 후속 활동에 참여하는 것에 관심이 있는 경우 반환할 수 있었습니다."
+        },
+        {
+          "source": "At both Time 1 and Time 2, individuals who expressed interest in participating were phoned, and a convenient meeting was arranged.",
+          "translation": "제 1 와 제 2 시간 에 참석 의 관심 을 나타낸 사람 들 은 전화 를 받아 편리 한 모임 을 마련 하였다."
+        },
+        {
+          "source": "Participants were interviewed in a quiet, private room at the senior center or at their home if they preferred.",
+          "translation": "참가자들은 연령자 센터의 조용하고 사적인 방에서 또는 그들이 선호하는 경우 집에서 인터뷰를 했습니다."
+        },
+        {
+          "source": "Interviews were conducted by trained doctoral candidates in a psychology program.",
+          "translation": "심리학 프로그램에서 훈련된 박사후보자들에 의해 인터뷰가 진행되었습니다."
+        },
+        {
+          "source": "Interviews took approximately 1 hr to complete.",
+          "translation": "인터뷰는 1시간 정도 걸렸습니다."
+        },
+        {
+          "source": "Participants were paid $10 at Time 1 and $5 at Time 2 for their time.",
+          "translation": "참가자들은 시간 1에서 10달러, 시간 2에서는 5달러를 지불했습니다."
+        },
+        {
+          "source": "RESULTS Percentages of the most important (i.e., first self-reported) hoped-for and feared possible selves reported at Time 1 and Time 2 are shown in Figure 1 and Figure 2, respectively.",
+          "translation": "결과 시간 1 및 시간 2에서 보고된 가장 중요한 (즉, 처음으로 자기보고된) 희망 및 두려움 가능한 자기의 비율은 각각 그림 1 및 그림 2에서 나타납니다."
+        },
+        {
+          "source": "All of the results reported are derived from the data of the 40 participants who took part at Time 1 and Time 2.",
+          "translation": "보고된 모든 결과는 시간 1 및 시간 2에서 참여한 40명의 참가자의 데이터에서 유래되었습니다."
+        },
+        {
+          "source": "As Figure 1 shows, health was the most important domain of hoped-for selves at both time points.",
+          "translation": "그림 1에서 알 수 있듯이, 건강은 두 가지 시간점에서 가장 중요한 희망의 영역이었습니다."
+        },
+        {
+          "source": "At Time 1, health was followed by family and leisure.",
+          "translation": "시간 1에서 건강은 가족과 여가로 이어졌습니다."
+        },
+        {
+          "source": "At Time 2, health was followed by family and independence.",
+          "translation": "타임 2에서 건강은 가족과 독립으로 이어졌습니다."
+        },
+        {
+          "source": "As Figure 2 shows, independence-related feared selves were most important at Time 1, whereas health-related feared selves had become most important by Time 2.",
+          "translation": "그림 2에서 볼 수 있듯이, 독립과 관련된 두려움은 시간 1에서 가장 중요했지만, 건강과 관련된 두려움이 시간 2에서 가장 중요했습니다."
+        },
+        {
+          "source": "In general, categories mentioned appear consistent across time, but certain categories do appear or disappear in frequency of reporting from Time 1 to Time 2.",
+          "translation": "일반적으로 언급된 카테고리는 시간이 지남에 따라 일관된 것으로 보이지만, 특정 카테고리들은 시간 1에서 시간 2까지 보고되는 빈도에 따라 나타나거나 사라집니다."
+        },
+        {
+          "source": "A total of 13 categories were mentioned as most important hoped-for selves and 11 of these categories were mentioned again as most dreaded feared selves.",
+          "translation": "총 13개의 카테고리가 가장 중요한 희망된 자아로 언급되었고 이 11개의 카테고는 가장 두려워하는 두려움된 자아로 다시 언급되었다."
+        },
+        {
+          "source": "Continuity and Change More specifically, to determine whether there was continuity or change in particular domains of possible selves over time, the presence or absence of each of the coded categories was assessed at each time of measurement.",
+          "translation": "연속성 및 변화 보다 구체적으로, 시간의 흐름에 따라 가능한 자기들의 특정 영역에서 연속성 또는 변화가 있었는지 여부를 결정하기 위해, 각 코딩된 카테고리의 존재 또는 부재는 측정 시점에 평가되었습니다."
+        },
+        {
+          "source": "Three conditions were constructed to represent each of three possibilities:",
+          "translation": "세 가지 가능성을 표현하기 위해 세 가지 조건이 만들어졌습니다."
+        },
+        {
+          "source": "(a) no change from Time 1 to Time 2 (no change),",
+          "translation": "(a) 시간 1에서 시간 2까지의 변화는 없다 (변화 없음),"
+        },
+        {
+          "source": "(b) domain not present at Time 1 but present at Time 2 (emergent), and",
+          "translation": "(b) 도메인은 시간 1에 존재하지 않지만 시간 2에 존재하며 (출현)"
+        },
+        {
+          "source": "(c) domain present at Time 1 but not present at Time 2 (fading).",
+          "translation": "(c) 시간 1 에 존재하지만 시간 2 에 존재하지 않는 영역 (연멸)"
+        },
+        {
+          "source": "Variables were constructed in this manner for hoped-for and feared health-related selves, hoped-for and feared independence-related selves, hoped-for and feared physical-related selves, hoped-for and feared family-related selves, and hoped-for and feared lifestyle-related selves.",
+          "translation": "변수는 이러한 방식으로 건강과 관련된 희망과 두려움, 독립과 관련된 희망 및 두려움, 신체와 관련된 희망 및 공포, 가족과 관련된 희망하고 두려움, 그리고 삶의 방식과 관련된 희망와 두려움의 자아를 위해 구성되었습니다."
+        },
+        {
+          "source": "McNemar’s FIGURE 1 Percentages of hoped-for possible selves (n = 40).",
+          "translation": "맥네마르의 FIGURE 1 희망 가능한 자기의 비율 (n = 40)."
+        },
+        {
+          "source": "FIGURE 2 Percentages of feared possible selves (n = 40).",
+          "translation": "FIGURE 2 우려되는 가능한 자기의 비율 (n = 40)."
+        },
+        {
+          "source": "tests (nonparametric tests for dichotomous, nominal data using exact p values) were conducted to determine if there were significant differences in the percentage of participants who changed in either the emergent or fading direction.",
+          "translation": "실험 (정확한 p 값을 사용하여 두각형, 명목적 데이터를 위한 비정상 테스트) 는 등장하거나 사라지는 방향으로 변화하는 참가자의 비율에 상당한 차이가 있는지 확인하기 위해 수행되었습니다."
+        },
+        {
+          "source": "For all analyses reported, an alpha of .01 or less was used to decrease the likelihood of Type I error.",
+          "translation": "보고된 모든 분석에 대해서는 .01 이하의 알파가 사용되어 1형 오류의 가능성을 줄였습니다."
+        },
+        {
+          "source": "As displayed in Table 1, the results of the McNemar’s tests show that there was a significant difference between emergent and fading change in the domain of health.",
+          "translation": "표 1에 표시된 것처럼, 맥네마르 테스트의 결과는 건강 분야에서 급성장하고 점차 사라지는 변화 사이에 상당한 차이가 있음을 보여줍니다."
+        },
+        {
+          "source": "Hoped-for health-related selves were more likely to show emergent change (p = .01).",
+          "translation": "건강과 관련된 희망적인 자아들은 급격한 변화를 나타내는 가능성이 더 높았다 (p = .01)."
+        },
+        {
+          "source": "Similarly, physical hoped-for (p = .01) and feared selves (p = .01) were more likely to emerge as important over time.",
+          "translation": "마찬가지로, 신체적 희망 (p = .01) 과 두려움 (p =.01) 은 시간이 지남에 따라 중요하게 나타날 가능성이 더 높습니다."
+        },
+        {
+          "source": "Yet, continuity in possible selves is prevalent.",
+          "translation": "하지만, 가능한 자기들의 연속성은 지배적이다."
+        },
+        {
+          "source": "To determine whether continuity was significantly different from change (in either direction) z tests were con- [Text in illustration 1] Feared Selves Domains.",
+          "translation": "연속성이 변화와 크게 다르는지 여부를 확인하기 위해 (어떤 방향으로든) z 테스트는"
+        },
+        {
+          "source": "Time 1; Time 2.",
+          "translation": "시간 1, 시간 2."
+        },
+        {
+          "source": "Personal; Physical; Family; Lifestyle; Relationships; Material; Health; Independence; Death; Bereavement; Threats.",
+          "translation": "개인적; 신체적; 가족; 생활 방식; 관계; 물질적; 건강; 독립; 죽음; 슬픔; 위협."
+        },
+        {
+          "source": "[Text in illustration 2] Domains of Hoped-for Selves.",
+          "translation": "[사진 의 문장 2] 희망적 인 자 들 의 영역"
+        },
+        {
+          "source": "Time 1; Time 2.",
+          "translation": "시간 1, 시간 2."
+        },
+        {
+          "source": "Personal; Physical; Abilities/Educ.",
+          "translation": "개인; 신체적; 능력/교육"
+        },
+        {
+          "source": "; Lifestyle; Family; Relationships; Success; Material; Soc.",
+          "translation": "; 생활 방식; 가족; 인간관계; 성공; 물질; 사회"
+        },
+        {
+          "source": "Responsibility; Leisure; Health; Independence; Occupation.",
+          "translation": "책임; 여가; 건강; 독립; 직업."
+        }
+      ],
+      "imageTexts": [
+        {
+          "imageIndex": 0,
+          "sourceText": "Feared Selves Domains. Time 1; Time 2. Personal; Physical; Family; Lifestyle; Relationships; Material; Health; Independence; Death; Bereavement; Threats.",
+          "status": "labels-visually-verified",
+          "statisticsNote": "Numeric values and plotted positions remain in the original image; no estimated values were transcribed."
+        },
+        {
+          "imageIndex": 1,
+          "sourceText": "Domains of Hoped-for Selves. Time 1; Time 2. Personal; Physical; Abilities/Educ.; Lifestyle; Family; Relationships; Success; Material; Soc. Responsibility; Leisure; Health; Independence; Occupation.",
+          "status": "labels-visually-verified",
+          "statisticsNote": "Numeric values and plotted positions remain in the original image; no estimated values were transcribed."
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 6,
+      "sourceText": "ducted. Results show strong evidence of continuity for independence-related hoped-for selves, z = 4.01; physical-related\nhoped-for selves, z = 3.68; family-related feared selves, z =\n3.94; and lifestyle-related hoped-for selves, z = 3.36.\nBalance Analyses\nIn addition to assessing the degree of continuity or change, we\nsought to determine whether there was balance in hoped-for\nandfearedpossibleselvesineachdomainseparatelyatTime1\nand Time 2. Balance was operationalized as the presence of\nboth a hoped-for and feared self in the same domain. Lack of\nbalance (disparity) was operationalized as either the presence\nof only a hoped-for self or only a feared self in the given domain. Individuals with neither a hoped-for nor feared self in\nthe given domains were excluded. For these analyses,\ndummy-coded variables were constructed to represent three\ndifferent conditions: (a) presence of hoped-for and feared self\nwithin the domain (balance), (b) only a hoped-for self present\nwithin domain (hope-only), and (c) only a feared self present\nwithin the domain (fear-only). Variables were constructed in\nthis manner for each of the five domains of interest (i.e.,\nhealth-,\nindependence-,\nphysical-,\nfamily-,\nand\nlifestyle-related possible selves). Again, McNemar’s tests were\nusedtodetermineiftherewasasignificantdifferencebetween\nhope-only and fear-only, and z tests were computed to determine if balance was significantly different from lack of\nbalanceordisparity(i.e.,hope-onlyandfear-onlycombined).\nAs\ndisplayed\nin\nTable\n2,\ndisparity\nin\nindependence-related selves at Time 1 was due to a significantly\ngreater likelihood of reporting only a feared self in this domain (p = .0001). Similarly, at Time 2 it was significantly\nmore likely for older adults to report only a hoped-for self in\nthe family domain (p = .001). In fact, no one reported feared\nselves in this domain at Time 2. However, most participants\nshow a higher degree of balance than disparity across all domains at both Time 1 and Time 2. Results of the z tests\nshowed that at Time 1, balance in physical-related hoped-for\nselves was overwhelming, z = 5.92. Over 97% of the sample\ndisplayed balance, and at Time 2 balance was again significantly different from disparity in physical-related selves, z =\n2.72. Balance was significantly different from disparity in\nthe family domain as well, z = 3.36.\nPsychosocial Precursors of Continuity\nand Balance\nTo determine whether perceived health status, perceptions of\ncontrol over health (i.e., health locus of control), or life satisfaction at Time 1 would be associated with continuity or\nchange in possible selves 5 years later, several analyses of\nvariance\n(ANOVAs)\nwere\nperformed.\nAgain,\nthe\nCONTINUITY AND CHANGE IN POSSIBLE SELVES\n241\nTABLE 1\nFrequencies and p Values for McNemar’s Test of the Direction of\nChange in Possible Selves\nGroup\nEmergent Change\nFading Change\nContinuity\nPossible Selves\nf\n%\nf\n%\nf\n%\np\nValue\nHealth-related\nHoped-for\n14\n36\n3\n8\n22\n56\n.01\nFeared\n11\n29\n6\n16\n21\n53\n.33\nIndependence-related\nHoped-for\n6\n15\n1\n3\n32\n82\n.13\nFeared\n5\n13\n10\n26\n26\n61\n.30\nPhysical-related\nHoped-for\n8\n21\n0\n—\n31\n80\n.01\nFeared\n11\n29\n1\n3\n26\n68\n.01\nFamily-related\nHoped-for\n13\n33\n4\n10\n22\n56\n.05\nFeared\n4\n11\n3\n8\n31\n82\n1.0\nLifestyle-related\nHoped-for\n4\n10\n5\n13\n30\n77\n1.0\nFeared\n8\n21\n5\n13\n25\n66\n.58\nNote.\nN = 39.\nTABLE 2\nFrequencies and p Values for McNemar’s Test of Balance Versus\nDisparity in Possible Selves\nGroup\nHope Only\nFear Only\nBalance\nPossible Selves\nf\n%\nf\n%\nf\n%\np\nValue\nHealth-related\nTime 1\n9\n23\n11\n28\n19\n49\n.82\nTime 2\n10\n26\n5\n13\n24\n62\n.30\nIndependence-related\nTime 1\n1\n2.6\n17\n44\n21\n54\n.0001\nTime 2\n3\n8\n10\n26\n26\n67\n.09\nPhysical-related\nTime 1\n0\n—\n1\n2.6\n38\n97\n1.0\nTime 2\n4\n10\n7\n18\n28\n72\n.55\nFamily-related\nTime 1\n7\n18\n2\n5\n30\n77\n.18\nTime 2\n13\n33\n0\n—\n26\n67\n.001\nLifestyle-related\nTime 1\n6\n15\n8\n21\n25\n64\n.79\nTime 2\n4\n10\n10\n26\n25\n64\n.18\nNote.\nN = 39.",
+      "translationText": "튜브로 연결됐어요\n\n결과는 독립과 관련된 기대하는 자아들의 연속성을 강력하게 증명하고 있습니다. z = 4.01; 신체와 관련된 기대하는 자기들, z = 3.68; 가족과 관련된 두려워하는 자아들, z= 3.94; 그리고 라이프스타일과 관련된 기대되는 자아들,z = 3.36.\n\n밸런스 분석 연속성이나 변화의 정도를 평가하는 것 외에도, 우리는 시간1과 시간2에서 분리된 상태에서 희망과 두려움의 균형이 존재하는지 여부를 확인하려고 노력했습니다.\n\n균형은 동일한 영역에서 기대하고 두려워하는 자아의 존재로 작동되었습니다.\n\n균형의 부족 (차별) 은 주어진 영역에서 희망적인 자아 또는 두려워하는 자아만 존재한다는 의미로 작동되었습니다.\n\n주어진 영역에서 희망적이거나 두려움이 없는 개인은 배제되었습니다.\n\n이러한 분석을 위해, 도미 코딩된 변수는 세 가지 다른 조건을 나타낼 수 있도록 구성되었습니다:\n\n(a) 영역 내에서 기대하고 두려워하는 자아의 존재 (균형),\n\n(b) 도메인 내에서 오직 희망의 자아만 존재하며,\n\n(c) 영역 내에서 존재하는 두려움의 자아 (fear-only).\n\n변수는 다섯 가지 관심 분야 (즉, 건강, 독립, 신체, 가족 및 생활 방식과 관련된 가능한 자기) 각각에 대해 이러한 방식으로 구성되었습니다.\n\n다시 말해서, 맥네마르 테스트는 희망만과 두려움만 사이에 상당한 차이가 있는지 확인하기 위해 사용되었고, z 테스트는 균형이 균형이 없는 것과 균형이 없는 것 (즉, 희망만과 공포만 결합된 것) 에서 크게 다르는지 확인하기 위해 계산되었습니다.\n\n표 2에서 나타난 바와 같이, 시간 1에 독립과 관련된 자아들의 격차는 이 영역에서 두려워되는 자아만을 보고하는 현저하게 더 큰 확률로 인해 발생했습니다 (p = .0001).\n\n마찬가지로, 시간 2에서는 노인들이 가족 영역에서 기대되는 자아만을 보고하는 가능성이 훨씬 더 높았습니다 (p = .001).\n\n사실, 이 도메인에서 2차 시간 동안 아무도 두려움에 떨지 않았다고 보고하지 않았습니다.\n\n그러나 대부분의 참가자들은 시간 1 및 시간 2 모두에서 모든 영역에서 불평등보다 더 높은 수준의 균형을 나타냅니다.\n\nz 테스트의 결과는 시간 1에서 신체 관련 희망의 자아들의 균형이 압도적이었음을 보여주었습니다. z = 5.92.\n\n표본의 97% 이상이 균형이 표시되었고, 시간 2의 균형은 다시 물리적 관련 자아의 불평등과 상당히 다릅니다, z = 2.72.\n\n균형은 가족 영역에서도 불평등과 크게 다르며, z = 3.36.\n\n연속성 및 균형의 심리사회적 선구자 건강 상태, 건강에 대한 통제의 인식 (즉, 건강 통제의 장소) 또는 시간 1에서의 삶의 만족이 5 년 후 가능한 자기의 연속성 또는 변화와 관련이 있는지 여부를 결정하기 위해 여러 가지 변동성 분석 (ANOVA) 가 수행되었습니다.\n\n다시 말하지만, 가능한 자기들에서의 연속과 변화 241 표 1 맥네마르의 주파수와 p 값의 변화 방향 테스트 가능한 자기들 그룹 급상속한 변화 사라지는 변화 연속성 가능한 자기들 f % f % f% p 가치 건강 관련 희망 11 36 3 8 22 56 .01 두려움 11 29 6 16 21 53 .33 독립 관련 희망 6 15 1 3 32 82 .13 두려움 5\n\n13 10 26 26 61 .30 신체 관련 희망 8 21 0  31 80 .01 두려움 11 29 1 3 26 68 .01 가족 관련 희망 13 33 4 10 22 56 .05 두려움 4 11 3 8 31 82 1.0 생활 방식 관련 희망 4 10 5 13 30 77 1.0 두려움 8 21 5 13 25 66 .58 참고\n\nN = 39.\n\nTABLE 2 맥네마르의 균형과 가능한 자기들의 불평등에 대한 테스트의 주파수와 p 값 희망만이 두려움만이 균형만이 가능한 자기들 f % f % f% p 값 건강 관련 시간 1 9 23 11 28 19 49 .82 시간 2 10 26 5 13 24 62 .30 독립 관련 시간 1 1 2.6 17 44 21 54 .0001 시간 2 3 8 10 26 26 67 .09 신체 관련 시간 1 0  1 2.6 38 97 1.0 시간 2 4 10 7\n\n18 28 72 .55 가족 관련 시간 1 7 18 2 5 30 77 .18 시간 2 13 33 0  26 67 .001 생활 방식 관련 시간 1 6 15 8 21 25 64 .79 시간 2 4 10 26 25 64 .18 참고\n\nN = 39.",
+      "status": "translated",
+      "sourceTextSha256": "7b8d76fb7c3d0bbdf15641e89df056f990ce14e399c03abada7cacc495568755",
+      "segments": [
+        {
+          "source": "ducted.",
+          "translation": "튜브로 연결됐어요"
+        },
+        {
+          "source": "Results show strong evidence of continuity for independence-related hoped-for selves, z = 4.01; physical-related hoped-for selves, z = 3.68; family-related feared selves, z = 3.94; and lifestyle-related hoped-for selves, z = 3.36.",
+          "translation": "결과는 독립과 관련된 기대하는 자아들의 연속성을 강력하게 증명하고 있습니다. z = 4.01; 신체와 관련된 기대하는 자기들, z = 3.68; 가족과 관련된 두려워하는 자아들, z= 3.94; 그리고 라이프스타일과 관련된 기대되는 자아들,z = 3.36."
+        },
+        {
+          "source": "Balance Analyses In addition to assessing the degree of continuity or change, we sought to determine whether there was balance in hoped-for andfearedpossibleselvesineachdomainseparatelyatTime1 and Time 2.",
+          "translation": "밸런스 분석 연속성이나 변화의 정도를 평가하는 것 외에도, 우리는 시간1과 시간2에서 분리된 상태에서 희망과 두려움의 균형이 존재하는지 여부를 확인하려고 노력했습니다."
+        },
+        {
+          "source": "Balance was operationalized as the presence of both a hoped-for and feared self in the same domain.",
+          "translation": "균형은 동일한 영역에서 기대하고 두려워하는 자아의 존재로 작동되었습니다."
+        },
+        {
+          "source": "Lack of balance (disparity) was operationalized as either the presence of only a hoped-for self or only a feared self in the given domain.",
+          "translation": "균형의 부족 (차별) 은 주어진 영역에서 희망적인 자아 또는 두려워하는 자아만 존재한다는 의미로 작동되었습니다."
+        },
+        {
+          "source": "Individuals with neither a hoped-for nor feared self in the given domains were excluded.",
+          "translation": "주어진 영역에서 희망적이거나 두려움이 없는 개인은 배제되었습니다."
+        },
+        {
+          "source": "For these analyses, dummy-coded variables were constructed to represent three different conditions:",
+          "translation": "이러한 분석을 위해, 도미 코딩된 변수는 세 가지 다른 조건을 나타낼 수 있도록 구성되었습니다:"
+        },
+        {
+          "source": "(a) presence of hoped-for and feared self within the domain (balance),",
+          "translation": "(a) 영역 내에서 기대하고 두려워하는 자아의 존재 (균형),"
+        },
+        {
+          "source": "(b) only a hoped-for self present within domain (hope-only), and",
+          "translation": "(b) 도메인 내에서 오직 희망의 자아만 존재하며,"
+        },
+        {
+          "source": "(c) only a feared self present within the domain (fear-only).",
+          "translation": "(c) 영역 내에서 존재하는 두려움의 자아 (fear-only)."
+        },
+        {
+          "source": "Variables were constructed in this manner for each of the five domains of interest (i.e., health-, independence-, physical-, family-, and lifestyle-related possible selves).",
+          "translation": "변수는 다섯 가지 관심 분야 (즉, 건강, 독립, 신체, 가족 및 생활 방식과 관련된 가능한 자기) 각각에 대해 이러한 방식으로 구성되었습니다."
+        },
+        {
+          "source": "Again, McNemar’s tests were usedtodetermineiftherewasasignificantdifferencebetween hope-only and fear-only, and z tests were computed to determine if balance was significantly different from lack of balanceordisparity(i.e.,hope-onlyandfear-onlycombined).",
+          "translation": "다시 말해서, 맥네마르 테스트는 희망만과 두려움만 사이에 상당한 차이가 있는지 확인하기 위해 사용되었고, z 테스트는 균형이 균형이 없는 것과 균형이 없는 것 (즉, 희망만과 공포만 결합된 것) 에서 크게 다르는지 확인하기 위해 계산되었습니다."
+        },
+        {
+          "source": "As displayed in Table 2, disparity in independence-related selves at Time 1 was due to a significantly greater likelihood of reporting only a feared self in this domain (p = .0001).",
+          "translation": "표 2에서 나타난 바와 같이, 시간 1에 독립과 관련된 자아들의 격차는 이 영역에서 두려워되는 자아만을 보고하는 현저하게 더 큰 확률로 인해 발생했습니다 (p = .0001)."
+        },
+        {
+          "source": "Similarly, at Time 2 it was significantly more likely for older adults to report only a hoped-for self in the family domain (p = .001).",
+          "translation": "마찬가지로, 시간 2에서는 노인들이 가족 영역에서 기대되는 자아만을 보고하는 가능성이 훨씬 더 높았습니다 (p = .001)."
+        },
+        {
+          "source": "In fact, no one reported feared selves in this domain at Time 2.",
+          "translation": "사실, 이 도메인에서 2차 시간 동안 아무도 두려움에 떨지 않았다고 보고하지 않았습니다."
+        },
+        {
+          "source": "However, most participants show a higher degree of balance than disparity across all domains at both Time 1 and Time 2.",
+          "translation": "그러나 대부분의 참가자들은 시간 1 및 시간 2 모두에서 모든 영역에서 불평등보다 더 높은 수준의 균형을 나타냅니다."
+        },
+        {
+          "source": "Results of the z tests showed that at Time 1, balance in physical-related hoped-for selves was overwhelming, z = 5.92.",
+          "translation": "z 테스트의 결과는 시간 1에서 신체 관련 희망의 자아들의 균형이 압도적이었음을 보여주었습니다. z = 5.92."
+        },
+        {
+          "source": "Over 97% of the sample displayed balance, and at Time 2 balance was again significantly different from disparity in physical-related selves, z = 2.72.",
+          "translation": "표본의 97% 이상이 균형이 표시되었고, 시간 2의 균형은 다시 물리적 관련 자아의 불평등과 상당히 다릅니다, z = 2.72."
+        },
+        {
+          "source": "Balance was significantly different from disparity in the family domain as well, z = 3.36.",
+          "translation": "균형은 가족 영역에서도 불평등과 크게 다르며, z = 3.36."
+        },
+        {
+          "source": "Psychosocial Precursors of Continuity and Balance To determine whether perceived health status, perceptions of control over health (i.e., health locus of control), or life satisfaction at Time 1 would be associated with continuity or change in possible selves 5 years later, several analyses of variance (ANOVAs) were performed.",
+          "translation": "연속성 및 균형의 심리사회적 선구자 건강 상태, 건강에 대한 통제의 인식 (즉, 건강 통제의 장소) 또는 시간 1에서의 삶의 만족이 5 년 후 가능한 자기의 연속성 또는 변화와 관련이 있는지 여부를 결정하기 위해 여러 가지 변동성 분석 (ANOVA) 가 수행되었습니다."
+        },
+        {
+          "source": "Again, the CONTINUITY AND CHANGE IN POSSIBLE SELVES 241 TABLE 1 Frequencies and p Values for McNemar’s Test of the Direction of Change in Possible Selves Group Emergent Change Fading Change Continuity Possible Selves f % f % f % p Value Health-related Hoped-for 14 36 3 8 22 56 .01 Feared 11 29 6 16 21 53 .33 Independence-related Hoped-for 6 15 1 3 32 82 .13 Feared 5",
+          "translation": "다시 말하지만, 가능한 자기들에서의 연속과 변화 241 표 1 맥네마르의 주파수와 p 값의 변화 방향 테스트 가능한 자기들 그룹 급상속한 변화 사라지는 변화 연속성 가능한 자기들 f % f % f% p 가치 건강 관련 희망 11 36 3 8 22 56 .01 두려움 11 29 6 16 21 53 .33 독립 관련 희망 6 15 1 3 32 82 .13 두려움 5"
+        },
+        {
+          "source": "13 10 26 26 61 .30 Physical-related Hoped-for 8 21 0 — 31 80 .01 Feared 11 29 1 3 26 68 .01 Family-related Hoped-for 13 33 4 10 22 56 .05 Feared 4 11 3 8 31 82 1.0 Lifestyle-related Hoped-for 4 10 5 13 30 77 1.0 Feared 8 21 5 13 25 66 .58 Note.",
+          "translation": "13 10 26 26 61 .30 신체 관련 희망 8 21 0  31 80 .01 두려움 11 29 1 3 26 68 .01 가족 관련 희망 13 33 4 10 22 56 .05 두려움 4 11 3 8 31 82 1.0 생활 방식 관련 희망 4 10 5 13 30 77 1.0 두려움 8 21 5 13 25 66 .58 참고"
+        },
+        {
+          "source": "N = 39.",
+          "translation": "N = 39."
+        },
+        {
+          "source": "TABLE 2 Frequencies and p Values for McNemar’s Test of Balance Versus Disparity in Possible Selves Group Hope Only Fear Only Balance Possible Selves f % f % f % p Value Health-related Time 1 9 23 11 28 19 49 .82 Time 2 10 26 5 13 24 62 .30 Independence-related Time 1 1 2.6 17 44 21 54 .0001 Time 2 3 8 10 26 26 67 .09 Physical-related Time 1 0 — 1 2.6 38 97 1.0 Time 2 4 10 7",
+          "translation": "TABLE 2 맥네마르의 균형과 가능한 자기들의 불평등에 대한 테스트의 주파수와 p 값 희망만이 두려움만이 균형만이 가능한 자기들 f % f % f% p 값 건강 관련 시간 1 9 23 11 28 19 49 .82 시간 2 10 26 5 13 24 62 .30 독립 관련 시간 1 1 2.6 17 44 21 54 .0001 시간 2 3 8 10 26 26 67 .09 신체 관련 시간 1 0  1 2.6 38 97 1.0 시간 2 4 10 7"
+        },
+        {
+          "source": "18 28 72 .55 Family-related Time 1 7 18 2 5 30 77 .18 Time 2 13 33 0 — 26 67 .001 Lifestyle-related Time 1 6 15 8 21 25 64 .79 Time 2 4 10 10 26 25 64 .18 Note.",
+          "translation": "18 28 72 .55 가족 관련 시간 1 7 18 2 5 30 77 .18 시간 2 13 33 0  26 67 .001 생활 방식 관련 시간 1 6 15 8 21 25 64 .79 시간 2 4 10 26 25 64 .18 참고"
+        },
+        {
+          "source": "N = 39.",
+          "translation": "N = 39."
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 7,
+      "sourceText": "242\nFRAZIER ET AL.\n\n\ndummy-coded variables representing continuity (no change,\nemergent change, and fading change) were used. Separate\nANOVAs were computed for each domain of hoped-for and\nfeared possible selves. In each ANOVA, group (i.e., emergent, fading, or no change) was treated as the independent\nvariable, and either age, health, health locus of control, or life\nsatisfaction was the dependent variable.1 Contrary to our expectations, none of the ANOVAs were significant at the .01\nlevel (all Fs = 1.95, ps > .05, η2 = .01).\n\n\nA similar procedure was used for balance with the\ndummy-coded variables (i.e., balance, hope-only, fear-only)\ntreated as the independent variable and each of the\npsychosocial variables as a dependent variable. A significant\nmain effect of group was found for perceived control, F(1,\n35) = 14.23, p = .01, η2 = .29, for Time 2 family-related\nselves. Fisher’s least significant difference post hoc analyses\nshow that older adults who fell into the hope-only category\nhad significantly higher perceptions of control over health\n(M = 19.35, SD = .60) than those who fell into the balance\ncategory (M = 16.59, SD = .42). This was a domain in which\nno one reported feared selves. Reporting hoped-for selves in\nthe family domain is associated with a greater sense of control over health.\n\n\nDISCUSSION\n\n\nThe findings from this study show that continuity is the norm\nfor most domains of self over a 5-year period. Continuity was\nsignificantly greater than change for hoped-for selves in the\nindependence, physical, and lifestyle domains, and in feared\nselves in the family domain suggesting that, in later life, certain domains of self are characterized by preservation. Preserving current sense of self into the future may be more\nadaptive than striving for something less attainable or developing a fear of what one might become. Our findings are consistent with prior studies demonstrating continuity (Atchley,\n1992; Brandtstädter & Baltes-Gotz, 1990; Dittmann-Kohli,\n1990; Markus & Herzog, 1992; Troll & Skaff, 1997).\nEvidence of change is also present. Intraindividual\nchange was generally in the emergent direction, with healthand physical-related possible selves becoming more important over time. In fact, the greatest amount of change was\nfound in the health domain, providing longitudinal evidence\nto support and extend Hooker’s (1992) work. Extrapolating\nfrom our findings, emergent domains are those that are most\nsensitive and central to the self in the context of aging.\n\n\nIn the five domains of self we studied, balance in\nhoped-for and feared selves was predominant (see also\n\n\n1Perceived health status was significantly correlated with health locus of\ncontrol, r = .27, p = .01, and life satisfaction, r = .37, p = .0001. Locus of control over health was not significantly correlated with life satisfaction, r = .11,\np = .28.\n\n\nOyserman & Markus, 1990a, 1990b; Oyserman & Saltz,\n1993). Balance was significantly greater than disparity for\nthe physical and family domains. When disparity prevailed it\nwas associated with greater likelihood of feared independence-related selves and a greater likelihood of hoped-for\nfamily-related selves. As an interesting aside, the disparity in\nhoped-for selves in the family domain was associated with\ngreater perceived control over health. In this study the domains that show balance also show continuity, suggesting\nthey are linked. This study was unique in the way balance\nwas operationalized and in its longitudinal interest in continuity and change in possible selves. Future research will examine how balance and continuity are related.\n\n\nFinally, aging is a process of adaptation, and the notion of\nsuccessful aging implies a process of assimilating (and accommodating) to the changing biological, physical, cognitive, emotional, and social domains of life (Baltes & Baltes,\n1990; Brandtstädter & Renner, 1990; Whitbourne, 1986,\n1996). Although stability is the norm, our findings illuminate\nhow possible selves reflect individuals’ changing images of\nthemselves over time, and shed light on how changes emerge\nin positive potential for growth in the future. In a more global\nway, our findings illustrate the value of the possible selves\nconcept in capturing both intraindividual change and plasticity in development over time.\n\n\nACKNOWLEDGMENTS\n\n\nThis research was supported by the National Institute of\nMental Health Grant 46337 and the National Institute of\nHealth Grant BRSG-RR07068-23 awarded to Karen Hooker.\n\n\nSpecial thanks to Carol Battista for assistance with Time 2\ndata collection. Thanks to Bennett L. Schwartz, Nancy\nFrazier, and several anonymous reviewers for helpful feedback on the article.\n\n\nREFERENCES\n\n\nAtchley, R. C. (1989). A continuity theory of normal aging. The Gerontologist, 29, 183–190.\nAtchley,R.C.(1992).Continuitytheoryandtheevolutionofactivityinlaterlife.\n\n\nIn J. Kelly (Ed.), Activity and aging (pp. 5–16). Newbury Park, CA: Sage.\nBaltes, P. B., & Baltes, M. M. (1990). Psychological perspectives on successful aging: A model of selective optimization with compensation. In P. B.\nBaltes & M. M. Baltes (Eds.), Successful aging: Perspectives from the behavioral sciences (pp. 1–34). New York: Cambridge University Press.\nBearon, L. B. (1989). No great expectations: The underpinnings of life satisfaction for older women. The Gerontologist, 29, 772–778.\nBrandstädter, J., & Baltes-Gotz, B. (1990). Personal control over development and quality of life perspectives in adulthood. In P. B. Baltes & M. M.\nBaltes (Eds.), Successful aging: Perspectives from the behavioral sciences (pp. 197–224). New York: Cambridge University Press.\nBrandstädter, J., & Renner, G. (1990). Tenacious goal pursuit and flexible\n\n\ngoal adjustment: Explication and age-related analysis of assimilative and\naccomodative strategies of coping. Psychology and Aging, 5, 58–67.",
+      "translationText": "242 FRAZIER ET AL. 연속성을 나타내는 도형 코딩된 변수 (변화 없이, 급변한 변화, 변하는 변화) 를 사용하였다.\n\n희망하고 두려워하는 가능한 자기들의 각 영역에 대해 별도의 ANOVAs가 계산되었습니다.\n\n각 ANOVA에서, 그룹 (즉, 등장하는, 변하는 또는 변하지 않는) 은 독립적인 변수로서 취급되었으며, 나이, 건강, 건강 통제 장소 또는 삶의 만족도가 의존적인 변수였다.1\n\n우리의 예상과 달리, ANOVA 중 어느 것도 .01 수준에서 중요하지 않았습니다 (모든 Fs = 1.95, ps > .05, η2 = .01).\n\n비슷한 절차는 독립적인 변수와 심리사회적 변수 각각의 의존적 변수로 취급되는 도미 코딩 변수 (즉, 균형, 희망만, 두려움만) 와 균형에 대해 사용되었습니다.\n\n그룹의 중요한 주요 효과는 인식된 통제, F(1, 35) = 14.23, p = .01, η2 = .29, 시간 2 가족 관련 자아에 대해 발견되었습니다.\n\n피셔의 최저의 차이점 포스트 호크 분석은 오직 희망의 범주에 속하는 노인들이 균형 범주에 속한 사람들보다 건강 통제에 대한 인식이 (M = 19.35, SD = .60) 의 훨씬 높은 것으로 나타났습니다 (M = 16.59, SD = .42).\n\n이 영역은 아무도 자기 자신을 두려워한다고 보고하지 않는 영역이었습니다.\n\n가족 영역에서 기대되는 자아를 보고하는 것은 건강에 대한 더 큰 통제감과 관련이 있습니다.\n\n토론 이 연구 의 연구 결과 는 5 년 동안 자기 의 대부분의 영역 에서 연속성 이 표준 이라고 알려 준다.\n\n연속성은 독립, 신체 및 생활 방식 영역에서 기대되는 자아에 대한 변화보다 훨씬 더 많았고, 가족 영역에서 두려워하는 자아에 대한 변화는 나중에 삶의 특정 영역이 보존에 의해 특징인 것을 암시합니다.\n\n현재의 자아 감각을 미래로 보존하는 것은 덜 달성할 수 있는 무언가를 위해 노력하거나 어떤 사람이 될 수 있는지에 대한 두려움을 키우는 것보다 더 적응력이 있을 수 있습니다.\n\n우리의 연구 결과는 연속성을 증명하는 이전 연구와 일치합니다 (Atchley, 1992; Brandtstädter & Baltes-Gotz, 1990; Dittmann-Kohli, 1990; Markus & Herzog, 1992; Troll & Skaff, 1997).\n\n변화의 증거도 있습니다.\n\n개인 내 변화는 일반적으로 신흥적인 방향으로 진행되었고, 건강과 신체적 관련 가능한 자기들이 시간이 지남에 따라 더 중요해졌습니다.\n\n사실, 가장 큰 변화는 건강 영역에서 발견되었으며, 후커 (1992) 의 연구를 지원하고 확장하기 위해 길쭉한 증거를 제공했습니다.\n\n우리의 연구결과에서 추출하면, 새로운 영역은 노화의 맥락에서 자기에게 가장 민감하고 중심적인 영역입니다.\n\n우리가 연구한 다섯 가지 자아 영역에서, 기대하고 두려워하는 자아의 균형이 지배적이었다 (또한 1 참조) 인식된 건강 상태는 건강 통제의 위치, r = .27, p = .01, 그리고 생활 만족, r =.37, p =.0001. 건강 통제의 장소는 생활 만족과 크게 상관관계가 없었다, r = , p = .28. Oyserman & Markus, 1990a, 1990b; Oyserman and Saltz, 1993).\n\n균형은 물리적 및 가족 영역의 불평등보다 훨씬 더 크았습니다.\n\n불평등이 지배했을 때 그것은 두려움의 독립과 관련된 자아와 희망의 가족과 관련된 자아의 더 큰 확률과 관련이있었습니다.\n\n흥미롭게도, 가족 영역에서 기대되는 자아들의 불평등은 건강에 대한 더 큰 인식 통제와 관련이있었습니다.\n\n이 연구에서 균형을 보여주는 영역은 또한 연속성을 보여줍니다. 이는 그들이 연결되어 있음을 암시합니다.\n\n이 연구는 균형이 작동되는 방식과 가능한 자기들의 연속성과 변화에 대한 긴장 관심에 있어서 독특했습니다.\n\n미래의 연구는 균형과 연속성이 어떻게 연관되어 있는지 살펴볼 것이다.\n\n마지막으로, 노화는 적응의 과정이며, 성공적인 노화의 개념은 변화하는 생물학적, 신체적, 인지적, 정서적, 사회적 삶의 영역에 흡수 ( 및 수용) 의 과정을 의미한다 (Baltes & Baltes, 1990; Brandtstädter & Renner, 1990; Whitbourne, 1986, 1996).\n\n안정성은 규범이지만, 우리의 연구결과들은 개인이 시간의 흐름에 따라 스스로의 이미지를 변화시키는 방법을 반영하고 미래에 성장할 수 있는 긍정적인 잠재력에서 어떻게 변화가 나타나는지에 대해 밝혀줍니다.\n\n보다 글로벌한 방법으로, 우리의 연구 결과는 시간이 지남에 따라 개인의 내적 변화와 발달의 플라스틱성을 포착하는 데 가능한 자기 개념의 가치를 보여준다.\n\n이 연구 는 국립 정신 건강 연구소 보조금 46337 및 국립 건강 연구소 지원금 BRSG-RR07068-23 으로 Karen Hooker 에게 지원 되었다.\n\n캐롤 바티스타에게 특별한 감사가 있습니다.\n\nBennett L. Schwartz, Nancy Frazier, 그리고 몇몇 익명 리뷰어들에게 기사에 대한 유용한 피드백을 주셔서 감사합니다.\n\n참고자료: 아치리, R. C. (1989).\n\n정상적인 노화의 연속성 이론\n\n게론톨로지, 29, 183~190.\n\n아치리, R.C. (1992)\n\n이 이론과 진화는 나중에 활동으로 이어집니다.\n\nJ. Kelly (Ed.), 활동 및 노화 (pp. 516).\n\n뉴베리 파크, CA: Sage.\n\n발테스, P. B., & 발테스 M. M. (1990).\n\n성공적인 노화에 대한 심리적 관점: 보상과 함께 선택적 최적화의 모델\n\nP. B. Baltes & M. M. Baltes (Eds.), 성공적인 노화: 행동 과학의 전망 (pp. 134).\n\n뉴욕: 케임브리지 대학교 출판사.\n\n베론, L.B. (1989).\n\n큰 기대도 없습니다: 노인 여성들의 삶의 만족을 위한 기초자료\n\n게론톨로지, 29, 772778.\n\n브랜드스타드터, J., & 발테스-고츠, B. (1990).\n\n성장과 삶의 질에 대한 개인적 통제\n\nP. B. Baltes & M. M. Baltes (Eds.), 성공적인 노화: 행동 과학의 전망 (pp. 197224).\n\n뉴욕: 케임브리지 대학교 출판사.\n\n브랜드스타드터, J., & Renner, G. (1990).\n\n끈끈한 목표 추구와 유연한 목표 조정: 적응의 흡수적 및 수용적 전략에 대한 설명과 연령 관련 분석.\n\n심리학과 노화, 5, 5867.",
+      "status": "translated",
+      "sourceTextSha256": "9770aa2ffe8b0fb914bb8d3e9d8e5d6580a869bd03e5a8ba35692650db58ca96",
+      "segments": [
+        {
+          "source": "242 FRAZIER ET AL. dummy-coded variables representing continuity (no change, emergent change, and fading change) were used.",
+          "translation": "242 FRAZIER ET AL. 연속성을 나타내는 도형 코딩된 변수 (변화 없이, 급변한 변화, 변하는 변화) 를 사용하였다."
+        },
+        {
+          "source": "Separate ANOVAs were computed for each domain of hoped-for and feared possible selves.",
+          "translation": "희망하고 두려워하는 가능한 자기들의 각 영역에 대해 별도의 ANOVAs가 계산되었습니다."
+        },
+        {
+          "source": "In each ANOVA, group (i.e., emergent, fading, or no change) was treated as the independent variable, and either age, health, health locus of control, or life satisfaction was the dependent variable.1",
+          "translation": "각 ANOVA에서, 그룹 (즉, 등장하는, 변하는 또는 변하지 않는) 은 독립적인 변수로서 취급되었으며, 나이, 건강, 건강 통제 장소 또는 삶의 만족도가 의존적인 변수였다.1"
+        },
+        {
+          "source": "Contrary to our expectations, none of the ANOVAs were significant at the .01 level (all Fs = 1.95, ps > .05, η2 = .01).",
+          "translation": "우리의 예상과 달리, ANOVA 중 어느 것도 .01 수준에서 중요하지 않았습니다 (모든 Fs = 1.95, ps > .05, η2 = .01)."
+        },
+        {
+          "source": "A similar procedure was used for balance with the dummy-coded variables (i.e., balance, hope-only, fear-only) treated as the independent variable and each of the psychosocial variables as a dependent variable.",
+          "translation": "비슷한 절차는 독립적인 변수와 심리사회적 변수 각각의 의존적 변수로 취급되는 도미 코딩 변수 (즉, 균형, 희망만, 두려움만) 와 균형에 대해 사용되었습니다."
+        },
+        {
+          "source": "A significant main effect of group was found for perceived control, F(1, 35) = 14.23, p = .01, η2 = .29, for Time 2 family-related selves.",
+          "translation": "그룹의 중요한 주요 효과는 인식된 통제, F(1, 35) = 14.23, p = .01, η2 = .29, 시간 2 가족 관련 자아에 대해 발견되었습니다."
+        },
+        {
+          "source": "Fisher’s least significant difference post hoc analyses show that older adults who fell into the hope-only category had significantly higher perceptions of control over health (M = 19.35, SD = .60) than those who fell into the balance category (M = 16.59, SD = .42).",
+          "translation": "피셔의 최저의 차이점 포스트 호크 분석은 오직 희망의 범주에 속하는 노인들이 균형 범주에 속한 사람들보다 건강 통제에 대한 인식이 (M = 19.35, SD = .60) 의 훨씬 높은 것으로 나타났습니다 (M = 16.59, SD = .42)."
+        },
+        {
+          "source": "This was a domain in which no one reported feared selves.",
+          "translation": "이 영역은 아무도 자기 자신을 두려워한다고 보고하지 않는 영역이었습니다."
+        },
+        {
+          "source": "Reporting hoped-for selves in the family domain is associated with a greater sense of control over health.",
+          "translation": "가족 영역에서 기대되는 자아를 보고하는 것은 건강에 대한 더 큰 통제감과 관련이 있습니다."
+        },
+        {
+          "source": "DISCUSSION The findings from this study show that continuity is the norm for most domains of self over a 5-year period.",
+          "translation": "토론 이 연구 의 연구 결과 는 5 년 동안 자기 의 대부분의 영역 에서 연속성 이 표준 이라고 알려 준다."
+        },
+        {
+          "source": "Continuity was significantly greater than change for hoped-for selves in the independence, physical, and lifestyle domains, and in feared selves in the family domain suggesting that, in later life, certain domains of self are characterized by preservation.",
+          "translation": "연속성은 독립, 신체 및 생활 방식 영역에서 기대되는 자아에 대한 변화보다 훨씬 더 많았고, 가족 영역에서 두려워하는 자아에 대한 변화는 나중에 삶의 특정 영역이 보존에 의해 특징인 것을 암시합니다."
+        },
+        {
+          "source": "Preserving current sense of self into the future may be more adaptive than striving for something less attainable or developing a fear of what one might become.",
+          "translation": "현재의 자아 감각을 미래로 보존하는 것은 덜 달성할 수 있는 무언가를 위해 노력하거나 어떤 사람이 될 수 있는지에 대한 두려움을 키우는 것보다 더 적응력이 있을 수 있습니다."
+        },
+        {
+          "source": "Our findings are consistent with prior studies demonstrating continuity (Atchley, 1992; Brandtstädter & Baltes-Gotz, 1990; Dittmann-Kohli, 1990; Markus & Herzog, 1992; Troll & Skaff, 1997).",
+          "translation": "우리의 연구 결과는 연속성을 증명하는 이전 연구와 일치합니다 (Atchley, 1992; Brandtstädter & Baltes-Gotz, 1990; Dittmann-Kohli, 1990; Markus & Herzog, 1992; Troll & Skaff, 1997)."
+        },
+        {
+          "source": "Evidence of change is also present.",
+          "translation": "변화의 증거도 있습니다."
+        },
+        {
+          "source": "Intraindividual change was generally in the emergent direction, with healthand physical-related possible selves becoming more important over time.",
+          "translation": "개인 내 변화는 일반적으로 신흥적인 방향으로 진행되었고, 건강과 신체적 관련 가능한 자기들이 시간이 지남에 따라 더 중요해졌습니다."
+        },
+        {
+          "source": "In fact, the greatest amount of change was found in the health domain, providing longitudinal evidence to support and extend Hooker’s (1992) work.",
+          "translation": "사실, 가장 큰 변화는 건강 영역에서 발견되었으며, 후커 (1992) 의 연구를 지원하고 확장하기 위해 길쭉한 증거를 제공했습니다."
+        },
+        {
+          "source": "Extrapolating from our findings, emergent domains are those that are most sensitive and central to the self in the context of aging.",
+          "translation": "우리의 연구결과에서 추출하면, 새로운 영역은 노화의 맥락에서 자기에게 가장 민감하고 중심적인 영역입니다."
+        },
+        {
+          "source": "In the five domains of self we studied, balance in hoped-for and feared selves was predominant (see also 1Perceived health status was significantly correlated with health locus of control, r = .27, p = .01, and life satisfaction, r = .37, p = .0001. Locus of control over health was not significantly correlated with life satisfaction, r = .11, p = .28. Oyserman & Markus, 1990a, 1990b; Oyserman & Saltz, 1993).",
+          "translation": "우리가 연구한 다섯 가지 자아 영역에서, 기대하고 두려워하는 자아의 균형이 지배적이었다 (또한 1 참조) 인식된 건강 상태는 건강 통제의 위치, r = .27, p = .01, 그리고 생활 만족, r =.37, p =.0001. 건강 통제의 장소는 생활 만족과 크게 상관관계가 없었다, r = , p = .28. Oyserman & Markus, 1990a, 1990b; Oyserman and Saltz, 1993)."
+        },
+        {
+          "source": "Balance was significantly greater than disparity for the physical and family domains.",
+          "translation": "균형은 물리적 및 가족 영역의 불평등보다 훨씬 더 크았습니다."
+        },
+        {
+          "source": "When disparity prevailed it was associated with greater likelihood of feared independence-related selves and a greater likelihood of hoped-for family-related selves.",
+          "translation": "불평등이 지배했을 때 그것은 두려움의 독립과 관련된 자아와 희망의 가족과 관련된 자아의 더 큰 확률과 관련이있었습니다."
+        },
+        {
+          "source": "As an interesting aside, the disparity in hoped-for selves in the family domain was associated with greater perceived control over health.",
+          "translation": "흥미롭게도, 가족 영역에서 기대되는 자아들의 불평등은 건강에 대한 더 큰 인식 통제와 관련이있었습니다."
+        },
+        {
+          "source": "In this study the domains that show balance also show continuity, suggesting they are linked.",
+          "translation": "이 연구에서 균형을 보여주는 영역은 또한 연속성을 보여줍니다. 이는 그들이 연결되어 있음을 암시합니다."
+        },
+        {
+          "source": "This study was unique in the way balance was operationalized and in its longitudinal interest in continuity and change in possible selves.",
+          "translation": "이 연구는 균형이 작동되는 방식과 가능한 자기들의 연속성과 변화에 대한 긴장 관심에 있어서 독특했습니다."
+        },
+        {
+          "source": "Future research will examine how balance and continuity are related.",
+          "translation": "미래의 연구는 균형과 연속성이 어떻게 연관되어 있는지 살펴볼 것이다."
+        },
+        {
+          "source": "Finally, aging is a process of adaptation, and the notion of successful aging implies a process of assimilating (and accommodating) to the changing biological, physical, cognitive, emotional, and social domains of life (Baltes & Baltes, 1990; Brandtstädter & Renner, 1990; Whitbourne, 1986, 1996).",
+          "translation": "마지막으로, 노화는 적응의 과정이며, 성공적인 노화의 개념은 변화하는 생물학적, 신체적, 인지적, 정서적, 사회적 삶의 영역에 흡수 ( 및 수용) 의 과정을 의미한다 (Baltes & Baltes, 1990; Brandtstädter & Renner, 1990; Whitbourne, 1986, 1996)."
+        },
+        {
+          "source": "Although stability is the norm, our findings illuminate how possible selves reflect individuals’ changing images of themselves over time, and shed light on how changes emerge in positive potential for growth in the future.",
+          "translation": "안정성은 규범이지만, 우리의 연구결과들은 개인이 시간의 흐름에 따라 스스로의 이미지를 변화시키는 방법을 반영하고 미래에 성장할 수 있는 긍정적인 잠재력에서 어떻게 변화가 나타나는지에 대해 밝혀줍니다."
+        },
+        {
+          "source": "In a more global way, our findings illustrate the value of the possible selves concept in capturing both intraindividual change and plasticity in development over time.",
+          "translation": "보다 글로벌한 방법으로, 우리의 연구 결과는 시간이 지남에 따라 개인의 내적 변화와 발달의 플라스틱성을 포착하는 데 가능한 자기 개념의 가치를 보여준다."
+        },
+        {
+          "source": "ACKNOWLEDGMENTS This research was supported by the National Institute of Mental Health Grant 46337 and the National Institute of Health Grant BRSG-RR07068-23 awarded to Karen Hooker.",
+          "translation": "이 연구 는 국립 정신 건강 연구소 보조금 46337 및 국립 건강 연구소 지원금 BRSG-RR07068-23 으로 Karen Hooker 에게 지원 되었다."
+        },
+        {
+          "source": "Special thanks to Carol Battista for assistance with Time 2 data collection.",
+          "translation": "캐롤 바티스타에게 특별한 감사가 있습니다."
+        },
+        {
+          "source": "Thanks to Bennett L. Schwartz, Nancy Frazier, and several anonymous reviewers for helpful feedback on the article.",
+          "translation": "Bennett L. Schwartz, Nancy Frazier, 그리고 몇몇 익명 리뷰어들에게 기사에 대한 유용한 피드백을 주셔서 감사합니다."
+        },
+        {
+          "source": "REFERENCES Atchley, R. C. (1989).",
+          "translation": "참고자료: 아치리, R. C. (1989)."
+        },
+        {
+          "source": "A continuity theory of normal aging.",
+          "translation": "정상적인 노화의 연속성 이론"
+        },
+        {
+          "source": "The Gerontologist, 29, 183–190.",
+          "translation": "게론톨로지, 29, 183~190."
+        },
+        {
+          "source": "Atchley,R.C.(1992).",
+          "translation": "아치리, R.C. (1992)"
+        },
+        {
+          "source": "Continuitytheoryandtheevolutionofactivityinlaterlife.",
+          "translation": "이 이론과 진화는 나중에 활동으로 이어집니다."
+        },
+        {
+          "source": "In J. Kelly (Ed.), Activity and aging (pp. 5–16).",
+          "translation": "J. Kelly (Ed.), 활동 및 노화 (pp. 516)."
+        },
+        {
+          "source": "Newbury Park, CA: Sage.",
+          "translation": "뉴베리 파크, CA: Sage."
+        },
+        {
+          "source": "Baltes, P. B., & Baltes, M. M. (1990).",
+          "translation": "발테스, P. B., & 발테스 M. M. (1990)."
+        },
+        {
+          "source": "Psychological perspectives on successful aging: A model of selective optimization with compensation.",
+          "translation": "성공적인 노화에 대한 심리적 관점: 보상과 함께 선택적 최적화의 모델"
+        },
+        {
+          "source": "In P. B. Baltes & M. M. Baltes (Eds.), Successful aging: Perspectives from the behavioral sciences (pp. 1–34).",
+          "translation": "P. B. Baltes & M. M. Baltes (Eds.), 성공적인 노화: 행동 과학의 전망 (pp. 134)."
+        },
+        {
+          "source": "New York: Cambridge University Press.",
+          "translation": "뉴욕: 케임브리지 대학교 출판사."
+        },
+        {
+          "source": "Bearon, L. B. (1989).",
+          "translation": "베론, L.B. (1989)."
+        },
+        {
+          "source": "No great expectations: The underpinnings of life satisfaction for older women.",
+          "translation": "큰 기대도 없습니다: 노인 여성들의 삶의 만족을 위한 기초자료"
+        },
+        {
+          "source": "The Gerontologist, 29, 772–778.",
+          "translation": "게론톨로지, 29, 772778."
+        },
+        {
+          "source": "Brandstädter, J., & Baltes-Gotz, B. (1990).",
+          "translation": "브랜드스타드터, J., & 발테스-고츠, B. (1990)."
+        },
+        {
+          "source": "Personal control over development and quality of life perspectives in adulthood.",
+          "translation": "성장과 삶의 질에 대한 개인적 통제"
+        },
+        {
+          "source": "In P. B. Baltes & M. M. Baltes (Eds.), Successful aging: Perspectives from the behavioral sciences (pp. 197–224).",
+          "translation": "P. B. Baltes & M. M. Baltes (Eds.), 성공적인 노화: 행동 과학의 전망 (pp. 197224)."
+        },
+        {
+          "source": "New York: Cambridge University Press.",
+          "translation": "뉴욕: 케임브리지 대학교 출판사."
+        },
+        {
+          "source": "Brandstädter, J., & Renner, G. (1990).",
+          "translation": "브랜드스타드터, J., & Renner, G. (1990)."
+        },
+        {
+          "source": "Tenacious goal pursuit and flexible goal adjustment: Explication and age-related analysis of assimilative and accomodative strategies of coping.",
+          "translation": "끈끈한 목표 추구와 유연한 목표 조정: 적응의 흡수적 및 수용적 전략에 대한 설명과 연령 관련 분석."
+        },
+        {
+          "source": "Psychology and Aging, 5, 58–67.",
+          "translation": "심리학과 노화, 5, 5867."
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 8,
+      "sourceText": "Cantor, N., & Zirkel, S. (1990). Personality, cognition, and purposive behavior. In L. A. Pervin (Ed.), Handbook of personality research (pp.\n135–164). New York: Guilford.\nCotrell, V., Frazier, L. D., & Hooker, K. (2000). Possible selves of individuals with Parkinson’s disease, Alzheimer’s disease and healthy older\nadults. Manuscript submitted for publication.\nCross, S., & Markus, H. (1991). Possible selves across the life span. Human\n\n\nDevelopment, 34, 230–255.\nDittman-Kohli, F. (1990). Possibilities and constraints for the construction of\n\n\nmeaning in old age. Ageing and Society, 10, 279–294.\nErikson, E. H. (1980). Identity and the life cycle. New York: Norton.\nFreund, A. M., & Smith, J. (1999). Temporal stability of older person’s spontaneous self-definition. Experimental Aging Research, 25, 95–107.\nHiggins, E. T. (1987). Self-discrepancy theory: A theory relating self and affect. Psychological Review, 94, 319–340.\nHolahan,C.K.(1988).Relationoflifegoalsatage70toactivity participation\n\n\nand health and psychological well-being among Terman’s gifted men and\nwomen. Psychology and Aging, 3, 286–291.\nHollingshead, A. B. (1975). Four factor index of social status. Unpublished\n\n\nmanuscript, Yale University, New Haven, CT.\nHooker, K. (1992). Possible selves and perceived health in older adults and\n\n\ncollege students. Journal of Gerontology: Psychological Sciences, 47,\n85–95.\nHooker, K., & Kaus, C. R. (1992). Possible selves and health behaviors in\n\n\nlater life. Journal of Aging and Health, 4, 390–411.\nHooker, K., & Kaus, C. R. (1994). Health-related possible selves in young\n\n\nand middle adulthood. Psychology and Aging, 9, 126–133.\nJames, W. (1890). Principles of psychology. New York: Holt.\nLau, R. R., Hartman, K. A., & Ware, J. E. (1986). Health as a value: Methodological and theoretical considerations. Health Psychology, 5,\n25–43.\nLerner, R. M. (1978). Nature, nurture, and dynamic interactionism. Human\n\n\nDevelopment, 21, 1–20.\nLinville, P. W. (1985). Self-complexity and affective extremity: Don’t put all\n\n\nof your eggs in one cognitive basket. Social Cognition, 3, 94–120.\nLinville, P. W. (1987). Self-complexity as a cognitive buffer against\n\n\nstress-related illness and depression. Journal of Personality and Social\nPsychology, 52, 663–676.\nMarkus, H. R., & Herzog, A. R. (1992). The role of the self-concept in aging.\n\n\nAnnual Review of Gerontology and Geriatrics, 11, 110–143.\n\n\nCONTINUITY AND CHANGE IN POSSIBLE SELVES\n243\n\n\nMarkus, H., & Kunda, Z. (1986). Stability and malleability of the\n\n\nself-concept.JournalofPersonalityandSocialPsychology,51,858–866.\nMarkus, H., & Nurius, P. (1986). Possible selves. American Psychologist,\n\n\n41, 954–969.\nMarkus, H., & Ruvolo, A. (1989). Possible selves and motivation. In L. A.\n\n\nPervin (Ed.), Goal concepts in personality and social psychology (pp.\n211–241). New Haven, CT: Yale University Press.\nMcCrae, R. R., & Costa, P. T. (1988). Age, personality, and the spontaneous\n\n\nself-concept. Journal of Gerontology: Social Sciences, 43, 177–185.\nOyserman, D., & Markus, H. (1990a). Possible selves and delinquency.\n\n\nJournal of Personality and Social Psychology, 59, 112–125.\nOyserman, D., & Markus, H. (1990b). Possible selves in balance: Implications for delinquency. Journal of Social Issues, 46, 141–157.\nOyserman, D., & Saltz, E. (1993). Competence, delinquency, and attempts to\n\n\nattain possible selves. Journal of Personality and Social Psychology, 65,\n360–374.\nRogers, C. R. (1961). On becoming a person. Boston: Houghton Mifflin.\nRyff, C. D. (1984). Personality development from the inside: The subjective\n\n\nexperience of change in adulthood and aging. In P. B. Baltes & O. G.\nBrim, Jr. (Eds.), Life-span development and behavior (Vol. 6, pp.\n243–279). Orlando, FL: Academic.\nRyff, C. D. (1991). Possible selves in adulthood and old age: A tale of shifting\n\n\nhorizons. Psychology and Aging, 6, 286–295.\nSauer, W. J., & Warland, R. (1982). Morale and life satisfaction. In D. J.\n\n\nMangen & W. A. Peterson (Eds.), Research instruments in social gerontology: Vol. 1. Clinical and social psychology (pp. 195–240). Minneapolis: University of Minnesota Press.\nTroll, L. E., & Skaff, M. M. (1997). Perceived continuity of self in very old\n\n\nage. Psychology and Aging, 12, 192–196.\nWallston, K. A., & Wallston, B. S. (1981). Health locus of control scales. In\n\n\nH. Lefcourt (Ed.), Research with the locus of control construct (pp.\n189–243). New York: Academic.\nWhitbourne, S. K. (1986). The me I know: A study of adult identity. New\n\n\nYork: Springer-Verlag.\nWhitbourne, S. K. (1987). Personality development in adulthood and old\n\n\nage: Relationships among identity style, health, and well-being. In K. W.\nSchaie (Ed.), Annual review of gerontology and geriatrics (Vol. 7, pp.\n189–216). New York: Springer.\nWhitbourne, S. K. (1996). The aging individual: Physical and psychological\n\n\nperspectives. New York: Springer.",
+      "translationText": "캔터, N., & 지르켈, S. (1990).\n\n성격, 인식, 의도적 행동.\n\nL.A. 퍼빈 (Ed.), 개인성 연구의 수동서 (pp. 135164).\n\n뉴욕: 길포드\n\n코트렐, V., 프레이저, L. D., & 후커, K. (2000).\n\n파킨슨병, 알츠하이머병 및 건강한 노인의 가능한 자기\n\n출판을 위해 제출된 수본.\n\n크로스, S., & 마르쿠스, H. (1991).\n\n평생 동안 가능한 자기.\n\n인적 개발, 34, 230~255.\n\n디트만-코리, F. (1990).\n\n노년기에 의미를 쌓을 수 있는 가능성과 제약\n\n노화 와 사회, 10, 279 294.\n\n에릭슨, E. H. (1980).\n\n정체성과 삶의 순환.\n\n뉴욕: 노턴\n\n프뢰드, A. M., & 스미스, J. (1999).\n\n노인의 자발적인 자기 정의의 시간적 안정성.\n\n실험적 노화 연구, 25, 95107.\n\n히그인스, E. T. (1987).\n\n자기차별 이론: 자기와 영향을 연관시키는 이론.\n\n심리학 리뷰, 94, 319340.\n\n호라한, C.K.\n\n활동 참여와 테르만의 재능 있는 남성과 여성들의 건강과 심리적 안녕감\n\n심리학과 노화, 3,286291.\n\n홀링스헤드, A. B. (1975).\n\n사회적 지위의 네 가지 요인 인덱스\n\n출판되지 않은 필사본, 예일 대학교, 뉴헤븐, CT.\n\n호커, K. (1992).\n\n나이가 많은 성인과 대학생의 가능한 자기와 인식된 건강.\n\n게론톨로지 저널: 심리학 과학, 47, 8595.\n\n호커, K., & 카우스, C. R. (1992).\n\n나중에 가능한 자기와 건강 행동.\n\n노화 와 건강 의 잡지, 4,390411.\n\n호커, K., & Kaus, C. R. (1994).\n\n어린 나이와 중장년기의 건강 관련 가능한 자기\n\n심리학과 노화, 9, 126133.\n\n제임스, W. (1890).\n\n심리학의 원칙.\n\n뉴욕: 홀트\n\n라우, R. R., 하트먼, K. A., & 웨어, J. E. (1986).\n\n가치로서의 건강: 방법론적 및 이론적 고려 사항.\n\n건강 심리학, 5, 2543.\n\n레너, R.M. (1978).\n\n자연, 육성, 그리고 역동적인 상호작용.\n\n인적 발전, 21, 120.\n\n린빌, P.W. (1985)\n\n자기 복잡성 및 감정적 과잉: 모든 알을 하나의 인지 농구에 넣지 마십시오.\n\n사회 인식, 3, 94120.\n\n린빌, P.W. (1987).\n\n스트레스와 관련된 질병과 우울증에 대한 인지 부퍼로서 자기 복잡성\n\n개인성 및 사회심리학 학술지, 52, 663676.\n\n마커스, H. R., & 헤르츠고, A. R. (1992).\n\n노화에 대한 자기 개념의 역할\n\n게론톨로지 및 게리아트릭의 연간 검토, 11, 110143.\n\n지속 및 가능한 변화 243 Markus, H., & Kunda, Z. (1986).\n\n자기 개념의 안정성 및 융합성.\n\n마커스, H., & 누리우스, P. (1986).\n\n가능한 나들.\n\n미국 심리학자, 41, 954~969.\n\n마커스, H., & 루볼로, A. (1989).\n\n가능한 자기와 동기\n\nLA 퍼빈 (편집) 에서 개인성과 사회 심리학의 목표 개념 (pp. 211241).\n\n뉴헤븐, CT: 예일 대학교 출판사.\n\n맥크레이, R. R., & 코스타, P. T. (1988).\n\n나이, 성격, 그리고 자발적인 자존감\n\n게론톨로지 저널: 사회과학, 43, 177~185.\n\n오이스먼, D., & 마르쿠스, H. (1990a).\n\n잠재적인 자아와 범죄.\n\n개인성 및 사회 심리학 학술지, 59, 112125.\n\n오이스먼, D., & 마르쿠스, H. (1990b).\n\n균형 잡힌 가능한 자기: 범죄에 대한 영향\n\n사회문제 학술지, 46, 141157.\n\n오이스먼, D., & 솔츠, E. (1993).\n\n능력, 범죄, 그리고 가능한 자기를 얻기 위한 시도.\n\n개인성 및 사회심리학 학술지, 65, 360374.\n\n로저스, C.R. (1961).\n\n사람이 되는 것에 대해\n\n보스턴: 호튼 미플린\n\n라이프, C.D. (1984).\n\n인격 발달: 성인이 되어서 나이를 먹으면서 일어나는 변화의 주관적 경험.\n\nP. B. 발테스 & O. G. 브림, 주니어 (Eds.), 생활 기간 개발 및 행동 (Vol. 6, pp. 243279).\n\n오랜도, 플로리다: 학문적.\n\n리프, CD (1991).\n\n성인과 노년기의 가능한 자기: 변화하는 지평의 이야기.\n\n심리학과 노화, 6,286295.\n\n소어, W. J., & 워랜드, R. (1982).\n\n도덕과 삶의 만족.\n\nD.J. 마겐 & W.A. 피터슨 (Ed.), 사회 게론톨로지 연구 도구: Vol.\n\n1.\n\n임상 및 사회 심리학 (pp. 195240).\n\n미니애폴리스: 미니애포스 대학교 출판사\n\n트롤, L. E., & 스카프, M. M. (1997).\n\n아주 늙은 나이에 자기의 연속성을 느꼈습니다.\n\n심리학과 노화, 12, 192196.\n\n월스턴, K. A., & 월스턴, B. S. (1981).\n\n통제 스케일의 건강 위치.\n\nH. Lefcourt (Ed.), 제어 구조의 위치와 함께 연구 (pp. 189243).\n\n뉴욕: 학문적.\n\n위트본, S.K. (1986).\n\n내가 아는 나: 성인 정체성에 대한 연구\n\n뉴욕: 스프링거-베라그\n\n위트본, S.K. (1987).\n\n성인과 노년기의 인격 발달: 정체성 스타일, 건강, 안녕감 사이의 관계\n\nK. W. Schaie (편집) 에 게론톨로지 및 게리아트릭스의 연간 검토 (Vol. 7, pp. 189216).\n\n뉴욕: 스프링저\n\n위트본, S.K. (1996).\n\n고령화 된 개인: 신체적, 심리적 관점\n\n뉴욕: 스프링저",
+      "status": "translated",
+      "sourceTextSha256": "23bf8035e5e8850b8c41ecaeb17c73dc22a80c68a974b5f9d858846c71f2fa87",
+      "segments": [
+        {
+          "source": "Cantor, N., & Zirkel, S. (1990).",
+          "translation": "캔터, N., & 지르켈, S. (1990)."
+        },
+        {
+          "source": "Personality, cognition, and purposive behavior.",
+          "translation": "성격, 인식, 의도적 행동."
+        },
+        {
+          "source": "In L. A. Pervin (Ed.), Handbook of personality research (pp. 135–164).",
+          "translation": "L.A. 퍼빈 (Ed.), 개인성 연구의 수동서 (pp. 135164)."
+        },
+        {
+          "source": "New York: Guilford.",
+          "translation": "뉴욕: 길포드"
+        },
+        {
+          "source": "Cotrell, V., Frazier, L. D., & Hooker, K. (2000).",
+          "translation": "코트렐, V., 프레이저, L. D., & 후커, K. (2000)."
+        },
+        {
+          "source": "Possible selves of individuals with Parkinson’s disease, Alzheimer’s disease and healthy older adults.",
+          "translation": "파킨슨병, 알츠하이머병 및 건강한 노인의 가능한 자기"
+        },
+        {
+          "source": "Manuscript submitted for publication.",
+          "translation": "출판을 위해 제출된 수본."
+        },
+        {
+          "source": "Cross, S., & Markus, H. (1991).",
+          "translation": "크로스, S., & 마르쿠스, H. (1991)."
+        },
+        {
+          "source": "Possible selves across the life span.",
+          "translation": "평생 동안 가능한 자기."
+        },
+        {
+          "source": "Human Development, 34, 230–255.",
+          "translation": "인적 개발, 34, 230~255."
+        },
+        {
+          "source": "Dittman-Kohli, F. (1990).",
+          "translation": "디트만-코리, F. (1990)."
+        },
+        {
+          "source": "Possibilities and constraints for the construction of meaning in old age.",
+          "translation": "노년기에 의미를 쌓을 수 있는 가능성과 제약"
+        },
+        {
+          "source": "Ageing and Society, 10, 279–294.",
+          "translation": "노화 와 사회, 10, 279 294."
+        },
+        {
+          "source": "Erikson, E. H. (1980).",
+          "translation": "에릭슨, E. H. (1980)."
+        },
+        {
+          "source": "Identity and the life cycle.",
+          "translation": "정체성과 삶의 순환."
+        },
+        {
+          "source": "New York: Norton.",
+          "translation": "뉴욕: 노턴"
+        },
+        {
+          "source": "Freund, A. M., & Smith, J. (1999).",
+          "translation": "프뢰드, A. M., & 스미스, J. (1999)."
+        },
+        {
+          "source": "Temporal stability of older person’s spontaneous self-definition.",
+          "translation": "노인의 자발적인 자기 정의의 시간적 안정성."
+        },
+        {
+          "source": "Experimental Aging Research, 25, 95–107.",
+          "translation": "실험적 노화 연구, 25, 95107."
+        },
+        {
+          "source": "Higgins, E. T. (1987).",
+          "translation": "히그인스, E. T. (1987)."
+        },
+        {
+          "source": "Self-discrepancy theory: A theory relating self and affect.",
+          "translation": "자기차별 이론: 자기와 영향을 연관시키는 이론."
+        },
+        {
+          "source": "Psychological Review, 94, 319–340.",
+          "translation": "심리학 리뷰, 94, 319340."
+        },
+        {
+          "source": "Holahan,C.K.(1988).",
+          "translation": "호라한, C.K."
+        },
+        {
+          "source": "Relationoflifegoalsatage70toactivity participation and health and psychological well-being among Terman’s gifted men and women.",
+          "translation": "활동 참여와 테르만의 재능 있는 남성과 여성들의 건강과 심리적 안녕감"
+        },
+        {
+          "source": "Psychology and Aging, 3, 286–291.",
+          "translation": "심리학과 노화, 3,286291."
+        },
+        {
+          "source": "Hollingshead, A. B. (1975).",
+          "translation": "홀링스헤드, A. B. (1975)."
+        },
+        {
+          "source": "Four factor index of social status.",
+          "translation": "사회적 지위의 네 가지 요인 인덱스"
+        },
+        {
+          "source": "Unpublished manuscript, Yale University, New Haven, CT.",
+          "translation": "출판되지 않은 필사본, 예일 대학교, 뉴헤븐, CT."
+        },
+        {
+          "source": "Hooker, K. (1992).",
+          "translation": "호커, K. (1992)."
+        },
+        {
+          "source": "Possible selves and perceived health in older adults and college students.",
+          "translation": "나이가 많은 성인과 대학생의 가능한 자기와 인식된 건강."
+        },
+        {
+          "source": "Journal of Gerontology: Psychological Sciences, 47, 85–95.",
+          "translation": "게론톨로지 저널: 심리학 과학, 47, 8595."
+        },
+        {
+          "source": "Hooker, K., & Kaus, C. R. (1992).",
+          "translation": "호커, K., & 카우스, C. R. (1992)."
+        },
+        {
+          "source": "Possible selves and health behaviors in later life.",
+          "translation": "나중에 가능한 자기와 건강 행동."
+        },
+        {
+          "source": "Journal of Aging and Health, 4, 390–411.",
+          "translation": "노화 와 건강 의 잡지, 4,390411."
+        },
+        {
+          "source": "Hooker, K., & Kaus, C. R. (1994).",
+          "translation": "호커, K., & Kaus, C. R. (1994)."
+        },
+        {
+          "source": "Health-related possible selves in young and middle adulthood.",
+          "translation": "어린 나이와 중장년기의 건강 관련 가능한 자기"
+        },
+        {
+          "source": "Psychology and Aging, 9, 126–133.",
+          "translation": "심리학과 노화, 9, 126133."
+        },
+        {
+          "source": "James, W. (1890).",
+          "translation": "제임스, W. (1890)."
+        },
+        {
+          "source": "Principles of psychology.",
+          "translation": "심리학의 원칙."
+        },
+        {
+          "source": "New York: Holt.",
+          "translation": "뉴욕: 홀트"
+        },
+        {
+          "source": "Lau, R. R., Hartman, K. A., & Ware, J. E. (1986).",
+          "translation": "라우, R. R., 하트먼, K. A., & 웨어, J. E. (1986)."
+        },
+        {
+          "source": "Health as a value: Methodological and theoretical considerations.",
+          "translation": "가치로서의 건강: 방법론적 및 이론적 고려 사항."
+        },
+        {
+          "source": "Health Psychology, 5, 25–43.",
+          "translation": "건강 심리학, 5, 2543."
+        },
+        {
+          "source": "Lerner, R. M. (1978).",
+          "translation": "레너, R.M. (1978)."
+        },
+        {
+          "source": "Nature, nurture, and dynamic interactionism.",
+          "translation": "자연, 육성, 그리고 역동적인 상호작용."
+        },
+        {
+          "source": "Human Development, 21, 1–20.",
+          "translation": "인적 발전, 21, 120."
+        },
+        {
+          "source": "Linville, P. W. (1985).",
+          "translation": "린빌, P.W. (1985)"
+        },
+        {
+          "source": "Self-complexity and affective extremity: Don’t put all of your eggs in one cognitive basket.",
+          "translation": "자기 복잡성 및 감정적 과잉: 모든 알을 하나의 인지 농구에 넣지 마십시오."
+        },
+        {
+          "source": "Social Cognition, 3, 94–120.",
+          "translation": "사회 인식, 3, 94120."
+        },
+        {
+          "source": "Linville, P. W. (1987).",
+          "translation": "린빌, P.W. (1987)."
+        },
+        {
+          "source": "Self-complexity as a cognitive buffer against stress-related illness and depression.",
+          "translation": "스트레스와 관련된 질병과 우울증에 대한 인지 부퍼로서 자기 복잡성"
+        },
+        {
+          "source": "Journal of Personality and Social Psychology, 52, 663–676.",
+          "translation": "개인성 및 사회심리학 학술지, 52, 663676."
+        },
+        {
+          "source": "Markus, H. R., & Herzog, A. R. (1992).",
+          "translation": "마커스, H. R., & 헤르츠고, A. R. (1992)."
+        },
+        {
+          "source": "The role of the self-concept in aging.",
+          "translation": "노화에 대한 자기 개념의 역할"
+        },
+        {
+          "source": "Annual Review of Gerontology and Geriatrics, 11, 110–143.",
+          "translation": "게론톨로지 및 게리아트릭의 연간 검토, 11, 110143."
+        },
+        {
+          "source": "CONTINUITY AND CHANGE IN POSSIBLE SELVES 243 Markus, H., & Kunda, Z. (1986).",
+          "translation": "지속 및 가능한 변화 243 Markus, H., & Kunda, Z. (1986)."
+        },
+        {
+          "source": "Stability and malleability of the self-concept.JournalofPersonalityandSocialPsychology,51,858–866.",
+          "translation": "자기 개념의 안정성 및 융합성."
+        },
+        {
+          "source": "Markus, H., & Nurius, P. (1986).",
+          "translation": "마커스, H., & 누리우스, P. (1986)."
+        },
+        {
+          "source": "Possible selves.",
+          "translation": "가능한 나들."
+        },
+        {
+          "source": "American Psychologist, 41, 954–969.",
+          "translation": "미국 심리학자, 41, 954~969."
+        },
+        {
+          "source": "Markus, H., & Ruvolo, A. (1989).",
+          "translation": "마커스, H., & 루볼로, A. (1989)."
+        },
+        {
+          "source": "Possible selves and motivation.",
+          "translation": "가능한 자기와 동기"
+        },
+        {
+          "source": "In L. A. Pervin (Ed.), Goal concepts in personality and social psychology (pp. 211–241).",
+          "translation": "LA 퍼빈 (편집) 에서 개인성과 사회 심리학의 목표 개념 (pp. 211241)."
+        },
+        {
+          "source": "New Haven, CT: Yale University Press.",
+          "translation": "뉴헤븐, CT: 예일 대학교 출판사."
+        },
+        {
+          "source": "McCrae, R. R., & Costa, P. T. (1988).",
+          "translation": "맥크레이, R. R., & 코스타, P. T. (1988)."
+        },
+        {
+          "source": "Age, personality, and the spontaneous self-concept.",
+          "translation": "나이, 성격, 그리고 자발적인 자존감"
+        },
+        {
+          "source": "Journal of Gerontology: Social Sciences, 43, 177–185.",
+          "translation": "게론톨로지 저널: 사회과학, 43, 177~185."
+        },
+        {
+          "source": "Oyserman, D., & Markus, H. (1990a).",
+          "translation": "오이스먼, D., & 마르쿠스, H. (1990a)."
+        },
+        {
+          "source": "Possible selves and delinquency.",
+          "translation": "잠재적인 자아와 범죄."
+        },
+        {
+          "source": "Journal of Personality and Social Psychology, 59, 112–125.",
+          "translation": "개인성 및 사회 심리학 학술지, 59, 112125."
+        },
+        {
+          "source": "Oyserman, D., & Markus, H. (1990b).",
+          "translation": "오이스먼, D., & 마르쿠스, H. (1990b)."
+        },
+        {
+          "source": "Possible selves in balance: Implications for delinquency.",
+          "translation": "균형 잡힌 가능한 자기: 범죄에 대한 영향"
+        },
+        {
+          "source": "Journal of Social Issues, 46, 141–157.",
+          "translation": "사회문제 학술지, 46, 141157."
+        },
+        {
+          "source": "Oyserman, D., & Saltz, E. (1993).",
+          "translation": "오이스먼, D., & 솔츠, E. (1993)."
+        },
+        {
+          "source": "Competence, delinquency, and attempts to attain possible selves.",
+          "translation": "능력, 범죄, 그리고 가능한 자기를 얻기 위한 시도."
+        },
+        {
+          "source": "Journal of Personality and Social Psychology, 65, 360–374.",
+          "translation": "개인성 및 사회심리학 학술지, 65, 360374."
+        },
+        {
+          "source": "Rogers, C. R. (1961).",
+          "translation": "로저스, C.R. (1961)."
+        },
+        {
+          "source": "On becoming a person.",
+          "translation": "사람이 되는 것에 대해"
+        },
+        {
+          "source": "Boston: Houghton Mifflin.",
+          "translation": "보스턴: 호튼 미플린"
+        },
+        {
+          "source": "Ryff, C. D. (1984).",
+          "translation": "라이프, C.D. (1984)."
+        },
+        {
+          "source": "Personality development from the inside: The subjective experience of change in adulthood and aging.",
+          "translation": "인격 발달: 성인이 되어서 나이를 먹으면서 일어나는 변화의 주관적 경험."
+        },
+        {
+          "source": "In P. B. Baltes & O. G. Brim, Jr. (Eds.), Life-span development and behavior (Vol. 6, pp. 243–279).",
+          "translation": "P. B. 발테스 & O. G. 브림, 주니어 (Eds.), 생활 기간 개발 및 행동 (Vol. 6, pp. 243279)."
+        },
+        {
+          "source": "Orlando, FL: Academic.",
+          "translation": "오랜도, 플로리다: 학문적."
+        },
+        {
+          "source": "Ryff, C. D. (1991).",
+          "translation": "리프, CD (1991)."
+        },
+        {
+          "source": "Possible selves in adulthood and old age: A tale of shifting horizons.",
+          "translation": "성인과 노년기의 가능한 자기: 변화하는 지평의 이야기."
+        },
+        {
+          "source": "Psychology and Aging, 6, 286–295.",
+          "translation": "심리학과 노화, 6,286295."
+        },
+        {
+          "source": "Sauer, W. J., & Warland, R. (1982).",
+          "translation": "소어, W. J., & 워랜드, R. (1982)."
+        },
+        {
+          "source": "Morale and life satisfaction.",
+          "translation": "도덕과 삶의 만족."
+        },
+        {
+          "source": "In D. J. Mangen & W. A. Peterson (Eds.), Research instruments in social gerontology: Vol.",
+          "translation": "D.J. 마겐 & W.A. 피터슨 (Ed.), 사회 게론톨로지 연구 도구: Vol."
+        },
+        {
+          "source": "1.",
+          "translation": "1."
+        },
+        {
+          "source": "Clinical and social psychology (pp. 195–240).",
+          "translation": "임상 및 사회 심리학 (pp. 195240)."
+        },
+        {
+          "source": "Minneapolis: University of Minnesota Press.",
+          "translation": "미니애폴리스: 미니애포스 대학교 출판사"
+        },
+        {
+          "source": "Troll, L. E., & Skaff, M. M. (1997).",
+          "translation": "트롤, L. E., & 스카프, M. M. (1997)."
+        },
+        {
+          "source": "Perceived continuity of self in very old age.",
+          "translation": "아주 늙은 나이에 자기의 연속성을 느꼈습니다."
+        },
+        {
+          "source": "Psychology and Aging, 12, 192–196.",
+          "translation": "심리학과 노화, 12, 192196."
+        },
+        {
+          "source": "Wallston, K. A., & Wallston, B. S. (1981).",
+          "translation": "월스턴, K. A., & 월스턴, B. S. (1981)."
+        },
+        {
+          "source": "Health locus of control scales.",
+          "translation": "통제 스케일의 건강 위치."
+        },
+        {
+          "source": "In H. Lefcourt (Ed.), Research with the locus of control construct (pp. 189–243).",
+          "translation": "H. Lefcourt (Ed.), 제어 구조의 위치와 함께 연구 (pp. 189243)."
+        },
+        {
+          "source": "New York: Academic.",
+          "translation": "뉴욕: 학문적."
+        },
+        {
+          "source": "Whitbourne, S. K. (1986).",
+          "translation": "위트본, S.K. (1986)."
+        },
+        {
+          "source": "The me I know: A study of adult identity.",
+          "translation": "내가 아는 나: 성인 정체성에 대한 연구"
+        },
+        {
+          "source": "New York: Springer-Verlag.",
+          "translation": "뉴욕: 스프링거-베라그"
+        },
+        {
+          "source": "Whitbourne, S. K. (1987).",
+          "translation": "위트본, S.K. (1987)."
+        },
+        {
+          "source": "Personality development in adulthood and old age: Relationships among identity style, health, and well-being.",
+          "translation": "성인과 노년기의 인격 발달: 정체성 스타일, 건강, 안녕감 사이의 관계"
+        },
+        {
+          "source": "In K. W. Schaie (Ed.), Annual review of gerontology and geriatrics (Vol. 7, pp. 189–216).",
+          "translation": "K. W. Schaie (편집) 에 게론톨로지 및 게리아트릭스의 연간 검토 (Vol. 7, pp. 189216)."
+        },
+        {
+          "source": "New York: Springer.",
+          "translation": "뉴욕: 스프링저"
+        },
+        {
+          "source": "Whitbourne, S. K. (1996).",
+          "translation": "위트본, S.K. (1996)."
+        },
+        {
+          "source": "The aging individual: Physical and psychological perspectives.",
+          "translation": "고령화 된 개인: 신체적, 심리적 관점"
+        },
+        {
+          "source": "New York: Springer.",
+          "translation": "뉴욕: 스프링저"
+        }
+      ],
+      "textQuality": "text"
+    }
+  ]
+}

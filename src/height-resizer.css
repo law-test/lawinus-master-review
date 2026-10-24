@@ -12,3 +12,6 @@
 .four-pane-app.view-hide-tools .thesis-toolbar-region,.four-pane-app.view-hide-tools .thesis-height-divider{display:none}
 @media(max-width:1199px){.height-resizer{height:10px;min-height:10px;flex-basis:10px}.four-pane-app .thesis-toolbar-region>.pane-toolbar{flex-wrap:nowrap;overflow-x:auto;white-space:nowrap}.four-pane-app .thesis-toolbar-region>.pane-toolbar>*{flex-shrink:0}}
 @media print{.height-resizer{display:none!important}.four-pane-app .app-header.resizable-header{height:auto;max-height:none;overflow:visible}.four-pane-app .thesis-toolbar-region{display:none}}
+
+.four-pane-app .app-header.resizable-header[data-height-zero=true]{padding-top:0;padding-bottom:0;border-top:0;border-bottom:0}
+.pane-resizer.at-limit{background:#c5a9b4}.pane-resizer.at-limit>span{height:56px;top:calc(50% - 28px);background:#701631}

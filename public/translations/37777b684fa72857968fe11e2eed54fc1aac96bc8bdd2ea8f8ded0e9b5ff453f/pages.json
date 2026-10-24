@@ -1,0 +1,1139 @@
+{
+  "referenceId": "ref-063",
+  "sourceId": "s-cite-37777b684fa72857968f",
+  "sourceSha256": "37777b684fa72857968fe11e2eed54fc1aac96bc8bdd2ea8f8ded0e9b5ff453f",
+  "pageCount": 12,
+  "translationType": "machine",
+  "engine": "NLLB-200 distilled 600M / CTranslate2",
+  "modelRevision": "f8d333a098d19b4fd9a8b18f94170487ad3f821d",
+  "pages": [
+    {
+      "page": 1,
+      "sourceText": "The possible selves construct is presented as a useful and\nlargely untapped perspective on adult learning. Special\nattention is given to the role of educational helping\nrelationships in fostering positive possible selves among\nadult learners.\nPossible Selves: An Adult Education\nPerspective\nMarsha Rossiter\nAdult education is about possibility. Financial self-sufficiency, personal\ngrowth, career advancement, empowerment, self-worth, and transformation\nare among the goals named by students and teachers alike in this field.\nThose goals are expressions of possibility: hope, expectation, potential.\nOur field is deeply rooted in the belief that learning and development are\never present, in actuality or potentiality, throughout every person’s life span.\nWe understand, as Dewey (1938) and Lindeman (1926/1961) and others\ndid, that education is not preparation for life; it is life. All lived experience\nis the classroom for continuous learning and growth. With Vaill (1996), we\nknow that learning is a way of being in the world that describes our capacity to respond constructively to the constant change in our lives. It is the\ncapacity to find the potential for learning in every new event and iteration\nof our environment. As we live, we learn our way into new possibilities for\nourselves.\nPossible Selves\nThe possible selves construct offers a useful and largely unexplored framework for understanding adult learning as the medium through which change,\ngrowth, and goal achievement occur throughout the life course. Introduced\nby Hazel Markus and Paula Nurius in 1986, possible selves refer to the futureoriented components of the self-concept. Possible selves are an individual’s\nconceptions of future selves, including the selves that are ideal and hoped for,\n5\n1\nNEW DIRECTIONS FOR ADULT AND CONTINUING EDUCATION, no. 114, Summer 2007 © 2007 Wiley Periodicals, Inc.\nPublished online in Wiley InterScience (www.interscience.wiley.com) • DOI: 10.1002/ace.252",
+      "translationText": "가능한 자기 구성은 성인 학습에 대한 유용하고 대체로 활용되지 않은 관점으로 제시됩니다.\n\n특히 교육적 도움을 주는 관계들이 성인 학습자들 사이에서 긍정적인 가능한 자기를 증진시키는 역할에 주의를 기울인다.\n\n가능한 자기: 성인 교육의 전망 마샤 로시터 성인 교육은 가능성에 관한 것입니다.\n\n재정적 자립, 개인적 성장, 경력 진출, 능력, 자존감, 변화 등이 이 분야에서 학생들과 교사들이 언급한 목표 중 하나입니다.\n\n그 목표들은 가능성의 표현입니다. 희망, 기대, 잠재력입니다.\n\n우리의 분야는 학습과 발달이 모든 사람의 생애 동안 항상 존재한다는 믿음에 깊이 뿌리를 두고 있습니다.\n\n우리는 듀이 (1938) 와 린드먼 (1926/1961) 와 다른 사람들처럼 교육이 삶에 대한 준비가 아니라 삶이라는 것을 이해합니다.\n\n모든 경험은 지속적인 학습과 성장을 위한 교실입니다.\n\nVaill (1996) 를 통해 우리는 학습이 우리 삶의 끊임없는 변화에 건설적으로 대응할 수 있는 우리의 능력을 설명하는 세상에서의 존재 방식이라는 것을 알고 있습니다.\n\n그것은 우리 환경의 모든 새로운 사건과 반복에서 학습의 잠재력을 찾는 능력입니다.\n\n우리가 살아가면서 우리는 새로운 가능성을 알게 됩니다.\n\n가능한 자기들 가능한 자기들 구성은 성인 학습을 이해하는 데 유용하고 대부분 탐구되지 않은 프레임워크를 제공하며 변화, 성장 및 목표 성취가 평생 이루어지는 매개체입니다.\n\n1986년 헤젤 마커스와 폴라 누리우스 (Hazel Markus and Paula Nurius) 에 의해 소개된, 가능한 자기는 자아 개념의 미래 지향적인 구성 요소를 가리킨다.\n\n가능한 자기는 미래의 자아에 대한 개인의 개념이며, 이상적이고 기대되는 자아를 포함하여, 5 1 성인 및 지속적인 교육에 대한 새로운 방향, 제 114, 여름 2007 © 2007 와일리 페리디칼스, Inc.\n\n위리 인터사이언스 (www.interscience.wiley.com) 에서 온라인에 게재 • DOI: 10.1002/ace.252",
+      "status": "translated",
+      "sourceTextSha256": "199a4632173d839d407b298f54a41496e1413b02b2f92563c928bdba7f8ab454",
+      "segments": [
+        {
+          "source": "The possible selves construct is presented as a useful and largely untapped perspective on adult learning.",
+          "translation": "가능한 자기 구성은 성인 학습에 대한 유용하고 대체로 활용되지 않은 관점으로 제시됩니다."
+        },
+        {
+          "source": "Special attention is given to the role of educational helping relationships in fostering positive possible selves among adult learners.",
+          "translation": "특히 교육적 도움을 주는 관계들이 성인 학습자들 사이에서 긍정적인 가능한 자기를 증진시키는 역할에 주의를 기울인다."
+        },
+        {
+          "source": "Possible Selves: An Adult Education Perspective Marsha Rossiter Adult education is about possibility.",
+          "translation": "가능한 자기: 성인 교육의 전망 마샤 로시터 성인 교육은 가능성에 관한 것입니다."
+        },
+        {
+          "source": "Financial self-sufficiency, personal growth, career advancement, empowerment, self-worth, and transformation are among the goals named by students and teachers alike in this field.",
+          "translation": "재정적 자립, 개인적 성장, 경력 진출, 능력, 자존감, 변화 등이 이 분야에서 학생들과 교사들이 언급한 목표 중 하나입니다."
+        },
+        {
+          "source": "Those goals are expressions of possibility: hope, expectation, potential.",
+          "translation": "그 목표들은 가능성의 표현입니다. 희망, 기대, 잠재력입니다."
+        },
+        {
+          "source": "Our field is deeply rooted in the belief that learning and development are ever present, in actuality or potentiality, throughout every person’s life span.",
+          "translation": "우리의 분야는 학습과 발달이 모든 사람의 생애 동안 항상 존재한다는 믿음에 깊이 뿌리를 두고 있습니다."
+        },
+        {
+          "source": "We understand, as Dewey (1938) and Lindeman (1926/1961) and others did, that education is not preparation for life; it is life.",
+          "translation": "우리는 듀이 (1938) 와 린드먼 (1926/1961) 와 다른 사람들처럼 교육이 삶에 대한 준비가 아니라 삶이라는 것을 이해합니다."
+        },
+        {
+          "source": "All lived experience is the classroom for continuous learning and growth.",
+          "translation": "모든 경험은 지속적인 학습과 성장을 위한 교실입니다."
+        },
+        {
+          "source": "With Vaill (1996), we know that learning is a way of being in the world that describes our capacity to respond constructively to the constant change in our lives.",
+          "translation": "Vaill (1996) 를 통해 우리는 학습이 우리 삶의 끊임없는 변화에 건설적으로 대응할 수 있는 우리의 능력을 설명하는 세상에서의 존재 방식이라는 것을 알고 있습니다."
+        },
+        {
+          "source": "It is the capacity to find the potential for learning in every new event and iteration of our environment.",
+          "translation": "그것은 우리 환경의 모든 새로운 사건과 반복에서 학습의 잠재력을 찾는 능력입니다."
+        },
+        {
+          "source": "As we live, we learn our way into new possibilities for ourselves.",
+          "translation": "우리가 살아가면서 우리는 새로운 가능성을 알게 됩니다."
+        },
+        {
+          "source": "Possible Selves The possible selves construct offers a useful and largely unexplored framework for understanding adult learning as the medium through which change, growth, and goal achievement occur throughout the life course.",
+          "translation": "가능한 자기들 가능한 자기들 구성은 성인 학습을 이해하는 데 유용하고 대부분 탐구되지 않은 프레임워크를 제공하며 변화, 성장 및 목표 성취가 평생 이루어지는 매개체입니다."
+        },
+        {
+          "source": "Introduced by Hazel Markus and Paula Nurius in 1986, possible selves refer to the futureoriented components of the self-concept.",
+          "translation": "1986년 헤젤 마커스와 폴라 누리우스 (Hazel Markus and Paula Nurius) 에 의해 소개된, 가능한 자기는 자아 개념의 미래 지향적인 구성 요소를 가리킨다."
+        },
+        {
+          "source": "Possible selves are an individual’s conceptions of future selves, including the selves that are ideal and hoped for, 5 1 NEW DIRECTIONS FOR ADULT AND CONTINUING EDUCATION, no. 114, Summer 2007 © 2007 Wiley Periodicals, Inc.",
+          "translation": "가능한 자기는 미래의 자아에 대한 개인의 개념이며, 이상적이고 기대되는 자아를 포함하여, 5 1 성인 및 지속적인 교육에 대한 새로운 방향, 제 114, 여름 2007 © 2007 와일리 페리디칼스, Inc."
+        },
+        {
+          "source": "Published online in Wiley InterScience (www.interscience.wiley.com) • DOI: 10.1002/ace.252",
+          "translation": "위리 인터사이언스 (www.interscience.wiley.com) 에서 온라인에 게재 • DOI: 10.1002/ace.252"
+        }
+      ],
+      "printed": "5",
+      "textQuality": "text"
+    },
+    {
+      "page": 2,
+      "sourceText": "6\nPOSSIBLE SELVES AND ADULT LEARNING\nas well as those possible selves that one fears or dreads. Although possible\nselves reflect a future orientation, they are closely connected with both past\nand present self-concept. Past self-representations are an influence on possible selves to the extent that the past self will be reactivated in certain situations. For example, a past self as an unsuccessful student will lead to a similar\nfuture self-representation when that individual enters an educational setting,\nbut it may not be an active component of the working self-concept in other\nsituations. Of course, some past selves are not intermittent as possible selves\nbut remain an active influence across the life span.\nPossible selves also function as a context for the interpretation of the\ncurrent self. That is, an individual gives a particular meaning and value to\nself-relevant events of the present in the light of particular hoped-for future\nselves. For example, the publication of a paper in a refereed journal would\nhave a different meaning for the pretenure assistant professor for whom an\nimportant possible self is tenured professor than it would for a professor\nemeritus for whom an important possible self is novelist. What is significant is not necessarily the achievement of a particular possible self, but\nrather that the presence of the possible self constitutes a backdrop or standard against which a current self-conceptualization is evaluated.\nThe idea of possible selves derives from a view of the self-concept\nas dynamic, complex, contextually interactive, and evolving. According to this\nview, an individual at any time holds an array of potential self-conceptions\nbased on her or his past experiences, broad sociocultural life context, and\nthe current situation. Those self-conceptions vary according to valence, temporal placement, level of elaboration, and accessibility (Markus and Nurius,\n1986). The working self-concept consists of that set of self-conceptions that\nare currently active in one’s thinking and may be dominated by positive or\nnegative possible selves at any particular time. It is important to note that\nan individual’s repertoire of possible selves is not just any assortment of roles\nor identities that one can imagine, but includes only those possible selves\nthat are psychologically accessible and personally meaningful. Current\nsocial comparisons, as well as an individual’s cultural and life context, are\nfactors in one’s assessment of what might be a possible self. Within that\nscope, one can select which possible selves one wishes to embrace and bring\nto actuality, and which possible selves one wishes to resist. As such, the\nconcept of possible selves encompasses both culturally determined and \nself-constructed aspects of the self.\nPossible selves can be understood as an essential link between selfconcept and motivation (Markus and Nurius, 1986). As representations of\nthe self in possible future states, they give form, specificity, direction, and\nimagery to an individual’s goals, aspirations, or fears (Markus and Nurius,\n1986). For example, a positive possible self for a student who aspires to earn\na degree will include vivid images of herself having achieved the goal.\nPerhaps she will envision herself at graduation, framing her diploma, or\naccepting a promotion at work. Through this imaging and elaboration,\nNew Directions for Adult and Continuing Education • DOI: 10.1002/ace",
+      "translationText": "6 가능 한 자인 과 성숙한 자인 과 사람 이 두려워 할 수 있는 자인.\n\n가능한 자기는 미래 지향을 반영하지만 과거와 현재의 자아 개념과 밀접하게 연결되어 있습니다.\n\n과거의 자기표현은 특정 상황에서 과거의 자아가 재활성화될 정도로 가능한 자기에 영향을 미친다.\n\n예를 들어, 실패한 학생으로서의 과거의 자아는 그 개인이 교육 환경에 들어갈 때 비슷한 미래의 자기표현을 초래할 것이지만 다른 상황에서 작업하는 자기 개념의 활성 구성 요소가 아닐 수 있습니다.\n\n물론, 과거의 어떤 자아들은 가능한 자기로서 간헐적이지는 않지만 평생 동안 활발한 영향을 미칩니다.\n\n가능한 자기들은 또한 현재의 자아에 대한 해석의 맥락으로 기능합니다.\n\n즉, 개인은 특정한 희망적인 미래의 자아의 빛에 따라 현재의 자기 관련 사건에 특별한 의미와 가치를 부여합니다.\n\n예를 들어, 판정된 학술지에 논문을 발표하는 것은 중요한 잠재적인 자아가 교수로 재직하는 교제 조교수에게 중요한 잠재적인 존재가 소설가인 교수 명예가 될 때와는 다른 의미를 갖습니다.\n\n중요한 것은 반드시 특정 가능한 자기를 성취하는 것이 아니라 가능한 자기의 존재가 현재의 자기 개념을 평가하는 배경이나 표준을 구성한다는 것입니다.\n\n가능한 자기에 대한 생각은 역동적이고 복잡하고 맥락적으로 상호작용적이며 진화하는 자아 개념의 관점에서 유래됩니다.\n\n이 견해에 따르면, 개인은 언제든지 자신의 과거 경험, 광범위한 사회문화적 삶의 맥락 및 현재의 상황에 따라 다양한 잠재적인 자기 개념을 가지고 있습니다.\n\n이러한 자기 인식은 발렌체, 시간적 배치, 고안 수준, 접근성 (Markus and Nurius, 1986) 에 따라 다릅니다.\n\n작동하는 자기 개념은 현재 자신의 생각에서 활동하고 있는 자기 개념의 집합으로 구성되어 있으며 특정 시간에 긍정적 또는 부정적인 가능한 자기가 지배할 수 있습니다.\n\n개인의 가능한 자기들의 레퍼토리는 상상할 수 있는 어떤 역할이나 정체성의 종류일 뿐 아니라 심리적으로 접근 가능하고 개인적으로 의미 있는 가능한 자기들만을 포함한다.\n\n현재의 사회적 비교와 개인의 문화와 삶의 맥락은 가능한 자기를 평가하는 요소입니다.\n\n그 범위 내에서, 어떤 가능한 자기를 받아들이고 현실로 구현하고 싶은지, 어떤 가능한 존재에 저항하고 싶은지 선택할 수 있습니다.\n\n이와 같이, 가능한 자기에 대한 개념은 문화적으로 결정된 것과 자아에 대한 자기구성된 측면을 모두 포함한다.\n\n가능한 자기는 자기 개념과 동기 사이의 본질적인 연결고리라고 이해할 수 있습니다 (마커스와 누리우스, 1986).\n\n가능한 미래의 상태에서 자아를 표현하는 것으로, 그들은 개인의 목표, 열망 또는 두려움에 형태, 특수성, 방향 및 이미지를 제공합니다 (마르쿠스와 누리우스, 1986).\n\n예를 들어, 학위를 취득하고자 하는 학생의 긍정적인 잠재적인 자아에는 목표를 달성한 자신의 생생한 이미지가 포함됩니다.\n\n그 는 졸업, 졸업 학위 를 준비 하거나 직장에서 승진 을 받아들이는 것 을 상상 할 수 있을 것 이다.\n\n이 영상 촬영 및 제작을 통해 성인 및 지속적인 교육에 대한 새로운 방향 • DOI: 10.1002/ace",
+      "status": "translated",
+      "sourceTextSha256": "d4bcad3cd73b5090316eb3e3a5f137243c896d81a8088b92d0f9d144a6089136",
+      "segments": [
+        {
+          "source": "6 POSSIBLE SELVES AND ADULT LEARNING as well as those possible selves that one fears or dreads.",
+          "translation": "6 가능 한 자인 과 성숙한 자인 과 사람 이 두려워 할 수 있는 자인."
+        },
+        {
+          "source": "Although possible selves reflect a future orientation, they are closely connected with both past and present self-concept.",
+          "translation": "가능한 자기는 미래 지향을 반영하지만 과거와 현재의 자아 개념과 밀접하게 연결되어 있습니다."
+        },
+        {
+          "source": "Past self-representations are an influence on possible selves to the extent that the past self will be reactivated in certain situations.",
+          "translation": "과거의 자기표현은 특정 상황에서 과거의 자아가 재활성화될 정도로 가능한 자기에 영향을 미친다."
+        },
+        {
+          "source": "For example, a past self as an unsuccessful student will lead to a similar future self-representation when that individual enters an educational setting, but it may not be an active component of the working self-concept in other situations.",
+          "translation": "예를 들어, 실패한 학생으로서의 과거의 자아는 그 개인이 교육 환경에 들어갈 때 비슷한 미래의 자기표현을 초래할 것이지만 다른 상황에서 작업하는 자기 개념의 활성 구성 요소가 아닐 수 있습니다."
+        },
+        {
+          "source": "Of course, some past selves are not intermittent as possible selves but remain an active influence across the life span.",
+          "translation": "물론, 과거의 어떤 자아들은 가능한 자기로서 간헐적이지는 않지만 평생 동안 활발한 영향을 미칩니다."
+        },
+        {
+          "source": "Possible selves also function as a context for the interpretation of the current self.",
+          "translation": "가능한 자기들은 또한 현재의 자아에 대한 해석의 맥락으로 기능합니다."
+        },
+        {
+          "source": "That is, an individual gives a particular meaning and value to self-relevant events of the present in the light of particular hoped-for future selves.",
+          "translation": "즉, 개인은 특정한 희망적인 미래의 자아의 빛에 따라 현재의 자기 관련 사건에 특별한 의미와 가치를 부여합니다."
+        },
+        {
+          "source": "For example, the publication of a paper in a refereed journal would have a different meaning for the pretenure assistant professor for whom an important possible self is tenured professor than it would for a professor emeritus for whom an important possible self is novelist.",
+          "translation": "예를 들어, 판정된 학술지에 논문을 발표하는 것은 중요한 잠재적인 자아가 교수로 재직하는 교제 조교수에게 중요한 잠재적인 존재가 소설가인 교수 명예가 될 때와는 다른 의미를 갖습니다."
+        },
+        {
+          "source": "What is significant is not necessarily the achievement of a particular possible self, but rather that the presence of the possible self constitutes a backdrop or standard against which a current self-conceptualization is evaluated.",
+          "translation": "중요한 것은 반드시 특정 가능한 자기를 성취하는 것이 아니라 가능한 자기의 존재가 현재의 자기 개념을 평가하는 배경이나 표준을 구성한다는 것입니다."
+        },
+        {
+          "source": "The idea of possible selves derives from a view of the self-concept as dynamic, complex, contextually interactive, and evolving.",
+          "translation": "가능한 자기에 대한 생각은 역동적이고 복잡하고 맥락적으로 상호작용적이며 진화하는 자아 개념의 관점에서 유래됩니다."
+        },
+        {
+          "source": "According to this view, an individual at any time holds an array of potential self-conceptions based on her or his past experiences, broad sociocultural life context, and the current situation.",
+          "translation": "이 견해에 따르면, 개인은 언제든지 자신의 과거 경험, 광범위한 사회문화적 삶의 맥락 및 현재의 상황에 따라 다양한 잠재적인 자기 개념을 가지고 있습니다."
+        },
+        {
+          "source": "Those self-conceptions vary according to valence, temporal placement, level of elaboration, and accessibility (Markus and Nurius, 1986).",
+          "translation": "이러한 자기 인식은 발렌체, 시간적 배치, 고안 수준, 접근성 (Markus and Nurius, 1986) 에 따라 다릅니다."
+        },
+        {
+          "source": "The working self-concept consists of that set of self-conceptions that are currently active in one’s thinking and may be dominated by positive or negative possible selves at any particular time.",
+          "translation": "작동하는 자기 개념은 현재 자신의 생각에서 활동하고 있는 자기 개념의 집합으로 구성되어 있으며 특정 시간에 긍정적 또는 부정적인 가능한 자기가 지배할 수 있습니다."
+        },
+        {
+          "source": "It is important to note that an individual’s repertoire of possible selves is not just any assortment of roles or identities that one can imagine, but includes only those possible selves that are psychologically accessible and personally meaningful.",
+          "translation": "개인의 가능한 자기들의 레퍼토리는 상상할 수 있는 어떤 역할이나 정체성의 종류일 뿐 아니라 심리적으로 접근 가능하고 개인적으로 의미 있는 가능한 자기들만을 포함한다."
+        },
+        {
+          "source": "Current social comparisons, as well as an individual’s cultural and life context, are factors in one’s assessment of what might be a possible self.",
+          "translation": "현재의 사회적 비교와 개인의 문화와 삶의 맥락은 가능한 자기를 평가하는 요소입니다."
+        },
+        {
+          "source": "Within that scope, one can select which possible selves one wishes to embrace and bring to actuality, and which possible selves one wishes to resist.",
+          "translation": "그 범위 내에서, 어떤 가능한 자기를 받아들이고 현실로 구현하고 싶은지, 어떤 가능한 존재에 저항하고 싶은지 선택할 수 있습니다."
+        },
+        {
+          "source": "As such, the concept of possible selves encompasses both culturally determined and self-constructed aspects of the self.",
+          "translation": "이와 같이, 가능한 자기에 대한 개념은 문화적으로 결정된 것과 자아에 대한 자기구성된 측면을 모두 포함한다."
+        },
+        {
+          "source": "Possible selves can be understood as an essential link between selfconcept and motivation (Markus and Nurius, 1986).",
+          "translation": "가능한 자기는 자기 개념과 동기 사이의 본질적인 연결고리라고 이해할 수 있습니다 (마커스와 누리우스, 1986)."
+        },
+        {
+          "source": "As representations of the self in possible future states, they give form, specificity, direction, and imagery to an individual’s goals, aspirations, or fears (Markus and Nurius, 1986).",
+          "translation": "가능한 미래의 상태에서 자아를 표현하는 것으로, 그들은 개인의 목표, 열망 또는 두려움에 형태, 특수성, 방향 및 이미지를 제공합니다 (마르쿠스와 누리우스, 1986)."
+        },
+        {
+          "source": "For example, a positive possible self for a student who aspires to earn a degree will include vivid images of herself having achieved the goal.",
+          "translation": "예를 들어, 학위를 취득하고자 하는 학생의 긍정적인 잠재적인 자아에는 목표를 달성한 자신의 생생한 이미지가 포함됩니다."
+        },
+        {
+          "source": "Perhaps she will envision herself at graduation, framing her diploma, or accepting a promotion at work.",
+          "translation": "그 는 졸업, 졸업 학위 를 준비 하거나 직장에서 승진 을 받아들이는 것 을 상상 할 수 있을 것 이다."
+        },
+        {
+          "source": "Through this imaging and elaboration, New Directions for Adult and Continuing Education • DOI: 10.1002/ace",
+          "translation": "이 영상 촬영 및 제작을 통해 성인 및 지속적인 교육에 대한 새로운 방향 • DOI: 10.1002/ace"
+        }
+      ],
+      "printed": "6",
+      "textQuality": "text"
+    },
+    {
+      "page": 3,
+      "sourceText": "7\nAN ADULT EDUCATION PERSPECTIVE\npositive possible self-constructions serve to bridge the distance between the\ncurrent state and a desired end state. Markus and Ruvolo (1989) suggest that\npossible selves are the “cognitive/affective elements that incite and direct one’s\nself-relevant actions” and as such bring us “phenomenologically very close to\nthe actual thoughts and feelings that individuals experience as they are in the\nprocess of motivated behavior” (p. 217). The possible selves construct views\nthe self system as central to motivated, goal-directed behavior. The ability to\nconstruct a well-elaborated possible self around a particular goal—that is, the\nability to envision oneself performing or having achieved the goal—leads to\ngoal-directed action. Put another way, the likelihood of achieving a desired\nend depends in part on the ability to keep the associated successful possible\nself as an operative component of the working self-concept (Markus and\nRuvolo, 1989; Lee and Oyserman, Chapter Four, this volume).\nAs an introduction to possible selves, the following section offers a brief\nreview of research that relates possible selves to areas that are of particular\ninterest to adult educators. Following that review is a discussion of the connection between the possible selves of adult learners and their relationships\nwith teachers, advisers, and mentors.\nPossible Selves and Life Span Development. One strand of investigation over the past two decades has looked at possible selves across the life\nspan and their relationship to indicators of psychological well being. Markus\nand Nurius (1986) established the link between an individual’s operative\npossible selves and current affective states. More recently, Cameron’s\nresearch (1999) indicates that possible selves are influenced by social group\nmembership, and psychological well-being in turn is related to the perceived\ngroup-derived efficacy—the belief that group membership will help one\nachieve a hoped-for self. A study of possible selves among four different age\ngroups by Cross and Markus (1991) confirmed that possible selves are operative across the life span but provided evidence that the number of possible\nselves that individuals envision declines with age. Not surprisingly, there are\ndifferences in the content or focus of possible selves across age groups.\nYounger adults’ possible selves are more likely to center on occupation and\nfamily, while older people tend to name possible selves having to do with\nphysical and health issues. In addition, the older groups reported a lower\nsense of efficacy than younger groups with respect to bringing into actuality a hoped-for self or preventing a feared possible self. This is probably due\nto the nature of the possible selves named by different age groups (Cross\nand Markus, 1991). That is, the possible selves mentioned by older persons\n(for example, being widowed) tended to be less controllable than those\nnamed by younger persons (for example, getting a 3.5 grade point average).\nOlder adults, however, do not report lower life satisfaction, according\nto Ryff (1991). Her work offers evidence that the primary mode of selfevaluation shifts across the life span from social comparison to temporal\ncomparison. She investigated temporal comparisons of perceived gains and\nlosses in life of three adult age groups. The important point, with respect to\nNew Directions for Adult and Continuing Education • DOI: 10.1002/ace",
+      "translationText": "7 성인의 교육 관점 긍정적 인 가능한 자기 건설은 현재의 상태와 원하는 최종 상태 사이의 거리를 다는 역할을 한다.\n\n마르쿠스와 루볼로 (1989) 는 가능한 자기들이 자신의 자기 관련 행동을 촉발하고 지시하는 인지/관리적 요소라고 제안하고, 이를 통해 우리는 동기를 부여한 행동 과정에서 개인이 경험하는 실제 생각과 감정에 매우 가깝게 페네모놀로지적으로 접근한다 (pp. 217).\n\n가능한 자기 구성체는 자기 시스템을 동기 부여, 목표 지향적 행동의 중심으로 간주합니다.\n\n특정한 목표를 중심으로 잘 고안된 가능한 자기를 구성할 수 있는 능력, 즉 목표를 수행하거나 달성한 것을 상상할 수 있는 능력이 목표 중심의 행동으로 이어진다.\n\n다시 말해서, 원하는 목적을 달성하는 확률은 부분적으로 작동하는 자아 개념의 운영 구성 요소로 관련된 성공적인 가능한 자기를 유지하는 능력에 달려 있습니다 (Markus and Ruvolo, 1989; Lee and Oyserman, Chapter Four, this volume).\n\n가능한 자기에 대한 소개로, 다음 섹션에서는 성인 교육자에게 특히 관심있는 분야와 가능한 자기를 관련한 연구를 간략하게 검토합니다.\n\n그 검토에 이어 성인 학습자의 잠재적인 자아와 교사, 조언자, 멘토와의 관계에 대한 논의가 진행됩니다.\n\n가능한 자기와 생활 기간 개발.\n\n지난 20년 동안 한 가지 연구 분야는 수명 전반에 걸쳐 가능한 자기와 심리적 행복의 지표와의 관계를 조사했습니다.\n\n마커스와 누리우스 (1986) 는 개인의 활동적 가능한 자기와 현재의 정서 상태 사이의 연관성을 제시했다.\n\n최근, 캐머런의 연구 (1999) 는 가능한 자기들이 사회적 집단의 구성에 의해 영향을 받는다는 것을 나타내고 있으며, 심리적 안녕감은 결과적으로 집단에서 유래된 효능과 관련이 있습니다. 집단의 구성은 기대되는 자아를 달성하는 데 도움이 될 것이라는 믿음.\n\n크로스와 마커스 (1991) 의 4개의 다른 연령대에서 가능한 자기들에 대한 연구는 가능한 자기들이 평생 동안 활동한다는 것을 확인했지만 개인이 상상하는 가능한 자기들의 수가 나이가 들어감에 따라 감소한다는 증거를 제공했다.\n\n놀랍게도, 각 연령층에 걸쳐 가능한 자기들의 내용이나 집중에 대한 차이가 있습니다.\n\n젊은 성인들은 직업과 가족에 더 집중할 가능성이 높으며, 나이가 많은 사람들은 신체 및 건강 문제에 관한 가능한 자기를 명칭하는 경향이 있습니다.\n\n또한, 나이가 많은 그룹들은 기대되는 자아를 실현하거나 두려워하는 잠재적인 자아를 방지하는 것에 대해 젊은 그룹보다 낮은 효과감을보고했습니다.\n\n이것은 아마도 다른 연령층에 의해 이름 붙여진 가능한 자기들의 특성 때문일 것이다 (Cross 및 Markus, 1991).\n\n즉, 노인들에 의해 언급되는 가능한 자기 (예를 들어, 부부가 되는 것) 는 젊은 사람들에 의해 언급되는 것보다 덜 통제할 수 있는 경향이 있었다 (예를 들어 3.5점 평균을 얻었다).\n\n그러나 나이 든 성인들은 라이프 (1991) 에 따르면 삶의 만족도가 낮아지는 것으로 보고되지 않는다.\n\n그녀의 작업은 자기 평가의 주요 방식이 사회 비교에서 시간적 비교로 평생 동안 변화한다는 증거를 제공합니다.\n\n그녀는 성인 연령대 3개 집단의 삶에 대한 인식된 이익과 손실의 시간적 비교를 조사했습니다.\n\n성인 및 지속적인 교육에 대한 새로운 방향에 관한 중요한 점 • DOI: 10.1002/ace",
+      "status": "translated",
+      "sourceTextSha256": "c1df0b2459e30a0f11ee3bb84afa7514dc528f484652325074b5b83a5fd0d57e",
+      "segments": [
+        {
+          "source": "7 AN ADULT EDUCATION PERSPECTIVE positive possible self-constructions serve to bridge the distance between the current state and a desired end state.",
+          "translation": "7 성인의 교육 관점 긍정적 인 가능한 자기 건설은 현재의 상태와 원하는 최종 상태 사이의 거리를 다는 역할을 한다."
+        },
+        {
+          "source": "Markus and Ruvolo (1989) suggest that possible selves are the “cognitive/affective elements that incite and direct one’s self-relevant actions” and as such bring us “phenomenologically very close to the actual thoughts and feelings that individuals experience as they are in the process of motivated behavior” (p. 217).",
+          "translation": "마르쿠스와 루볼로 (1989) 는 가능한 자기들이 자신의 자기 관련 행동을 촉발하고 지시하는 인지/관리적 요소라고 제안하고, 이를 통해 우리는 동기를 부여한 행동 과정에서 개인이 경험하는 실제 생각과 감정에 매우 가깝게 페네모놀로지적으로 접근한다 (pp. 217)."
+        },
+        {
+          "source": "The possible selves construct views the self system as central to motivated, goal-directed behavior.",
+          "translation": "가능한 자기 구성체는 자기 시스템을 동기 부여, 목표 지향적 행동의 중심으로 간주합니다."
+        },
+        {
+          "source": "The ability to construct a well-elaborated possible self around a particular goal—that is, the ability to envision oneself performing or having achieved the goal—leads to goal-directed action.",
+          "translation": "특정한 목표를 중심으로 잘 고안된 가능한 자기를 구성할 수 있는 능력, 즉 목표를 수행하거나 달성한 것을 상상할 수 있는 능력이 목표 중심의 행동으로 이어진다."
+        },
+        {
+          "source": "Put another way, the likelihood of achieving a desired end depends in part on the ability to keep the associated successful possible self as an operative component of the working self-concept (Markus and Ruvolo, 1989; Lee and Oyserman, Chapter Four, this volume).",
+          "translation": "다시 말해서, 원하는 목적을 달성하는 확률은 부분적으로 작동하는 자아 개념의 운영 구성 요소로 관련된 성공적인 가능한 자기를 유지하는 능력에 달려 있습니다 (Markus and Ruvolo, 1989; Lee and Oyserman, Chapter Four, this volume)."
+        },
+        {
+          "source": "As an introduction to possible selves, the following section offers a brief review of research that relates possible selves to areas that are of particular interest to adult educators.",
+          "translation": "가능한 자기에 대한 소개로, 다음 섹션에서는 성인 교육자에게 특히 관심있는 분야와 가능한 자기를 관련한 연구를 간략하게 검토합니다."
+        },
+        {
+          "source": "Following that review is a discussion of the connection between the possible selves of adult learners and their relationships with teachers, advisers, and mentors.",
+          "translation": "그 검토에 이어 성인 학습자의 잠재적인 자아와 교사, 조언자, 멘토와의 관계에 대한 논의가 진행됩니다."
+        },
+        {
+          "source": "Possible Selves and Life Span Development.",
+          "translation": "가능한 자기와 생활 기간 개발."
+        },
+        {
+          "source": "One strand of investigation over the past two decades has looked at possible selves across the life span and their relationship to indicators of psychological well being.",
+          "translation": "지난 20년 동안 한 가지 연구 분야는 수명 전반에 걸쳐 가능한 자기와 심리적 행복의 지표와의 관계를 조사했습니다."
+        },
+        {
+          "source": "Markus and Nurius (1986) established the link between an individual’s operative possible selves and current affective states.",
+          "translation": "마커스와 누리우스 (1986) 는 개인의 활동적 가능한 자기와 현재의 정서 상태 사이의 연관성을 제시했다."
+        },
+        {
+          "source": "More recently, Cameron’s research (1999) indicates that possible selves are influenced by social group membership, and psychological well-being in turn is related to the perceived group-derived efficacy—the belief that group membership will help one achieve a hoped-for self.",
+          "translation": "최근, 캐머런의 연구 (1999) 는 가능한 자기들이 사회적 집단의 구성에 의해 영향을 받는다는 것을 나타내고 있으며, 심리적 안녕감은 결과적으로 집단에서 유래된 효능과 관련이 있습니다. 집단의 구성은 기대되는 자아를 달성하는 데 도움이 될 것이라는 믿음."
+        },
+        {
+          "source": "A study of possible selves among four different age groups by Cross and Markus (1991) confirmed that possible selves are operative across the life span but provided evidence that the number of possible selves that individuals envision declines with age.",
+          "translation": "크로스와 마커스 (1991) 의 4개의 다른 연령대에서 가능한 자기들에 대한 연구는 가능한 자기들이 평생 동안 활동한다는 것을 확인했지만 개인이 상상하는 가능한 자기들의 수가 나이가 들어감에 따라 감소한다는 증거를 제공했다."
+        },
+        {
+          "source": "Not surprisingly, there are differences in the content or focus of possible selves across age groups.",
+          "translation": "놀랍게도, 각 연령층에 걸쳐 가능한 자기들의 내용이나 집중에 대한 차이가 있습니다."
+        },
+        {
+          "source": "Younger adults’ possible selves are more likely to center on occupation and family, while older people tend to name possible selves having to do with physical and health issues.",
+          "translation": "젊은 성인들은 직업과 가족에 더 집중할 가능성이 높으며, 나이가 많은 사람들은 신체 및 건강 문제에 관한 가능한 자기를 명칭하는 경향이 있습니다."
+        },
+        {
+          "source": "In addition, the older groups reported a lower sense of efficacy than younger groups with respect to bringing into actuality a hoped-for self or preventing a feared possible self.",
+          "translation": "또한, 나이가 많은 그룹들은 기대되는 자아를 실현하거나 두려워하는 잠재적인 자아를 방지하는 것에 대해 젊은 그룹보다 낮은 효과감을보고했습니다."
+        },
+        {
+          "source": "This is probably due to the nature of the possible selves named by different age groups (Cross and Markus, 1991).",
+          "translation": "이것은 아마도 다른 연령층에 의해 이름 붙여진 가능한 자기들의 특성 때문일 것이다 (Cross 및 Markus, 1991)."
+        },
+        {
+          "source": "That is, the possible selves mentioned by older persons (for example, being widowed) tended to be less controllable than those named by younger persons (for example, getting a 3.5 grade point average).",
+          "translation": "즉, 노인들에 의해 언급되는 가능한 자기 (예를 들어, 부부가 되는 것) 는 젊은 사람들에 의해 언급되는 것보다 덜 통제할 수 있는 경향이 있었다 (예를 들어 3.5점 평균을 얻었다)."
+        },
+        {
+          "source": "Older adults, however, do not report lower life satisfaction, according to Ryff (1991).",
+          "translation": "그러나 나이 든 성인들은 라이프 (1991) 에 따르면 삶의 만족도가 낮아지는 것으로 보고되지 않는다."
+        },
+        {
+          "source": "Her work offers evidence that the primary mode of selfevaluation shifts across the life span from social comparison to temporal comparison.",
+          "translation": "그녀의 작업은 자기 평가의 주요 방식이 사회 비교에서 시간적 비교로 평생 동안 변화한다는 증거를 제공합니다."
+        },
+        {
+          "source": "She investigated temporal comparisons of perceived gains and losses in life of three adult age groups.",
+          "translation": "그녀는 성인 연령대 3개 집단의 삶에 대한 인식된 이익과 손실의 시간적 비교를 조사했습니다."
+        },
+        {
+          "source": "The important point, with respect to New Directions for Adult and Continuing Education • DOI: 10.1002/ace",
+          "translation": "성인 및 지속적인 교육에 대한 새로운 방향에 관한 중요한 점 • DOI: 10.1002/ace"
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 4,
+      "sourceText": "8\nPOSSIBLE SELVES AND ADULT LEARNING\nlife satisfaction, is that the discrepancy between ideal hoped-for possible\nselves and actual selves decreases with age. In Ryff’s study, the oldest age\ngroup showed the least discrepancy, due primarily to lowered ideal selves.\nThey tend to criticize themselves less harshly and accept imperfections more\nreadily into their best hoped-for selves. Moreover, the activities to support\nthe achievement of hoped-for possible selves are more developed and implemented by older adults than by younger (Hooker, 1999). The evidence also\nsuggests that possible selves in later life are more individually motivated and\nless governed by normative or cultural expectations. Nevertheless, a recent\nlongitudinal study of possible selves among older people reveals a high level\nof continuity across a five-year period. That is, both positive and negative\npossible selves tended to be stable rather than unstable (Frazier, Hooker,\nJohnson, and Kaus, 2000). As King and Hicks (Chapter Three, this volume)\nexplain, well-being is related to the ability to let go of lost possible selves,\nas well as to the psychological availability of positive new possible selves.\nPossible Selves and Career Development. Another area of research\nhas applied the possible selves construct to career development and transition. Ibarra’s research (1999) has explored the processes through which people adapt to and grow into new career roles. She uses the idea of provisional\nselves to describe temporary ways of being that people try out as they move\nfrom their current capacities and self-conceptualizations into those associated with the new role. It is a process of negotiation, not strictly adaptation,\nas persons attempt to find the fit between their own repertoire and the\ndemands and expectations of the new role. Ibarra’s research points to a\nmodel of adaptation as the construction of possible selves, characterized by\nthree areas of activity: (1) observing role models to develop a repertoire of\npossible selves, (2) experimenting with provisional selves, and (3) evaluating the new self conceptions against internal and external standards. Possible selves serve to guide an individual’s social comparisons, self-assessment,\nand observational and experiential learning in the transition. As Ibarra\n(2003) notes, “During a career transition, our possible selves spur us to find\nrole models whom we’d like to become (and whom to avoid becoming) \nand help us to benchmark our progress toward those ideals. The more vivid\nthese possible selves become, the more they motivate us to change. Why?\nBecause we strive to become more and more like our ideals, and we scare\nourselves out of becoming our most dreaded selves” (p. 38).\nThe possible selves construct has been fruitfully applied in the practice\nof career counseling (Meara, Davis, and Robinson, 1997; Meara, Day, Chalk,\nand Phelps, 1995). Martz (2001) suggests that counselors can increase their\nempathic response to the client by shifting perspectives among the hoped-for,\nexpected, and feared possible selves. Possible selves encourage the exploration\nof various perspectives on the self; the client benefits through observation of\nthe counselor’s shift among different perspectives. Plimmer, Smith, Duggan,\nand Englert (1999–2000) point out that the possible selves approach in career\nNew Directions for Adult and Continuing Education • DOI: 10.1002/ace",
+      "translationText": "8 가능 한 자아 와 성인 의 생활 만족 을 배우게 되는 것 은, 이상적 인 희망적 인 자아 와 실제적 인 자아 사이 의 차이 는 나이가 들수록 줄어드는 것 이다.\n\n라이프의 연구에서 가장 오래된 연령 그룹은 주로 이상적인 자아를 낮추기 때문에 가장 적은 차이를 보였다.\n\n그들은 자기 자신을 덜 엄격하게 비판하고 자신의 가장 잘 기대되는 자아에 불완전함을 더 쉽게 받아들이는 경향이 있다.\n\n또한, 희망적 인 가능한 자기를 성취하는 것을 지원하는 활동은 젊은 사람들보다 나이가 많은 성인들에 의해 더 많이 개발되고 실행된다 (Hooker, 1999).\n\n증거는 또한 나중에 가능한 자기들이 더 개별적으로 동기를 부여하고 규범적 또는 문화적 기대에 의해 덜 지배된다는 것을 암시합니다.\n\n그럼에도 불구하고, 최근 연령층의 가능한 자기에 대한 연장 연구에서는 5년 동안 높은 수준의 연속성을 나타냅니다.\n\n즉, 긍정적인 것과 부정적인 가능한 자기들은 불안정한 것이 아니라 안정적인 경향이 있었다 (Frazier, Hooker, Johnson, and Kaus, 2000).\n\n킹과 힙스 (이 부문 3장) 이 설명하는 것처럼, 안녕감은 잃어버린 가능한 자기를 풀어내는 능력과, 또한 긍정적인 새로운 가능한 자기의 심리적 가용성과 관련이 있습니다.\n\n가능한 자기와 경력 발전.\n\n연구의 또 다른 영역은 경력 발전과 전환에 가능한 자기 구조를 적용했습니다.\n\nIbarra의 연구 (1999) 는 사람들이 새로운 경력 역할에 적응하고 성장하는 과정을 탐구했습니다.\n\n그녀는 일시적인 자아에 대한 아이디어를 사용하여 사람들이 현재의 능력과 자기 개념에서 새로운 역할과 관련된 것으로 이동하면서 시도하는 일시적인 존재 방식을 설명합니다.\n\n그것은 협상 과정이고, 엄격히 적응하는 과정이 아니라, 개인들은 자신의 레퍼토리와 새로운 역할의 요구와 기대에 맞게 맞추기를 시도합니다.\n\n이바라 연구에서는 가능한 자기를 구성하는 적응 모델에 대해 지적하고 있으며, 그 특징은 세 가지 활동 영역입니다. (1) 가능한 자기들의 레퍼토리를 개발하기 위해 롤모델을 관찰하는 것, (2) 임시 자아와 실험하는 것, (3) 내부 및 외부 표준에 따라 새로운 자아 개념을 평가하는 것.\n\n가능한 자기는 전환 과정에서 개인의 사회적 비교, 자기 평가, 관찰 및 경험학습을 안내하는 역할을 합니다.\n\n이바라 (2003) 는 \"직업 전환 기간 동안, 우리의 잠재적인 자아들은 우리가 되고 싶은 (그리고 되고 싶지 않은) 롤 모델들을 찾아내는데 우리를 자극하고, 그러한 이상으로 향하는 우리의 진전을 기준으로 파악하는 데 도움이 된다. 이러한 잠재적인 자아들이 생생하게 될수록, 그들이 우리를 변화시키는데 더 많은 동기를 부여한다. 왜? 왜냐하면 우리는 점점 더 우리의 이상과 비슷해지기 위해 노력하기 때문에, 그리고 우리가 가장 두려워하는 자아가 될 것을 두려워하기 때문입니다\". (pp. 38).\n\n가능한 자기 구성은 경력 상담의 실천에 성공적으로 적용되었습니다 (Meara, Davis, and Robinson, 1997; Meara, Day, Chalk, and Phelps, 1995).\n\n마르츠 (2001) 는 상담자가 기대, 예상, 그리고 두려워하는 가능한 자기들 사이에서 관점을 변경함으로써 클라이언트에 대한 공감적인 반응을 증가시킬 수 있다고 제안한다.\n\n가능한 자기들은 자기에 대한 다양한 관점을 탐구하는 것을 장려합니다. 클라이언트는 다양한 관점들 사이의 상담자의 전환을 관찰함으로써 이익을 얻습니다.\n\nPlimmer, Smith, Duggan, and Englert (1999~2000) 는 경력에서의 가능한 자기 접근이",
+      "status": "translated",
+      "sourceTextSha256": "89711463f4d02f36eca7d565d5d2cb56cbd644043a711f1c81662e03c4bdefe7",
+      "segments": [
+        {
+          "source": "8 POSSIBLE SELVES AND ADULT LEARNING life satisfaction, is that the discrepancy between ideal hoped-for possible selves and actual selves decreases with age.",
+          "translation": "8 가능 한 자아 와 성인 의 생활 만족 을 배우게 되는 것 은, 이상적 인 희망적 인 자아 와 실제적 인 자아 사이 의 차이 는 나이가 들수록 줄어드는 것 이다."
+        },
+        {
+          "source": "In Ryff’s study, the oldest age group showed the least discrepancy, due primarily to lowered ideal selves.",
+          "translation": "라이프의 연구에서 가장 오래된 연령 그룹은 주로 이상적인 자아를 낮추기 때문에 가장 적은 차이를 보였다."
+        },
+        {
+          "source": "They tend to criticize themselves less harshly and accept imperfections more readily into their best hoped-for selves.",
+          "translation": "그들은 자기 자신을 덜 엄격하게 비판하고 자신의 가장 잘 기대되는 자아에 불완전함을 더 쉽게 받아들이는 경향이 있다."
+        },
+        {
+          "source": "Moreover, the activities to support the achievement of hoped-for possible selves are more developed and implemented by older adults than by younger (Hooker, 1999).",
+          "translation": "또한, 희망적 인 가능한 자기를 성취하는 것을 지원하는 활동은 젊은 사람들보다 나이가 많은 성인들에 의해 더 많이 개발되고 실행된다 (Hooker, 1999)."
+        },
+        {
+          "source": "The evidence also suggests that possible selves in later life are more individually motivated and less governed by normative or cultural expectations.",
+          "translation": "증거는 또한 나중에 가능한 자기들이 더 개별적으로 동기를 부여하고 규범적 또는 문화적 기대에 의해 덜 지배된다는 것을 암시합니다."
+        },
+        {
+          "source": "Nevertheless, a recent longitudinal study of possible selves among older people reveals a high level of continuity across a five-year period.",
+          "translation": "그럼에도 불구하고, 최근 연령층의 가능한 자기에 대한 연장 연구에서는 5년 동안 높은 수준의 연속성을 나타냅니다."
+        },
+        {
+          "source": "That is, both positive and negative possible selves tended to be stable rather than unstable (Frazier, Hooker, Johnson, and Kaus, 2000).",
+          "translation": "즉, 긍정적인 것과 부정적인 가능한 자기들은 불안정한 것이 아니라 안정적인 경향이 있었다 (Frazier, Hooker, Johnson, and Kaus, 2000)."
+        },
+        {
+          "source": "As King and Hicks (Chapter Three, this volume) explain, well-being is related to the ability to let go of lost possible selves, as well as to the psychological availability of positive new possible selves.",
+          "translation": "킹과 힙스 (이 부문 3장) 이 설명하는 것처럼, 안녕감은 잃어버린 가능한 자기를 풀어내는 능력과, 또한 긍정적인 새로운 가능한 자기의 심리적 가용성과 관련이 있습니다."
+        },
+        {
+          "source": "Possible Selves and Career Development.",
+          "translation": "가능한 자기와 경력 발전."
+        },
+        {
+          "source": "Another area of research has applied the possible selves construct to career development and transition.",
+          "translation": "연구의 또 다른 영역은 경력 발전과 전환에 가능한 자기 구조를 적용했습니다."
+        },
+        {
+          "source": "Ibarra’s research (1999) has explored the processes through which people adapt to and grow into new career roles.",
+          "translation": "Ibarra의 연구 (1999) 는 사람들이 새로운 경력 역할에 적응하고 성장하는 과정을 탐구했습니다."
+        },
+        {
+          "source": "She uses the idea of provisional selves to describe temporary ways of being that people try out as they move from their current capacities and self-conceptualizations into those associated with the new role.",
+          "translation": "그녀는 일시적인 자아에 대한 아이디어를 사용하여 사람들이 현재의 능력과 자기 개념에서 새로운 역할과 관련된 것으로 이동하면서 시도하는 일시적인 존재 방식을 설명합니다."
+        },
+        {
+          "source": "It is a process of negotiation, not strictly adaptation, as persons attempt to find the fit between their own repertoire and the demands and expectations of the new role.",
+          "translation": "그것은 협상 과정이고, 엄격히 적응하는 과정이 아니라, 개인들은 자신의 레퍼토리와 새로운 역할의 요구와 기대에 맞게 맞추기를 시도합니다."
+        },
+        {
+          "source": "Ibarra’s research points to a model of adaptation as the construction of possible selves, characterized by three areas of activity: (1) observing role models to develop a repertoire of possible selves, (2) experimenting with provisional selves, and (3) evaluating the new self conceptions against internal and external standards.",
+          "translation": "이바라 연구에서는 가능한 자기를 구성하는 적응 모델에 대해 지적하고 있으며, 그 특징은 세 가지 활동 영역입니다. (1) 가능한 자기들의 레퍼토리를 개발하기 위해 롤모델을 관찰하는 것, (2) 임시 자아와 실험하는 것, (3) 내부 및 외부 표준에 따라 새로운 자아 개념을 평가하는 것."
+        },
+        {
+          "source": "Possible selves serve to guide an individual’s social comparisons, self-assessment, and observational and experiential learning in the transition.",
+          "translation": "가능한 자기는 전환 과정에서 개인의 사회적 비교, 자기 평가, 관찰 및 경험학습을 안내하는 역할을 합니다."
+        },
+        {
+          "source": "As Ibarra (2003) notes, “During a career transition, our possible selves spur us to find role models whom we’d like to become (and whom to avoid becoming) and help us to benchmark our progress toward those ideals. The more vivid these possible selves become, the more they motivate us to change. Why? Because we strive to become more and more like our ideals, and we scare ourselves out of becoming our most dreaded selves” (p. 38).",
+          "translation": "이바라 (2003) 는 \"직업 전환 기간 동안, 우리의 잠재적인 자아들은 우리가 되고 싶은 (그리고 되고 싶지 않은) 롤 모델들을 찾아내는데 우리를 자극하고, 그러한 이상으로 향하는 우리의 진전을 기준으로 파악하는 데 도움이 된다. 이러한 잠재적인 자아들이 생생하게 될수록, 그들이 우리를 변화시키는데 더 많은 동기를 부여한다. 왜? 왜냐하면 우리는 점점 더 우리의 이상과 비슷해지기 위해 노력하기 때문에, 그리고 우리가 가장 두려워하는 자아가 될 것을 두려워하기 때문입니다\". (pp. 38)."
+        },
+        {
+          "source": "The possible selves construct has been fruitfully applied in the practice of career counseling (Meara, Davis, and Robinson, 1997; Meara, Day, Chalk, and Phelps, 1995).",
+          "translation": "가능한 자기 구성은 경력 상담의 실천에 성공적으로 적용되었습니다 (Meara, Davis, and Robinson, 1997; Meara, Day, Chalk, and Phelps, 1995)."
+        },
+        {
+          "source": "Martz (2001) suggests that counselors can increase their empathic response to the client by shifting perspectives among the hoped-for, expected, and feared possible selves.",
+          "translation": "마르츠 (2001) 는 상담자가 기대, 예상, 그리고 두려워하는 가능한 자기들 사이에서 관점을 변경함으로써 클라이언트에 대한 공감적인 반응을 증가시킬 수 있다고 제안한다."
+        },
+        {
+          "source": "Possible selves encourage the exploration of various perspectives on the self; the client benefits through observation of the counselor’s shift among different perspectives.",
+          "translation": "가능한 자기들은 자기에 대한 다양한 관점을 탐구하는 것을 장려합니다. 클라이언트는 다양한 관점들 사이의 상담자의 전환을 관찰함으로써 이익을 얻습니다."
+        },
+        {
+          "source": "Plimmer, Smith, Duggan, and Englert (1999–2000) point out that the possible selves approach in career New Directions for Adult and Continuing Education • DOI: 10.1002/ace",
+          "translation": "Plimmer, Smith, Duggan, and Englert (1999~2000) 는 경력에서의 가능한 자기 접근이"
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 5,
+      "sourceText": "9\nAN ADULT EDUCATION PERSPECTIVE\ncounseling is effective because it “encourages a long term perspective, aids in\nthe development of the self concept, provides information on relationships\nbetween the self and the outer world, and emphasizes the future rather than\nthe past” (p. 87). (Plimmer and Schmidt expand on those findings in Chapter Six, this volume.)\nIn a related vein, the possible selves perspective has been applied to\nprofessional development (Fletcher 2000). Building on the work of Ruvolo\nand Markus (1992), Fletcher has explored the uses of visualization by mentors of preservice teachers as a means of stimulating the development of\npositive professional possible selves among the mentees. Encouraging the\nteachers to envision teaching situations, both past and future, and to mentally rehearse strategies for successfully responding to those situations\nenables them to develop toward their hoped-for professional selves. In\nChapter Seven of this volume, Fletcher discusses her work with teachers\nusing visualization in the mentoring relationship as a means to elaborate\nprofessional possible selves. Finally, the possible selves perspective has been\napplied also to issues of gender and race in connection with career choice\n(Lips, 2000; Segal, DeMeis, Wood, and Smith, 2001). In Chapter Five of this\nvolume, Lips offers important insights related to gender influences on academic and professional possible selves.\nPossible Selves and the Helping Relationship \nin Adult Education\nMost of the possible selves research to date has not focused specifically on\nadult learners or adult education. However, in my work, I have conducted\nsome preliminary exploration of the ways in which teaching and mentoring\nrelationships in adult education influence the possible selves of returning\nadult college students (Rossiter, 2004). To set the stage for the discussions\nof possible selves in subsequent chapters, this section describes some key\ninsights from that work. Beginning with the recognition that adult teaching\nand learning are relational activities (Daloz, 1986; Brookfield, 1991; Rossiter,\n1999) and with the understanding that returning adult students are often in\na period of transition in their careers or personal lives (Aslanian, 2001; \nKasworm, Polson, and Fishback, 2002), two conclusions seem clear. First,\nmany adult learners are in the process of exploring new possibilities for\nthemselves, and second, teachers, mentors, and advisers are in a pivotal role\nto facilitate their exploration. With those assumptions, the purpose of my\nstudy was to gain deeper understanding of the impact of educational helping\nrelationships on adult students’ repertoire of possible selves. This qualitative\nstudy was limited in scope and therefore must be considered in that light,\nbut it suggests three primary interfaces between an adult learner’s interactions\nwith educational helpers (teachers, mentors, and advisers) and their positive\npossible selves. In the following sections, I briefly discuss each of the three\nNew Directions for Adult and Continuing Education • DOI: 10.1002/ace",
+      "translationText": "9 성인 교육 전망적 상담 은 효과적 인 이유 는, 장기적 인 관점을 장려 하고, 자기 의 개념 을 발전 시키며, 자기 와 외부 세계 의 관계 에 관한 정보 를 제공 하고, 과거 보다 미래 를 강조 하기 때문 이다 (페이지 87).\n\n(플리머 와 슈미트 는 이 책 6장 에서 그 연구 를 더 자세히 설명 합니다.)\n\n이와 관련해서, 가능한 자기 관점은 직업발전에 적용되었습니다 (Fletcher 2000).\n\nRuvolo와 Markus (1992) 의 연구를 바탕으로, Fletcher는 Mentors의 시각화 사용법을 연구하여 Mentors의 상호작용을 통해 Mentors의 긍정적인 직업적 잠재적인 자아의 발전을 촉진하는 수단으로 연구하였다.\n\n교사 들 이 과거 와 미래 모두 의 교육 상황 을 상상 하고 그러한 상황 에 성공적으로 대처 하기 위한 전략 을 정신 으로 연습 하는 것 을 격려 하는 것 은 자신 들 의 희망적 인 전문적 인 자아 를 향해 발전 할 수 있게 해 준다.\n\n이 권의 일곱 번째 장에서, 플레처는 전문적인 가능한 자기를 정리한 수단으로 멘토링 관계에서 시각화를 사용하여 교사들과의 작업을 논의합니다.\n\n마지막으로, 가능한 자기 관점은 경력 선택과 관련하여 성별과 인종 문제에도 적용되었습니다 (Lips, 2000; Segal, DeMeis, Wood, and Smith, 2001).\n\n이 권의 다섯 번째 장에서, 리프스는 학문적이고 전문적인 가능한 자기에 대한 성별 영향과 관련된 중요한 통찰력을 제공합니다.\n\n가능한 자기와 성인 교육의 도움을 주는 관계 현재까지 가능한 자기 연구의 대부분은 성인 학습자나 성인 교육에 특별히 초점을 맞추지 않았습니다.\n\n그러나, 내 작업에서, 나는 성인 교육의 교수 및 멘토링 관계들이 성인 대학 재귀 학생들의 가능한 자기에 영향을 미치는 방법에 대한 몇 가지 사전 탐구를 수행했습니다 (Rossiter, 2004).\n\n다음 장에서 가능한 자기에 대한 논의의 발판을 마련하기 위해, 이 섹션에서는 그 작업에서 몇 가지 주요 통찰력을 설명합니다.\n\n성인 교육과 학습이 관계적인 활동이라는 인식 (Daloz, 1986; Brookfield, 1991; Rossiter, 1999) 과 복귀하는 성인 학생들은 종종 경력 또는 개인 생활의 전환 시기를 겪고 있다는 이해 (Aslanian, 2001; Kasworm, Polson, and Fishback, 2002), 두 가지 결론은 분명합니다.\n\n첫째, 많은 성인 학습자들은 스스로 새로운 가능성을 탐구하는 과정에 있으며 둘째, 교사, 멘토, 조언자들은 그들의 탐구를 촉진하는 핵심적인 역할을 합니다.\n\n이러한 가정들을 바탕으로 제 연구의 목적은 교육적 도움의 관계들이 성인 학생들의 잠재적인 자아들의 레퍼토리에 미치는 영향에 대한 더 깊은 이해를 얻는 것이었습니다.\n\n이 질적 연구는 범위가 제한되어 따라서 그러한 관점에서 고려되어야 하지만 성인 학습자의 교육 보조인 (교사, 멘토 및 조언자) 와 그들의 긍정적 가능한 자기 사이의 세 가지 주요 인터페이스를 제안합니다.\n\n다음 섹션에서는 성인 및 지속적인 교육에 대한 세 가지 새로운 방향 중 하나를 간략하게 논의합니다.",
+      "status": "translated",
+      "sourceTextSha256": "36974854bc8b801f4eeb3fab3515abe406658f1d64fcd1e2ef349c165cff0ed0",
+      "segments": [
+        {
+          "source": "9 AN ADULT EDUCATION PERSPECTIVE counseling is effective because it “encourages a long term perspective, aids in the development of the self concept, provides information on relationships between the self and the outer world, and emphasizes the future rather than the past” (p. 87).",
+          "translation": "9 성인 교육 전망적 상담 은 효과적 인 이유 는, 장기적 인 관점을 장려 하고, 자기 의 개념 을 발전 시키며, 자기 와 외부 세계 의 관계 에 관한 정보 를 제공 하고, 과거 보다 미래 를 강조 하기 때문 이다 (페이지 87)."
+        },
+        {
+          "source": "(Plimmer and Schmidt expand on those findings in Chapter Six, this volume.)",
+          "translation": "(플리머 와 슈미트 는 이 책 6장 에서 그 연구 를 더 자세히 설명 합니다.)"
+        },
+        {
+          "source": "In a related vein, the possible selves perspective has been applied to professional development (Fletcher 2000).",
+          "translation": "이와 관련해서, 가능한 자기 관점은 직업발전에 적용되었습니다 (Fletcher 2000)."
+        },
+        {
+          "source": "Building on the work of Ruvolo and Markus (1992), Fletcher has explored the uses of visualization by mentors of preservice teachers as a means of stimulating the development of positive professional possible selves among the mentees.",
+          "translation": "Ruvolo와 Markus (1992) 의 연구를 바탕으로, Fletcher는 Mentors의 시각화 사용법을 연구하여 Mentors의 상호작용을 통해 Mentors의 긍정적인 직업적 잠재적인 자아의 발전을 촉진하는 수단으로 연구하였다."
+        },
+        {
+          "source": "Encouraging the teachers to envision teaching situations, both past and future, and to mentally rehearse strategies for successfully responding to those situations enables them to develop toward their hoped-for professional selves.",
+          "translation": "교사 들 이 과거 와 미래 모두 의 교육 상황 을 상상 하고 그러한 상황 에 성공적으로 대처 하기 위한 전략 을 정신 으로 연습 하는 것 을 격려 하는 것 은 자신 들 의 희망적 인 전문적 인 자아 를 향해 발전 할 수 있게 해 준다."
+        },
+        {
+          "source": "In Chapter Seven of this volume, Fletcher discusses her work with teachers using visualization in the mentoring relationship as a means to elaborate professional possible selves.",
+          "translation": "이 권의 일곱 번째 장에서, 플레처는 전문적인 가능한 자기를 정리한 수단으로 멘토링 관계에서 시각화를 사용하여 교사들과의 작업을 논의합니다."
+        },
+        {
+          "source": "Finally, the possible selves perspective has been applied also to issues of gender and race in connection with career choice (Lips, 2000; Segal, DeMeis, Wood, and Smith, 2001).",
+          "translation": "마지막으로, 가능한 자기 관점은 경력 선택과 관련하여 성별과 인종 문제에도 적용되었습니다 (Lips, 2000; Segal, DeMeis, Wood, and Smith, 2001)."
+        },
+        {
+          "source": "In Chapter Five of this volume, Lips offers important insights related to gender influences on academic and professional possible selves.",
+          "translation": "이 권의 다섯 번째 장에서, 리프스는 학문적이고 전문적인 가능한 자기에 대한 성별 영향과 관련된 중요한 통찰력을 제공합니다."
+        },
+        {
+          "source": "Possible Selves and the Helping Relationship in Adult Education Most of the possible selves research to date has not focused specifically on adult learners or adult education.",
+          "translation": "가능한 자기와 성인 교육의 도움을 주는 관계 현재까지 가능한 자기 연구의 대부분은 성인 학습자나 성인 교육에 특별히 초점을 맞추지 않았습니다."
+        },
+        {
+          "source": "However, in my work, I have conducted some preliminary exploration of the ways in which teaching and mentoring relationships in adult education influence the possible selves of returning adult college students (Rossiter, 2004).",
+          "translation": "그러나, 내 작업에서, 나는 성인 교육의 교수 및 멘토링 관계들이 성인 대학 재귀 학생들의 가능한 자기에 영향을 미치는 방법에 대한 몇 가지 사전 탐구를 수행했습니다 (Rossiter, 2004)."
+        },
+        {
+          "source": "To set the stage for the discussions of possible selves in subsequent chapters, this section describes some key insights from that work.",
+          "translation": "다음 장에서 가능한 자기에 대한 논의의 발판을 마련하기 위해, 이 섹션에서는 그 작업에서 몇 가지 주요 통찰력을 설명합니다."
+        },
+        {
+          "source": "Beginning with the recognition that adult teaching and learning are relational activities (Daloz, 1986; Brookfield, 1991; Rossiter, 1999) and with the understanding that returning adult students are often in a period of transition in their careers or personal lives (Aslanian, 2001; Kasworm, Polson, and Fishback, 2002), two conclusions seem clear.",
+          "translation": "성인 교육과 학습이 관계적인 활동이라는 인식 (Daloz, 1986; Brookfield, 1991; Rossiter, 1999) 과 복귀하는 성인 학생들은 종종 경력 또는 개인 생활의 전환 시기를 겪고 있다는 이해 (Aslanian, 2001; Kasworm, Polson, and Fishback, 2002), 두 가지 결론은 분명합니다."
+        },
+        {
+          "source": "First, many adult learners are in the process of exploring new possibilities for themselves, and second, teachers, mentors, and advisers are in a pivotal role to facilitate their exploration.",
+          "translation": "첫째, 많은 성인 학습자들은 스스로 새로운 가능성을 탐구하는 과정에 있으며 둘째, 교사, 멘토, 조언자들은 그들의 탐구를 촉진하는 핵심적인 역할을 합니다."
+        },
+        {
+          "source": "With those assumptions, the purpose of my study was to gain deeper understanding of the impact of educational helping relationships on adult students’ repertoire of possible selves.",
+          "translation": "이러한 가정들을 바탕으로 제 연구의 목적은 교육적 도움의 관계들이 성인 학생들의 잠재적인 자아들의 레퍼토리에 미치는 영향에 대한 더 깊은 이해를 얻는 것이었습니다."
+        },
+        {
+          "source": "This qualitative study was limited in scope and therefore must be considered in that light, but it suggests three primary interfaces between an adult learner’s interactions with educational helpers (teachers, mentors, and advisers) and their positive possible selves.",
+          "translation": "이 질적 연구는 범위가 제한되어 따라서 그러한 관점에서 고려되어야 하지만 성인 학습자의 교육 보조인 (교사, 멘토 및 조언자) 와 그들의 긍정적 가능한 자기 사이의 세 가지 주요 인터페이스를 제안합니다."
+        },
+        {
+          "source": "In the following sections, I briefly discuss each of the three New Directions for Adult and Continuing Education • DOI: 10.1002/ace",
+          "translation": "다음 섹션에서는 성인 및 지속적인 교육에 대한 세 가지 새로운 방향 중 하나를 간략하게 논의합니다."
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 6,
+      "sourceText": "10\nPOSSIBLE SELVES AND ADULT LEARNING\nand share the voices of adult learners, whose words bring into focus the\npower and process of the development of possible selves.\nNew Possibilities. First, educational helping relationships can be the\nsource of new positive possible selves for adult students. Some participants\nreported that interactions with teachers and mentors were, in their experience, the point of origin for a possible self as they became aware of new\noptions for themselves. Sometimes a comment or suggestion from a teacher\nplanted the seed for an entirely new possibility that the student had not previously considered. One student, for example, explained how one of her\nteachers introduced her to the possibility of becoming an audiologist:\nWhen I initially went back to school, I thought well maybe I’ll try, like, to be\na teacher—a biology teacher. I love the sciences; I thought, great, I love kids.\nSo I thought well that will work. So I took a lot of science classes and . . . my\nbiology professor at that time said, “Look, you’re, you’ve got maybe three\nwrong out of all these exams you’ve taken. You’re doing great. What are you\ndoing? What are you going to do with your life?” And I, I was like well I\nthought I’d go back to school and be a biology teacher. He’s like, “You know\nI’m a teacher.” And he goes, “And it’s great, but I think there’s more for you.”\n. . . He didn’t think I would, I would meet my potential. . . .\nSo he wanted me to, to check out a few um, science-related fields. And\nhe mentioned physical therapy, and he mentioned, um—he had just had a\nhearing test done across the way, here on campus—and said check out this\ndepartment, the audiology and speech. He mentioned a few at that time, but\nI don’t remember them. They weren’t an interest to me, so I don’t remember.\nBut physical therapy I respect, but I don’t, I know I couldn’t do the\nphysics. I didn’t do well in physics in high school. . . . It was like I didn’t get\nit, so I thought I’m never going to pass it in college if I didn’t get it in high\nschool. So as much as I thought that would be a really neat field to get into I,\nI didn’t think I could, I think it was above me. Oh, so I thought, oh okay, and\nso I went across the way [to the audiology program office] and met the professor there. \nThis student had never before considered this possibility, but the\nteacher’s enthusiasm, knowledge, and encouragement motivated her to\ninvestigate this as a potential career. His suggestion was, of course, not sufficient to create this possible self for the learner, but it was a necessary component to opening the way to a new option for her. She discards the physical\ntherapist possible self as not feasible. She feels it is “above her.” But the\naudiologist possible self does seem possible to her. When I talked with her,\nshe was near completion of her baccalaureate degree and on her way to a\ngraduate program in audiology.\nIn other students’ experiences, an educator’s support can reawaken and\nreactivate a goal that the learner earlier embraced but considered unattainable.\nNew Directions for Adult and Continuing Education • DOI: 10.1002/ace",
+      "translationText": "10 잠재적인 자아와 성숙한 자아를 배웁니다 그리고 성인 학습자의 목소리를 공유합니다.\n\n새로운 가능성은\n\n첫째, 교육적 도움의 관계는 성인 학생들에게 새로운 긍정적 인 가능한 자기의 원천이 될 수 있습니다.\n\n일부 참가자들은 교사와 멘토와의 상호작용이 자신의 경험에 따라 새로운 선택지를 알게 되면서 가능한 자기의 기원점이 되었다고 보고했습니다.\n\n때때로 교사의 의견이나 제안은 학생이 이전에 고려하지 않은 완전히 새로운 가능성을 심어줍니다.\n\n예를 들어 한 학생은 교사 한 명이 자신에게 청각전문가가 될 가능성을 어떻게 알려 주었는지를 설명하였다. “처음 학교로 돌아갔을 때에는, 글쎄요, 교사 같은 걸 한번 해 볼까 생각했어요. 생물 교사 말이에요.”\n\n저는 과학을 좋아합니다. 저는 아이들을 사랑한다고 생각했습니다.\n\n그래서 저는 그것이 효과가 있을 것이라고 생각했습니다.\n\n그래서 저는 많은 과학 수업을 받았습니다. 그 당시의 생물학 교수님이 제게 말했습니다. \"이번 시험 중 3번은 틀렸어요. 정말 잘하고 있어요. 지금 뭘 하고 있어요?\n\n저는 학교로 돌아가서 생물학 교사가 되겠다고 생각했습니다.\n\n그는, \"나는 선생님인 줄 알잖아\".\n\n그리고 그는 이렇게 말합니다. \"좋아요, 하지만 더 많은 것이 있다고 생각합니다.\n\n. . 그래서 그는 제가 과학과 관련된 몇 가지 분야를 살펴보고 싶었습니다.\n\n그는 물리치료에 대해 언급했고, 그는 방금 캠퍼스 반대편에서 청각 검사를 받았다고 언급했습니다. 그리고 그는 이 부처, 오디오 및 연설을 확인하라고 말했습니다.\n\n그는 그 당시 몇 가지를 언급했지만, 나는 그들을 기억하지 않습니다.\n\n그들은 저에게 관심이 없었기 때문에 기억이 안납니다.\n\n하지만 물리치료는 존경하지만 그렇지 않습니다. 물리학을 할 수 없다는 걸 압니다.\n\n고등학교 때 물리학은 잘 못했어요.\n\n. . 저는 고등학교에서 배우지 못했을 때 대학에서 합격할 수 없다고 생각했습니다.\n\n그래서 제가 생각했듯이, 그것이 정말 깔끔한 분야가 될 것 같지만, 저는 그렇게 할 수 없다고 생각했습니다. 저는 그것이 제 위에 있다고 생각합니다.\n\n오, 그래서 저는, 오, 괜찮아요, 그래서 전 그 길을 건너가 [음파학 프로그램 사무실]에 가서 그곳에서 교수님을 만났습니다.\n\n이 학생은 이전에 이 가능성을 고려한 적이 없었지만, 선생님의 열망과 지식, 그리고 격려는 그녀를 잠재적인 경력으로 조사하도록 동원했습니다.\n\n그의 제안은 물론 학습자에게 이러한 가능한 자기를 창조하는 데 충분하지 않았지만 그녀에게 새로운 선택의 길을 열어주는 데 필요한 구성요소였습니다.\n\n그녀는 물리치료사의 가능한 자기를 실현가능하지 않다고 배척합니다.\n\n그녀는 그것이 그녀 위에 있다고 느낀다.\n\n하지만 가능한 오디오로건은 그녀에게 가능해 보인다.\n\n제가 그녀와 이야기했을 때, 그녀는 학사 학위를 마치고 음주학 대학원에 가는 중이었습니다.\n\n다른 학생들의 경험에서, 교육자의 지원은 학습자가 이전에 포용했지만 달성할 수 없다고 생각했던 목표를 다시 깨우고 다시 활성화시킬 수 있습니다.\n\n성인 및 지속적인 교육에 대한 새로운 방향 • DOI: 10.1002/ace",
+      "status": "translated",
+      "sourceTextSha256": "bc0a4d4e642a1836ec62e13e890a6c52aa9bcf88010b9b9f42227a2d81d12c2a",
+      "segments": [
+        {
+          "source": "10 POSSIBLE SELVES AND ADULT LEARNING and share the voices of adult learners, whose words bring into focus the power and process of the development of possible selves.",
+          "translation": "10 잠재적인 자아와 성숙한 자아를 배웁니다 그리고 성인 학습자의 목소리를 공유합니다."
+        },
+        {
+          "source": "New Possibilities.",
+          "translation": "새로운 가능성은"
+        },
+        {
+          "source": "First, educational helping relationships can be the source of new positive possible selves for adult students.",
+          "translation": "첫째, 교육적 도움의 관계는 성인 학생들에게 새로운 긍정적 인 가능한 자기의 원천이 될 수 있습니다."
+        },
+        {
+          "source": "Some participants reported that interactions with teachers and mentors were, in their experience, the point of origin for a possible self as they became aware of new options for themselves.",
+          "translation": "일부 참가자들은 교사와 멘토와의 상호작용이 자신의 경험에 따라 새로운 선택지를 알게 되면서 가능한 자기의 기원점이 되었다고 보고했습니다."
+        },
+        {
+          "source": "Sometimes a comment or suggestion from a teacher planted the seed for an entirely new possibility that the student had not previously considered.",
+          "translation": "때때로 교사의 의견이나 제안은 학생이 이전에 고려하지 않은 완전히 새로운 가능성을 심어줍니다."
+        },
+        {
+          "source": "One student, for example, explained how one of her teachers introduced her to the possibility of becoming an audiologist: When I initially went back to school, I thought well maybe I’ll try, like, to be a teacher—a biology teacher.",
+          "translation": "예를 들어 한 학생은 교사 한 명이 자신에게 청각전문가가 될 가능성을 어떻게 알려 주었는지를 설명하였다. “처음 학교로 돌아갔을 때에는, 글쎄요, 교사 같은 걸 한번 해 볼까 생각했어요. 생물 교사 말이에요.”",
+          "reviewed": true
+        },
+        {
+          "source": "I love the sciences; I thought, great, I love kids.",
+          "translation": "저는 과학을 좋아합니다. 저는 아이들을 사랑한다고 생각했습니다."
+        },
+        {
+          "source": "So I thought well that will work.",
+          "translation": "그래서 저는 그것이 효과가 있을 것이라고 생각했습니다."
+        },
+        {
+          "source": "So I took a lot of science classes and . . . my biology professor at that time said, “Look, you’re, you’ve got maybe three wrong out of all these exams you’ve taken. You’re doing great. What are you doing? What are you going to do with your life?”",
+          "translation": "그래서 저는 많은 과학 수업을 받았습니다. 그 당시의 생물학 교수님이 제게 말했습니다. \"이번 시험 중 3번은 틀렸어요. 정말 잘하고 있어요. 지금 뭘 하고 있어요?"
+        },
+        {
+          "source": "And I, I was like well I thought I’d go back to school and be a biology teacher.",
+          "translation": "저는 학교로 돌아가서 생물학 교사가 되겠다고 생각했습니다."
+        },
+        {
+          "source": "He’s like, “You know I’m a teacher.”",
+          "translation": "그는, \"나는 선생님인 줄 알잖아\"."
+        },
+        {
+          "source": "And he goes, “And it’s great, but I think there’s more for you.” . . . He didn’t think I would, I would meet my potential.",
+          "translation": "그리고 그는 이렇게 말합니다. \"좋아요, 하지만 더 많은 것이 있다고 생각합니다."
+        },
+        {
+          "source": ". . . So he wanted me to, to check out a few um, science-related fields.",
+          "translation": ". . 그래서 그는 제가 과학과 관련된 몇 가지 분야를 살펴보고 싶었습니다."
+        },
+        {
+          "source": "And he mentioned physical therapy, and he mentioned, um—he had just had a hearing test done across the way, here on campus—and said check out this department, the audiology and speech.",
+          "translation": "그는 물리치료에 대해 언급했고, 그는 방금 캠퍼스 반대편에서 청각 검사를 받았다고 언급했습니다. 그리고 그는 이 부처, 오디오 및 연설을 확인하라고 말했습니다."
+        },
+        {
+          "source": "He mentioned a few at that time, but I don’t remember them.",
+          "translation": "그는 그 당시 몇 가지를 언급했지만, 나는 그들을 기억하지 않습니다."
+        },
+        {
+          "source": "They weren’t an interest to me, so I don’t remember.",
+          "translation": "그들은 저에게 관심이 없었기 때문에 기억이 안납니다."
+        },
+        {
+          "source": "But physical therapy I respect, but I don’t, I know I couldn’t do the physics.",
+          "translation": "하지만 물리치료는 존경하지만 그렇지 않습니다. 물리학을 할 수 없다는 걸 압니다."
+        },
+        {
+          "source": "I didn’t do well in physics in high school.",
+          "translation": "고등학교 때 물리학은 잘 못했어요."
+        },
+        {
+          "source": ". . . It was like I didn’t get it, so I thought I’m never going to pass it in college if I didn’t get it in high school.",
+          "translation": ". . 저는 고등학교에서 배우지 못했을 때 대학에서 합격할 수 없다고 생각했습니다."
+        },
+        {
+          "source": "So as much as I thought that would be a really neat field to get into I, I didn’t think I could, I think it was above me.",
+          "translation": "그래서 제가 생각했듯이, 그것이 정말 깔끔한 분야가 될 것 같지만, 저는 그렇게 할 수 없다고 생각했습니다. 저는 그것이 제 위에 있다고 생각합니다."
+        },
+        {
+          "source": "Oh, so I thought, oh okay, and so I went across the way [to the audiology program office] and met the professor there.",
+          "translation": "오, 그래서 저는, 오, 괜찮아요, 그래서 전 그 길을 건너가 [음파학 프로그램 사무실]에 가서 그곳에서 교수님을 만났습니다."
+        },
+        {
+          "source": "This student had never before considered this possibility, but the teacher’s enthusiasm, knowledge, and encouragement motivated her to investigate this as a potential career.",
+          "translation": "이 학생은 이전에 이 가능성을 고려한 적이 없었지만, 선생님의 열망과 지식, 그리고 격려는 그녀를 잠재적인 경력으로 조사하도록 동원했습니다."
+        },
+        {
+          "source": "His suggestion was, of course, not sufficient to create this possible self for the learner, but it was a necessary component to opening the way to a new option for her.",
+          "translation": "그의 제안은 물론 학습자에게 이러한 가능한 자기를 창조하는 데 충분하지 않았지만 그녀에게 새로운 선택의 길을 열어주는 데 필요한 구성요소였습니다."
+        },
+        {
+          "source": "She discards the physical therapist possible self as not feasible.",
+          "translation": "그녀는 물리치료사의 가능한 자기를 실현가능하지 않다고 배척합니다."
+        },
+        {
+          "source": "She feels it is “above her.”",
+          "translation": "그녀는 그것이 그녀 위에 있다고 느낀다."
+        },
+        {
+          "source": "But the audiologist possible self does seem possible to her.",
+          "translation": "하지만 가능한 오디오로건은 그녀에게 가능해 보인다."
+        },
+        {
+          "source": "When I talked with her, she was near completion of her baccalaureate degree and on her way to a graduate program in audiology.",
+          "translation": "제가 그녀와 이야기했을 때, 그녀는 학사 학위를 마치고 음주학 대학원에 가는 중이었습니다."
+        },
+        {
+          "source": "In other students’ experiences, an educator’s support can reawaken and reactivate a goal that the learner earlier embraced but considered unattainable.",
+          "translation": "다른 학생들의 경험에서, 교육자의 지원은 학습자가 이전에 포용했지만 달성할 수 없다고 생각했던 목표를 다시 깨우고 다시 활성화시킬 수 있습니다."
+        },
+        {
+          "source": "New Directions for Adult and Continuing Education • DOI: 10.1002/ace",
+          "translation": "성인 및 지속적인 교육에 대한 새로운 방향 • DOI: 10.1002/ace"
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 7,
+      "sourceText": "11\nAN ADULT EDUCATION PERSPECTIVE\nThis is often the case with students who have experienced setbacks in the\nachievement of their goals or who have had little positive feedback from key\nsupport people in the past. They have given up on a previous goal, leaving\nit on the scrap pile of abandoned dreams. But the combination of incremental success, perseverance, and focused encouragement from a teacher\nor mentor can enable a student to resurrect a lost possible self.\nIn still another variation of how educational relationships can be the\nsource of possible selves, a suggestion by a teacher or mentor may be dismissed by the student at the time it is made, but later it surfaces in the student’s mind to reinforce an emerging possible self. One student tells about\nhow he had the goal of becoming a veterinarian. During this period in his\nstudies, one of his teachers suggested that he would be a very good teacher.\nBut because the student was focused on his goal to become a veterinarian,\nhe did not attend to the teacher’s suggestion. However, two years later, due\nto various circumstances, this student had moved away from his desire to\nbe a veterinarian. He began to explore teaching, and as he did so, the earlier encouragement from his former teacher came to his consciousness as\nreinforcement for his newly emerging possible self.\nElaboration. A second finding was that educational relationships function as the context within which adult learners’ existing positive possible\nselves can be elaborated, detailed, and more fully developed. Interactions\nwith teachers and mentors offer students information that enables them to\nfill in the details of a tentative possible self. With specifics that pertain to a\npossible self, students can embellish the picture of themselves having\nachieved it. It seems obvious that teachers and mentors provide information\nabout potential career possibilities to students, but the frequency with which\nstudents in my study mentioned the value of such information sharing calls\nattention to the pivotal role of such interaction in the students’ development\nof a possible self.\nIn addition to information shared by teachers and mentors, observational learning is an important means through which students develop a\npossible self. Through observation of key educational helpers and role models, students assessed the goodness of fit between what they observed and\nwhat they aspired to for themselves. In the excerpt below, Dan considers his\nfuture as a high school science teacher. He describes one of his college\nteachers in relation to his own vision of himself as a teacher:\n[He is] an excellent physicist, very knowledgeable. . . . He’s getting close to\nretirement and but, he’s still got that, that fire for teaching. He’s really a very\ngood teacher I think. He’s still motivated, he’s still interested and he’s always\nexcited about class—even though we don’t study as much as we should in the\nclass and we do, do horrible on an exam or if we don’t get a concept, he’s, you\nknow, he’s, it doesn’t, it hasn’t discouraged him over the years. And I see that\nin him, and that, that, interest in teaching and the drive to continue and be\nNew Directions for Adult and Continuing Education • DOI: 10.1002/ace",
+      "translationText": "11 성인 교육 관점 이 목표 를 달성 하는 데 실패 를 겪은 학생 들 과도 종종 마찬가지 입니다. 혹은 과거 에 주요 지원자 들 로부터 긍정적인 반응 을 받은 학생 들 은 거의 없습니다.\n\n그들은 이전 목표를 포기하고 버려진 꿈의 잔재 위에 남겨두고 있습니다.\n\n하지만 점진적인 성공, 끈기, 그리고 교사나 멘토의 집중적인 격려의 조합은 학생에게 잃어버린 잠재적인 자아를 부활시킬 수 있습니다.\n\n교육적 관계가 가능한 자기들의 원천이 될 수 있는 또 다른 변형에서, 교사 또는 멘토의 제안은 학생이 그것을 할 때 거부할 수 있지만 나중에 학생의 마음에 나타나 새로운 가능한 자기를 강화합니다.\n\n한 학생 은 어떻게 수의사 되려는 목표 를 가지게 되었는지 이야기 합니다.\n\n이 기간 동안 그의 교사 중 한 명이 그가 매우 좋은 교사 될 것이라고 제안했습니다.\n\n하지만 그 학생 은 수의사가 되기 위한 목표 에 집중 했기 때문 에 그 학생 은 교사 의 제안 을 받아들이지 않았다.\n\n그러나 두 년 후, 이 학생 은 여러 가지 사정 으로서 수의사가 되고자 하는 욕망 을 떠나게 되었다.\n\n그는 가르침을 탐구하기 시작했고, 그렇게 할 때, 그의 전 교사의 초기 격려는 그의 새로운 출현 가능한 자기를 강화하기 위해 그의 의식에 왔습니다.\n\n기획.\n\n두 번째 발견은 교육 관계들이 성인 학습자들이 기존의 긍정적 가능한 자기를 구체화하고 상세히 개발할 수 있는 맥락으로 기능한다는 것입니다.\n\n교사와 멘토와의 상호작용은 학생들에게 임시 가능한 자기에 대한 세부 사항을 작성할 수 있는 정보를 제공합니다.\n\n가능한 자기에 관한 세부 사항으로 학생들은 그것을 달성한 자신의 이미지를 아름답게 만들 수 있습니다.\n\n교사들과 멘토들이 학생들에게 잠재적인 경력 가능성에 대한 정보를 제공하는 것은 당연한 것처럼 보이지만, 제 연구에서 학생들이 그러한 정보 공유의 가치를 언급하는 빈도는 학생들의 잠재적인 자아 개발에 이러한 상호작용의 중추적인 역할에 주목합니다.\n\n교사와 멘토가 공유하는 정보 외에도 관찰 학습은 학생들이 가능한 자기를 개발하는 중요한 수단입니다.\n\n주요 교육 보조자 및 모범을 관찰함으로써 학생들은 그들이 관찰한 것과 그들이 스스로 추구하는 것 사이의 적합성을 평가했습니다.\n\n아래의 단편에서, 댄은 고등학교 과학 교사로서의 자신의 미래를 고려합니다.\n\n그는 자신의 교수로서의 자신의 시각에 대해 그의 대학 교사 중 한 명에게 다음과 같이 설명합니다: [그는] 훌륭한 물리학자이고, 매우 지식을 가지고 있습니다.\n\n. . 그는 은퇴에 가까워지고 있지만, 그는 여전히 교양에 대한 불꽃이 있습니다.\n\n정말 좋은 선생님인 것 같아요.\n\n그는 여전히 동기부여가 있고, 그는 여전히 관심이 있고, 그는 항상 수업에 대해 흥분합니다. 우리는 수업에서 우리가 해야 할 만큼 공부하지 않더라도, 시험에서 끔찍한 일을 하고, 또는 우리가 개념을 얻지 못하면, 그는, 당신은 알고 있습니다, 그는, 그는, 그것은하지 않습니다, 그것은 수년 동안 그를 실망시키지 않았습니다.\n\n그리고 저는 그 사람, 그리고 그 사람, 그 사람, 교육에 대한 관심과 성인 및 지속적인 교육에 대한 새로운 방향이 되고자 하는 동기를 봅니다 • DOI: 10.1002/ace",
+      "status": "translated",
+      "sourceTextSha256": "fb01bc639e36d8ce82be38b506849d4edeb299801e36aa5426481fc59db9801b",
+      "segments": [
+        {
+          "source": "11 AN ADULT EDUCATION PERSPECTIVE This is often the case with students who have experienced setbacks in the achievement of their goals or who have had little positive feedback from key support people in the past.",
+          "translation": "11 성인 교육 관점 이 목표 를 달성 하는 데 실패 를 겪은 학생 들 과도 종종 마찬가지 입니다. 혹은 과거 에 주요 지원자 들 로부터 긍정적인 반응 을 받은 학생 들 은 거의 없습니다."
+        },
+        {
+          "source": "They have given up on a previous goal, leaving it on the scrap pile of abandoned dreams.",
+          "translation": "그들은 이전 목표를 포기하고 버려진 꿈의 잔재 위에 남겨두고 있습니다."
+        },
+        {
+          "source": "But the combination of incremental success, perseverance, and focused encouragement from a teacher or mentor can enable a student to resurrect a lost possible self.",
+          "translation": "하지만 점진적인 성공, 끈기, 그리고 교사나 멘토의 집중적인 격려의 조합은 학생에게 잃어버린 잠재적인 자아를 부활시킬 수 있습니다."
+        },
+        {
+          "source": "In still another variation of how educational relationships can be the source of possible selves, a suggestion by a teacher or mentor may be dismissed by the student at the time it is made, but later it surfaces in the student’s mind to reinforce an emerging possible self.",
+          "translation": "교육적 관계가 가능한 자기들의 원천이 될 수 있는 또 다른 변형에서, 교사 또는 멘토의 제안은 학생이 그것을 할 때 거부할 수 있지만 나중에 학생의 마음에 나타나 새로운 가능한 자기를 강화합니다."
+        },
+        {
+          "source": "One student tells about how he had the goal of becoming a veterinarian.",
+          "translation": "한 학생 은 어떻게 수의사 되려는 목표 를 가지게 되었는지 이야기 합니다."
+        },
+        {
+          "source": "During this period in his studies, one of his teachers suggested that he would be a very good teacher.",
+          "translation": "이 기간 동안 그의 교사 중 한 명이 그가 매우 좋은 교사 될 것이라고 제안했습니다."
+        },
+        {
+          "source": "But because the student was focused on his goal to become a veterinarian, he did not attend to the teacher’s suggestion.",
+          "translation": "하지만 그 학생 은 수의사가 되기 위한 목표 에 집중 했기 때문 에 그 학생 은 교사 의 제안 을 받아들이지 않았다."
+        },
+        {
+          "source": "However, two years later, due to various circumstances, this student had moved away from his desire to be a veterinarian.",
+          "translation": "그러나 두 년 후, 이 학생 은 여러 가지 사정 으로서 수의사가 되고자 하는 욕망 을 떠나게 되었다."
+        },
+        {
+          "source": "He began to explore teaching, and as he did so, the earlier encouragement from his former teacher came to his consciousness as reinforcement for his newly emerging possible self.",
+          "translation": "그는 가르침을 탐구하기 시작했고, 그렇게 할 때, 그의 전 교사의 초기 격려는 그의 새로운 출현 가능한 자기를 강화하기 위해 그의 의식에 왔습니다."
+        },
+        {
+          "source": "Elaboration.",
+          "translation": "기획."
+        },
+        {
+          "source": "A second finding was that educational relationships function as the context within which adult learners’ existing positive possible selves can be elaborated, detailed, and more fully developed.",
+          "translation": "두 번째 발견은 교육 관계들이 성인 학습자들이 기존의 긍정적 가능한 자기를 구체화하고 상세히 개발할 수 있는 맥락으로 기능한다는 것입니다."
+        },
+        {
+          "source": "Interactions with teachers and mentors offer students information that enables them to fill in the details of a tentative possible self.",
+          "translation": "교사와 멘토와의 상호작용은 학생들에게 임시 가능한 자기에 대한 세부 사항을 작성할 수 있는 정보를 제공합니다."
+        },
+        {
+          "source": "With specifics that pertain to a possible self, students can embellish the picture of themselves having achieved it.",
+          "translation": "가능한 자기에 관한 세부 사항으로 학생들은 그것을 달성한 자신의 이미지를 아름답게 만들 수 있습니다."
+        },
+        {
+          "source": "It seems obvious that teachers and mentors provide information about potential career possibilities to students, but the frequency with which students in my study mentioned the value of such information sharing calls attention to the pivotal role of such interaction in the students’ development of a possible self.",
+          "translation": "교사들과 멘토들이 학생들에게 잠재적인 경력 가능성에 대한 정보를 제공하는 것은 당연한 것처럼 보이지만, 제 연구에서 학생들이 그러한 정보 공유의 가치를 언급하는 빈도는 학생들의 잠재적인 자아 개발에 이러한 상호작용의 중추적인 역할에 주목합니다."
+        },
+        {
+          "source": "In addition to information shared by teachers and mentors, observational learning is an important means through which students develop a possible self.",
+          "translation": "교사와 멘토가 공유하는 정보 외에도 관찰 학습은 학생들이 가능한 자기를 개발하는 중요한 수단입니다."
+        },
+        {
+          "source": "Through observation of key educational helpers and role models, students assessed the goodness of fit between what they observed and what they aspired to for themselves.",
+          "translation": "주요 교육 보조자 및 모범을 관찰함으로써 학생들은 그들이 관찰한 것과 그들이 스스로 추구하는 것 사이의 적합성을 평가했습니다."
+        },
+        {
+          "source": "In the excerpt below, Dan considers his future as a high school science teacher.",
+          "translation": "아래의 단편에서, 댄은 고등학교 과학 교사로서의 자신의 미래를 고려합니다."
+        },
+        {
+          "source": "He describes one of his college teachers in relation to his own vision of himself as a teacher: [He is] an excellent physicist, very knowledgeable.",
+          "translation": "그는 자신의 교수로서의 자신의 시각에 대해 그의 대학 교사 중 한 명에게 다음과 같이 설명합니다: [그는] 훌륭한 물리학자이고, 매우 지식을 가지고 있습니다."
+        },
+        {
+          "source": ". . . He’s getting close to retirement and but, he’s still got that, that fire for teaching.",
+          "translation": ". . 그는 은퇴에 가까워지고 있지만, 그는 여전히 교양에 대한 불꽃이 있습니다."
+        },
+        {
+          "source": "He’s really a very good teacher I think.",
+          "translation": "정말 좋은 선생님인 것 같아요."
+        },
+        {
+          "source": "He’s still motivated, he’s still interested and he’s always excited about class—even though we don’t study as much as we should in the class and we do, do horrible on an exam or if we don’t get a concept, he’s, you know, he’s, it doesn’t, it hasn’t discouraged him over the years.",
+          "translation": "그는 여전히 동기부여가 있고, 그는 여전히 관심이 있고, 그는 항상 수업에 대해 흥분합니다. 우리는 수업에서 우리가 해야 할 만큼 공부하지 않더라도, 시험에서 끔찍한 일을 하고, 또는 우리가 개념을 얻지 못하면, 그는, 당신은 알고 있습니다, 그는, 그는, 그것은하지 않습니다, 그것은 수년 동안 그를 실망시키지 않았습니다."
+        },
+        {
+          "source": "And I see that in him, and that, that, interest in teaching and the drive to continue and be New Directions for Adult and Continuing Education • DOI: 10.1002/ace",
+          "translation": "그리고 저는 그 사람, 그리고 그 사람, 그 사람, 교육에 대한 관심과 성인 및 지속적인 교육에 대한 새로운 방향이 되고자 하는 동기를 봅니다 • DOI: 10.1002/ace"
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 8,
+      "sourceText": "12\nPOSSIBLE SELVES AND ADULT LEARNING\nan excellent teacher—that just shows me that there’s something to the field,\nto the career—of teaching that’s fulfilling and motivating and stimulating at\nthe same time. . . . It’s that stimulation, that, that fulfillment that I was looking for too.\nWe see in Dan’s story his description of qualities that he admires in his\nteacher, and he relates them to his own aspirations.\nThis dynamic works in both positive and negative directions. That is,\nwhen students admired a particular teacher, they use that teacher’s behaviors and attitudes as a guide to their fuller development of a positive possible self. And they also use the behaviors of teachers they do not admire as\nnegative possible selves they wish to avoid. Helen’s story illustrates the\nprocess of sifting through potential goals, rejecting her first goal and finding another. Her original goal was to become a science teacher, until she\nobserved her own science professor:\nIt seemed like with science I’m pretty textbook smart, where if I read something I can remember it and recall it. And so I had fun with some of the\nclasses here and I just thought that was the direction that I wanted to move\nin, I guess. But as I got into what I would really be doing as a teacher of science, it just kind of became apparent that it wouldn’t be something that I\nwould enjoy. Um, I guess, um, starting to take the classes that had the laboratory stuff and, you know, just starting to think about—Can I see myself in\nthat, in that professor’s position? . . . I guess I started to realize then that I just\ndidn’t fit that. I didn’t fit that measurement and now hold this up and now\nI’ve got to clean up the lab [laughs]. I’m not much of a cook either so probably you know the whole thing just . . . [did not appeal].\nThe educational relationship provides the context in which students\ncould try out different professional identities. The opportunity to practice\nthe values and culture of a particular career is an important step toward\nrefining the possible self.\nEfficacy Beliefs. A third finding from this exploration is that educational\nrelationships serve to strengthen confidence and efficacy beliefs in relation to\npositive possible selves for adult learners. Here an understanding of possible\nselves is important because the experience described by students in this study\ndoes not simply entail a teacher trying to bolster the student’s self-esteem. It\nis instead a process through which the teacher details a possible self, enabling\nthe student to form a more fully elaborated picture of that possibility. Also\ncritical is the role of the teacher or mentor in assisting the student to identify proximal goals and specific strategies to achieve those short-term steps.\nThe teacher or mentor helps the student to anticipate barriers and setbacks\nand plan for how to meet those difficulties when they arise. Some level of confidence on the student’s part in her or his own ability to achieve a particular\nNew Directions for Adult and Continuing Education • DOI: 10.1002/ace",
+      "translationText": "12 잠재적인 자기와 성인의 학습은 훌륭한 교사입니다. 그것은 단지 현장과 교육 경력에 있어서 동시에 성취와 동기부여와 자극을 주는 것이 있다는 것을 보여줍니다.\n\n. . 그 자극, 그 성취도 또한 제가 찾고 있었습니다.\n\n우리는 댄의 이야기에서 그가 그의 선생님에서 존경하는 자질을 묘사하고 자신의 열망과 연관시키는 것을 볼 수 있습니다.\n\n이 역학은 긍정적이고 부정적으로 작용합니다.\n\n즉, 학생들이 특정 교사를 존경할 때, 그들은 그 교사의 행동과 태도를 긍정적 인 가능한 자기의 완전한 발전에 대한 지침으로 사용합니다.\n\n그리고 그들은 또한 그들이 존경하지 않는 교사들의 행동을 그들이 피하고 싶은 부정적인 가능한 자기로 사용합니다.\n\n헬렌의 이야기는 잠재적인 목표를 탐구하는 과정, 첫 번째 목표를 거부하고 다른 것을 찾는 과정을 보여줍니다.\n\n그녀의 원래 목표는 과학 교사가 되는 것이었습니다. 그녀는 자신의 과학 교수를 관찰할 때까지요. 과학에 있어서 저는 꽤나 교과서 똑똑한 것 같았어요. 제가 무언가를 읽으면 기억하고 기억할 수 있습니다.\n\n그래서 저는 여기 있는 몇 개의 수업을 즐겼습니다. 그리고 저는 그것이 제가 가고 싶은 방향이라고 생각했습니다.\n\n하지만 제가 과학 교사로서 무엇을 할 것인지에 대해 알게 되면서 저는 그것이 제가 즐기지 않을 것이라는 것이 분명해졌습니다.\n\n, , 실험실 재료를 가진 수업을 듣고 생각하기 시작했어요. 저 교수의 위치에서 저 자신을 볼 수 있을까?\n\n. . 그 때 깨달았던 건 제가 맞지 않는다는 겁니다.\n\n저는 그 측정에 맞지 않았습니다. 이제 이걸 올려놓고 실험실을 청소해야 합니다.\n\n저는 요리사도 아니기 때문에 아마도 여러분도 이 모든 것을 알고 있을 겁니다.\n\n교육 관계는 학생들이 다양한 전문 정체성을 시도할 수 있는 맥락을 제공합니다.\n\n특정 직업의 가치와 문화를 실천할 수 있는 기회는 가능한 자기를 정비하는 중요한 단계입니다.\n\n효과적 인 믿음\n\n이 탐구에서 얻은 세 번째 발견은 교육 관계들이 성인 학습자의 긍정적인 가능한 자기에 대한 자신감과 효과적 신념을 강화하는 데 도움이 된다는 것입니다.\n\n여기서 가능한 자기에 대한 이해가 중요합니다. 왜냐하면 이 연구에서 학생들이 설명한 경험은 단순히 교사가 학생의 자존감을 강화하려고 노력하는 것을 포함하지 않기 때문입니다.\n\n오히려 교사가 가능한 자기를 상세히 설명하는 과정이며, 학생이 그 가능성에 대한 보다 상세한 그림을 형성할 수 있게 한다.\n\n또한 교사와 멘토의 역할은 학생에게 그 단기적 단계를 달성하기 위한 가까운 목표와 구체적인 전략을 식별하는 데 도움을 주는 데 중요합니다.\n\n교사 또는 지도자는 학생에게 장애물과 실패를 예측하고 그러한 어려움이 발생할 때 어떻게 대처할 것인지 계획하도록 도와줍니다.\n\n성인 및 지속적인 교육에 대한 특정 새로운 방향을 달성하기 위해 학생의 자신감의 어느 정도",
+      "status": "translated",
+      "sourceTextSha256": "416dc503b4453d2855c57f43faa2ad2bd5d0ec4c9c99a12a34568dc08164a774",
+      "segments": [
+        {
+          "source": "12 POSSIBLE SELVES AND ADULT LEARNING an excellent teacher—that just shows me that there’s something to the field, to the career—of teaching that’s fulfilling and motivating and stimulating at the same time.",
+          "translation": "12 잠재적인 자기와 성인의 학습은 훌륭한 교사입니다. 그것은 단지 현장과 교육 경력에 있어서 동시에 성취와 동기부여와 자극을 주는 것이 있다는 것을 보여줍니다."
+        },
+        {
+          "source": ". . . It’s that stimulation, that, that fulfillment that I was looking for too.",
+          "translation": ". . 그 자극, 그 성취도 또한 제가 찾고 있었습니다."
+        },
+        {
+          "source": "We see in Dan’s story his description of qualities that he admires in his teacher, and he relates them to his own aspirations.",
+          "translation": "우리는 댄의 이야기에서 그가 그의 선생님에서 존경하는 자질을 묘사하고 자신의 열망과 연관시키는 것을 볼 수 있습니다."
+        },
+        {
+          "source": "This dynamic works in both positive and negative directions.",
+          "translation": "이 역학은 긍정적이고 부정적으로 작용합니다."
+        },
+        {
+          "source": "That is, when students admired a particular teacher, they use that teacher’s behaviors and attitudes as a guide to their fuller development of a positive possible self.",
+          "translation": "즉, 학생들이 특정 교사를 존경할 때, 그들은 그 교사의 행동과 태도를 긍정적 인 가능한 자기의 완전한 발전에 대한 지침으로 사용합니다."
+        },
+        {
+          "source": "And they also use the behaviors of teachers they do not admire as negative possible selves they wish to avoid.",
+          "translation": "그리고 그들은 또한 그들이 존경하지 않는 교사들의 행동을 그들이 피하고 싶은 부정적인 가능한 자기로 사용합니다."
+        },
+        {
+          "source": "Helen’s story illustrates the process of sifting through potential goals, rejecting her first goal and finding another.",
+          "translation": "헬렌의 이야기는 잠재적인 목표를 탐구하는 과정, 첫 번째 목표를 거부하고 다른 것을 찾는 과정을 보여줍니다."
+        },
+        {
+          "source": "Her original goal was to become a science teacher, until she observed her own science professor: It seemed like with science I’m pretty textbook smart, where if I read something I can remember it and recall it.",
+          "translation": "그녀의 원래 목표는 과학 교사가 되는 것이었습니다. 그녀는 자신의 과학 교수를 관찰할 때까지요. 과학에 있어서 저는 꽤나 교과서 똑똑한 것 같았어요. 제가 무언가를 읽으면 기억하고 기억할 수 있습니다."
+        },
+        {
+          "source": "And so I had fun with some of the classes here and I just thought that was the direction that I wanted to move in, I guess.",
+          "translation": "그래서 저는 여기 있는 몇 개의 수업을 즐겼습니다. 그리고 저는 그것이 제가 가고 싶은 방향이라고 생각했습니다."
+        },
+        {
+          "source": "But as I got into what I would really be doing as a teacher of science, it just kind of became apparent that it wouldn’t be something that I would enjoy.",
+          "translation": "하지만 제가 과학 교사로서 무엇을 할 것인지에 대해 알게 되면서 저는 그것이 제가 즐기지 않을 것이라는 것이 분명해졌습니다."
+        },
+        {
+          "source": "Um, I guess, um, starting to take the classes that had the laboratory stuff and, you know, just starting to think about—Can I see myself in that, in that professor’s position?",
+          "translation": ", , 실험실 재료를 가진 수업을 듣고 생각하기 시작했어요. 저 교수의 위치에서 저 자신을 볼 수 있을까?"
+        },
+        {
+          "source": ". . . I guess I started to realize then that I just didn’t fit that.",
+          "translation": ". . 그 때 깨달았던 건 제가 맞지 않는다는 겁니다."
+        },
+        {
+          "source": "I didn’t fit that measurement and now hold this up and now I’ve got to clean up the lab [laughs].",
+          "translation": "저는 그 측정에 맞지 않았습니다. 이제 이걸 올려놓고 실험실을 청소해야 합니다."
+        },
+        {
+          "source": "I’m not much of a cook either so probably you know the whole thing just . . . [did not appeal].",
+          "translation": "저는 요리사도 아니기 때문에 아마도 여러분도 이 모든 것을 알고 있을 겁니다."
+        },
+        {
+          "source": "The educational relationship provides the context in which students could try out different professional identities.",
+          "translation": "교육 관계는 학생들이 다양한 전문 정체성을 시도할 수 있는 맥락을 제공합니다."
+        },
+        {
+          "source": "The opportunity to practice the values and culture of a particular career is an important step toward refining the possible self.",
+          "translation": "특정 직업의 가치와 문화를 실천할 수 있는 기회는 가능한 자기를 정비하는 중요한 단계입니다."
+        },
+        {
+          "source": "Efficacy Beliefs.",
+          "translation": "효과적 인 믿음"
+        },
+        {
+          "source": "A third finding from this exploration is that educational relationships serve to strengthen confidence and efficacy beliefs in relation to positive possible selves for adult learners.",
+          "translation": "이 탐구에서 얻은 세 번째 발견은 교육 관계들이 성인 학습자의 긍정적인 가능한 자기에 대한 자신감과 효과적 신념을 강화하는 데 도움이 된다는 것입니다."
+        },
+        {
+          "source": "Here an understanding of possible selves is important because the experience described by students in this study does not simply entail a teacher trying to bolster the student’s self-esteem.",
+          "translation": "여기서 가능한 자기에 대한 이해가 중요합니다. 왜냐하면 이 연구에서 학생들이 설명한 경험은 단순히 교사가 학생의 자존감을 강화하려고 노력하는 것을 포함하지 않기 때문입니다."
+        },
+        {
+          "source": "It is instead a process through which the teacher details a possible self, enabling the student to form a more fully elaborated picture of that possibility.",
+          "translation": "오히려 교사가 가능한 자기를 상세히 설명하는 과정이며, 학생이 그 가능성에 대한 보다 상세한 그림을 형성할 수 있게 한다."
+        },
+        {
+          "source": "Also critical is the role of the teacher or mentor in assisting the student to identify proximal goals and specific strategies to achieve those short-term steps.",
+          "translation": "또한 교사와 멘토의 역할은 학생에게 그 단기적 단계를 달성하기 위한 가까운 목표와 구체적인 전략을 식별하는 데 도움을 주는 데 중요합니다."
+        },
+        {
+          "source": "The teacher or mentor helps the student to anticipate barriers and setbacks and plan for how to meet those difficulties when they arise.",
+          "translation": "교사 또는 지도자는 학생에게 장애물과 실패를 예측하고 그러한 어려움이 발생할 때 어떻게 대처할 것인지 계획하도록 도와줍니다."
+        },
+        {
+          "source": "Some level of confidence on the student’s part in her or his own ability to achieve a particular New Directions for Adult and Continuing Education • DOI: 10.1002/ace",
+          "translation": "성인 및 지속적인 교육에 대한 특정 새로운 방향을 달성하기 위해 학생의 자신감의 어느 정도"
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 9,
+      "sourceText": "13\nAN ADULT EDUCATION PERSPECTIVE\npositive possible self is required to bring it to fruition. The positive and practical feedback from a trusted teacher or mentor is a potent force in strengthening that sense of efficacy for an adult learner. In the excerpt below, Denise\ndescribes the emergence of a possible self earning a doctorate. Denise is completing her second bachelor’s degree and has decided to go on for a master’s\ndegree. Now, with the encouragement of a professor, she begins to envision\na Ph.D. possible self:\nI talked to a professor after the semester was over and she was just really\nencouraging me, encouraging me to keep going and to get my Ph.D. ’Cause she\nreally liked what I had written for her class, and the work that I had done. . . . \nIt was, and it really felt good . . . you know, you think you can do something, but when someone else says they think you can too, it’s just kind of\nvalidated. Like, “Oh, yeah, maybe I can do it.” I had thought about getting a\nmaster’s degree . . . and the master’s degree seemed kind of abstract. You\nknow it sounded like something I’d want to do, but I really didn’t know\nhow—now I know what and I know how. . . . \nThe Ph.D. is a harder vision, but I think I can do it. Um, it’s because I\nthink the thought is a lot newer. You know when I think of Ph.D. I think, oh\nDr. so-and-so, and then you know I try and picture the “Dr.” in front of my\nname, and it’s kind of weird. . . . You know, I’ve heard of all the work just\ninvolved with it and it’s very, it’s very frightening in that way. But I think I\ncan do it.\nA clear and consistent message from a teacher who believes in the student’s ability to perform well is noted and remembered as a cornerstone of\nconfidence, even by very competent students as they consider what is possible in the future.\nAn Adult Education Perspective\nAn adult education perspective on possible selves focuses on the areas of\nactivity where the possible selves construct intersects with concerns of adult\neducators—life span development, career transition, persistence toward academic goals, and the teaching or mentoring relationship. A sizable and\ngrowing body of research demonstrates the usefulness of understanding\nthese domains of human behavior in terms of possible selves. Our insights\ninto adult learners’ motivation, future time orientation, educational goals,\nand self-efficacy beliefs will be enriched by an acquaintance with the\ndynamics of possible selves. In the chapters that follow, the authors offer a\ndeeper look at possible selves in a variety of settings, each with important\nimplications for practice in adult education.\nNew Directions for Adult and Continuing Education • DOI: 10.1002/ace",
+      "translationText": "13 성숙한 교육\n\n신뢰할 수 있는 교사나 멘토의 긍정적이고 실용적인 피드백은 성인 학습자에게 그 효과적 인 감각을 강화시키는 강력한 힘입니다.\n\n아래의 단편에서, 데니스는 박사 학위를 취득하는 잠재적인 자아의 출현을 설명합니다.\n\n데니스는 제2 학사 학위를 마치고 석사 학위를 취득하기로 결정했습니다.\n\n교수님의 격려로 그녀는 박사학위 가능한 자기를 상상하기 시작했습니다. 학기가 끝난 후 교수님과 이야기를 나누었습니다. 그녀는 저를 정말 격려하고 계속 박사학위를 취득하도록 격려했습니다.\n\n왜냐하면 그녀는 제가 수업에 쓴 글과 제가 했던 일을 정말 좋아했기 때문입니다.\n\n. . 정말 좋았어요. 그리고 정말 좋았어요... 당신이 뭔가를 할 수 있다고 생각하지만, 다른 사람이 당신이 할 수 있다고 생각할 때,\n\n그래, 내가 할 수 있겠지\n\n전 석사 학위 를 취득 하려고 생각 했었는데 . . . 석사 학위는 다소 추상적인 것 같았다.\n\n내가 하고 싶은 것 같았지만 어떻게 해야 할지 몰랐어요\n\n. . 박사학위는 더 어려운 비전이지만, 할 수 있다고 생각합니다.\n\n이 생각은 훨씬 더 새로운 생각이기 때문입니다.\n\n박사 학위를 생각할 때 저는 이렇게 생각하죠. 그리고 제 이름 앞에 닥터를 그려보려고 합니다.\n\n. . 아시다시피, 저는 이 작업에 관련된 모든 일을 들었습니다. 그리고 그것은 매우, 매우 무서운 것입니다.\n\n하지만 내가 할 수 있다고 생각합니다.\n\n학생이 좋은 성과를 낼 수 있다고 믿는 교사의 명확하고 일관된 메시지는 매우 유능한 학생들이 미래에 가능한 것을 고려할 때 자신감의 초석으로 주목받고 기억됩니다.\n\n성인교육의 관점\n가능한 자기에 대한 성인교육의 관점은 가능한 자기라는 구인이 성인교육자의 관심사와 만나는 활동 영역에 초점을 맞춘다. 이러한 관심사에는 전 생애 발달, 경력 전환, 학업 목표를 향한 지속적 노력, 교수 또는 멘토링 관계가 포함된다.\n\n많은 연구들이 이루어지고 있는 것은 인간 행동의 이러한 영역을 이해할 수 있는 효용성을 보여준다.\n\n성인 학습자의 동기부여, 미래 시간 지향, 교육 목표, 자기효율성 신념에 대한 우리의 통찰은 가능한 자기들의 역학에 대한 인식으로 풍요롭게 될 것입니다.\n\n다음 장에서는 저자들은 다양한 환경에서 가능한 자기를 더 깊이 살펴보고 있으며, 각 분야는 성인 교육의 실무에 중요한 영향을 미칩니다.\n\n성인 및 지속적인 교육에 대한 새로운 방향 • DOI: 10.1002/ace",
+      "status": "translated",
+      "sourceTextSha256": "7858fa99fc645cc5df9d2919af343c42976f1b0c9506846768ac7e5c84ff69e0",
+      "segments": [
+        {
+          "source": "13 AN ADULT EDUCATION PERSPECTIVE positive possible self is required to bring it to fruition.",
+          "translation": "13 성숙한 교육"
+        },
+        {
+          "source": "The positive and practical feedback from a trusted teacher or mentor is a potent force in strengthening that sense of efficacy for an adult learner.",
+          "translation": "신뢰할 수 있는 교사나 멘토의 긍정적이고 실용적인 피드백은 성인 학습자에게 그 효과적 인 감각을 강화시키는 강력한 힘입니다."
+        },
+        {
+          "source": "In the excerpt below, Denise describes the emergence of a possible self earning a doctorate.",
+          "translation": "아래의 단편에서, 데니스는 박사 학위를 취득하는 잠재적인 자아의 출현을 설명합니다."
+        },
+        {
+          "source": "Denise is completing her second bachelor’s degree and has decided to go on for a master’s degree.",
+          "translation": "데니스는 제2 학사 학위를 마치고 석사 학위를 취득하기로 결정했습니다."
+        },
+        {
+          "source": "Now, with the encouragement of a professor, she begins to envision a Ph.D. possible self: I talked to a professor after the semester was over and she was just really encouraging me, encouraging me to keep going and to get my Ph.D.",
+          "translation": "교수님의 격려로 그녀는 박사학위 가능한 자기를 상상하기 시작했습니다. 학기가 끝난 후 교수님과 이야기를 나누었습니다. 그녀는 저를 정말 격려하고 계속 박사학위를 취득하도록 격려했습니다."
+        },
+        {
+          "source": "’Cause she really liked what I had written for her class, and the work that I had done.",
+          "translation": "왜냐하면 그녀는 제가 수업에 쓴 글과 제가 했던 일을 정말 좋아했기 때문입니다."
+        },
+        {
+          "source": ". . . It was, and it really felt good . . . you know, you think you can do something, but when someone else says they think you can too, it’s just kind of validated.",
+          "translation": ". . 정말 좋았어요. 그리고 정말 좋았어요... 당신이 뭔가를 할 수 있다고 생각하지만, 다른 사람이 당신이 할 수 있다고 생각할 때,"
+        },
+        {
+          "source": "Like, “Oh, yeah, maybe I can do it.”",
+          "translation": "그래, 내가 할 수 있겠지"
+        },
+        {
+          "source": "I had thought about getting a master’s degree . . . and the master’s degree seemed kind of abstract.",
+          "translation": "전 석사 학위 를 취득 하려고 생각 했었는데 . . . 석사 학위는 다소 추상적인 것 같았다."
+        },
+        {
+          "source": "You know it sounded like something I’d want to do, but I really didn’t know how—now I know what and I know how.",
+          "translation": "내가 하고 싶은 것 같았지만 어떻게 해야 할지 몰랐어요"
+        },
+        {
+          "source": ". . . The Ph.D. is a harder vision, but I think I can do it.",
+          "translation": ". . 박사학위는 더 어려운 비전이지만, 할 수 있다고 생각합니다."
+        },
+        {
+          "source": "Um, it’s because I think the thought is a lot newer.",
+          "translation": "이 생각은 훨씬 더 새로운 생각이기 때문입니다."
+        },
+        {
+          "source": "You know when I think of Ph.D. I think, oh Dr. so-and-so, and then you know I try and picture the “Dr.” in front of my name, and it’s kind of weird.",
+          "translation": "박사 학위를 생각할 때 저는 이렇게 생각하죠. 그리고 제 이름 앞에 닥터를 그려보려고 합니다."
+        },
+        {
+          "source": ". . . You know, I’ve heard of all the work just involved with it and it’s very, it’s very frightening in that way.",
+          "translation": ". . 아시다시피, 저는 이 작업에 관련된 모든 일을 들었습니다. 그리고 그것은 매우, 매우 무서운 것입니다."
+        },
+        {
+          "source": "But I think I can do it.",
+          "translation": "하지만 내가 할 수 있다고 생각합니다."
+        },
+        {
+          "source": "A clear and consistent message from a teacher who believes in the student’s ability to perform well is noted and remembered as a cornerstone of confidence, even by very competent students as they consider what is possible in the future.",
+          "translation": "학생이 좋은 성과를 낼 수 있다고 믿는 교사의 명확하고 일관된 메시지는 매우 유능한 학생들이 미래에 가능한 것을 고려할 때 자신감의 초석으로 주목받고 기억됩니다."
+        },
+        {
+          "source": "An Adult Education Perspective An adult education perspective on possible selves focuses on the areas of activity where the possible selves construct intersects with concerns of adult educators—life span development, career transition, persistence toward academic goals, and the teaching or mentoring relationship.",
+          "translation": "성인교육의 관점\n가능한 자기에 대한 성인교육의 관점은 가능한 자기라는 구인이 성인교육자의 관심사와 만나는 활동 영역에 초점을 맞춘다. 이러한 관심사에는 전 생애 발달, 경력 전환, 학업 목표를 향한 지속적 노력, 교수 또는 멘토링 관계가 포함된다.",
+          "reviewed": true
+        },
+        {
+          "source": "A sizable and growing body of research demonstrates the usefulness of understanding these domains of human behavior in terms of possible selves.",
+          "translation": "많은 연구들이 이루어지고 있는 것은 인간 행동의 이러한 영역을 이해할 수 있는 효용성을 보여준다."
+        },
+        {
+          "source": "Our insights into adult learners’ motivation, future time orientation, educational goals, and self-efficacy beliefs will be enriched by an acquaintance with the dynamics of possible selves.",
+          "translation": "성인 학습자의 동기부여, 미래 시간 지향, 교육 목표, 자기효율성 신념에 대한 우리의 통찰은 가능한 자기들의 역학에 대한 인식으로 풍요롭게 될 것입니다."
+        },
+        {
+          "source": "In the chapters that follow, the authors offer a deeper look at possible selves in a variety of settings, each with important implications for practice in adult education.",
+          "translation": "다음 장에서는 저자들은 다양한 환경에서 가능한 자기를 더 깊이 살펴보고 있으며, 각 분야는 성인 교육의 실무에 중요한 영향을 미칩니다."
+        },
+        {
+          "source": "New Directions for Adult and Continuing Education • DOI: 10.1002/ace",
+          "translation": "성인 및 지속적인 교육에 대한 새로운 방향 • DOI: 10.1002/ace"
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 10,
+      "sourceText": "14\nPOSSIBLE SELVES AND ADULT LEARNING\nReferences\nAslanian, C. B. Adult Students Today. New York: College Board, 2001.\nBrookfield, S. “Grounding Teaching in Learning.” In M. W. Galbraith (ed.), Facilitating\nAdult Learning: A Transactional Process. Malabar, Fla.: Krieger, 1991.\nCameron, J. E. “Social Identity and the Pursuit of Possible Selves: Implications for the\nPsychological Well-Being of University Students.” Group Dynamics: Theory, Research,\nand Practice, 1999, 3, 179–189.\nCross, S., and Markus, H. “Possible Selves Across the Life Span.” Human Development,\n1991, 34, 230–255.\nDaloz, L. Effective Teaching and Mentoring. San Francisco: Jossey-Bass, 1986.\nDewey, J. Experience and Education. New York: Collier Books, 1938.\nFletcher, S. “A Role for Imagery in Mentoring.” Career Development International, 2000,\n5, 235–243.\nFrazier, L. D., Hooker, K., Johnson, P. M., and Kaus, C. R. “Continuity and Change in\nPossible Selves in Later Life: A Five-Year Longitudinal Study.” Basic and Applied Psychology, 2000, 22, 237–243.\nHooker, K. “Possible Selves in Adulthood.” In T. Hess and F. Blanchard-Fields (eds.),\nSocial Cognition and Aging. Orlando, Fla.: Academic Press, 1999.\nIbarra, H. “Provisional Selves: Experimenting with Image and Identity in Professional\nAdaptation.” Administrative Science Quarterly, 1999, 44, 764–792.\nIbarra, H. Working Identity: Unconventional Strategies for Reinventing Your Career. Boston:\nHarvard Business School Press, 2003.\nKasworm, C. E., Polson, C. J., and Fishback, S. J. Responding to Adult Learners in Higher\nEducation. Malabar, Fla.: Krieger, 2002.\nLindeman, E. C. The Meaning of Adult Education. New York: Harvest House, 1961. (Originally published 1926)\nLips, H. M. “College Students’ Visions of Power and Possibility as Moderated by Gender.”\nPsychology of Women Quarterly, 2000, 24, 39–43.\nMarkus, H., and Nurius, P. “Possible Selves.” American Psychologist, 1986, 41, 954–959.\nMarkus, H., and Ruvolo, A. “Possible Selves: Personalized Representations of Goals.” \nIn L. A. Pervin (ed.), Goal Concepts in Personality and Social Psychology. Mahwah, \nN.J.: Erlbaum, 1989.\nMartz, E. “Expressing Counselor Empathy Through the Use of Possible Selves.” Journal\nof Employment Counseling, 2001, 38, 128–133.\nMeara, N. M., Davis, K. L., and Robinson, B. S. “The Working Lives of Women from\nLower Socioeconomic Backgrounds: Assessing Prospects, Enabling Success.” Journal\nof Career Assessment, 1997, 3, 115–135.\nMeara, N. M., Day, J. D., Chalk, L., and Phelps, R. E. “Possible Selves: Applications for\nCareer Counseling.” Journal of Career Assessment, 1995, 3, 259–277.\nPlimmer, G., Smith, M., Duggan, M., and Englert, P. “Career Adaptability, Well-Being,\nand Possible Selves.” Career Planning and Adult Development Journal, 1999–2000, 15,\n83–92.\nRossiter, M. “Caring and the Graduate Student.” Journal of Adult Development, 1999, 6,\n205–216.\nRossiter, M. “Educational Relationships and Possible Selves in the Adult Undergraduate\nExperience.” In R. M. Cervero, B. C. Courtenay, M. T. Hixson, and J. S. Valente (eds.),\nThe Cyril O. Houle Scholars in Adult and Continuing Education Program Global Research\nPerspectives: Volume 4. Athens: University of Georgia, 2004.\nRuvolo, A. P., and Markus, H. R. “Possible Selves and Performance: The Power of Self-\nRelevant Imagery.” Social Cognition, 1992, 10, 95–124.\nRyff, C. D. “Possible Selves in Adulthood and Old Age: A Tale of Shifting Horizons.”\nPsychology and Aging, 1991, 6, 286–295.\nNew Directions for Adult and Continuing Education • DOI: 10.1002/ace",
+      "translationText": "14 가능 한 자 와 성숙한 사람 들 의 학습 참조\n\n뉴욕: 대학 이사회, 2001.\n\n브루크필드, S. 학습의 기초 교육.\n\nM.W. 갈브레이트 (ed.), 성인 학습을 촉진: 거래 프로세스.\n\n말라바르, 플로리다: 1991년 크리거\n\n캐머런, J. E. 사회적 정체성과 가능한 자기 추구: 대학생들의 심리적 안녕감에 대한 영향.\n\n그룹 역학: 이론, 연구 및 실천, 1999, 3, 179189.\n\n크로스, S. 및 마커스, H.\n\n인적 개발, 1991년, 34, 230~255.\n\n달로스, L. 효과적 인 교수 및 멘토링\n\n샌프란시스코: 조시-바스, 1986\n\n듀이, J. 경험과 교육.\n\n뉴욕: 콜리어 북스, 1938\n\n플레처, S.  멘토링에서 이미지의 역할.\n\n경력 개발 국제, 2000, 5, 235243.\n\n프레이저, L. D., 후커, K., 존슨, P. M., 그리고 카우스, C. R.\n\n기초 및 응용 심리학, 2000, 22, 237243.\n\n호커, K. 성인에서 가능한 자기\n\nT. 헤스와 F. 블랑차드 필드 (eds.), 사회 인식과 노화\n\n올랜도, 플로리다: 아카데미 프레스, 1999년\n\nIbarra, H. 임시적 자아: 전문적 적응에서 이미지와 정체성을 실험한다.\n\n행정 과학 사분기, 1999, 44, 764792.\n\nIbarra, H. 작업 정체성: 당신의 경력을 재발견하기 위한 비정상적인 전략\n\n보스턴: 하버드 비즈니스 스쿨 프레스, 2003.\n\nKasworm, C. E., Polson, C. J., 그리고 Fishback, S. J. 고등 교육 에서 성인 학습자 들 에게 응답 합니다.\n\n말라바르, 플로리다: 2002년\n\n린드먼, E. C. 성인 교육의 의미\n\n뉴욕: 1961년 하베스트 하우스\n\n(1926년 발간)\n\n립스, H.M.  대학생 성별에 의해 조정된 힘과 가능성에 대한 비전\n\n여성 심리학 쿼터리, 2000, 24, 3943.\n\n마르쿠스, H., 그리고 누리우스, P. 가능한 자기.\n\n미국 심리학자, 1986년, 41, 954~959.\n\n마르쿠스, H., 그리고 루볼로, A. 가능한 자기: 목표의 개인화된 표현.\n\nL.A. 퍼빈 (ed.), 개인성과 사회 심리학에서의 목표 개념.\n\n마와, 뉴저지: 엘바움, 1989\n\n마르츠, E. 가능한 자기를 이용해서 상담자 동정심을 표현한다.\n\n취업 상담 학술지, 2001년, 38, 128133.\n\n미라, N.M., 데이비스, K.L., 그리고 로빈슨, B.S.  낮은 사회경제적 배경의 여성의 노동 생활: 전망을 평가하고 성공을 가능하게 한다.\n\n경력 평가 조urnal, 1997, 3, 115135.\n\n메라, N. M., 데이, J. D., 샬크, L., 그리고 펠프스, R. E. 가능한 자기: 경력 상담 신청\n\n경력 평가 조urnal, 1995, 3, 259277.\n\nPlimmer, G., Smith, M., Duggan, M., 그리고 Englert, P.\n\n경력 계획 및 성인 개발 학술지, 19992000, 15, 8392.\n\n로시터, M.  캐링과 대학원 학생.\n\n성인 발달 학술지, 1999, 6, 205216.\n\n로시터, M. 교육 관계 및 성인 학부 경험의 가능한 자기.\n\nR. M. Cervero, B. C. Courtenay, M. T. Hixson, 그리고 J. S. Valente (eds.), The Cyril O. Houle Scholars in Adult and Continuing Education Program Global Research Perspectives: Volume 4.\n\n아테네: 조지아 대학교, 2004\n\nRuvolo, A. P., 그리고 Markus, H. R. 가능한 자기와 성능: 자기 관련 이미지의 힘.\n\n사회적 인식, 1992, 10, 95124.\n\n라이프, C.D. 성년이나 노년기의 가능한 자기: 지평을 변화시키는 이야기.\n\n심리학과 노화, 1991, 6, 286295.\n\n성인 및 지속적인 교육에 대한 새로운 방향 • DOI: 10.1002/ace",
+      "status": "translated",
+      "sourceTextSha256": "5c03fbfc8979274aa1071def63da186470074d6b0ef9f04a97f02dcaa9d4d3af",
+      "segments": [
+        {
+          "source": "14 POSSIBLE SELVES AND ADULT LEARNING References Aslanian, C. B. Adult Students Today.",
+          "translation": "14 가능 한 자 와 성숙한 사람 들 의 학습 참조"
+        },
+        {
+          "source": "New York: College Board, 2001.",
+          "translation": "뉴욕: 대학 이사회, 2001."
+        },
+        {
+          "source": "Brookfield, S. “Grounding Teaching in Learning.”",
+          "translation": "브루크필드, S. 학습의 기초 교육."
+        },
+        {
+          "source": "In M. W. Galbraith (ed.), Facilitating Adult Learning: A Transactional Process.",
+          "translation": "M.W. 갈브레이트 (ed.), 성인 학습을 촉진: 거래 프로세스."
+        },
+        {
+          "source": "Malabar, Fla.: Krieger, 1991.",
+          "translation": "말라바르, 플로리다: 1991년 크리거"
+        },
+        {
+          "source": "Cameron, J. E. “Social Identity and the Pursuit of Possible Selves: Implications for the Psychological Well-Being of University Students.”",
+          "translation": "캐머런, J. E. 사회적 정체성과 가능한 자기 추구: 대학생들의 심리적 안녕감에 대한 영향."
+        },
+        {
+          "source": "Group Dynamics: Theory, Research, and Practice, 1999, 3, 179–189.",
+          "translation": "그룹 역학: 이론, 연구 및 실천, 1999, 3, 179189."
+        },
+        {
+          "source": "Cross, S., and Markus, H. “Possible Selves Across the Life Span.”",
+          "translation": "크로스, S. 및 마커스, H."
+        },
+        {
+          "source": "Human Development, 1991, 34, 230–255.",
+          "translation": "인적 개발, 1991년, 34, 230~255."
+        },
+        {
+          "source": "Daloz, L. Effective Teaching and Mentoring.",
+          "translation": "달로스, L. 효과적 인 교수 및 멘토링"
+        },
+        {
+          "source": "San Francisco: Jossey-Bass, 1986.",
+          "translation": "샌프란시스코: 조시-바스, 1986"
+        },
+        {
+          "source": "Dewey, J. Experience and Education.",
+          "translation": "듀이, J. 경험과 교육."
+        },
+        {
+          "source": "New York: Collier Books, 1938.",
+          "translation": "뉴욕: 콜리어 북스, 1938"
+        },
+        {
+          "source": "Fletcher, S. “A Role for Imagery in Mentoring.”",
+          "translation": "플레처, S.  멘토링에서 이미지의 역할."
+        },
+        {
+          "source": "Career Development International, 2000, 5, 235–243.",
+          "translation": "경력 개발 국제, 2000, 5, 235243."
+        },
+        {
+          "source": "Frazier, L. D., Hooker, K., Johnson, P. M., and Kaus, C. R. “Continuity and Change in Possible Selves in Later Life: A Five-Year Longitudinal Study.”",
+          "translation": "프레이저, L. D., 후커, K., 존슨, P. M., 그리고 카우스, C. R."
+        },
+        {
+          "source": "Basic and Applied Psychology, 2000, 22, 237–243.",
+          "translation": "기초 및 응용 심리학, 2000, 22, 237243."
+        },
+        {
+          "source": "Hooker, K. “Possible Selves in Adulthood.”",
+          "translation": "호커, K. 성인에서 가능한 자기"
+        },
+        {
+          "source": "In T. Hess and F. Blanchard-Fields (eds.), Social Cognition and Aging.",
+          "translation": "T. 헤스와 F. 블랑차드 필드 (eds.), 사회 인식과 노화"
+        },
+        {
+          "source": "Orlando, Fla.: Academic Press, 1999.",
+          "translation": "올랜도, 플로리다: 아카데미 프레스, 1999년"
+        },
+        {
+          "source": "Ibarra, H. “Provisional Selves: Experimenting with Image and Identity in Professional Adaptation.”",
+          "translation": "Ibarra, H. 임시적 자아: 전문적 적응에서 이미지와 정체성을 실험한다."
+        },
+        {
+          "source": "Administrative Science Quarterly, 1999, 44, 764–792.",
+          "translation": "행정 과학 사분기, 1999, 44, 764792."
+        },
+        {
+          "source": "Ibarra, H. Working Identity: Unconventional Strategies for Reinventing Your Career.",
+          "translation": "Ibarra, H. 작업 정체성: 당신의 경력을 재발견하기 위한 비정상적인 전략"
+        },
+        {
+          "source": "Boston: Harvard Business School Press, 2003.",
+          "translation": "보스턴: 하버드 비즈니스 스쿨 프레스, 2003."
+        },
+        {
+          "source": "Kasworm, C. E., Polson, C. J., and Fishback, S. J. Responding to Adult Learners in Higher Education.",
+          "translation": "Kasworm, C. E., Polson, C. J., 그리고 Fishback, S. J. 고등 교육 에서 성인 학습자 들 에게 응답 합니다."
+        },
+        {
+          "source": "Malabar, Fla.: Krieger, 2002.",
+          "translation": "말라바르, 플로리다: 2002년"
+        },
+        {
+          "source": "Lindeman, E. C. The Meaning of Adult Education.",
+          "translation": "린드먼, E. C. 성인 교육의 의미"
+        },
+        {
+          "source": "New York: Harvest House, 1961.",
+          "translation": "뉴욕: 1961년 하베스트 하우스"
+        },
+        {
+          "source": "(Originally published 1926)",
+          "translation": "(1926년 발간)"
+        },
+        {
+          "source": "Lips, H. M. “College Students’ Visions of Power and Possibility as Moderated by Gender.”",
+          "translation": "립스, H.M.  대학생 성별에 의해 조정된 힘과 가능성에 대한 비전"
+        },
+        {
+          "source": "Psychology of Women Quarterly, 2000, 24, 39–43.",
+          "translation": "여성 심리학 쿼터리, 2000, 24, 3943."
+        },
+        {
+          "source": "Markus, H., and Nurius, P. “Possible Selves.”",
+          "translation": "마르쿠스, H., 그리고 누리우스, P. 가능한 자기."
+        },
+        {
+          "source": "American Psychologist, 1986, 41, 954–959.",
+          "translation": "미국 심리학자, 1986년, 41, 954~959."
+        },
+        {
+          "source": "Markus, H., and Ruvolo, A. “Possible Selves: Personalized Representations of Goals.”",
+          "translation": "마르쿠스, H., 그리고 루볼로, A. 가능한 자기: 목표의 개인화된 표현."
+        },
+        {
+          "source": "In L. A. Pervin (ed.), Goal Concepts in Personality and Social Psychology.",
+          "translation": "L.A. 퍼빈 (ed.), 개인성과 사회 심리학에서의 목표 개념."
+        },
+        {
+          "source": "Mahwah, N.J.: Erlbaum, 1989.",
+          "translation": "마와, 뉴저지: 엘바움, 1989"
+        },
+        {
+          "source": "Martz, E. “Expressing Counselor Empathy Through the Use of Possible Selves.”",
+          "translation": "마르츠, E. 가능한 자기를 이용해서 상담자 동정심을 표현한다."
+        },
+        {
+          "source": "Journal of Employment Counseling, 2001, 38, 128–133.",
+          "translation": "취업 상담 학술지, 2001년, 38, 128133."
+        },
+        {
+          "source": "Meara, N. M., Davis, K. L., and Robinson, B. S. “The Working Lives of Women from Lower Socioeconomic Backgrounds: Assessing Prospects, Enabling Success.”",
+          "translation": "미라, N.M., 데이비스, K.L., 그리고 로빈슨, B.S.  낮은 사회경제적 배경의 여성의 노동 생활: 전망을 평가하고 성공을 가능하게 한다."
+        },
+        {
+          "source": "Journal of Career Assessment, 1997, 3, 115–135.",
+          "translation": "경력 평가 조urnal, 1997, 3, 115135."
+        },
+        {
+          "source": "Meara, N. M., Day, J. D., Chalk, L., and Phelps, R. E. “Possible Selves: Applications for Career Counseling.”",
+          "translation": "메라, N. M., 데이, J. D., 샬크, L., 그리고 펠프스, R. E. 가능한 자기: 경력 상담 신청"
+        },
+        {
+          "source": "Journal of Career Assessment, 1995, 3, 259–277.",
+          "translation": "경력 평가 조urnal, 1995, 3, 259277."
+        },
+        {
+          "source": "Plimmer, G., Smith, M., Duggan, M., and Englert, P. “Career Adaptability, Well-Being, and Possible Selves.”",
+          "translation": "Plimmer, G., Smith, M., Duggan, M., 그리고 Englert, P."
+        },
+        {
+          "source": "Career Planning and Adult Development Journal, 1999–2000, 15, 83–92.",
+          "translation": "경력 계획 및 성인 개발 학술지, 19992000, 15, 8392."
+        },
+        {
+          "source": "Rossiter, M. “Caring and the Graduate Student.”",
+          "translation": "로시터, M.  캐링과 대학원 학생."
+        },
+        {
+          "source": "Journal of Adult Development, 1999, 6, 205–216.",
+          "translation": "성인 발달 학술지, 1999, 6, 205216."
+        },
+        {
+          "source": "Rossiter, M. “Educational Relationships and Possible Selves in the Adult Undergraduate Experience.”",
+          "translation": "로시터, M. 교육 관계 및 성인 학부 경험의 가능한 자기."
+        },
+        {
+          "source": "In R. M. Cervero, B. C. Courtenay, M. T. Hixson, and J. S. Valente (eds.), The Cyril O. Houle Scholars in Adult and Continuing Education Program Global Research Perspectives: Volume 4.",
+          "translation": "R. M. Cervero, B. C. Courtenay, M. T. Hixson, 그리고 J. S. Valente (eds.), The Cyril O. Houle Scholars in Adult and Continuing Education Program Global Research Perspectives: Volume 4."
+        },
+        {
+          "source": "Athens: University of Georgia, 2004.",
+          "translation": "아테네: 조지아 대학교, 2004"
+        },
+        {
+          "source": "Ruvolo, A. P., and Markus, H. R. “Possible Selves and Performance: The Power of Self- Relevant Imagery.”",
+          "translation": "Ruvolo, A. P., 그리고 Markus, H. R. 가능한 자기와 성능: 자기 관련 이미지의 힘."
+        },
+        {
+          "source": "Social Cognition, 1992, 10, 95–124.",
+          "translation": "사회적 인식, 1992, 10, 95124."
+        },
+        {
+          "source": "Ryff, C. D. “Possible Selves in Adulthood and Old Age: A Tale of Shifting Horizons.”",
+          "translation": "라이프, C.D. 성년이나 노년기의 가능한 자기: 지평을 변화시키는 이야기."
+        },
+        {
+          "source": "Psychology and Aging, 1991, 6, 286–295.",
+          "translation": "심리학과 노화, 1991, 6, 286295."
+        },
+        {
+          "source": "New Directions for Adult and Continuing Education • DOI: 10.1002/ace",
+          "translation": "성인 및 지속적인 교육에 대한 새로운 방향 • DOI: 10.1002/ace"
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 11,
+      "sourceText": "15\nAN ADULT EDUCATION PERSPECTIVE\nSegal, H. G., DeMeis, D. K., Wood, G. A., and Smith, H. L. “Assessing Future Possible\nSelves by Gender and Socioeconomic Status Using the Anticipated Life History Measure.” Journal of Personality, 2001, 69(1), 57–87.\nVaill, P. Learning as a Way of Being: Strategies for Survival in a World of Permanent Whitewater. San Francisco: Jossey-Bass, 1996.\nMARSHA ROSSITER is assistant vice chancellor for lifelong learning and\ncommunity engagement at the University of Wisconsin Oshkosh. \nNew Directions for Adult and Continuing Education • DOI: 10.1002/ace",
+      "translationText": "15 성인 교육 전망 세갈, H. G., 데미스, D. K., 우드, G. A., 그리고 스미스, H. L.  예상 생명 역사 측정 을 사용하여 성별 및 사회 경제적 지위 를 기준으로 미래의 가능한 자기 를 평가 한다.\n\n개인성 학술, 2001년, 69(1), 5787.\n\n바이일, P. 존재의 방법으로 배우는 것: 영구적인 백수 물의 세계에서 생존을 위한 전략\n\n샌프란시스코: jossey-bass, 1996\n\nMARSHA ROSSITER는 위스콘신 오쉬코시 대학교의 평생교육 및 지역사회 참여 부총리 겸임자입니다.\n\n성인 및 지속적인 교육에 대한 새로운 방향 • DOI: 10.1002/ace",
+      "status": "translated",
+      "sourceTextSha256": "33e2b1b46b8e8d535ed9726dd75b652a8ab5a38e83c793ce77cd23d6de632c73",
+      "segments": [
+        {
+          "source": "15 AN ADULT EDUCATION PERSPECTIVE Segal, H. G., DeMeis, D. K., Wood, G. A., and Smith, H. L. “Assessing Future Possible Selves by Gender and Socioeconomic Status Using the Anticipated Life History Measure.”",
+          "translation": "15 성인 교육 전망 세갈, H. G., 데미스, D. K., 우드, G. A., 그리고 스미스, H. L.  예상 생명 역사 측정 을 사용하여 성별 및 사회 경제적 지위 를 기준으로 미래의 가능한 자기 를 평가 한다."
+        },
+        {
+          "source": "Journal of Personality, 2001, 69(1), 57–87.",
+          "translation": "개인성 학술, 2001년, 69(1), 5787."
+        },
+        {
+          "source": "Vaill, P. Learning as a Way of Being: Strategies for Survival in a World of Permanent Whitewater.",
+          "translation": "바이일, P. 존재의 방법으로 배우는 것: 영구적인 백수 물의 세계에서 생존을 위한 전략"
+        },
+        {
+          "source": "San Francisco: Jossey-Bass, 1996.",
+          "translation": "샌프란시스코: jossey-bass, 1996"
+        },
+        {
+          "source": "MARSHA ROSSITER is assistant vice chancellor for lifelong learning and community engagement at the University of Wisconsin Oshkosh.",
+          "translation": "MARSHA ROSSITER는 위스콘신 오쉬코시 대학교의 평생교육 및 지역사회 참여 부총리 겸임자입니다."
+        },
+        {
+          "source": "New Directions for Adult and Continuing Education • DOI: 10.1002/ace",
+          "translation": "성인 및 지속적인 교육에 대한 새로운 방향 • DOI: 10.1002/ace"
+        }
+      ],
+      "textQuality": "text"
+    },
+    {
+      "page": 12,
+      "sourceText": "Copyright of New Directions for Adult & Continuing Education is the property of Jossey-Bass, A\nRegistered Trademark of Wiley Periodicals, Inc., A Wiley Company and its content may not be\ncopied or emailed to multiple sites or posted to a listserv without the copyright holder's express\nwritten permission. However, users may print, download, or email articles for individual use.",
+      "translationText": "성인 및 지속적인 교육에 대한 새로운 지침의 저작권은 Wiley Periodicals, Inc.의 등록 상표인 Jossey-Bass, A Wiley Company의 소유물이며, 저작권자의 명시적인 서면허 없이 여러 사이트에 복사하거나 이메일로 전송하거나 리스트서브에 게시할 수 없습니다.\n\n그러나 사용자는 개인용으로 기사를 인쇄하거나 다운로드하거나 이메일로 보낼 수 있습니다.",
+      "status": "translated",
+      "sourceTextSha256": "d6ce64841e1eb4b4fdc09c77e5193ae84eb74b193b815b3ccba99a081e9f2160",
+      "segments": [
+        {
+          "source": "Copyright of New Directions for Adult & Continuing Education is the property of Jossey-Bass, A Registered Trademark of Wiley Periodicals, Inc., A Wiley Company and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission.",
+          "translation": "성인 및 지속적인 교육에 대한 새로운 지침의 저작권은 Wiley Periodicals, Inc.의 등록 상표인 Jossey-Bass, A Wiley Company의 소유물이며, 저작권자의 명시적인 서면허 없이 여러 사이트에 복사하거나 이메일로 전송하거나 리스트서브에 게시할 수 없습니다."
+        },
+        {
+          "source": "However, users may print, download, or email articles for individual use.",
+          "translation": "그러나 사용자는 개인용으로 기사를 인쇄하거나 다운로드하거나 이메일로 보낼 수 있습니다."
+        }
+      ],
+      "textQuality": "ocr"
+    }
+  ]
+}

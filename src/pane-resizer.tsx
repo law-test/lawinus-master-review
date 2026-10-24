@@ -1,10 +1,10 @@
 import React,{useCallback,useEffect,useRef,useState} from 'react';
 import {draggedPaneSize,keyboardPaneSize} from './pane-size';
 
-type Props={label:string;className?:string;value:number;min:number;max:number;step?:number;unit?:string;onChange:(value:number)=>void;unitsPerPixel?:()=>number};
+type Props={label:string;className?:string;value:number;min:number;max:number;step?:number;unit?:string;onChange:(value:number)=>void;unitsPerPixel?:()=>number;onReset?:()=>void};
 type Drag={pointerId:number;startX:number;startValue:number;scale:number;element:HTMLDivElement;cursor:string;userSelect:string};
 
-export default function PaneResizer({label,className='',value,min,max,step=2,unit='%',onChange,unitsPerPixel=()=>1}:Props){
+export default function PaneResizer({label,className='',value,min,max,step=2,unit='%',onChange,unitsPerPixel=()=>1,onReset}:Props){
   const drag=useRef<Drag|null>(null);
   const [active,setActive]=useState(false);
   const finish=useCallback(()=>{
@@ -17,7 +17,7 @@ export default function PaneResizer({label,className='',value,min,max,step=2,uni
     setActive(false);
   },[]);
   useEffect(()=>{window.addEventListener('blur',finish);return()=>{window.removeEventListener('blur',finish);finish();};},[finish]);
-  return <div className={`pane-resizer ${className}${active?' resizing':''}`} role="separator" aria-label={label} title="드래그하여 너비 조절" aria-orientation="vertical" aria-valuenow={Math.round(value)} aria-valuetext={`${Math.round(value)}${unit}`} aria-valuemin={min} aria-valuemax={max} tabIndex={0}
+  return <div className={`pane-resizer ${className}${active?' resizing':''}${value===min||value===max?' at-limit':''}`} role="separator" aria-label={label} title={'끝까지 드래그하면 반대 창 접기'+(onReset?' · 두 번 누르거나 Enter로 기본 배치 복원':'')} aria-orientation="vertical" aria-valuenow={Math.round(value)} aria-valuetext={`${Math.round(value)}${unit}`} aria-valuemin={min} aria-valuemax={max} tabIndex={0}
     onPointerDown={e=>{
       if(e.button!==0||!e.isPrimary)return;
       e.preventDefault();
@@ -31,6 +31,7 @@ export default function PaneResizer({label,className='',value,min,max,step=2,uni
     onPointerUp={e=>{if(drag.current?.pointerId===e.pointerId)finish();}}
     onPointerCancel={e=>{if(drag.current?.pointerId===e.pointerId)finish();}}
     onLostPointerCapture={finish}
-    onKeyDown={e=>{const next=keyboardPaneSize(e.key,value,min,max,step);if(next!==null){e.preventDefault();onChange(next);}}}
+    onDoubleClick={()=>{finish();onReset?.();}}
+    onKeyDown={e=>{if((e.key==='Enter'||e.key===' ')&&onReset){e.preventDefault();onReset();return;}const next=keyboardPaneSize(e.key,value,min,max,step);if(next!==null){e.preventDefault();onChange(next);}}}
   ><span/></div>;
 }

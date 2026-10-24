@@ -1,0 +1,1426 @@
+{
+  "referenceId": "ref-055",
+  "sourceId": "s-cite-f700c3358ee7da08691e",
+  "sourceSha256": "f700c3358ee7da08691e2864d3d601305a9934b157e31a63f6d99c0a53d14c36",
+  "pageCount": 21,
+  "translationType": "machine",
+  "engine": "NLLB-200 distilled 600M / CTranslate2",
+  "modelRevision": "f8d333a098d19b4fd9a8b18f94170487ad3f821d",
+  "pages": [
+    {
+      "page": 1,
+      "sourceText": ". david a. kolb\n\nCase Western Reserve University\n\nEXPERIENTIAL\nLEARNING\n\nExperience as The Source of Learning\nand Development\n\n1 Bef\nPrentice-Hall, Inc., Englewood Cliffs, New Jersey 07642",
+      "translationText": ".\n\n데이비드 A.\n\nkolb 케이스 웨스턴 리저브 대학교 경험학습 경험 학습과 발전의 원천 1 Bef Prentice-Hall, Inc., Englewood Cliffs, New Jersey 07642",
+      "status": "translated",
+      "sourceTextSha256": "a6cfc6adce051bc447e2e5ee4f98daa8a60850ae5a06f966df8cf51156b78dfa",
+      "segments": [
+        {
+          "source": ".",
+          "translation": "."
+        },
+        {
+          "source": "david a.",
+          "translation": "데이비드 A."
+        },
+        {
+          "source": "kolb Case Western Reserve University EXPERIENTIAL LEARNING Experience as The Source of Learning and Development 1 Bef Prentice-Hall, Inc., Englewood Cliffs, New Jersey 07642",
+          "translation": "kolb 케이스 웨스턴 리저브 대학교 경험학습 경험 학습과 발전의 원천 1 Bef Prentice-Hall, Inc., Englewood Cliffs, New Jersey 07642"
+        }
+      ],
+      "textQuality": "ocr",
+      "ocrImageRotationClockwise": 90
+    },
+    {
+      "page": 2,
+      "sourceText": "rwo\n\nThe Process\nof Experiential\nLearning\n\nWe shall not cease from exploration\nAnd the end of all our exploring\n\nWill be te arrive where we started\nAnd know the place for the first time.\n\nTS. Eliot, Four Quartets\n\nExperiential learning theory offers a fundamentally different view of the learnin\nprocess from that of the behavioral theories of learning based an an empirice\nepistemology ar the more implicit theories of learning that underlie tracitione\neducational methods, methods that for the most part are based ona rationa\nidealist epistemology, From this different perspective emerge some ver\ndifferent prescriptions for the conduct of education, the proper relationship\namong learning, work, and other life activities, and the creation of knowleda\nitself.\n\nThis perspective on learning is called “experiential” for two reasons, Th\nfirst is to tie it clearly to its intellectual origins in the work of Dewey, Lewin, an\nPiaget. The second reason is to emphasize the central role that experienc:\nplays in the learning process. This differentiates experiential learning theor\nfrom rationalist and other cognitive theories of learning that tend to give primar\nemphasis to acquisition, manipulation, and recall of abstract symbols, and fron\nbehavioral learning theories that deny any role for consciousness and subjectiv\nexperience in the learning process. [t should be emphasized, however, that th\naim of this work is not to pose experiential learning theory as a thirdalternativ\nto behavioral and cognitive learning theories. but rather to suagest throual",
+      "translationText": "경험학습의 과정으로 우리는 탐험을 멈추지 않을 것이고 우리의 탐험의 끝은 우리가 시작했던 곳으로 도착하고 처음으로 장소를 알게 될 것입니다.\n\nTS.\n\n엘리엇, 4 쿼터스 경험학습 이론은 학습 과정에 대한 근본적으로 다른 관점을 제공하며, 학습에 대한 행동 이론에 대한 관점을 바탕으로 한 경험적 인식론은 학습의 더 암시적인 이론입니다. 이는 트래시티온 교육 방법, 대부분 이념주의적 인식론에 기반한 방법입니다. 이 다른 관점에서 교육의 수행, 학습, 작업 및 다른 생활 활동 사이의 적절한 관계, 그리고 지식 자체의 창조에 대한 몇 가지 다른 처방이 나타납니다.\n\n학습에 관한 이러한 관점을 ‘경험적’이라고 부르는 이유는 두 가지이다. 첫째, Dewey, Lewin, Piaget의 연구라는 지적 기원과의 관련성을 분명히 하기 위해서이다.\n\n두 번째 이유는 경험이 학습 과정에서 차지하는 핵심적인 역할을 강조하는 것입니다.\n\n이 점에서 경험학습 이론은 추상적 상징의 획득·조작·회상을 주로 강조하는 합리주의 및 그 밖의 인지적 학습 이론과 구별된다. 또한 학습 과정에서 의식과 주관적 경험의 역할을 부정하는 행동주의 학습 이론과도 구별된다.\n\n그러나 이 연구의 목적은 경험학습 이론을 행동적 및 인지적 학습 이론에 대한 세 번째 대안으로 제시하는 것이 아니라는 것을 강조해야합니다.\n\n하지만 그보다 더 나은 것은",
+      "status": "translated",
+      "sourceTextSha256": "7a3b8624ee47583b79cd3d47af1440a8422ff1fad5eeb1ac1c371b3299f839c8",
+      "segments": [
+        {
+          "source": "rwo The Process of Experiential Learning We shall not cease from exploration And the end of all our exploring Will be te arrive where we started And know the place for the first time.",
+          "translation": "경험학습의 과정으로 우리는 탐험을 멈추지 않을 것이고 우리의 탐험의 끝은 우리가 시작했던 곳으로 도착하고 처음으로 장소를 알게 될 것입니다."
+        },
+        {
+          "source": "TS.",
+          "translation": "TS."
+        },
+        {
+          "source": "Eliot, Four Quartets Experiential learning theory offers a fundamentally different view of the learnin process from that of the behavioral theories of learning based an an empirice epistemology ar the more implicit theories of learning that underlie tracitione educational methods, methods that for the most part are based ona rationa idealist epistemology, From this different perspective emerge some ver different prescriptions for the conduct of education, the proper relationship among learning, work, and other life activities, and the creation of knowleda itself.",
+          "translation": "엘리엇, 4 쿼터스 경험학습 이론은 학습 과정에 대한 근본적으로 다른 관점을 제공하며, 학습에 대한 행동 이론에 대한 관점을 바탕으로 한 경험적 인식론은 학습의 더 암시적인 이론입니다. 이는 트래시티온 교육 방법, 대부분 이념주의적 인식론에 기반한 방법입니다. 이 다른 관점에서 교육의 수행, 학습, 작업 및 다른 생활 활동 사이의 적절한 관계, 그리고 지식 자체의 창조에 대한 몇 가지 다른 처방이 나타납니다."
+        },
+        {
+          "source": "This perspective on learning is called “experiential” for two reasons, Th first is to tie it clearly to its intellectual origins in the work of Dewey, Lewin, an Piaget.",
+          "translation": "학습에 관한 이러한 관점을 ‘경험적’이라고 부르는 이유는 두 가지이다. 첫째, Dewey, Lewin, Piaget의 연구라는 지적 기원과의 관련성을 분명히 하기 위해서이다.",
+          "reviewed": true
+        },
+        {
+          "source": "The second reason is to emphasize the central role that experienc: plays in the learning process.",
+          "translation": "두 번째 이유는 경험이 학습 과정에서 차지하는 핵심적인 역할을 강조하는 것입니다."
+        },
+        {
+          "source": "This differentiates experiential learning theor from rationalist and other cognitive theories of learning that tend to give primar emphasis to acquisition, manipulation, and recall of abstract symbols, and fron behavioral learning theories that deny any role for consciousness and subjectiv experience in the learning process.",
+          "translation": "이 점에서 경험학습 이론은 추상적 상징의 획득·조작·회상을 주로 강조하는 합리주의 및 그 밖의 인지적 학습 이론과 구별된다. 또한 학습 과정에서 의식과 주관적 경험의 역할을 부정하는 행동주의 학습 이론과도 구별된다.",
+          "reviewed": true
+        },
+        {
+          "source": "[t should be emphasized, however, that th aim of this work is not to pose experiential learning theory as a thirdalternativ to behavioral and cognitive learning theories.",
+          "translation": "그러나 이 연구의 목적은 경험학습 이론을 행동적 및 인지적 학습 이론에 대한 세 번째 대안으로 제시하는 것이 아니라는 것을 강조해야합니다."
+        },
+        {
+          "source": "but rather to suagest throual",
+          "translation": "하지만 그보다 더 나은 것은"
+        }
+      ],
+      "textQuality": "ocr",
+      "ocrImageRotationClockwise": 90
+    },
+    {
+      "page": 3,
+      "sourceText": "_ 21\n\nexperiential learning theary a holistic integrative perspective on learning that\ncombines experience, perception, cognition, and behavior, This chapter will\ndescribe the learning models of Lewin, Dewey, and Piaget and identify the\ncommon characteristics they share—characteristics that serve to define the\nnature of experiential learning,\n\nTHREE MODELS OF THE EXPERIENTIAL LEARNING\nPROCESS\n\nThe Lewinian Model of Action Research and Laboratory\nTraining\n\nIn the techniques of action research and the laboratory method, learning,\nchange, and growth are seen to be facilitated best by an integrated process that\nbegins with here-and-now experience followed by collection of data and\nobservations about that experience. The data are then analyzed and the\nconclusions of this analysis are fed back to the actors inthe experience for their\nuse in the modification of their behavior and choice of hew experiences.\nLearning is thus conceived as a four-stage cycle, as shown in Figure 2.1,\nImmediate concrete experience is the basis for observation and reflection,\nThese observations are assimilatedintoa “theory” fram which new implications\nfor action can be deduced. These implications or hypotheses then serve as\nguides in acting to create new experiences.\n\nTwo aspects of this learning model are particularly noteworthy. Firstis its\nemphasis on here-and-now concrete experience to validate and test abstract\nconcepts. Immediate personal experience is the focal point for learning, giving\nlife, texture, and subjective personal meaning to abstract concepts and at the\nsame time providing a concrete, publicly shared reference point for testing the\nimplications and validity of ideas created during the learning process, When\nhuman beings share an experience, they can share it fully, concretely, and\nabstractly.\n\nSecond, action research and laboratory training are based on feedback\nprocesses, Lewin borrowed the concept of feedback from electrical engineering\nto describe a social learning and problem-salving process that generates valid\n\na Concrete experience ~\n\nTest rg itnolicatians Observations and\nof concagts in new reflections\n\nsituations\n\nXe Fermation of abstrect at\n\ncancepts and generalizations\nFigure 2.1 The Lewinian Experiential Learning Model",
+      "translationText": "_21 경험학습 이론은 경험, 인식, 인지 및 행동을 결합한 학습에 대한 종합적 통합적 관점입니다. 이 장은 레윈, 듀이, 피아게의 학습 모델을 설명하고 경험학습의 본질을 정의하는 공통적인 특징을 확인합니다.\n\n그 경험에 대한 데이터와 관찰을 수집하는 것이 시작되는 통합된 과정에 의해 가장 잘 촉진되는 것으로 여겨집니다.\n\n그 다음 데이터는 분석되고 그 분석의 결론은 그들의 행동 변화와 경험의 선택에 사용될 수 있는 경험을 가진 배우들에게 전달된다.\n\n따라서 학습은 4단계 순환으로 생각된다. 그림 2.1에서 보여지는 바와 같이, 즉각적인 구체적인 경험은 관찰과 반성의 기초입니다. 이러한 관찰은 행동에 대한 새로운 의미를 추론할 수 있는 이론적 틀에 흡수된다.\n\n이러한 의미 또는 가설은 새로운 경험을 만들기 위해 행동하는 데 가이드 역할을합니다.\n\n이 학습 모델의 두 가지 측면은 특히 주목할 만하다.\n\n첫째, 추상적 개념을 검증하고 시험하기 위해 지금 여기의 구체적 경험을 강조한다.\n\n즉각적인 개인적인 경험은 학습의 중심지이며, 추상적인 개념에 생명, 질감, 주관적 개인적인 의미를 부여하고 동시에 학습 과정에서 생성된 아이디어의 영향과 유효성을 테스트하기 위해 구체적이고 공개적으로 공유되는 참조 지점을 제공합니다. 인간이 경험을 공유할 때, 그들은 완전히, 구체적으로, 추상적으로 공유 할 수 있습니다.\n\n둘째, 실행연구와 실험실 훈련은 피드백 과정에 기반을 둔다. Lewin은 타당한 …을 산출하는 사회적 학습 및 문제해결 과정을 설명하기 위해 전기공학에서 피드백 개념을 빌려왔다. [원문은 ‘valid a’ 뒤에 도식의 추출 문자가 이어짐]\n그림 2.1. Lewin의 경험학습 모형\nConcrete experience: 구체적 경험\nObservations and reflections: 관찰과 성찰\n도식의 불명확한 OCR 문자는 그대로 보존함: “~ Test rg itnolicatians”, “of concagts in new”, “situations Xe Fermation of abstrect at cancepts and generalizations”.",
+      "status": "translated",
+      "sourceTextSha256": "5df1dc1c6fe7fd06038c2d45357b130f9e1d9276c18a84bd847cffffbbce92f0",
+      "segments": [
+        {
+          "source": "_ 21 experiential learning theary a holistic integrative perspective on learning that combines experience, perception, cognition, and behavior, This chapter will describe the learning models of Lewin, Dewey, and Piaget and identify the common characteristics they share—characteristics that serve to define the nature of experiential learning, THREE MODELS OF THE EXPERIENTIAL LEARNING PROCESS The Lewinian Model of Action Research and Laboratory Training In the techniques of action research and the laboratory method, learning, change, and growth are",
+          "translation": "_21 경험학습 이론은 경험, 인식, 인지 및 행동을 결합한 학습에 대한 종합적 통합적 관점입니다. 이 장은 레윈, 듀이, 피아게의 학습 모델을 설명하고 경험학습의 본질을 정의하는 공통적인 특징을 확인합니다."
+        },
+        {
+          "source": "seen to be facilitated best by an integrated process that begins with here-and-now experience followed by collection of data and observations about that experience.",
+          "translation": "그 경험에 대한 데이터와 관찰을 수집하는 것이 시작되는 통합된 과정에 의해 가장 잘 촉진되는 것으로 여겨집니다."
+        },
+        {
+          "source": "The data are then analyzed and the conclusions of this analysis are fed back to the actors inthe experience for their use in the modification of their behavior and choice of hew experiences.",
+          "translation": "그 다음 데이터는 분석되고 그 분석의 결론은 그들의 행동 변화와 경험의 선택에 사용될 수 있는 경험을 가진 배우들에게 전달된다."
+        },
+        {
+          "source": "Learning is thus conceived as a four-stage cycle, as shown in Figure 2.1, Immediate concrete experience is the basis for observation and reflection, These observations are assimilatedintoa “theory” fram which new implications for action can be deduced.",
+          "translation": "따라서 학습은 4단계 순환으로 생각된다. 그림 2.1에서 보여지는 바와 같이, 즉각적인 구체적인 경험은 관찰과 반성의 기초입니다. 이러한 관찰은 행동에 대한 새로운 의미를 추론할 수 있는 이론적 틀에 흡수된다."
+        },
+        {
+          "source": "These implications or hypotheses then serve as guides in acting to create new experiences.",
+          "translation": "이러한 의미 또는 가설은 새로운 경험을 만들기 위해 행동하는 데 가이드 역할을합니다."
+        },
+        {
+          "source": "Two aspects of this learning model are particularly noteworthy.",
+          "translation": "이 학습 모델의 두 가지 측면은 특히 주목할 만하다."
+        },
+        {
+          "source": "Firstis its emphasis on here-and-now concrete experience to validate and test abstract concepts.",
+          "translation": "첫째, 추상적 개념을 검증하고 시험하기 위해 지금 여기의 구체적 경험을 강조한다.",
+          "reviewed": true
+        },
+        {
+          "source": "Immediate personal experience is the focal point for learning, giving life, texture, and subjective personal meaning to abstract concepts and at the same time providing a concrete, publicly shared reference point for testing the implications and validity of ideas created during the learning process, When human beings share an experience, they can share it fully, concretely, and abstractly.",
+          "translation": "즉각적인 개인적인 경험은 학습의 중심지이며, 추상적인 개념에 생명, 질감, 주관적 개인적인 의미를 부여하고 동시에 학습 과정에서 생성된 아이디어의 영향과 유효성을 테스트하기 위해 구체적이고 공개적으로 공유되는 참조 지점을 제공합니다. 인간이 경험을 공유할 때, 그들은 완전히, 구체적으로, 추상적으로 공유 할 수 있습니다."
+        },
+        {
+          "source": "Second, action research and laboratory training are based on feedback processes, Lewin borrowed the concept of feedback from electrical engineering to describe a social learning and problem-salving process that generates valid a Concrete experience ~ Test rg itnolicatians Observations and of concagts in new reflections situations Xe Fermation of abstrect at cancepts and generalizations Figure 2.1 The Lewinian Experiential Learning Model",
+          "translation": "둘째, 실행연구와 실험실 훈련은 피드백 과정에 기반을 둔다. Lewin은 타당한 …을 산출하는 사회적 학습 및 문제해결 과정을 설명하기 위해 전기공학에서 피드백 개념을 빌려왔다. [원문은 ‘valid a’ 뒤에 도식의 추출 문자가 이어짐]\n그림 2.1. Lewin의 경험학습 모형\nConcrete experience: 구체적 경험\nObservations and reflections: 관찰과 성찰\n도식의 불명확한 OCR 문자는 그대로 보존함: “~ Test rg itnolicatians”, “of concagts in new”, “situations Xe Fermation of abstrect at cancepts and generalizations”.",
+          "reviewed": true
+        }
+      ],
+      "textQuality": "ocr",
+      "ocrImageRotationClockwise": 90
+    },
+    {
+      "page": 4,
+      "sourceText": "information ta assess deviations fram desired goals. This information feedback\nprovides the basis for a continuous process of goal-directed action and\nevaluation of the consequences of that action. Lewin and his followers believed\nthat much individual and organizational inetfectiveness could be traced\nultimately to a lack of adequate feedback processes. This ineffectiveness results\nfrom an imbalance between observation and action—either froma tendency for\nindividuals and organizations to emphasize decision and action at the expense\naf information gathering, or from a tenden cy to become bogged dawn by data\ncollection and analysis, The aim of the laboratory method andaction research is\nto integrate these two perspectives Into an effective, goal-directed learning\nprocess.\n\nDewey's Model of Learning\n\ndohn Dewey's model of the learning process is remarkably similar to the\nLewinian model, although he makes more explicit the developmental nature of\nlearning implied in Lewin’s conception of it as a feedback process by describing\nhow learning transforms the impulses, feelings, and desires of concrete\nexperience inta higher-order purposeful action,\n\nThe formation of purposes is, then, arather complex intellectual aperatian.\nff invelves: (1) observation of surra unding condifions; (2) knowledge of what has\nhappened in similar situations in the past, a knowledge obfained partly by\nreceliection and partly fram the information, advice, and warning of (hose who\nhave had a wider experience; and (3) Judgment, which puts together what is\nobserved and what is recalled to see what they signify. A purpose differs from an\noriginal impulse and desire through its translation into a plan and methad af\naction based upon foresight of the consequences af action under given abserved\n\nconditions in a certain way... . The crucial educational problem is that of\nprocuring the postponement of immediate action upon desire until observation\nond judement have intervened, ,,, Mere foresight, even if it takes the form af\n\naccurate prediction, is not, of course, enough. The intellectual anticipation, the\nidea of consequences, must blend with desire and impulse fo acquire moving\nforce, It then gives direction to what otherwise js blind, ushile desire cives ideas\nimpetus and momentum, (Dewey, 1938, p. 69]\n\nDewey's model of experiential learning is graphically portrayed in Figure\n2.2, We note in his description of learning a similarity with Lewin, in the emphasis\non learning as a dialectic process integrating experience and concepts, abservations, and action. The impulse of experience gives ideas their mowing force,\nand ideas give direction ta impulse, Postponement of immediate action is\nessential for observation and judgment to intervene, and action is essential for\nachievement of purpose. It is through the integration of these opposing but\n\nsymbiotically related processes that sophisticated, mature purpose develops\nfrom Aline imnriles",
+      "translationText": "원하는 목표에 대한 오차를 평가하는 정보.\n\n이러한 정보 피드백은 목표 지향적인 행동과 그 행동의 결과를 평가하는 지속적인 과정의 기초를 제공합니다.\n\n레윈과 그의 추종자들은 개인과 조직의 많은 비효율성이 궁극적으로 적절한 피드백 프로세스의 부족으로 이어질 수 있다고 믿었다.\n\n이러한 비효율은 관찰과 행동 사이의 불균형으로 인해 발생한다. 개인과 조직이 정보 수집의 비용으로 의사결정과 행동을 강조하는 경향이 있거나 데이터 수집과 분석에 의해 막혀지는 경향이 있습니다. 실험실 방법과 행동 연구의 목적은 이 두 관점을 효과적인 목표 지향 학습 과정에 통합하는 것입니다.\n\n듀이의 학습 모델은 듀이의 교육 과정 모델이 레윈 모델과 매우 유사하지만, 레윈의 피드백 프로세스로서의 개념에서 암시되는 학습의 발달적 성격을 더 명확하게 설명함으로써 학습이 구체적 경험의 충동, 감정 및 욕구를 더 높은 순서의 목적적 행동으로 변환하는 방법을 설명합니다. 목적의 형성은 더 복잡하게 지적 aperatian입니다.\n\nff는 다음을 포함하고 있습니다: (1) 다른 조건들을 관찰하는 것; (2) 과거에 유사한 상황에서 일어난 일들에 대한 지식, 부분적으로 수신에 의해 얻은 지식과 부분적으로 더 넓은 경험을 가진 사람들의 정보, 조언 및 경고를 구성하는 지식; (3) 관찰된 것과 상기된 것을 결합하여 그들이 무엇을 의미하는지 알아내는 판단.\n\n목적은 본래의 충동과 욕망과 구별되는 것은 어떤 방식으로 주어진 조건에서 행동의 결과를 예측하는 것에 기초한 계획과 행동방법으로 번역되는 것입니다.\n\n핵심적인 교육 문제는 관찰과 판단이 개입할 때까지 욕구에 따른 즉각적 행동을 미루게 하는 것이다. … 물론 단순한 예견만으로는, 설령 정확한 예측의 형태를 취하더라도, 충분하지 않다. [원문 OCR 표기: ‘observation ond judement’, ‘,,,’, ‘form af’]\n\n지적 예견, 결과의 아이디어는 움직일 수 있는 힘을 얻기 위해 욕망과 충동과 결합되어야 합니다. 그것은 그렇지 않으면blind, while desire civs ideas's momentum and impetus, (Dewey, 1938, p. 69) 의 경험학습 모델은 그림 2.2, 우리는 경험과 개념, 관찰, 그리고 행동을 통합하는 방언적 과정으로서의 학습에 대한 강조에 레윈과 유사한 학습에 대한 그의 설명에 주목합니다.\n\n경험의 충동은 아이디어에 힘을 주며, 아이디어는 방향의 충동을 주며, 관찰과 판단이 개입하기 위해서는 즉각적인 행동을 연기하는 것이 필수적이며, 목적을 달성하기 위해서는 행동이 필수적이다.\n\n이러한 반대하지만 공생적으로 연관된 과정의 통합을 통해 정교하고 성숙한 목적이 알린 인밀로부터 발전합니다.",
+      "status": "translated",
+      "sourceTextSha256": "c34cfd73bde5e8810012694e1cbb2081586563076bc5c07d89bb3b1265432284",
+      "segments": [
+        {
+          "source": "information ta assess deviations fram desired goals.",
+          "translation": "원하는 목표에 대한 오차를 평가하는 정보."
+        },
+        {
+          "source": "This information feedback provides the basis for a continuous process of goal-directed action and evaluation of the consequences of that action.",
+          "translation": "이러한 정보 피드백은 목표 지향적인 행동과 그 행동의 결과를 평가하는 지속적인 과정의 기초를 제공합니다."
+        },
+        {
+          "source": "Lewin and his followers believed that much individual and organizational inetfectiveness could be traced ultimately to a lack of adequate feedback processes.",
+          "translation": "레윈과 그의 추종자들은 개인과 조직의 많은 비효율성이 궁극적으로 적절한 피드백 프로세스의 부족으로 이어질 수 있다고 믿었다."
+        },
+        {
+          "source": "This ineffectiveness results from an imbalance between observation and action—either froma tendency for individuals and organizations to emphasize decision and action at the expense af information gathering, or from a tenden cy to become bogged dawn by data collection and analysis, The aim of the laboratory method andaction research is to integrate these two perspectives Into an effective, goal-directed learning process.",
+          "translation": "이러한 비효율은 관찰과 행동 사이의 불균형으로 인해 발생한다. 개인과 조직이 정보 수집의 비용으로 의사결정과 행동을 강조하는 경향이 있거나 데이터 수집과 분석에 의해 막혀지는 경향이 있습니다. 실험실 방법과 행동 연구의 목적은 이 두 관점을 효과적인 목표 지향 학습 과정에 통합하는 것입니다."
+        },
+        {
+          "source": "Dewey's Model of Learning dohn Dewey's model of the learning process is remarkably similar to the Lewinian model, although he makes more explicit the developmental nature of learning implied in Lewin’s conception of it as a feedback process by describing how learning transforms the impulses, feelings, and desires of concrete experience inta higher-order purposeful action, The formation of purposes is, then, arather complex intellectual aperatian.",
+          "translation": "듀이의 학습 모델은 듀이의 교육 과정 모델이 레윈 모델과 매우 유사하지만, 레윈의 피드백 프로세스로서의 개념에서 암시되는 학습의 발달적 성격을 더 명확하게 설명함으로써 학습이 구체적 경험의 충동, 감정 및 욕구를 더 높은 순서의 목적적 행동으로 변환하는 방법을 설명합니다. 목적의 형성은 더 복잡하게 지적 aperatian입니다."
+        },
+        {
+          "source": "ff invelves: (1) observation of surra unding condifions; (2) knowledge of what has happened in similar situations in the past, a knowledge obfained partly by receliection and partly fram the information, advice, and warning of (hose who have had a wider experience; and (3) Judgment, which puts together what is observed and what is recalled to see what they signify.",
+          "translation": "ff는 다음을 포함하고 있습니다: (1) 다른 조건들을 관찰하는 것; (2) 과거에 유사한 상황에서 일어난 일들에 대한 지식, 부분적으로 수신에 의해 얻은 지식과 부분적으로 더 넓은 경험을 가진 사람들의 정보, 조언 및 경고를 구성하는 지식; (3) 관찰된 것과 상기된 것을 결합하여 그들이 무엇을 의미하는지 알아내는 판단."
+        },
+        {
+          "source": "A purpose differs from an original impulse and desire through its translation into a plan and methad af action based upon foresight of the consequences af action under given abserved conditions in a certain way... .",
+          "translation": "목적은 본래의 충동과 욕망과 구별되는 것은 어떤 방식으로 주어진 조건에서 행동의 결과를 예측하는 것에 기초한 계획과 행동방법으로 번역되는 것입니다."
+        },
+        {
+          "source": "The crucial educational problem is that of procuring the postponement of immediate action upon desire until observation ond judement have intervened, ,,, Mere foresight, even if it takes the form af accurate prediction, is not, of course, enough.",
+          "translation": "핵심적인 교육 문제는 관찰과 판단이 개입할 때까지 욕구에 따른 즉각적 행동을 미루게 하는 것이다. … 물론 단순한 예견만으로는, 설령 정확한 예측의 형태를 취하더라도, 충분하지 않다. [원문 OCR 표기: ‘observation ond judement’, ‘,,,’, ‘form af’]",
+          "reviewed": true
+        },
+        {
+          "source": "The intellectual anticipation, the idea of consequences, must blend with desire and impulse fo acquire moving force, It then gives direction to what otherwise js blind, ushile desire cives ideas impetus and momentum, (Dewey, 1938, p. 69] Dewey's model of experiential learning is graphically portrayed in Figure 2.2, We note in his description of learning a similarity with Lewin, in the emphasis on learning as a dialectic process integrating experience and concepts, abservations, and action.",
+          "translation": "지적 예견, 결과의 아이디어는 움직일 수 있는 힘을 얻기 위해 욕망과 충동과 결합되어야 합니다. 그것은 그렇지 않으면blind, while desire civs ideas's momentum and impetus, (Dewey, 1938, p. 69) 의 경험학습 모델은 그림 2.2, 우리는 경험과 개념, 관찰, 그리고 행동을 통합하는 방언적 과정으로서의 학습에 대한 강조에 레윈과 유사한 학습에 대한 그의 설명에 주목합니다."
+        },
+        {
+          "source": "The impulse of experience gives ideas their mowing force, and ideas give direction ta impulse, Postponement of immediate action is essential for observation and judgment to intervene, and action is essential for achievement of purpose.",
+          "translation": "경험의 충동은 아이디어에 힘을 주며, 아이디어는 방향의 충동을 주며, 관찰과 판단이 개입하기 위해서는 즉각적인 행동을 연기하는 것이 필수적이며, 목적을 달성하기 위해서는 행동이 필수적이다."
+        },
+        {
+          "source": "It is through the integration of these opposing but symbiotically related processes that sophisticated, mature purpose develops from Aline imnriles",
+          "translation": "이러한 반대하지만 공생적으로 연관된 과정의 통합을 통해 정교하고 성숙한 목적이 알린 인밀로부터 발전합니다."
+        }
+      ],
+      "textQuality": "ocr",
+      "ocrImageRotationClockwise": 90
+    },
+    {
+      "page": 5,
+      "sourceText": "Judgment , J; Observation ,\n\nee Purpose\nds O, Oy\n. )\n\nRo\nKnowledge ,\n\nFigure 2.2 Dewey's Model of Experiential Learning\n\nPiaget’s Model of Learning and Cognitive Development\n\nFor Piaget, the dimensions of experience and concept, reflection, and action\nform the basic continua for the development of adult thought. Development\nfrom infancy to adulthood maves from a concrete phenomenal view af the world\nto an abstract constructionist view, from an active egocentric view ta a\nreflective internalized mode of knowing. Piaget also maintained that these have\nbeen the major directions of development in scientific knowledge (Piaget, 1970),\nThe learning process whereby this development takes place is a cycle of\ninteraction between the individual and the environment that is similar to the\nlearning models of Dewey and Lewin. In Piaget's terms, the key to learning lies in\nthe mutual interaction of the process of accommodation of concepts or\nschemas to experience in the world and the process of assimilation of events\nand experiences fram the world into existing concepts and schernas. Learning\nor, in Piaget's term, intelligent adaptation results from a balanced tension\nbetween these two processes. When accommodation processes dominate\nassimilation, we have imitation—the molding of oneself to environmental\ncontours or constraints. When assimilation predominates over accommodation, we have play—the imposition of one’s concept and images without\nregard to environmental realities. The process of cognitive growth from\nconcrete to abstract and from active te reflective is based on this continual\ntransaction between assimilation and accammedation, Occurring in successive\nstages, each of which incorporates what has gone before into a new, higher level\nof cagnitive functioning.\n\nPiaget's work has identified four major stages of cognitive growth that\nemerge fram birth to about the age of 14-16, In the first stage (0-2 years), the\nchild is predominanth: concrete and active in his learning style. This stage is\ncalled the sensory-motor stage. Learning is predominantly enactive thratgh\nfeeling, touching, and handling. Representation is based on action—for\nexample, “a hole is to dig.” Perhaps the greatest accomplishment of this period\nis the development of goal-oriented behavior: “The sensory-motor period\nshows a remarkable evolution from no n-intentional habits te experimental and\nexploratory activity which is obviously intentional or goal oriented” (Flavell,\n1963, p. 107). Yet the child has few schemes or theories inlo which he can\nassimilate events, and as a result, his primary stance toward the world is",
+      "translationText": "판단, J; 관찰, ee 목적 ds O, Oy.\n\n) 로 지식 , 그림 2.2 듀이의 경험학습 모델 Piaget의 학습 및 인지 발달 모델 Piaget, 경험과 개념, 반영 및 행동의 차원은 성인 사고의 발달의 기본 연속성을 형성합니다.\n\n어린 시절부터 성인기에 이르기까지의 발달은 세계의 구체적인 현상적 시각에서 추상적인 건설주의적 시각으로, 적극적인 자아중심적 시각에서 반영된 내면화된 지식 방식으로 발전합니다.\n\n피아게는 또한 이러한 것들이 과학적 지식의 주요 발전 방향이라고 주장했다 (피아게, 1970). 이 발전이 이루어지는 학습 과정은 개인과 환경 사이의 상호 작용의 순환이며, 이는 디wey와 레윈의 학습 모델과 유사하다.\n\n피아게의 말로는, 학습의 핵심은 세계에서 경험하기 위한 개념이나 계획의 수용 과정의 상호 상호작용과 사건과 경험의 흡수 과정이 세계를 기존 개념과 체르나로 구성하는 데 있습니다.\n\n학습 또는 피아게의 용어로 지능적 적응은 이 두 과정 사이의 균형적 긴장의 결과입니다.\n\n수용 과정이 Assimilation를 지배할 때, 우리는 환경 콘투어 또는 제약에 따라 자신을 형성하는 모방을 가지고 있습니다.\n\n적응에 비해 흡수성이 지배적 인 경우, 우리는 환경 현실을 고려하지 않고 자신의 개념과 이미지를 강요하는 것을 가지고 있습니다.\n\n구체적인 것에서 추상적인 것으로, 능동적인 것에서 성찰적인 것으로 나아가는 인지적 성장은 동화와 조절의 지속적인 상호작용에 기초한다. 이 과정은 연속된 단계에 걸쳐 일어나며, 각 단계는 앞선 성과를 새로운 더 높은 수준의 인지 기능에 통합한다.\n\n피아게의 연구는 인지 성장의 4가지 주요 단계를 확인해 왔으며, 이는 출생 14~16세까지 나타난다. 첫 번째 단계 (0~2세) 에서 아이는 학습 스타일에 대해 구체적이고 적극적이다.\n\n이 단계는 감각 운동 단계라고 합니다.\n\n학습은 주로 감정, 접촉, 그리고 취급에 의해 활성화된다.\n\n표현은 행동에 기초합니다. 예를 들어, 구멍은 파는 것입니다.\n\n아마도 이 시기의 가장 큰 성취는 목표 지향적 행동의 발달입니다:  감각 운동 시기는 의도적이지 않은 습관에서 명백하게 의도적이거나 목표 지향적인 실험 및 탐구 활동에서 놀라운 발전을 보여줍니다 (Flavell, 1963, p. 107).\n\n그러나 아이는 사건들을 흡수할 수 있는 몇 가지 계획이나 이론을 가지고 있으며, 결과적으로,",
+      "status": "translated",
+      "sourceTextSha256": "ff946f21eebb42b45d3353d12064c9e89366d5e31dd93bbf9bd393bf615ce739",
+      "segments": [
+        {
+          "source": "Judgment , J; Observation , ee Purpose ds O, Oy .",
+          "translation": "판단, J; 관찰, ee 목적 ds O, Oy."
+        },
+        {
+          "source": ") Ro Knowledge , Figure 2.2 Dewey's Model of Experiential Learning Piaget’s Model of Learning and Cognitive Development For Piaget, the dimensions of experience and concept, reflection, and action form the basic continua for the development of adult thought.",
+          "translation": ") 로 지식 , 그림 2.2 듀이의 경험학습 모델 Piaget의 학습 및 인지 발달 모델 Piaget, 경험과 개념, 반영 및 행동의 차원은 성인 사고의 발달의 기본 연속성을 형성합니다."
+        },
+        {
+          "source": "Development from infancy to adulthood maves from a concrete phenomenal view af the world to an abstract constructionist view, from an active egocentric view ta a reflective internalized mode of knowing.",
+          "translation": "어린 시절부터 성인기에 이르기까지의 발달은 세계의 구체적인 현상적 시각에서 추상적인 건설주의적 시각으로, 적극적인 자아중심적 시각에서 반영된 내면화된 지식 방식으로 발전합니다."
+        },
+        {
+          "source": "Piaget also maintained that these have been the major directions of development in scientific knowledge (Piaget, 1970), The learning process whereby this development takes place is a cycle of interaction between the individual and the environment that is similar to the learning models of Dewey and Lewin.",
+          "translation": "피아게는 또한 이러한 것들이 과학적 지식의 주요 발전 방향이라고 주장했다 (피아게, 1970). 이 발전이 이루어지는 학습 과정은 개인과 환경 사이의 상호 작용의 순환이며, 이는 디wey와 레윈의 학습 모델과 유사하다."
+        },
+        {
+          "source": "In Piaget's terms, the key to learning lies in the mutual interaction of the process of accommodation of concepts or schemas to experience in the world and the process of assimilation of events and experiences fram the world into existing concepts and schernas.",
+          "translation": "피아게의 말로는, 학습의 핵심은 세계에서 경험하기 위한 개념이나 계획의 수용 과정의 상호 상호작용과 사건과 경험의 흡수 과정이 세계를 기존 개념과 체르나로 구성하는 데 있습니다."
+        },
+        {
+          "source": "Learning or, in Piaget's term, intelligent adaptation results from a balanced tension between these two processes.",
+          "translation": "학습 또는 피아게의 용어로 지능적 적응은 이 두 과정 사이의 균형적 긴장의 결과입니다."
+        },
+        {
+          "source": "When accommodation processes dominate assimilation, we have imitation—the molding of oneself to environmental contours or constraints.",
+          "translation": "수용 과정이 Assimilation를 지배할 때, 우리는 환경 콘투어 또는 제약에 따라 자신을 형성하는 모방을 가지고 있습니다."
+        },
+        {
+          "source": "When assimilation predominates over accommodation, we have play—the imposition of one’s concept and images without regard to environmental realities.",
+          "translation": "적응에 비해 흡수성이 지배적 인 경우, 우리는 환경 현실을 고려하지 않고 자신의 개념과 이미지를 강요하는 것을 가지고 있습니다."
+        },
+        {
+          "source": "The process of cognitive growth from concrete to abstract and from active te reflective is based on this continual transaction between assimilation and accammedation, Occurring in successive stages, each of which incorporates what has gone before into a new, higher level of cagnitive functioning.",
+          "translation": "구체적인 것에서 추상적인 것으로, 능동적인 것에서 성찰적인 것으로 나아가는 인지적 성장은 동화와 조절의 지속적인 상호작용에 기초한다. 이 과정은 연속된 단계에 걸쳐 일어나며, 각 단계는 앞선 성과를 새로운 더 높은 수준의 인지 기능에 통합한다.",
+          "reviewed": true
+        },
+        {
+          "source": "Piaget's work has identified four major stages of cognitive growth that emerge fram birth to about the age of 14-16, In the first stage (0-2 years), the child is predominanth: concrete and active in his learning style.",
+          "translation": "피아게의 연구는 인지 성장의 4가지 주요 단계를 확인해 왔으며, 이는 출생 14~16세까지 나타난다. 첫 번째 단계 (0~2세) 에서 아이는 학습 스타일에 대해 구체적이고 적극적이다."
+        },
+        {
+          "source": "This stage is called the sensory-motor stage.",
+          "translation": "이 단계는 감각 운동 단계라고 합니다."
+        },
+        {
+          "source": "Learning is predominantly enactive thratgh feeling, touching, and handling.",
+          "translation": "학습은 주로 감정, 접촉, 그리고 취급에 의해 활성화된다."
+        },
+        {
+          "source": "Representation is based on action—for example, “a hole is to dig.”",
+          "translation": "표현은 행동에 기초합니다. 예를 들어, 구멍은 파는 것입니다."
+        },
+        {
+          "source": "Perhaps the greatest accomplishment of this period is the development of goal-oriented behavior: “The sensory-motor period shows a remarkable evolution from no n-intentional habits te experimental and exploratory activity which is obviously intentional or goal oriented” (Flavell, 1963, p. 107).",
+          "translation": "아마도 이 시기의 가장 큰 성취는 목표 지향적 행동의 발달입니다:  감각 운동 시기는 의도적이지 않은 습관에서 명백하게 의도적이거나 목표 지향적인 실험 및 탐구 활동에서 놀라운 발전을 보여줍니다 (Flavell, 1963, p. 107)."
+        },
+        {
+          "source": "Yet the child has few schemes or theories inlo which he can assimilate events, and as a result, his primary stance toward the world is",
+          "translation": "그러나 아이는 사건들을 흡수할 수 있는 몇 가지 계획이나 이론을 가지고 있으며, 결과적으로,"
+        }
+      ],
+      "textQuality": "ocr",
+      "ocrImageRotationClockwise": 90
+    },
+    {
+      "page": 6,
+      "sourceText": "aq The Frocass of Experiential Learning\n\naccommodative. Environment plays a major role in shaping his ideas and\nintentions. Learning occurs primarily through the association between stimulus\nand response.\n\nIn the second stage (2-6 years}, the child retains his concrete orientation\nbut begins to develop a reflective orientation as he begins to internalize actions,\nconverting them to images. This is called the representational stage. Learning is\nnow predominantly ikonic in nature, through the manipulation of observations\nand images. The child is now freed somewhat from his immersion in immediate\nexperience and, as a result, is free to play with and manipulate hisimages of the\nworld, At this stage, the child’s primary stance toward the world is divergent. He\nis captivated with his ability to collect images and to view the world from\ndifferent perspectives. Consider Bruner’s description of the child at this stage:\n\nWhat appears next in development is a great achievement. Images develop\nan autonomous status, they become great summarnzers of action. By age three\nthe child has became a paragon of sensory distractibilty. He is victim of the laws\nof vividness, and his action pattern is.a series of encounters with this bright thing\nwhieh is then replaced by thal chromatically splendid ane, which in turn gives way\nfo the next noisy one. And so if goes. Visual memony at this stage seems to be\nhighly concrete and specific, What is intriguing about this period is that the child is\nacreature of tha moment; the image of the moment is sufficient and itis controlled\nby a single feature of the situation. [Bruner, 1966b, p. 13]\n\nIn the third stage (7-11 years), the intensive development of abstract\nsymbolic powers begins. The first symbolic developmental stage Piaget calls the\nstage of concrete operations. Learning in this stage is governed by the logic of\nclasses and relations. The child in this stage further increases his independence\nfrom his immediate experiential world through the development of inductive\npowers:\n\nThe structures of concrete operations are, to use a homely anglogy, rather\nlike parking lots whose individual parking spaces are now occupied and now\nempty; fhe spaces themselves endure, however, and leave their owner to look\nbeyond the cars actually present toward potential, future occupants of the vacant\nand to-be-vacant spaces. [Flavell, 1963, p. 203]\n\nThus, in contrast to the child in the sensory-motor stage whose learning style\nwas dominated by accommodative processes, the child at the stage of concrete\noperations is more assimilative in his learning style. He relies on concepts and\ntheories to select and give shape to his experiences.\n\nPiaget's final stage of cognitive development comes with the onset of\nadolescence (12-15 years). In this stage, the adolescent moves from symbolic\nprocesses based on concrete operations to the symbolic processes of\nrepresentational logic, the stage of formal operations. He now returns toamore\nactive orientation, but it is an active orientation that is now modified by the\ndevelopment of the reflective and abstract power that preceded it. The",
+      "translationText": "엑스페리언셜 러닝의 패러다임\n\n환경은 그의 생각과 의도를 형성하는 데 중요한 역할을 합니다.\n\n학습은 주로 자극과 반응의 연관성을 통해 이루어집니다.\n\n두 번째 단계인 2~6세에는 구체적인 지향을 유지하면서도, 행동을 내면화하여 이미지로 바꾸기 시작함에 따라 성찰적인 지향이 발달하기 시작한다.\n\n이것은 표현 단계라고 합니다.\n\n이제 학습은 관찰과 이미지의 조작을 통해 주로 아이콘적인 성격을 가지고 있습니다.\n\n이제 아이는 즉각적인 경험에 몰입한 상태에서 어느 정도 자유로워지고, 그 결과, 세계의 이미지와 놀고 조작할 수 있습니다.\n\n그는 이미지를 수집하고 다른 관점으로 세상을 보는 능력으로 매료됩니다.\n\n이 단계에서 브루너의 아동에 대한 설명에 대해 생각해 봅시다.\n\n이미지는 자율적인 지위를 갖게 되고, 행동의 큰 요약이 됩니다.\n\n세 세 살 때 아이는 감각적으로 방해가 될 수 있는 모델이 되었습니다.\n\n그는 생동감의 법칙의 희생자이고 그의 행동 패턴은 빛나는 이 물체에 대한 일련의 만남입니다. 이 물체는 그 다음 크로마틱적으로 화려한 물체로 대체됩니다.\n\n그리고 그렇게 되면\n\n이 단계에서의 시각적 기억은 매우 구체적이고 구체적일 것으로 보입니다. 이 기간에 대해 흥미로운 것은 아이가 그 순간의 창조체라는 것입니다. 그 순간의 이미지는 충분합니다. 그리고 그것은 상황의 단일 특징에 의해 통제됩니다.\n\n[Bruner, 1966b, 13] 세 번째 단계 (7~11 년) 에서 추상적 상징적 힘의 집중적 발전이 시작된다.\n\n첫 번째 상징적인 발전 단계인 피아게는 구체적인 작업 단계라고 부른다.\n\n이 단계에서의 학습은 계급과 관계의 논리에 의해 지배됩니다.\n\n이 단계의 아이는 인덕티브 능력의 발달로 자신의 직접적인 경험적 세계로부터의 독립성을 더 높여줍니다. 콘크리트 운영의 구조는 가정용 영어로 말하자면, 개별 주차 공간이 이제 점유되어 있고 이제 빈 공간으로 된 주차장과 비슷합니다. 그러나 공간 자체는 지속되며, 소유자가 실제로 존재하는 자동차를 넘어 잠재적인, 미래의 빈 공간의 잠재적인 탑승자를 향해 바라보고 있습니다.\n\n[Flavell, 1963, p. 203] 따라서, 수용적 과정에 의해 학습 방식이 지배된 감각 운동 단계의 아동과 달리, 구체적인 작업 단계의 아동은 학습 방식에 더 흡수성이 있다.\n\n그는 자신의 경험을 선택하고 형성하기 위해 개념과 이론에 의존합니다.\n\n피아게의 인지 발달의 마지막 단계는 청소년기 (12~15세) 시작과 함께 발생합니다.\n\n이 단계에서 청소년은 구체적인 동작에 기초한 상징적인 과정에서 형식적인 동작의 단계인 표현적 논리의 상징적인 과정으로 이동합니다.\n\n그는 이제 활발한 지향으로 돌아갑니다. 하지만 그것은 활발한지향이지만, 그 이전의 반사적이고 추상적인 힘의 발달로 인해 현재 변화되고 있습니다.\n\n이",
+      "status": "translated",
+      "sourceTextSha256": "4a8966b743dc4cfbaf90cc251f54fc529c54f3655d6c20ab7791cf78b8bf9a25",
+      "segments": [
+        {
+          "source": "aq The Frocass of Experiential Learning accommodative.",
+          "translation": "엑스페리언셜 러닝의 패러다임"
+        },
+        {
+          "source": "Environment plays a major role in shaping his ideas and intentions.",
+          "translation": "환경은 그의 생각과 의도를 형성하는 데 중요한 역할을 합니다."
+        },
+        {
+          "source": "Learning occurs primarily through the association between stimulus and response.",
+          "translation": "학습은 주로 자극과 반응의 연관성을 통해 이루어집니다."
+        },
+        {
+          "source": "In the second stage (2-6 years}, the child retains his concrete orientation but begins to develop a reflective orientation as he begins to internalize actions, converting them to images.",
+          "translation": "두 번째 단계인 2~6세에는 구체적인 지향을 유지하면서도, 행동을 내면화하여 이미지로 바꾸기 시작함에 따라 성찰적인 지향이 발달하기 시작한다.",
+          "reviewed": true
+        },
+        {
+          "source": "This is called the representational stage.",
+          "translation": "이것은 표현 단계라고 합니다."
+        },
+        {
+          "source": "Learning is now predominantly ikonic in nature, through the manipulation of observations and images.",
+          "translation": "이제 학습은 관찰과 이미지의 조작을 통해 주로 아이콘적인 성격을 가지고 있습니다."
+        },
+        {
+          "source": "The child is now freed somewhat from his immersion in immediate experience and, as a result, is free to play with and manipulate hisimages of the world, At this stage, the child’s primary stance toward the world is divergent.",
+          "translation": "이제 아이는 즉각적인 경험에 몰입한 상태에서 어느 정도 자유로워지고, 그 결과, 세계의 이미지와 놀고 조작할 수 있습니다."
+        },
+        {
+          "source": "He is captivated with his ability to collect images and to view the world from different perspectives.",
+          "translation": "그는 이미지를 수집하고 다른 관점으로 세상을 보는 능력으로 매료됩니다."
+        },
+        {
+          "source": "Consider Bruner’s description of the child at this stage: What appears next in development is a great achievement.",
+          "translation": "이 단계에서 브루너의 아동에 대한 설명에 대해 생각해 봅시다."
+        },
+        {
+          "source": "Images develop an autonomous status, they become great summarnzers of action.",
+          "translation": "이미지는 자율적인 지위를 갖게 되고, 행동의 큰 요약이 됩니다."
+        },
+        {
+          "source": "By age three the child has became a paragon of sensory distractibilty.",
+          "translation": "세 세 살 때 아이는 감각적으로 방해가 될 수 있는 모델이 되었습니다."
+        },
+        {
+          "source": "He is victim of the laws of vividness, and his action pattern is.a series of encounters with this bright thing whieh is then replaced by thal chromatically splendid ane, which in turn gives way fo the next noisy one.",
+          "translation": "그는 생동감의 법칙의 희생자이고 그의 행동 패턴은 빛나는 이 물체에 대한 일련의 만남입니다. 이 물체는 그 다음 크로마틱적으로 화려한 물체로 대체됩니다."
+        },
+        {
+          "source": "And so if goes.",
+          "translation": "그리고 그렇게 되면"
+        },
+        {
+          "source": "Visual memony at this stage seems to be highly concrete and specific, What is intriguing about this period is that the child is acreature of tha moment; the image of the moment is sufficient and itis controlled by a single feature of the situation.",
+          "translation": "이 단계에서의 시각적 기억은 매우 구체적이고 구체적일 것으로 보입니다. 이 기간에 대해 흥미로운 것은 아이가 그 순간의 창조체라는 것입니다. 그 순간의 이미지는 충분합니다. 그리고 그것은 상황의 단일 특징에 의해 통제됩니다."
+        },
+        {
+          "source": "[Bruner, 1966b, p. 13] In the third stage (7-11 years), the intensive development of abstract symbolic powers begins.",
+          "translation": "[Bruner, 1966b, 13] 세 번째 단계 (7~11 년) 에서 추상적 상징적 힘의 집중적 발전이 시작된다."
+        },
+        {
+          "source": "The first symbolic developmental stage Piaget calls the stage of concrete operations.",
+          "translation": "첫 번째 상징적인 발전 단계인 피아게는 구체적인 작업 단계라고 부른다."
+        },
+        {
+          "source": "Learning in this stage is governed by the logic of classes and relations.",
+          "translation": "이 단계에서의 학습은 계급과 관계의 논리에 의해 지배됩니다."
+        },
+        {
+          "source": "The child in this stage further increases his independence from his immediate experiential world through the development of inductive powers: The structures of concrete operations are, to use a homely anglogy, rather like parking lots whose individual parking spaces are now occupied and now empty; fhe spaces themselves endure, however, and leave their owner to look beyond the cars actually present toward potential, future occupants of the vacant and to-be-vacant spaces.",
+          "translation": "이 단계의 아이는 인덕티브 능력의 발달로 자신의 직접적인 경험적 세계로부터의 독립성을 더 높여줍니다. 콘크리트 운영의 구조는 가정용 영어로 말하자면, 개별 주차 공간이 이제 점유되어 있고 이제 빈 공간으로 된 주차장과 비슷합니다. 그러나 공간 자체는 지속되며, 소유자가 실제로 존재하는 자동차를 넘어 잠재적인, 미래의 빈 공간의 잠재적인 탑승자를 향해 바라보고 있습니다."
+        },
+        {
+          "source": "[Flavell, 1963, p. 203] Thus, in contrast to the child in the sensory-motor stage whose learning style was dominated by accommodative processes, the child at the stage of concrete operations is more assimilative in his learning style.",
+          "translation": "[Flavell, 1963, p. 203] 따라서, 수용적 과정에 의해 학습 방식이 지배된 감각 운동 단계의 아동과 달리, 구체적인 작업 단계의 아동은 학습 방식에 더 흡수성이 있다."
+        },
+        {
+          "source": "He relies on concepts and theories to select and give shape to his experiences.",
+          "translation": "그는 자신의 경험을 선택하고 형성하기 위해 개념과 이론에 의존합니다."
+        },
+        {
+          "source": "Piaget's final stage of cognitive development comes with the onset of adolescence (12-15 years).",
+          "translation": "피아게의 인지 발달의 마지막 단계는 청소년기 (12~15세) 시작과 함께 발생합니다."
+        },
+        {
+          "source": "In this stage, the adolescent moves from symbolic processes based on concrete operations to the symbolic processes of representational logic, the stage of formal operations.",
+          "translation": "이 단계에서 청소년은 구체적인 동작에 기초한 상징적인 과정에서 형식적인 동작의 단계인 표현적 논리의 상징적인 과정으로 이동합니다."
+        },
+        {
+          "source": "He now returns toamore active orientation, but it is an active orientation that is now modified by the development of the reflective and abstract power that preceded it.",
+          "translation": "그는 이제 활발한 지향으로 돌아갑니다. 하지만 그것은 활발한지향이지만, 그 이전의 반사적이고 추상적인 힘의 발달로 인해 현재 변화되고 있습니다."
+        },
+        {
+          "source": "The",
+          "translation": "이"
+        }
+      ],
+      "textQuality": "ocr",
+      "ocrImageRotationClockwise": 90
+    },
+    {
+      "page": 7,
+      "sourceText": "The Process of Experiential Learning\n\nConcrete\nPhenomenalism\n\nEnactive\nLearning\n\nlRari¢\nLearning\n\n1. Sensory:\nMetor Stege\n\n2.\n\nRepresenta\nticnal Stage\n\nActive\nEgocentricism\n\nInternalized\nReflection\n\n. Stage of\nFormal\nOperations\n\nStage of\nConcrete\nOperations\n\nHypothetica\ndeductive\nLearning\n\nInductive\nLaarning\n\nAbstract\nCorstrustionism\n\nFigure 2.3 Piaget's Model of Learning and Cognitive Development\n\n26\n\nsymbolic powers he now possesses enable him to engage in hypotheticodeductive reasoning. He develops the passible implications of his theories and\nproceeds to experimentally test which of these are true. Thus his basic learning\nstyle is convergent, in contrast to the divergent arientation of the child in the\n\nrepresentational stage:\n\nWe see, then, that formal thought is for Piaget not so much this or that\nspecific behavior as it is a generalized arentatian, sametimes explicit and\nsometimes Implicit, fowards problem solving; an orientation towards organizing\n\ndata (combinatorial analysis), towardsisolation and control of variables, towards '\n\nfhe hypothetical, and towards logical justification and proaf, [ Flavell, 1963, p. 211)\n\nThis brief outline of Piaget's cognitive development theory identifies thase basic\ndevelopmental processes that shape the basic learning process of adults (see\n\nFigure 2,3),\n\nCHARACTERISTICS OF EXPERIENTIAL LEARNING\n\nThere is a great deal of similarity among the medels of the learning process\ndiscussed above.' Taken together, they form a unique perspective on learning\n\n‘There are also points of disagreement, which wil be explored more fullyin the next chapter, —",
+      "translationText": "경험학습의 과정은 구체적 현상주의\n\n1. 센서: 메터 스테이지\n\n2. 활동적인 자아중심주의 단계 내면적 반영을 나타냅니다 .\n\n형식적 운영 단계 콘크리트 운영 단계 가설적 추산적 학습 Inductive Learning Abstract Corstrustionism 그림 2.3 피아게의 학습 및 인지 발달 모델 26 그는 현재 가지고 있는 상징적 능력은 가설적분석에 참여할 수 있도록 해줍니다.\n\n그는 자신의 이론의 수반적인 의미를 개발하고 이 이론 중 어느 것이 사실인지를 실험적으로 테스트합니다.\n\n따라서 그의 기본적인 학습 방식은 표현 단계에서의 아동의 분립적인 관습과 달리 합동적이다. 따라서, 우리는 형식적 사고가 피아게에게 이 또는 그 특정 행동이 아니라 일반화 된, 동시에 명시적이고 때로는 간접적인 문제 해결이라는 것을 볼 수 있습니다. 데이터 조직 (복합 분석), 변수의 고립 및 통제, 가설적, 그리고 논리적 정당화 및 무방향에 대한 지향이 [Flavell, 1963, p.\n\n211) 이 피아게의 인지 발달 이론의 간략한 개요는 성인들의 기본적인 학습 과정을 형성하는 기본적인 발달 과정들을 식별합니다 (그림 2.3 참조), 경험학습의 특성상 위에서 논의된 학습 과정의 메달들 사이에 많은 유사성이 있습니다. \"\n\n또한 다른 의견도 있습니다. 다음 장에서 더 자세히 살펴볼 것입니다.",
+      "status": "translated",
+      "sourceTextSha256": "e0a9e5d3e5558d553179c56c74e580c54871f27f8ad9dcf7ba5cfc495efc7fdd",
+      "segments": [
+        {
+          "source": "The Process of Experiential Learning Concrete Phenomenalism Enactive Learning lRari¢ Learning",
+          "translation": "경험학습의 과정은 구체적 현상주의"
+        },
+        {
+          "source": "1. Sensory: Metor Stege",
+          "translation": "1. 센서: 메터 스테이지"
+        },
+        {
+          "source": "2. Representa ticnal Stage Active Egocentricism Internalized Reflection .",
+          "translation": "2. 활동적인 자아중심주의 단계 내면적 반영을 나타냅니다 ."
+        },
+        {
+          "source": "Stage of Formal Operations Stage of Concrete Operations Hypothetica deductive Learning Inductive Laarning Abstract Corstrustionism Figure 2.3 Piaget's Model of Learning and Cognitive Development 26 symbolic powers he now possesses enable him to engage in hypotheticodeductive reasoning.",
+          "translation": "형식적 운영 단계 콘크리트 운영 단계 가설적 추산적 학습 Inductive Learning Abstract Corstrustionism 그림 2.3 피아게의 학습 및 인지 발달 모델 26 그는 현재 가지고 있는 상징적 능력은 가설적분석에 참여할 수 있도록 해줍니다."
+        },
+        {
+          "source": "He develops the passible implications of his theories and proceeds to experimentally test which of these are true.",
+          "translation": "그는 자신의 이론의 수반적인 의미를 개발하고 이 이론 중 어느 것이 사실인지를 실험적으로 테스트합니다."
+        },
+        {
+          "source": "Thus his basic learning style is convergent, in contrast to the divergent arientation of the child in the representational stage: We see, then, that formal thought is for Piaget not so much this or that specific behavior as it is a generalized arentatian, sametimes explicit and sometimes Implicit, fowards problem solving; an orientation towards organizing data (combinatorial analysis), towardsisolation and control of variables, towards ' fhe hypothetical, and towards logical justification and proaf, [ Flavell, 1963, p.",
+          "translation": "따라서 그의 기본적인 학습 방식은 표현 단계에서의 아동의 분립적인 관습과 달리 합동적이다. 따라서, 우리는 형식적 사고가 피아게에게 이 또는 그 특정 행동이 아니라 일반화 된, 동시에 명시적이고 때로는 간접적인 문제 해결이라는 것을 볼 수 있습니다. 데이터 조직 (복합 분석), 변수의 고립 및 통제, 가설적, 그리고 논리적 정당화 및 무방향에 대한 지향이 [Flavell, 1963, p."
+        },
+        {
+          "source": "211) This brief outline of Piaget's cognitive development theory identifies thase basic developmental processes that shape the basic learning process of adults (see Figure 2,3), CHARACTERISTICS OF EXPERIENTIAL LEARNING There is a great deal of similarity among the medels of the learning process discussed above.'",
+          "translation": "211) 이 피아게의 인지 발달 이론의 간략한 개요는 성인들의 기본적인 학습 과정을 형성하는 기본적인 발달 과정들을 식별합니다 (그림 2.3 참조), 경험학습의 특성상 위에서 논의된 학습 과정의 메달들 사이에 많은 유사성이 있습니다. \""
+        },
+        {
+          "source": "Taken together, they form a unique perspective on learning ‘There are also points of disagreement, which wil be explored more fullyin the next chapter, —",
+          "translation": "또한 다른 의견도 있습니다. 다음 장에서 더 자세히 살펴볼 것입니다."
+        }
+      ],
+      "textQuality": "ocr",
+      "ocrImageRotationClockwise": 90
+    },
+    {
+      "page": 8,
+      "sourceText": "Bi The Process of Experiential Learning\n\nand development, a perspective that can be characterized by the following\npropositions, which are shared by the three major traditions of experiential\nlearning.\n\nLearning Is Best Conceived as a Process, Not in Terms\nof Qutcomes\n\nThe emphasis on the process of learning aS opposed to the behavioral\noutcomes distinguishes experiential learning from the idealist approaches of\ntraditional education and from the behavioral theories of learning created by\nWatson, Hull, Skinner, and others. The theory of experiential learning rests on\na different philosophical and episternolegical base fram behaviorist theories of\nlearning and idealist educational approaches. Modern versions of these latter\napproaches are based on the empiricist philosophies of Locke and others. This\nepistemology is based on the idea that there are elements of consciousness—\nmental atoms, or, in Lacke’s term “simple ideas” —that always remain the same.\nThe various combinations and associations of these consistent elements form\nour Varying patterns of thought. It is the notion of constant, fixed elements of\nthought that has had such a profound effect on prevailing approaches to\nlearning and education, resulting in a tendency to define learning in terms of its\noutcomes, whether these be knowledge in an accumulated storehouse of facts\nor habits representing behavioral responses to specific stimulus conditions. If\nideas are seen to be fixed and immutable, then it seers possible to measure how\nmuch someone has learned by the amount of these fixed ideas the person has\naccumulated,\n\nExperiential learning theary, however, proceeds from a different set of\nassumptions. Ideas are not fixed and immutable elements of thought but are\nformed and re-formed through experience. In all three of the learning models\njust reviewed, learning is described as a process whereby concepts are derived\nfrom and continuously modified by experience. No two thoughts are ever the\nsame, since experience always intervenes, Piaget (1970), for example,\nconsiders the creation of new knowledge to be the central problem of genetic\nepistemology, since each act of understanding is the result of a process of\ncontinuous construction and invention through the interaction processes of\nassimilation and accommodation (compare Chapter 5, p. 99), Learning is an\nemergent process whose outcomes represent only historical record, not\nknowledge of the future,\n\nWhen viewed from the perspective of experiential learning, the tendency to\ndefine learning in terms af outcomes can become a definition of nonlearning, in\nthe process sense that the failure to modify ideas and habits as a result of\nexperience is maladaptive. The clearest example of this irony lies in the\nbehaviorist axiom that the strength of a habit can be measured byits resistance\nto extinction. That is, the more | have “learned” a given habit, the longer | will\npersist in behaving that way when it is no longer rewarded. Similarly, there are\nthose who feel that the orientations that conceive of Jearning in terms of",
+      "translationText": "Bi 경험학습과 발달의 과정, 경험학습의 세 가지 주요 전통이 공유하는 다음 제안으로 특징을 할 수 있는 관점.\n\n학습은 결과의 조건에서 아니라 과정으로 가장 잘 생각됩니다 행동적 결과에 반대되는 학습 과정에 대한 강조는 경험학습을 전통적인 교육의 이상주의적 접근 방법과 왓슨, 홀, 스키너 등이 만든 행동적 학습 이론으로부터 구별합니다.\n\n경험학습의 이론은 학습과 이상주의적 교육 접근의 행동주의 이론의 다른 철학적 및 서론적 기본 프레임에 기반을 두고 있습니다.\n\n이러한 후자의 접근 방식의 현대 버전은 로크와 다른 사람들의 경험주의 철학에 기초하고 있습니다.\n\n이 인식론은 의식의 요소가 있다는 생각에 기초하고 있습니다. 정신 원자, 또는 라케의 용어에서 항상 동일하게 남아있는 간단한 아이디어.\n\n이러한 일관된 요소들의 다양한 조합과 연관성은 우리의 다양한 사고방식을 형성합니다.\n\n끊임없는 고정된 사고 요소의 개념이 학습과 교육에 대한 지배적인 접근 방식에 매우 깊은 영향을 미쳤으며, 이는 특정 자극 조건에 대한 행동 반응을 나타내는 사실 또는 습관의 축적된 창고에 있는 지식인 결과를 기준으로 학습을 정의하는 경향이 있습니다.\n\n아이디어가 고정적이고 변하지 않는 것으로 보인다면, 사람이 축적한 고정된 아이디어의 양을 통해 누군가가 얼마나 많이 배웠는지 측정하는 것이 가능하다고 볼 수 있습니다. 그러나 경험학습 이론은 다른 가정의 집합에서 출발합니다.\n\n아이디어는 고정적이고 변하지 않는 사고 요소가 아니라 경험으로 형성되고 재구성됩니다.\n\n방금 검토한 세 가지 학습 모델에서 학습은 개념이 경험에서 유래되고 지속적으로 수정되는 과정으로 묘사됩니다.\n\n경험은 항상 개입하기 때문에 두 가지 생각은 결코 동일하지 않습니다. 예를 들어, 피아게 (1970), 새로운 지식의 창조는 유전적 인식학의 핵심 문제라고 간주합니다. 왜냐하면 이해의 모든 행위는 흡수와 수용의 상호 작용 과정을 통해 지속적인 건설과 발명의 결과이기 때문입니다 (과 비교 5장, 99쪽). 학습은 결과물이 역사적인 기록만을 나타냅니다. 미래 지식은 아닙니다. 경험학습의 관점에서 볼 때, 학습을 정의하는 경향이\n\n결과의 용어는 학습에 대한 정의가 될 수 있으며, 경험으로 인해 아이디어와 습관을 수정하지 못하는 것은 적응하지 못한다는 의미에서 학습되지 않습니다.\n\n이 아이러니의 가장 명확한 예는 습관의 강도를 멸종에 대한 저항으로 측정할 수 있다는 행동주의적 추론에 있습니다.\n\n즉, 주어진 습관을 더 많이 배우면 더 오래 그 습관이 보상되지 않을 때 계속 그렇게 행동하게 될 것입니다.\n\n마찬가지로, 제어닝을 개념화하는 지향이",
+      "status": "translated",
+      "sourceTextSha256": "340f01f40c157b42f5d81dcd18164e8b876808f762e20d765db9faa8b62ee3cc",
+      "segments": [
+        {
+          "source": "Bi The Process of Experiential Learning and development, a perspective that can be characterized by the following propositions, which are shared by the three major traditions of experiential learning.",
+          "translation": "Bi 경험학습과 발달의 과정, 경험학습의 세 가지 주요 전통이 공유하는 다음 제안으로 특징을 할 수 있는 관점."
+        },
+        {
+          "source": "Learning Is Best Conceived as a Process, Not in Terms of Qutcomes The emphasis on the process of learning aS opposed to the behavioral outcomes distinguishes experiential learning from the idealist approaches of traditional education and from the behavioral theories of learning created by Watson, Hull, Skinner, and others.",
+          "translation": "학습은 결과의 조건에서 아니라 과정으로 가장 잘 생각됩니다 행동적 결과에 반대되는 학습 과정에 대한 강조는 경험학습을 전통적인 교육의 이상주의적 접근 방법과 왓슨, 홀, 스키너 등이 만든 행동적 학습 이론으로부터 구별합니다."
+        },
+        {
+          "source": "The theory of experiential learning rests on a different philosophical and episternolegical base fram behaviorist theories of learning and idealist educational approaches.",
+          "translation": "경험학습의 이론은 학습과 이상주의적 교육 접근의 행동주의 이론의 다른 철학적 및 서론적 기본 프레임에 기반을 두고 있습니다."
+        },
+        {
+          "source": "Modern versions of these latter approaches are based on the empiricist philosophies of Locke and others.",
+          "translation": "이러한 후자의 접근 방식의 현대 버전은 로크와 다른 사람들의 경험주의 철학에 기초하고 있습니다."
+        },
+        {
+          "source": "This epistemology is based on the idea that there are elements of consciousness— mental atoms, or, in Lacke’s term “simple ideas” —that always remain the same.",
+          "translation": "이 인식론은 의식의 요소가 있다는 생각에 기초하고 있습니다. 정신 원자, 또는 라케의 용어에서 항상 동일하게 남아있는 간단한 아이디어."
+        },
+        {
+          "source": "The various combinations and associations of these consistent elements form our Varying patterns of thought.",
+          "translation": "이러한 일관된 요소들의 다양한 조합과 연관성은 우리의 다양한 사고방식을 형성합니다."
+        },
+        {
+          "source": "It is the notion of constant, fixed elements of thought that has had such a profound effect on prevailing approaches to learning and education, resulting in a tendency to define learning in terms of its outcomes, whether these be knowledge in an accumulated storehouse of facts or habits representing behavioral responses to specific stimulus conditions.",
+          "translation": "끊임없는 고정된 사고 요소의 개념이 학습과 교육에 대한 지배적인 접근 방식에 매우 깊은 영향을 미쳤으며, 이는 특정 자극 조건에 대한 행동 반응을 나타내는 사실 또는 습관의 축적된 창고에 있는 지식인 결과를 기준으로 학습을 정의하는 경향이 있습니다."
+        },
+        {
+          "source": "If ideas are seen to be fixed and immutable, then it seers possible to measure how much someone has learned by the amount of these fixed ideas the person has accumulated, Experiential learning theary, however, proceeds from a different set of assumptions.",
+          "translation": "아이디어가 고정적이고 변하지 않는 것으로 보인다면, 사람이 축적한 고정된 아이디어의 양을 통해 누군가가 얼마나 많이 배웠는지 측정하는 것이 가능하다고 볼 수 있습니다. 그러나 경험학습 이론은 다른 가정의 집합에서 출발합니다."
+        },
+        {
+          "source": "Ideas are not fixed and immutable elements of thought but are formed and re-formed through experience.",
+          "translation": "아이디어는 고정적이고 변하지 않는 사고 요소가 아니라 경험으로 형성되고 재구성됩니다."
+        },
+        {
+          "source": "In all three of the learning models just reviewed, learning is described as a process whereby concepts are derived from and continuously modified by experience.",
+          "translation": "방금 검토한 세 가지 학습 모델에서 학습은 개념이 경험에서 유래되고 지속적으로 수정되는 과정으로 묘사됩니다."
+        },
+        {
+          "source": "No two thoughts are ever the same, since experience always intervenes, Piaget (1970), for example, considers the creation of new knowledge to be the central problem of genetic epistemology, since each act of understanding is the result of a process of continuous construction and invention through the interaction processes of assimilation and accommodation (compare Chapter 5, p. 99), Learning is an emergent process whose outcomes represent only historical record, not knowledge of the future, When viewed from the perspective of experiential learning, the tendency to define learning in",
+          "translation": "경험은 항상 개입하기 때문에 두 가지 생각은 결코 동일하지 않습니다. 예를 들어, 피아게 (1970), 새로운 지식의 창조는 유전적 인식학의 핵심 문제라고 간주합니다. 왜냐하면 이해의 모든 행위는 흡수와 수용의 상호 작용 과정을 통해 지속적인 건설과 발명의 결과이기 때문입니다 (과 비교 5장, 99쪽). 학습은 결과물이 역사적인 기록만을 나타냅니다. 미래 지식은 아닙니다. 경험학습의 관점에서 볼 때, 학습을 정의하는 경향이"
+        },
+        {
+          "source": "terms af outcomes can become a definition of nonlearning, in the process sense that the failure to modify ideas and habits as a result of experience is maladaptive.",
+          "translation": "결과의 용어는 학습에 대한 정의가 될 수 있으며, 경험으로 인해 아이디어와 습관을 수정하지 못하는 것은 적응하지 못한다는 의미에서 학습되지 않습니다."
+        },
+        {
+          "source": "The clearest example of this irony lies in the behaviorist axiom that the strength of a habit can be measured byits resistance to extinction.",
+          "translation": "이 아이러니의 가장 명확한 예는 습관의 강도를 멸종에 대한 저항으로 측정할 수 있다는 행동주의적 추론에 있습니다."
+        },
+        {
+          "source": "That is, the more | have “learned” a given habit, the longer | will persist in behaving that way when it is no longer rewarded.",
+          "translation": "즉, 주어진 습관을 더 많이 배우면 더 오래 그 습관이 보상되지 않을 때 계속 그렇게 행동하게 될 것입니다."
+        },
+        {
+          "source": "Similarly, there are those who feel that the orientations that conceive of Jearning in terms of",
+          "translation": "마찬가지로, 제어닝을 개념화하는 지향이"
+        }
+      ],
+      "textQuality": "ocr",
+      "ocrImageRotationClockwise": 90
+    },
+    {
+      "page": 9,
+      "sourceText": "outcomes as Opposed to a process of adaptation have had a negative effect on\nthe educational system, Jerome Bruner, in his influential book, Toward a\nTheory of Instruction, makes the point that the purpose of education is to\nstimulate inquiry and skill in the process of knowledge getting, not to memorize\na body of knowledge: “Knowing is a process, nota product” (1966, p. 72). Paulo\nFreire calls the orientation that conceives of education as the transmission af\nfixed content the “banking” concept of education:\n\nEducation thus becomes an act of depositing, in which the students are the\ndepositories and the teacher is the depositor. Instead of communicating, the\nteacher issues communiques and makes deposits which the students patiently\nreceive, memorize, and repeat. This is the “banking” concept of education, in\nwhich the scope of action allowed to the students extends onlyasfaras receivina,\nfiling, and storing the deposits, They do, itis frue, have the opportunity to become\ncollectors or cataloguers of the things they store. Butin the last analysis, itismen\nthemselves who ore filed away through the lack of creativity, transformation, and\nKrawledge in this fat best) misguided system, For apart fram inquiry, apart from\nthe praxis, men cannot be truly human. Knowledge emerges only through\ninvention and reinvention, through the restless, impatient, continuing, hopeful\ninguiry men pursue in the world, with the world, and with each other. [Friere,\n1974, p, 58]\n\nLearning Is a Continuous Process Grounded in Experience\n\nKnowledge is continuously derived from and tested out in the experiences of\n‘he learner. William James (1890), in his studies on the nature of human\nzonsciousness, marveled at the fact that consciousness is continuous. How isit,\nie asked, that | awake in the morning with the same consciousness, the same\n‘houghts, feelings, memories, and sense of whol am that! went to sleep with the\nuight before? Similarly for Dewey, continuity of experience was a powerful truth\nof human existence, central to the theory of learning:\n\n.., the principle of continuity of experience means that every experience\nboth takes up something from those which have gone before and modifies insame\nway the quality of those which came efter... . As an individual passes from one\nsituation to another, his world, his environment, expands or contracts, He does\nnot find himself ving in another world but in.a different part or aspect of ane and\nthe same world. What he has learned in the way of knowledge and skill none\nsituation becomes an instrument of understanding and dealing effectively with the\nsituations which fallow. The process goes on as long as life and learning continue.\nDewey, 1938, pp. 35, 44]\n\nAlthough we are all aware of the sense of continuity in consciousness and\nixperience to which James and Dewey refer, and take comfort from the\nedictability and security it provides, there is on occasion in the penumbra of\nhat awareness an element of doubt and uncertainty. How do] reconcile my\nwn sense of continuity and predictability with what at times appears to be a",
+      "translationText": "적응의 과정에 반대하여 교육 시스템에 부정적인 영향을 미쳤다고 Jerome Bruner은 그의 영향력 있는 책 Toward a Theory of Instruction에서 교육의 목적은 지식 습득 과정의 탐구와 기술을 자극하는 것이 아니라 지식의 몸집을 기억하는 것이라고 지적합니다.\n\nPaulo Freire는 교육을 고정된 내용의 전달로 보는 지향을 교육의 ‘은행저금식’ 개념이라고 부른다. “이렇게 교육은 저금 행위가 되며, 학생들은 저금을 맡아 두는 곳이 되고 교사는 저금하는 사람이 된다.” [원문 OCR 표기: ‘transmission af’]\n\n교사는 의사소통 대신 의사소통을 하고 학생들이 인내심을 가지고 받아내며 기억하고 반복하는 내용의 예약을 작성합니다.\n\n이것은 교육의 뱅킹  개념입니다. 이 개념은 학생들에게 허용되는 활동 범위가 단지 입금, 기증 및 저장에 관한 것만을 확장합니다. 그들은 저장하는 물건의 수집자 또는 카탈로그가 될 수있는 기회를 가지고 있습니다.\n\n그러나 결국 창의성·변형·지식이 결여된 이 체제—아무리 좋게 보아도 잘못된 체제—에서 서류처럼 정리되어 치워지는 것은 사람들 자신이다. 탐구와 실천(praxis)을 떠나서는 인간이 참된 인간일 수 없기 때문이다.\n\n지식은 발명과 재발견을 통해서만 나타납니다. 불안하고, 인내하지 않고, 계속하고, 희망적인 사람들이 세상을 따라다니며, 세상과, 그리고 서로가 서로를 따라다니며 말이죠.\n\n[Friere, 1974, p, 58] 학습은 경험에 기초한 지속적인 과정입니다.\n\n윌리엄 제임스 (1890) 는 인간의 의식의 본질에 관한 연구에서 의식이 연속이라는 사실에 놀랐다.\n\n어떻게, 즉, 아침에 같은 의식, 같은 생각, 감정, 기억, 그리고 내가 누구인가의 감각과 함께 깨어나서\n\n마찬가지로 듀이의 경우 경험의 연속성은 인간의 존재에 대한 강력한 진실이었고, 학습 이론의 중심이었습니다.\n\n경험의 연속성의 원칙은 모든 경험은 과거로부터 어떤 것을 취하고 그 이후의 경험의 질을 동일하게 변화시키는 것을 의미합니다.\n\n개인이 한 상황에서 다른 상황으로, 자신의 세계, 자신의 환경으로, 확장되거나 계약하는 동안, 그는 자신을 다른 세계에서 발견하지 않습니다. 그러나 다른 부분 또는 같은 세계의 다른 측면.\n\n그는 어떤 상황도 없는 지식과 기술로 배운 것이 어떤 상황도 제대로 파악하고 대처할 수 있는 도구가 된다.\n\n이 과정은 삶과 학습이 지속될 때까지 계속됩니다.\n\nDewey, 1938, pp. 35, 44] 비록 우리는 모두 제임스와 Dewey가 언급하는 의식과 경험의 연속성의 감각을 알고 있으며, 그것이 제공하는 편리성과 안전으로부터 위로를 받고 있지만, 때때로 모자 의식의 반구름에는 의심과 불확실성의 요소가 있습니다.\n\n어떻게 내 연속성과 예측 가능성에 대한 제 첫 번째 감각을",
+      "status": "translated",
+      "sourceTextSha256": "5a6a352a52e5cc5ae44ab95afbda734a332e7b4c08581e30b5f633d1e808bf4d",
+      "segments": [
+        {
+          "source": "outcomes as Opposed to a process of adaptation have had a negative effect on the educational system, Jerome Bruner, in his influential book, Toward a Theory of Instruction, makes the point that the purpose of education is to stimulate inquiry and skill in the process of knowledge getting, not to memorize a body of knowledge: “Knowing is a process, nota product” (1966, p. 72).",
+          "translation": "적응의 과정에 반대하여 교육 시스템에 부정적인 영향을 미쳤다고 Jerome Bruner은 그의 영향력 있는 책 Toward a Theory of Instruction에서 교육의 목적은 지식 습득 과정의 탐구와 기술을 자극하는 것이 아니라 지식의 몸집을 기억하는 것이라고 지적합니다."
+        },
+        {
+          "source": "Paulo Freire calls the orientation that conceives of education as the transmission af fixed content the “banking” concept of education: Education thus becomes an act of depositing, in which the students are the depositories and the teacher is the depositor.",
+          "translation": "Paulo Freire는 교육을 고정된 내용의 전달로 보는 지향을 교육의 ‘은행저금식’ 개념이라고 부른다. “이렇게 교육은 저금 행위가 되며, 학생들은 저금을 맡아 두는 곳이 되고 교사는 저금하는 사람이 된다.” [원문 OCR 표기: ‘transmission af’]",
+          "reviewed": true
+        },
+        {
+          "source": "Instead of communicating, the teacher issues communiques and makes deposits which the students patiently receive, memorize, and repeat.",
+          "translation": "교사는 의사소통 대신 의사소통을 하고 학생들이 인내심을 가지고 받아내며 기억하고 반복하는 내용의 예약을 작성합니다."
+        },
+        {
+          "source": "This is the “banking” concept of education, in which the scope of action allowed to the students extends onlyasfaras receivina, filing, and storing the deposits, They do, itis frue, have the opportunity to become collectors or cataloguers of the things they store.",
+          "translation": "이것은 교육의 뱅킹  개념입니다. 이 개념은 학생들에게 허용되는 활동 범위가 단지 입금, 기증 및 저장에 관한 것만을 확장합니다. 그들은 저장하는 물건의 수집자 또는 카탈로그가 될 수있는 기회를 가지고 있습니다."
+        },
+        {
+          "source": "Butin the last analysis, itismen themselves who ore filed away through the lack of creativity, transformation, and Krawledge in this fat best) misguided system, For apart fram inquiry, apart from the praxis, men cannot be truly human.",
+          "translation": "그러나 결국 창의성·변형·지식이 결여된 이 체제—아무리 좋게 보아도 잘못된 체제—에서 서류처럼 정리되어 치워지는 것은 사람들 자신이다. 탐구와 실천(praxis)을 떠나서는 인간이 참된 인간일 수 없기 때문이다.",
+          "reviewed": true
+        },
+        {
+          "source": "Knowledge emerges only through invention and reinvention, through the restless, impatient, continuing, hopeful inguiry men pursue in the world, with the world, and with each other.",
+          "translation": "지식은 발명과 재발견을 통해서만 나타납니다. 불안하고, 인내하지 않고, 계속하고, 희망적인 사람들이 세상을 따라다니며, 세상과, 그리고 서로가 서로를 따라다니며 말이죠."
+        },
+        {
+          "source": "[Friere, 1974, p, 58] Learning Is a Continuous Process Grounded in Experience Knowledge is continuously derived from and tested out in the experiences of ‘he learner.",
+          "translation": "[Friere, 1974, p, 58] 학습은 경험에 기초한 지속적인 과정입니다."
+        },
+        {
+          "source": "William James (1890), in his studies on the nature of human zonsciousness, marveled at the fact that consciousness is continuous.",
+          "translation": "윌리엄 제임스 (1890) 는 인간의 의식의 본질에 관한 연구에서 의식이 연속이라는 사실에 놀랐다."
+        },
+        {
+          "source": "How isit, ie asked, that | awake in the morning with the same consciousness, the same ‘houghts, feelings, memories, and sense of whol am that! went to sleep with the uight before?",
+          "translation": "어떻게, 즉, 아침에 같은 의식, 같은 생각, 감정, 기억, 그리고 내가 누구인가의 감각과 함께 깨어나서"
+        },
+        {
+          "source": "Similarly for Dewey, continuity of experience was a powerful truth of human existence, central to the theory of learning: .",
+          "translation": "마찬가지로 듀이의 경우 경험의 연속성은 인간의 존재에 대한 강력한 진실이었고, 학습 이론의 중심이었습니다."
+        },
+        {
+          "source": "., the principle of continuity of experience means that every experience both takes up something from those which have gone before and modifies insame way the quality of those which came efter... .",
+          "translation": "경험의 연속성의 원칙은 모든 경험은 과거로부터 어떤 것을 취하고 그 이후의 경험의 질을 동일하게 변화시키는 것을 의미합니다."
+        },
+        {
+          "source": "As an individual passes from one situation to another, his world, his environment, expands or contracts, He does not find himself ving in another world but in.a different part or aspect of ane and the same world.",
+          "translation": "개인이 한 상황에서 다른 상황으로, 자신의 세계, 자신의 환경으로, 확장되거나 계약하는 동안, 그는 자신을 다른 세계에서 발견하지 않습니다. 그러나 다른 부분 또는 같은 세계의 다른 측면."
+        },
+        {
+          "source": "What he has learned in the way of knowledge and skill none situation becomes an instrument of understanding and dealing effectively with the situations which fallow.",
+          "translation": "그는 어떤 상황도 없는 지식과 기술로 배운 것이 어떤 상황도 제대로 파악하고 대처할 수 있는 도구가 된다."
+        },
+        {
+          "source": "The process goes on as long as life and learning continue.",
+          "translation": "이 과정은 삶과 학습이 지속될 때까지 계속됩니다."
+        },
+        {
+          "source": "Dewey, 1938, pp. 35, 44] Although we are all aware of the sense of continuity in consciousness and ixperience to which James and Dewey refer, and take comfort from the edictability and security it provides, there is on occasion in the penumbra of hat awareness an element of doubt and uncertainty.",
+          "translation": "Dewey, 1938, pp. 35, 44] 비록 우리는 모두 제임스와 Dewey가 언급하는 의식과 경험의 연속성의 감각을 알고 있으며, 그것이 제공하는 편리성과 안전으로부터 위로를 받고 있지만, 때때로 모자 의식의 반구름에는 의심과 불확실성의 요소가 있습니다."
+        },
+        {
+          "source": "How do] reconcile my wn sense of continuity and predictability with what at times appears to be a",
+          "translation": "어떻게 내 연속성과 예측 가능성에 대한 제 첫 번째 감각을"
+        }
+      ],
+      "textQuality": "ocr",
+      "ocrImageRotationClockwise": 90
+    },
+    {
+      "page": 10,
+      "sourceText": "and development, a perspective that can be characterized by the following\npropasitions, which are shared by the three major traditions of experiential\nlearning,\n\nLearning Is Best Conceived as a Process, Not in Terms\nof Quicomes\n\nThe emphasis on the process of learning as oppased to the behavioral\noutcomes distinguishes experiential learning from the idealist approaches of\ntraditional education and from the behavioral theories of learning created by\nWatson, Hull, Skinner, and others. The theary of experiential learning rests on\na different philosophical and epistemological base from behaviorist theories af\nlearning and idealist educational approaches, Modern versions of these latter\napproaches are based on the empiricist philosophies of Locke and others. This\nepistemology is based on the idea that there are elements of consciousness—\nmental atoms, or, in Locke's term “simple ideas\" —that always remain the same.\nThe various combinations and associations of these consistent elements form\nour Varying patterns of thought. It is the notion of constant, fixed elements of\nthought that has had such a profound effect on prevailing approaches to\nlearning and education, resulting in a tendency to define learning in terms of its\noutcomes, whether these be knowledge in an accumulated storehause of facts\nor habits representing behavioral responses to specific stimulus conditions. If\nideas are seen to be fixed and immutable, thenit seems possible ta measure how\nmuch someone has learned by the amount of these fixed ideas the person has\naccumulated,\n\nExperiential learning theory, however, proceeds from a different set of\nassumptions. Ideas are not fixed and immutable elements of thought but are\nformed and re-formed through experience. In all three of the learning models\njust reviewed, learning is described as a process whereby concepts are derived\nfrom and continuously modified by experience. No two thoughts are ever the\nsame, since experience always intervenes, Piaget {1970}, for example,\nconsiders the creation of new knowledge to be the central problem of genetic\nepistemolagy, since each act of understanding is the result of a process of\ncontinuous construction and invention through the interaction processes of\nassimilation and accommodation (compare Chapter 5, p. 99). Learning is an\nemergent process whose outcomes represent only historical record, not\nknowledge of the future,\n\nWhen viewed from the perspective of experiential learning, the tendency to\ndefine learning in terms of outcomes can become a definition of nonlearning, in\nthe process sense that the failure to modify ideas and habits as a result of\nexperience is maladaptive. The clearest example of this irony lies in the\nbehaviorist axiom that the strength af a habit can be measured byits resistance\nta extinction, That is, the more] have “learned” a given habit, the longer | will\npersist in behaving that way when it is no longer rewarded. Similarly, there are\nthose who feel that the orientations that conceive of learning in terms of",
+      "translationText": "그리고 개발, 다음의 제안에 의해 특징화 될 수 있는 관점, 경험학습의 세 가지 주요 전통이 공유하고 있습니다, 학습은 Quicomes의 용어에서 아닌 프로세스로 가장 잘 이해됩니다 행동적 결과에 대 한 학습 과정에 대한 강조는 경험학습을 전통적인 교육의 이상주의적 접근 방법과 왓슨, 홀, 스키너 등이 만든 행동적 학습 이론에서 구별합니다.\n\n경험학습의 이론은 학습의 행동주의 이론과 이상주의적 교육 접근법에서 다른 철학적 및 인식학적 기반에 기반을 두고 있으며, 후자의 접근법의 현대 버전은 로크와 다른 사람들의 경험주의 철학에 기반을 둔다.\n\n이 인식론은 의식의 요소가 있다는 생각을 바탕으로 합니다. 정신 원자, 또는 로크의 용어에서 항상 동일하게 유지되는 단순한 아이디어. 이러한 일관된 요소들의 다양한 조합과 연관성은 우리의 다양한 사고방식을 형성합니다. 학습과 교육에 대한 지배적인 접근 방식에 깊은 영향을 끼친 것은 끊임없는 고정된 사고 요소의 개념입니다.\n\n특정 자극 조건에 대한 행동적 반응을 나타내는 사실이나 습관의 축적된 저장소. 만약 아이디어가 고정되고 변하지 않는 것으로 여겨지면, 그 사람이 축적한 고정된 아이디어의 양을 통해 어떤 사람이 얼마나 많은 것을 배웠는지를 측정하는 것이 가능해 보인다. 그러나 경험학습 이론은 다른 가정에서 출발한다. 아이디어는 고정적이고 변하지 않는 사고 요소가 아니라 경험으로 형성되고 재구성됩니다. 방금 검토한 학습 모델 3개 모두에서 학습은\n\n개념들이 경험으로부터 유래되고 지속적으로 수정되는 것이다. 경험은 항상 개입하기 때문에 두 가지 생각은 결코 동일하지 않습니다. 예를 들어, 피아게 (Piaget {1970}) 는 새로운 지식의 창조를 유전적 인식학의 중심 문제로 간주합니다. 왜냐하면 이해의 모든 행위는 흡수와 수용의 상호 작용 과정을 통해 지속적인 건설과 발명의 과정의 결과이기 때문입니다. 학습은 새로운 과정이며 그 결과는 역사적인 기록만을 나타냅니다.\n\n미래, 경험학습의 관점에서 볼 때, 결과로 학습을 정의하는 경향은 경험의 결과로 아이디어와 습관을 수정하지 못하는 과정의 의미에서 학습이 아닌 것을 정의 할 수 있습니다. 이 아이러니의 가장 명확한 예는 습관의 강도를 멸종에 대한 저항으로 측정할 수 있다는 행동주의적 추론에 있습니다.\n\n더 이상 보상되지 않습니다.\n\n마찬가지로, 학습을 개념으로 생각하는 지향이",
+      "status": "translated",
+      "sourceTextSha256": "4064cc52d0a94137c3558c03f891ff607c147b7462d6969a2c0e1d58d03f8b5a",
+      "segments": [
+        {
+          "source": "and development, a perspective that can be characterized by the following propasitions, which are shared by the three major traditions of experiential learning, Learning Is Best Conceived as a Process, Not in Terms of Quicomes The emphasis on the process of learning as oppased to the behavioral outcomes distinguishes experiential learning from the idealist approaches of traditional education and from the behavioral theories of learning created by Watson, Hull, Skinner, and others.",
+          "translation": "그리고 개발, 다음의 제안에 의해 특징화 될 수 있는 관점, 경험학습의 세 가지 주요 전통이 공유하고 있습니다, 학습은 Quicomes의 용어에서 아닌 프로세스로 가장 잘 이해됩니다 행동적 결과에 대 한 학습 과정에 대한 강조는 경험학습을 전통적인 교육의 이상주의적 접근 방법과 왓슨, 홀, 스키너 등이 만든 행동적 학습 이론에서 구별합니다."
+        },
+        {
+          "source": "The theary of experiential learning rests on a different philosophical and epistemological base from behaviorist theories af learning and idealist educational approaches, Modern versions of these latter approaches are based on the empiricist philosophies of Locke and others.",
+          "translation": "경험학습의 이론은 학습의 행동주의 이론과 이상주의적 교육 접근법에서 다른 철학적 및 인식학적 기반에 기반을 두고 있으며, 후자의 접근법의 현대 버전은 로크와 다른 사람들의 경험주의 철학에 기반을 둔다."
+        },
+        {
+          "source": "This epistemology is based on the idea that there are elements of consciousness— mental atoms, or, in Locke's term “simple ideas\" —that always remain the same. The various combinations and associations of these consistent elements form our Varying patterns of thought. It is the notion of constant, fixed elements of thought that has had such a profound effect on prevailing approaches to learning and education, resulting in a tendency to define learning in terms of its outcomes, whether these be knowledge in an",
+          "translation": "이 인식론은 의식의 요소가 있다는 생각을 바탕으로 합니다. 정신 원자, 또는 로크의 용어에서 항상 동일하게 유지되는 단순한 아이디어. 이러한 일관된 요소들의 다양한 조합과 연관성은 우리의 다양한 사고방식을 형성합니다. 학습과 교육에 대한 지배적인 접근 방식에 깊은 영향을 끼친 것은 끊임없는 고정된 사고 요소의 개념입니다."
+        },
+        {
+          "source": "accumulated storehause of facts or habits representing behavioral responses to specific stimulus conditions. If ideas are seen to be fixed and immutable, thenit seems possible ta measure how much someone has learned by the amount of these fixed ideas the person has accumulated, Experiential learning theory, however, proceeds from a different set of assumptions. Ideas are not fixed and immutable elements of thought but are formed and re-formed through experience. In all three of the learning models just reviewed, learning is described as a process",
+          "translation": "특정 자극 조건에 대한 행동적 반응을 나타내는 사실이나 습관의 축적된 저장소. 만약 아이디어가 고정되고 변하지 않는 것으로 여겨지면, 그 사람이 축적한 고정된 아이디어의 양을 통해 어떤 사람이 얼마나 많은 것을 배웠는지를 측정하는 것이 가능해 보인다. 그러나 경험학습 이론은 다른 가정에서 출발한다. 아이디어는 고정적이고 변하지 않는 사고 요소가 아니라 경험으로 형성되고 재구성됩니다. 방금 검토한 학습 모델 3개 모두에서 학습은"
+        },
+        {
+          "source": "whereby concepts are derived from and continuously modified by experience. No two thoughts are ever the same, since experience always intervenes, Piaget {1970}, for example, considers the creation of new knowledge to be the central problem of genetic epistemolagy, since each act of understanding is the result of a process of continuous construction and invention through the interaction processes of assimilation and accommodation (compare Chapter 5, p. 99). Learning is an emergent process whose outcomes represent only historical record, not knowledge of the",
+          "translation": "개념들이 경험으로부터 유래되고 지속적으로 수정되는 것이다. 경험은 항상 개입하기 때문에 두 가지 생각은 결코 동일하지 않습니다. 예를 들어, 피아게 (Piaget {1970}) 는 새로운 지식의 창조를 유전적 인식학의 중심 문제로 간주합니다. 왜냐하면 이해의 모든 행위는 흡수와 수용의 상호 작용 과정을 통해 지속적인 건설과 발명의 과정의 결과이기 때문입니다. 학습은 새로운 과정이며 그 결과는 역사적인 기록만을 나타냅니다."
+        },
+        {
+          "source": "future, When viewed from the perspective of experiential learning, the tendency to define learning in terms of outcomes can become a definition of nonlearning, in the process sense that the failure to modify ideas and habits as a result of experience is maladaptive. The clearest example of this irony lies in the behaviorist axiom that the strength af a habit can be measured byits resistance ta extinction, That is, the more] have “learned” a given habit, the longer | will persist in behaving that way when it",
+          "translation": "미래, 경험학습의 관점에서 볼 때, 결과로 학습을 정의하는 경향은 경험의 결과로 아이디어와 습관을 수정하지 못하는 과정의 의미에서 학습이 아닌 것을 정의 할 수 있습니다. 이 아이러니의 가장 명확한 예는 습관의 강도를 멸종에 대한 저항으로 측정할 수 있다는 행동주의적 추론에 있습니다."
+        },
+        {
+          "source": "is no longer rewarded.",
+          "translation": "더 이상 보상되지 않습니다."
+        },
+        {
+          "source": "Similarly, there are those who feel that the orientations that conceive of learning in terms of",
+          "translation": "마찬가지로, 학습을 개념으로 생각하는 지향이"
+        }
+      ],
+      "textQuality": "ocr",
+      "ocrImageRotationClockwise": 90
+    },
+    {
+      "page": 11,
+      "sourceText": "chaotic and unpredictable world around me? | move through my daily round ot\ntasks and meetings with a fair sense of what the issues are, of what others are\nsaying and thinking, and with ideas about what actions to take, Yet [ am\naecasionally upended by unforeseen circumstances, miscommunications, and\ndreadful miscalculations. It is in this interplay between expectation and\nexperience that learning occurs. In Hegel's phrase, “Any experience that does\nnot violate expectation is not worthy of the name experience.” And yet\nsomehow, the rents that these violations cause in the fabric of my experience\nare magically repaired, and | face the next day a bit changed but still the same\nperson.\n\nThat this is a learning process is perhaps better illustrated by the\nnorlearning postures that can result from the interplay between expectation\nand experience. To focus so sharply on continuity and certainty that one is\nblineled to the shadows penumbra of doubt and uncertainty is to risk doamatism\nand rigidity, the inability to learn from new experiences. Or conversely, to have\ncontinuity continuously shaken by the vicissitudes of new experience is to be\nleft paralyzed by insecurity, incapable of effective action. Fram the perspective\nof epistemological philosophy, Pepper (1942) shows that both these postures—\ndogmatism and absolute skepticism—are inadequate foundations for the\ncreation of valid knowledge systems. He proposes instead that an attitude of\nprovisionalism, or what he calls partial skepticism, be the guide for inquiry and\njearning (compare Chapter 5, p. 107).\n\nThe fact that learning is a continuous process grounded in experience has\nimportant educational implications. Put simply, it implies that all learning is\nrelearning. How easy and tempting it is in designing a course to think of the\nlearner's mind as being as blank as the paper on which we scratch our outhne.\nYet this is not the case. Everyone enters every learning situation with more or\nless articulate ideas about the topic at hand. We are all psychologists,\nhistorians, and atomic physicists. It is just that some of our theories are more\ncrude and incorrect than others. But to focus solely on the refinement and\nvalidity of these theories misses the point. The important pointis that the people\nwe teach have held these beliefs whatever their quality and that until new they\nhave used them whenever the situation called far them to be atomic physicists,\nhistorians, or whatever.\n\nThus, one’s job as an educator is not only to implant new ideas but also to\ndispose af or modify old ones. In many cases, resistance to new ideas sterns\nfrom their conflict with old beliefs that are inconsistent with them. If the\neducation process begins by bringing out the learner's beliefs and theories,\nexamining and testing them, and then integrating the new, more refined ideas\ninto the person’s belief systems, the learning process will be facilitated. Piaget\n{see Elkind, 1970, Chapter 3) has ide ntified two mechanisms by which new ideas\nare adopted by an individual—integration and substitution. Ideas that evalve\nthrough integration tend to become highly stable parts of the person's\nconception of the world. On the other hand, when the content of a concept\nchanges by means of substitution, there is always the possibility ofa reversion to",
+      "translationText": "혼란스럽고 예측할 수 없는 세상?\n\n나는 쟁점이 무엇인지, 다른 사람들이 무엇을 말하고 생각하는지 어느 정도 이해하고, 어떤 행동을 취할지에 대한 생각을 가지고 일상의 업무와 회의를 진행한다. 그러나 예기치 못한 상황, 의사소통의 오류, 심각한 판단 착오 때문에 때때로 크게 당황한다. [원문 OCR 표기: ‘| move’, ‘round ot’, ‘Yet [ am aecasionally’]\n\n이러한 기대와 경험의 상호작용 속에서 학습이 이루어집니다.\n\n헤겔의 표현에 따르면, 기대를 위반하지 않는 모든 경험은 경험이라는 이름에 부합하지 않습니다.\n\n그런데 어떤 식으로든, 이러한 침해들이 제 경험의 조직에서 일으키는 수익은 마법처럼 복구되고, 다음 날 조금씩 변화했지만 여전히 같은 사람과 마주하게 됩니다.\n\n이것이 학습 과정이라는 것은 기대와 경험의 상호작용으로 인해 발생할 수 있는 노르러닝 자세로 잘 보여질 수 있을지도 모릅니다.\n\n의심과 불확실성의 어두운 그림자에 눈을 감을 정도로 연속성과 확실성에 집중하는 것은 새로운 경험에서 배울 수 없는 종말주의와 딱딱함을 위험에 빠뜨리는 것입니다.\n\n또는 반대로, 새로운 경험의 변동에 의해 계속적으로 흔들리는 것은 불안감에 의해 마비되고 효과적인 행동을 할 수 없습니다.\n\n에피스텔로지컬 철학의 관점을 틀어 놓은 페퍼 (1942) 는 이 두 입장이 모두 dogmatism와 절대적 회의론이 유효한 지식 시스템의 창조에 대한 불충분한 기초라고 보여준다.\n\n그는 오히려 가시주의의 태도, 또는 그가 일부분적인 회의주의라고 부르는 것이 조사와 조롱의 가이드라인이 될 것을 제안한다 (부 5, 107 면 참조).\n\n학습은 경험에 기초한 지속적인 과정이라는 사실은 교육에 중요한 영향을 미칩니다.\n\n간단히 말해서, 모든 학습은 재교육이라는 것을 암시합니다.\n\n학습자 의 마음 이 우리 의 마음 을 긁는 종이 처럼 빈 것 이라고 생각 하는 것 은 과정 을 설계 하는 데 얼마나 쉽고 유혹적 인 일 입니까?\n\n하지만 그런 건 아닙니다.\n\n모든 사람들이 학습 상황에 대해 좀 더 명확한 아이디어를 가지고 들어갑니다.\n\n우리는 모두 심리학자, 역사학자, 원자 물리학자입니다.\n\n단지 우리 이론들 중 일부는 다른 이론보다 더 무작위적이고 정확하지 않습니다.\n\n하지만 이러한 이론의 정밀성과 타당성에만 집중하는 것은 그 의미를 놓치고 있습니다.\n\n중요한 점은 우리가 가르치는 사람들이 이러한 신념을 가지고 있다는 것입니다. 그 어떤 품질이든, 그리고 새로운 것이 될 때까지 그들은 그것을 사용했습니다.\n\n따라서 교육자로서의 임무는 새로운 아이디어를 심어내는 것뿐만 아니라 오래된 아이디어를 제거하거나 수정하는 것입니다.\n\n많은 경우, 새로운 아이디어에 대한 저항은 그들과 일치하지 않는 오래된 신념과 충돌하기 때문에 심각합니다.\n\n교육 과정은 학습자의 신념과 이론을 제시하고, 그들을 조사하고 테스트하고, 그리고 새로운, 더 정교한 아이디어를 사람의 신념 시스템에 통합함으로써 시작되면, 학습 과정은 용이하게됩니다.\n\n피아게 (Elkind, 1970 장 3) 는 개인이 새로운 아이디어를 통합하고 대체하는 두 가지 메커니즘을 제시했다.\n\n통합을 통해 평가하는 아이디어는 사람의 세계의 개념의 매우 안정적인 일부가 되는 경향이 있습니다.\n\n다른 한편으로는, 개념의 내용이 대체로 변화할 때, 항상",
+      "status": "translated",
+      "sourceTextSha256": "1328c09b4fab85f9d0c5bc25118b62ce38a6ae9d6f2d060cafffe99cbc3cd732",
+      "segments": [
+        {
+          "source": "chaotic and unpredictable world around me?",
+          "translation": "혼란스럽고 예측할 수 없는 세상?"
+        },
+        {
+          "source": "| move through my daily round ot tasks and meetings with a fair sense of what the issues are, of what others are saying and thinking, and with ideas about what actions to take, Yet [ am aecasionally upended by unforeseen circumstances, miscommunications, and dreadful miscalculations.",
+          "translation": "나는 쟁점이 무엇인지, 다른 사람들이 무엇을 말하고 생각하는지 어느 정도 이해하고, 어떤 행동을 취할지에 대한 생각을 가지고 일상의 업무와 회의를 진행한다. 그러나 예기치 못한 상황, 의사소통의 오류, 심각한 판단 착오 때문에 때때로 크게 당황한다. [원문 OCR 표기: ‘| move’, ‘round ot’, ‘Yet [ am aecasionally’]",
+          "reviewed": true
+        },
+        {
+          "source": "It is in this interplay between expectation and experience that learning occurs.",
+          "translation": "이러한 기대와 경험의 상호작용 속에서 학습이 이루어집니다."
+        },
+        {
+          "source": "In Hegel's phrase, “Any experience that does not violate expectation is not worthy of the name experience.”",
+          "translation": "헤겔의 표현에 따르면, 기대를 위반하지 않는 모든 경험은 경험이라는 이름에 부합하지 않습니다."
+        },
+        {
+          "source": "And yet somehow, the rents that these violations cause in the fabric of my experience are magically repaired, and | face the next day a bit changed but still the same person.",
+          "translation": "그런데 어떤 식으로든, 이러한 침해들이 제 경험의 조직에서 일으키는 수익은 마법처럼 복구되고, 다음 날 조금씩 변화했지만 여전히 같은 사람과 마주하게 됩니다."
+        },
+        {
+          "source": "That this is a learning process is perhaps better illustrated by the norlearning postures that can result from the interplay between expectation and experience.",
+          "translation": "이것이 학습 과정이라는 것은 기대와 경험의 상호작용으로 인해 발생할 수 있는 노르러닝 자세로 잘 보여질 수 있을지도 모릅니다."
+        },
+        {
+          "source": "To focus so sharply on continuity and certainty that one is blineled to the shadows penumbra of doubt and uncertainty is to risk doamatism and rigidity, the inability to learn from new experiences.",
+          "translation": "의심과 불확실성의 어두운 그림자에 눈을 감을 정도로 연속성과 확실성에 집중하는 것은 새로운 경험에서 배울 수 없는 종말주의와 딱딱함을 위험에 빠뜨리는 것입니다."
+        },
+        {
+          "source": "Or conversely, to have continuity continuously shaken by the vicissitudes of new experience is to be left paralyzed by insecurity, incapable of effective action.",
+          "translation": "또는 반대로, 새로운 경험의 변동에 의해 계속적으로 흔들리는 것은 불안감에 의해 마비되고 효과적인 행동을 할 수 없습니다."
+        },
+        {
+          "source": "Fram the perspective of epistemological philosophy, Pepper (1942) shows that both these postures— dogmatism and absolute skepticism—are inadequate foundations for the creation of valid knowledge systems.",
+          "translation": "에피스텔로지컬 철학의 관점을 틀어 놓은 페퍼 (1942) 는 이 두 입장이 모두 dogmatism와 절대적 회의론이 유효한 지식 시스템의 창조에 대한 불충분한 기초라고 보여준다."
+        },
+        {
+          "source": "He proposes instead that an attitude of provisionalism, or what he calls partial skepticism, be the guide for inquiry and jearning (compare Chapter 5, p. 107).",
+          "translation": "그는 오히려 가시주의의 태도, 또는 그가 일부분적인 회의주의라고 부르는 것이 조사와 조롱의 가이드라인이 될 것을 제안한다 (부 5, 107 면 참조)."
+        },
+        {
+          "source": "The fact that learning is a continuous process grounded in experience has important educational implications.",
+          "translation": "학습은 경험에 기초한 지속적인 과정이라는 사실은 교육에 중요한 영향을 미칩니다."
+        },
+        {
+          "source": "Put simply, it implies that all learning is relearning.",
+          "translation": "간단히 말해서, 모든 학습은 재교육이라는 것을 암시합니다."
+        },
+        {
+          "source": "How easy and tempting it is in designing a course to think of the learner's mind as being as blank as the paper on which we scratch our outhne.",
+          "translation": "학습자 의 마음 이 우리 의 마음 을 긁는 종이 처럼 빈 것 이라고 생각 하는 것 은 과정 을 설계 하는 데 얼마나 쉽고 유혹적 인 일 입니까?"
+        },
+        {
+          "source": "Yet this is not the case.",
+          "translation": "하지만 그런 건 아닙니다."
+        },
+        {
+          "source": "Everyone enters every learning situation with more or less articulate ideas about the topic at hand.",
+          "translation": "모든 사람들이 학습 상황에 대해 좀 더 명확한 아이디어를 가지고 들어갑니다."
+        },
+        {
+          "source": "We are all psychologists, historians, and atomic physicists.",
+          "translation": "우리는 모두 심리학자, 역사학자, 원자 물리학자입니다."
+        },
+        {
+          "source": "It is just that some of our theories are more crude and incorrect than others.",
+          "translation": "단지 우리 이론들 중 일부는 다른 이론보다 더 무작위적이고 정확하지 않습니다."
+        },
+        {
+          "source": "But to focus solely on the refinement and validity of these theories misses the point.",
+          "translation": "하지만 이러한 이론의 정밀성과 타당성에만 집중하는 것은 그 의미를 놓치고 있습니다."
+        },
+        {
+          "source": "The important pointis that the people we teach have held these beliefs whatever their quality and that until new they have used them whenever the situation called far them to be atomic physicists, historians, or whatever.",
+          "translation": "중요한 점은 우리가 가르치는 사람들이 이러한 신념을 가지고 있다는 것입니다. 그 어떤 품질이든, 그리고 새로운 것이 될 때까지 그들은 그것을 사용했습니다."
+        },
+        {
+          "source": "Thus, one’s job as an educator is not only to implant new ideas but also to dispose af or modify old ones.",
+          "translation": "따라서 교육자로서의 임무는 새로운 아이디어를 심어내는 것뿐만 아니라 오래된 아이디어를 제거하거나 수정하는 것입니다."
+        },
+        {
+          "source": "In many cases, resistance to new ideas sterns from their conflict with old beliefs that are inconsistent with them.",
+          "translation": "많은 경우, 새로운 아이디어에 대한 저항은 그들과 일치하지 않는 오래된 신념과 충돌하기 때문에 심각합니다."
+        },
+        {
+          "source": "If the education process begins by bringing out the learner's beliefs and theories, examining and testing them, and then integrating the new, more refined ideas into the person’s belief systems, the learning process will be facilitated.",
+          "translation": "교육 과정은 학습자의 신념과 이론을 제시하고, 그들을 조사하고 테스트하고, 그리고 새로운, 더 정교한 아이디어를 사람의 신념 시스템에 통합함으로써 시작되면, 학습 과정은 용이하게됩니다."
+        },
+        {
+          "source": "Piaget {see Elkind, 1970, Chapter 3) has ide ntified two mechanisms by which new ideas are adopted by an individual—integration and substitution.",
+          "translation": "피아게 (Elkind, 1970 장 3) 는 개인이 새로운 아이디어를 통합하고 대체하는 두 가지 메커니즘을 제시했다."
+        },
+        {
+          "source": "Ideas that evalve through integration tend to become highly stable parts of the person's conception of the world.",
+          "translation": "통합을 통해 평가하는 아이디어는 사람의 세계의 개념의 매우 안정적인 일부가 되는 경향이 있습니다."
+        },
+        {
+          "source": "On the other hand, when the content of a concept changes by means of substitution, there is always the possibility ofa reversion to",
+          "translation": "다른 한편으로는, 개념의 내용이 대체로 변화할 때, 항상"
+        }
+      ],
+      "textQuality": "ocr",
+      "ocrImageRotationClockwise": 90
+    },
+    {
+      "page": 12,
+      "sourceText": "the earlier level of conceptualization and understanding, or to a dual theory of\nthe world where espoused theories learned through substitution are incongruent with theories-in-use that are more integrated with the person's total\nconceptual and attitudinal wew of the world, It is this latter outcome that\nstimulated Argyris and Schon’s inquiry inta the effectiveness of professional\neducation:\n\nWe thought the trouble people have in learning new thearies may stem not\nso much from the inherent difficulty of the new thearles as fram the existing\ntheories people have that already determine practices. We cail their operafional\ntheories of action theories-in-use to distinguish thern fram the espoused thecries\nthat are used fo describe and justify behavior, We wondered whether the difficulty\nin learning new thearies of action is related to a disposition fo protect the old\nthearyin-use, [Argyris and Schon, 1974, p, uit]\n\nThe Process of Learning Requires the Resolution\nof Conflicts Between Dialectically Opposed Modes\nof Adaptation to the World\n\nEach of the three models of experiential learning describes conflicts between\nopposing ways of dealing with the world, suggesting that learning results from\nresolution of these conflicts, The Lewinian model emphasizes two such\ndialectics—the conflict between concrete experience and abstract concepts\nand the conflict between observation and action.2 For Dewey, the major\ndialectic is between the impulse that gives ideas their “moving force” and reason\nthat gives desire its direction. In Piaget's framework, the twin processes of\naccommodation of ideas to the external world and assimilation of experience\ninto existing conceptual structures are the moving forces of cognitive\ndevelopment, In Paulo Freire’s work, the dialectic nature of learning and\nadaptation is encompassed in his concept of praxis, which he defines as\n“reflection and action upon the world in order to transform it” (1974, p. 36).\nCentral to the concept of praxis is the process of “naming the world,” which is\nboth active—in the sense that naming something transforms it—and\nreflective—in that our choice of words gives meaning to the world around us,\nThis process of naming the world is accomplished through dialogue among\nequals, a joint process of inquiry and learning that Freire sets against the\nbanking concept of education described earlier:\n\n?The concept of dialectic relationship is used advisedly in this work. The long history and\nchanging usages of this term, and particularly the emotional and idealogical connotations attending\nits usage in some contexts, may cause same confusion for the reader. However, no ether term\nexpresses as well the relationship between learning orientations described here—that of mutually\nOpposed and conflicting processes the results of each of which cannot be explained by the other, but\nwhose merger through confrontation of the conflict between them results ina higher order precess\nthat transcends and encompasses them bath. This definition comes closest to Hegel's use of the\nterm but does nat imply tetal acceptance of the Hegelian epistemology {compare Chapter 5, 6. 117),",
+      "translationText": "…이전 수준의 개념화와 이해로 돌아가거나, 대체를 통해 학습한 표방이론이 개인의 세계에 대한 전체적인 개념 및 태도와 더 긴밀하게 통합된 사용이론과 일치하지 않는, 이중적인 세계 이론으로 이어진다. 바로 이 후자의 결과가 전문직 교육의 효과성에 관한 Argyris와 Schon의 탐구를 촉발하였다. “우리는 사람들이 새로운 이론을 배우는 데 겪는 어려움이 새로운 … 자체의 본질적인 어려움에서 비롯된다기보다는 …에서 비롯될 수 있다고 생각하였다.” [구절이 이어짐. 원문 OCR 표기: ‘wew’, ‘inta’, ‘thearies’]\n\n기존의 이론들이 이미 관행을 결정하는 이론을 구성하고 있습니다.\n\n우리는 행동 이론의 새로운 이론을 배우는 데의 어려움은 오래된 이론을 보호하려는 성향과 관련이 있는지 궁금합니다. [Argyris and Schon, 1974, p, uit] 학습 과정은 세계 적응의 대리학적으로 반대되는 모드 사이의 갈등을 해결하는 것을 요구합니다\n\n경험학습은 세계를 다루는 상반된 방식들 사이의 갈등을 설명하며, 이러한 갈등의 해결을 통해 학습이 이루어진다고 본다. Lewin의 모형은 이와 같은 두 가지 변증법, 곧 구체적 경험과 추상적 개념 사이의 갈등, 관찰과 행동 사이의 갈등을 강조한다.²\n\n듀이에게는 주요 대리학은 아이디어에 운동력을 부여하는 충동과 욕망에 방향을 부여하는 이성 사이에 있습니다.\n\n피아게의 틀에서, 아이디어가 외부 세계로 적응하는 쌍둥이 과정과 기존의 개념적 구조에 경험의 흡수성은 인지 발달의 움직이는 힘이다. 파울루 프리레의 작품에서, 학습과 적응의 방언적 성질은 그의 실용주의 개념에서 포괄되어 있다. 그는 그것을 변화시키기 위해 세계에 대한 반사와 행동으로 정의한다 (1974, p. 36).\n\n실습의 개념의 중심은 세계 이름을 붙이는 과정입니다. 이 과정은 어떤 것을 이름 붙이는 것이 그것을 변화시킨다는 의미에서 활동적이며, 우리의 단어 선택이 우리를 둘러싼 세계에 의미를 부여한다는 의미에서 반사하는 과정입니다.\n\n이 연구에서는 대리학 관계라는 개념이 신중하게 사용된다.\n\n이 용어의 오랜 역사와 변화하는 사용법, 특히 일부 맥락에서 사용에 참여하는 정서적 및 이데올로기적 의미들은 독자에게 동일한 혼란을 유발할 수 있습니다.\n\n그러나 이더라는 용어는 여기서 설명된 학습 지향의 관계를 서로 반대하고 모순되는 과정의 관계만큼 잘 표현하지 못하지만 그 각각의 결과를 다른 것으로 설명할 수는 없지만, 그 사이의 갈등의 대립으로 합병하여 그 과정을 초월하고 포괄하는 더 높은 순서적 과정으로 이어집니다.\n\n이 정의는 헤겔의 용어 사용에 가장 가깝지만 헤겔의 인식론에 대한 타당적 인 수용을 의미하지는 않습니다.\n\n117),",
+      "status": "translated",
+      "sourceTextSha256": "037353eef4c768817f483fc91d8aef2ee03de4a540f4c349af99ca6d3251e076",
+      "segments": [
+        {
+          "source": "the earlier level of conceptualization and understanding, or to a dual theory of the world where espoused theories learned through substitution are incongruent with theories-in-use that are more integrated with the person's total conceptual and attitudinal wew of the world, It is this latter outcome that stimulated Argyris and Schon’s inquiry inta the effectiveness of professional education: We thought the trouble people have in learning new thearies may stem not so much from the inherent difficulty of the new",
+          "translation": "…이전 수준의 개념화와 이해로 돌아가거나, 대체를 통해 학습한 표방이론이 개인의 세계에 대한 전체적인 개념 및 태도와 더 긴밀하게 통합된 사용이론과 일치하지 않는, 이중적인 세계 이론으로 이어진다. 바로 이 후자의 결과가 전문직 교육의 효과성에 관한 Argyris와 Schon의 탐구를 촉발하였다. “우리는 사람들이 새로운 이론을 배우는 데 겪는 어려움이 새로운 … 자체의 본질적인 어려움에서 비롯된다기보다는 …에서 비롯될 수 있다고 생각하였다.” [구절이 이어짐. 원문 OCR 표기: ‘wew’, ‘inta’, ‘thearies’]",
+          "reviewed": true
+        },
+        {
+          "source": "thearles as fram the existing theories people have that already determine practices.",
+          "translation": "기존의 이론들이 이미 관행을 결정하는 이론을 구성하고 있습니다."
+        },
+        {
+          "source": "We cail their operafional theories of action theories-in-use to distinguish thern fram the espoused thecries that are used fo describe and justify behavior, We wondered whether the difficulty in learning new thearies of action is related to a disposition fo protect the old thearyin-use, [Argyris and Schon, 1974, p, uit] The Process of Learning Requires the Resolution of Conflicts Between Dialectically Opposed Modes of Adaptation to the World Each of the three models of",
+          "translation": "우리는 행동 이론의 새로운 이론을 배우는 데의 어려움은 오래된 이론을 보호하려는 성향과 관련이 있는지 궁금합니다. [Argyris and Schon, 1974, p, uit] 학습 과정은 세계 적응의 대리학적으로 반대되는 모드 사이의 갈등을 해결하는 것을 요구합니다"
+        },
+        {
+          "source": "experiential learning describes conflicts between opposing ways of dealing with the world, suggesting that learning results from resolution of these conflicts, The Lewinian model emphasizes two such dialectics—the conflict between concrete experience and abstract concepts and the conflict between observation and action.2",
+          "translation": "경험학습은 세계를 다루는 상반된 방식들 사이의 갈등을 설명하며, 이러한 갈등의 해결을 통해 학습이 이루어진다고 본다. Lewin의 모형은 이와 같은 두 가지 변증법, 곧 구체적 경험과 추상적 개념 사이의 갈등, 관찰과 행동 사이의 갈등을 강조한다.²",
+          "reviewed": true
+        },
+        {
+          "source": "For Dewey, the major dialectic is between the impulse that gives ideas their “moving force” and reason that gives desire its direction.",
+          "translation": "듀이에게는 주요 대리학은 아이디어에 운동력을 부여하는 충동과 욕망에 방향을 부여하는 이성 사이에 있습니다."
+        },
+        {
+          "source": "In Piaget's framework, the twin processes of accommodation of ideas to the external world and assimilation of experience into existing conceptual structures are the moving forces of cognitive development, In Paulo Freire’s work, the dialectic nature of learning and adaptation is encompassed in his concept of praxis, which he defines as “reflection and action upon the world in order to transform it” (1974, p. 36).",
+          "translation": "피아게의 틀에서, 아이디어가 외부 세계로 적응하는 쌍둥이 과정과 기존의 개념적 구조에 경험의 흡수성은 인지 발달의 움직이는 힘이다. 파울루 프리레의 작품에서, 학습과 적응의 방언적 성질은 그의 실용주의 개념에서 포괄되어 있다. 그는 그것을 변화시키기 위해 세계에 대한 반사와 행동으로 정의한다 (1974, p. 36)."
+        },
+        {
+          "source": "Central to the concept of praxis is the process of “naming the world,” which is both active—in the sense that naming something transforms it—and reflective—in that our choice of words gives meaning to the world around us, This process of naming the world is accomplished through dialogue among equals, a joint process of inquiry and learning that Freire sets against the banking concept of education described earlier: ?",
+          "translation": "실습의 개념의 중심은 세계 이름을 붙이는 과정입니다. 이 과정은 어떤 것을 이름 붙이는 것이 그것을 변화시킨다는 의미에서 활동적이며, 우리의 단어 선택이 우리를 둘러싼 세계에 의미를 부여한다는 의미에서 반사하는 과정입니다."
+        },
+        {
+          "source": "The concept of dialectic relationship is used advisedly in this work.",
+          "translation": "이 연구에서는 대리학 관계라는 개념이 신중하게 사용된다."
+        },
+        {
+          "source": "The long history and changing usages of this term, and particularly the emotional and idealogical connotations attending its usage in some contexts, may cause same confusion for the reader.",
+          "translation": "이 용어의 오랜 역사와 변화하는 사용법, 특히 일부 맥락에서 사용에 참여하는 정서적 및 이데올로기적 의미들은 독자에게 동일한 혼란을 유발할 수 있습니다."
+        },
+        {
+          "source": "However, no ether term expresses as well the relationship between learning orientations described here—that of mutually Opposed and conflicting processes the results of each of which cannot be explained by the other, but whose merger through confrontation of the conflict between them results ina higher order precess that transcends and encompasses them bath.",
+          "translation": "그러나 이더라는 용어는 여기서 설명된 학습 지향의 관계를 서로 반대하고 모순되는 과정의 관계만큼 잘 표현하지 못하지만 그 각각의 결과를 다른 것으로 설명할 수는 없지만, 그 사이의 갈등의 대립으로 합병하여 그 과정을 초월하고 포괄하는 더 높은 순서적 과정으로 이어집니다."
+        },
+        {
+          "source": "This definition comes closest to Hegel's use of the term but does nat imply tetal acceptance of the Hegelian epistemology {compare Chapter 5, 6.",
+          "translation": "이 정의는 헤겔의 용어 사용에 가장 가깝지만 헤겔의 인식론에 대한 타당적 인 수용을 의미하지는 않습니다."
+        },
+        {
+          "source": "117),",
+          "translation": "117),"
+        }
+      ],
+      "textQuality": "ocr",
+      "ocrImageRotationClockwise": 90
+    },
+    {
+      "page": 13,
+      "sourceText": "ao The Process of Experiantial Learning\n\nAs we attempt to analyze dialogue as a Auman phenomenon, we discover\nsomething which is the essence of dialogue ifsel! the word, But fhe ward is more\nthan just an insfrument which makes dialogue possible; accordingly, we must\nseek ifs constitutive elements. Within the word we find two dimensions, reflection\nand action, in such radical interaction that if one is sacrificed—even in parl—the\nother immediately suffers. There is no true word that is not af the same fime a\npraxis. Thus, to speak a true word is to transform the world.\n\nAn unauthentic word, one which is unable fo transform reality, resulfs\nwhen dichotomy is imposed upon ifs cansfitutive elements. When a ward is\ndeprived of its dimension of action, reflection automatically suffers as well: and\nthe word is changed into idle chetfer, info verbalism, inta an alienated and\nalienating “blah.” I becomes an empty word, one which cannot denounce the\nworld, for denunciation is impossible without a commitment ta transform, and\nthere is na transformation without action.\n\nOn the other hand, if action is emphasized exclusively, ta the detriment of\nreflection, the word is converted into activism. The letrer—eection for action’s\nsake—negates [he true praxis and makes dialogue impossible, Either dichotomy,\nby creating unauthentic forms of existence, creates also unauthentic farms of\nthought, which reinforce the original dichotamy.\n\nAuman existence cannot be silent, nor can it be nourished by false words,\nbut only by true words, with which men transform the world. To exist, humanty, is\nfoname fhe world, ta change it. Once named, the world in its turn reappears to\nthe namers.as a problem and requires of them a mew naming. Men are nat builtin\nsilence, but in word, in work, in actian-reflection.\n\nBut while to say the true weard—which is werk, which is praxis—is to\nfransform the world, saying that word is not the privilege of same few men, but the\nright of every mon, Consequently, mo ane con say a frue word alone—norcanhe\nsay if for another, ina prescriptive act whieh robs others of their words, [Freire,\n1974, pp. 75, 76]\n\nAll the models above suggest the idea that learning is by its very naturea\ntension- and canflct-filled process. New knowledge, skills, or attitudes are\nachieved through confrontation among four modes of experiential learning,\nLearners, if they are to be effective, need four different kinds of abilities—\nconcrete experience abihties (CE), reflective observation abilities (RO),\nabstract conceptualization abilities (AC), and active experimentation (AE}\nabilities. That is, they must be able to involve themselves fully, openly, and\nwithout bias in new experiences (CE). They must be able ta reflect an and\nobserve their experiences from many perspectives (RO), They must be able to\ncreate concepts that integrate their observations into logically sound theories\n{AC}, and they must be able to use these theories to make decisions and solve\nproblems (AE), Yet this ideal is difficult to achieve. How can one act and reflect\nat the same time? How can one be concrete and immediate and still be\ntheoretical? Learning requires abilities that are polar cpposites, and the learner,\nas a result, must continually choose which set of learning abilities he or she will\nbring te bear in any specific learning situation. More specifically, there are two\nprimary dimensions to the learning process. The first dimension represents the",
+      "translationText": "경험적 학습 과정 인간적 현상으로서 대화를 분석하려고 할 때, 우리는 대화의 본질을 발견합니다. 그러나 대화는 단순히 대화를 가능하게 하는 도구가 아닙니다. 따라서 우리는 그 구성 요소를 찾아야 합니다.\n\n단어 안에서 우리는 두 가지 차원을 발견합니다. 반영과 행동, 그러한 급진적인 상호작용에서, 한 사람이 희생되면, 한 사람이 즉시 고통받습니다.\n\n어떤 진실한 말이라도 같은 의미의 실습이 아닌 것은 없습니다.\n\n따라서, 진실한 말을 하는 것은 세상을 변화시키는 것입니다.\n\n진실이 아닌 단어, 현실을 변화시킬 수 없는 단어, 이성적인 요소들에 대해 이성적인 이성적 이성적이 부과될 때 발생한다.\n\nWard가 행동의 차원을 박탈당할 때, 반사 또한 자동으로 고통받습니다. 그리고 단어는 비활성적인 chetfer, info verbalism로 바뀌고, 외면적이고 외면적인 blah로 변합니다.\n\n저는 세상을 비난할 수 없는 공허한 단어로 변합니다. 왜냐하면 비난은 변화의 약속 없이는 불가능하고, 행동 없이는 변화도 없습니다.\n\n반면, 사고를 위해 행동만을 강조한다면, 그 말은 활동으로 변한다.\n\n행동 때문에 행동하는 것은 진정한 실천을 부정하고 대화를 불가능하게 만든다. 인간의 존재는 침묵할 수 없으며 거짓 단어로 먹여도 될 수 없습니다. 오직 진실한 단어로만, 존재한다는 건, 인간, 이 세상의 이름이고, 그것을 바꾸어 놓는 것이다. 이름이 붙은 후에는 세상이 다시 나타납니다.\n\n이름들을 문제로 삼고, 그 이름들을 메우라고 부르는 것을 요구합니다. 인간은 침묵을 지내는 것이 아니라 말, 행동, 행동의 반성으로 만들어진다. 하지만, 진정한 어를 말하지만, 그것은 werk, 그것은 praxisis입니다, 그 말 같은 몇 명의 사람들의 특권이 아니라 모든 사람의 권리라고 말하면서, 결과적으로,\n\n[Freire, 1974, pp. 75, 76] 위의 모든 모델들은 학습이 본질적으로 긴장과 혼란으로 가득한 과정이라는 생각을 시사한다.\n\n새로운 지식·기술·태도는 경험학습의 네 양식이 서로 대면하는 과정에서 얻어진다. 효과적인 학습을 위해서는 구체적 경험 능력(CE), 성찰적 관찰 능력(RO), 추상적 개념화 능력(AC), 능동적 실험 능력(AE)이라는 네 종류의 능력이 필요하다.\n\n즉, 그들은 새로운 경험 (CE) 에 완전히, 공개적으로, 편견 없이 참여할 수 있어야 합니다.\n\n그들은 많은 관점 (RO) 에서 자신의 경험을 반영하고 관찰할 수 있어야 하며, 그들은 그들의 관찰을 논리적으로 건전한 이론 {AC}에 통합하는 개념을 만들 수 있어야하며, 그들은 이러한 이론을 의사결정 및 문제를 해결하기 위해 사용할 수 있어야 합니다.\n\n어떻게 행동 하고 동시에 생각 할 수 있습니까?\n\n어떻게 하면 구체적이고 즉각적이고 여전히 이론적일 수 있을까요?\n\n학습은 양극적인 역량을 필요로 하며, 그 결과 학습자는 어떤 특정 학습 상황에서도 어떤 학습능력을 가지고 있는지 끊임없이 선택해야 합니다.\n\n더 구체적으로, 학습 과정에는 두 가지 주요 차원이 있습니다.\n\n첫 번째 차원은",
+      "status": "translated",
+      "sourceTextSha256": "091e34a3b689305b1004a67c9164795deb0718a54ba2645308b127cce8355979",
+      "segments": [
+        {
+          "source": "ao The Process of Experiantial Learning As we attempt to analyze dialogue as a Auman phenomenon, we discover something which is the essence of dialogue ifsel! the word, But fhe ward is more than just an insfrument which makes dialogue possible; accordingly, we must seek ifs constitutive elements.",
+          "translation": "경험적 학습 과정 인간적 현상으로서 대화를 분석하려고 할 때, 우리는 대화의 본질을 발견합니다. 그러나 대화는 단순히 대화를 가능하게 하는 도구가 아닙니다. 따라서 우리는 그 구성 요소를 찾아야 합니다."
+        },
+        {
+          "source": "Within the word we find two dimensions, reflection and action, in such radical interaction that if one is sacrificed—even in parl—the other immediately suffers.",
+          "translation": "단어 안에서 우리는 두 가지 차원을 발견합니다. 반영과 행동, 그러한 급진적인 상호작용에서, 한 사람이 희생되면, 한 사람이 즉시 고통받습니다."
+        },
+        {
+          "source": "There is no true word that is not af the same fime a praxis.",
+          "translation": "어떤 진실한 말이라도 같은 의미의 실습이 아닌 것은 없습니다."
+        },
+        {
+          "source": "Thus, to speak a true word is to transform the world.",
+          "translation": "따라서, 진실한 말을 하는 것은 세상을 변화시키는 것입니다."
+        },
+        {
+          "source": "An unauthentic word, one which is unable fo transform reality, resulfs when dichotomy is imposed upon ifs cansfitutive elements.",
+          "translation": "진실이 아닌 단어, 현실을 변화시킬 수 없는 단어, 이성적인 요소들에 대해 이성적인 이성적 이성적이 부과될 때 발생한다."
+        },
+        {
+          "source": "When a ward is deprived of its dimension of action, reflection automatically suffers as well: and the word is changed into idle chetfer, info verbalism, inta an alienated and alienating “blah.”",
+          "translation": "Ward가 행동의 차원을 박탈당할 때, 반사 또한 자동으로 고통받습니다. 그리고 단어는 비활성적인 chetfer, info verbalism로 바뀌고, 외면적이고 외면적인 blah로 변합니다."
+        },
+        {
+          "source": "I becomes an empty word, one which cannot denounce the world, for denunciation is impossible without a commitment ta transform, and there is na transformation without action.",
+          "translation": "저는 세상을 비난할 수 없는 공허한 단어로 변합니다. 왜냐하면 비난은 변화의 약속 없이는 불가능하고, 행동 없이는 변화도 없습니다."
+        },
+        {
+          "source": "On the other hand, if action is emphasized exclusively, ta the detriment of reflection, the word is converted into activism.",
+          "translation": "반면, 사고를 위해 행동만을 강조한다면, 그 말은 활동으로 변한다."
+        },
+        {
+          "source": "The letrer—eection for action’s sake—negates [he true praxis and makes dialogue impossible, Either dichotomy, by creating unauthentic forms of existence, creates also unauthentic farms of thought, which reinforce the original dichotamy. Auman existence cannot be silent, nor can it be nourished by false words, but only by true words, with which men transform the world. To exist, humanty, is foname fhe world, ta change it. Once named, the world in its turn reappears",
+          "translation": "행동 때문에 행동하는 것은 진정한 실천을 부정하고 대화를 불가능하게 만든다. 인간의 존재는 침묵할 수 없으며 거짓 단어로 먹여도 될 수 없습니다. 오직 진실한 단어로만, 존재한다는 건, 인간, 이 세상의 이름이고, 그것을 바꾸어 놓는 것이다. 이름이 붙은 후에는 세상이 다시 나타납니다."
+        },
+        {
+          "source": "to the namers.as a problem and requires of them a mew naming. Men are nat builtin silence, but in word, in work, in actian-reflection. But while to say the true weard—which is werk, which is praxis—is to fransform the world, saying that word is not the privilege of same few men, but the right of every mon, Consequently, mo ane con say a frue word alone—norcanhe say if for another, ina prescriptive act whieh robs others of their",
+          "translation": "이름들을 문제로 삼고, 그 이름들을 메우라고 부르는 것을 요구합니다. 인간은 침묵을 지내는 것이 아니라 말, 행동, 행동의 반성으로 만들어진다. 하지만, 진정한 어를 말하지만, 그것은 werk, 그것은 praxisis입니다, 그 말 같은 몇 명의 사람들의 특권이 아니라 모든 사람의 권리라고 말하면서, 결과적으로,"
+        },
+        {
+          "source": "words, [Freire, 1974, pp. 75, 76] All the models above suggest the idea that learning is by its very naturea tension- and canflct-filled process.",
+          "translation": "[Freire, 1974, pp. 75, 76] 위의 모든 모델들은 학습이 본질적으로 긴장과 혼란으로 가득한 과정이라는 생각을 시사한다."
+        },
+        {
+          "source": "New knowledge, skills, or attitudes are achieved through confrontation among four modes of experiential learning, Learners, if they are to be effective, need four different kinds of abilities— concrete experience abihties (CE), reflective observation abilities (RO), abstract conceptualization abilities (AC), and active experimentation (AE} abilities.",
+          "translation": "새로운 지식·기술·태도는 경험학습의 네 양식이 서로 대면하는 과정에서 얻어진다. 효과적인 학습을 위해서는 구체적 경험 능력(CE), 성찰적 관찰 능력(RO), 추상적 개념화 능력(AC), 능동적 실험 능력(AE)이라는 네 종류의 능력이 필요하다.",
+          "reviewed": true
+        },
+        {
+          "source": "That is, they must be able to involve themselves fully, openly, and without bias in new experiences (CE).",
+          "translation": "즉, 그들은 새로운 경험 (CE) 에 완전히, 공개적으로, 편견 없이 참여할 수 있어야 합니다."
+        },
+        {
+          "source": "They must be able ta reflect an and observe their experiences from many perspectives (RO), They must be able to create concepts that integrate their observations into logically sound theories {AC}, and they must be able to use these theories to make decisions and solve problems (AE), Yet this ideal is difficult to achieve.",
+          "translation": "그들은 많은 관점 (RO) 에서 자신의 경험을 반영하고 관찰할 수 있어야 하며, 그들은 그들의 관찰을 논리적으로 건전한 이론 {AC}에 통합하는 개념을 만들 수 있어야하며, 그들은 이러한 이론을 의사결정 및 문제를 해결하기 위해 사용할 수 있어야 합니다."
+        },
+        {
+          "source": "How can one act and reflect at the same time?",
+          "translation": "어떻게 행동 하고 동시에 생각 할 수 있습니까?"
+        },
+        {
+          "source": "How can one be concrete and immediate and still be theoretical?",
+          "translation": "어떻게 하면 구체적이고 즉각적이고 여전히 이론적일 수 있을까요?"
+        },
+        {
+          "source": "Learning requires abilities that are polar cpposites, and the learner, as a result, must continually choose which set of learning abilities he or she will bring te bear in any specific learning situation.",
+          "translation": "학습은 양극적인 역량을 필요로 하며, 그 결과 학습자는 어떤 특정 학습 상황에서도 어떤 학습능력을 가지고 있는지 끊임없이 선택해야 합니다."
+        },
+        {
+          "source": "More specifically, there are two primary dimensions to the learning process.",
+          "translation": "더 구체적으로, 학습 과정에는 두 가지 주요 차원이 있습니다."
+        },
+        {
+          "source": "The first dimension represents the",
+          "translation": "첫 번째 차원은"
+        }
+      ],
+      "textQuality": "ocr",
+      "ocrImageRotationClockwise": 90
+    },
+    {
+      "page": 14,
+      "sourceText": "The Process of Experiential Learning uM\n\nconcrete experiencing of events at one end and abstract conceptualization at\nthe other, The other dimension has active experimentation at one extreme and\nreflective observation at the other. Thus, in the process of learning, one moves\nin varying degrees from actor to observer, and fram specific involvement to\ngeneral analytic detachment.\n\nIn addition, the way in which the conflicts among the dialectically opposed\nmodes of adaptation get resolved determines the level of learning that results. If\nconflicts are resolved by suppression of one mode and/or daminance by\nanother, learning tends to be specialized around the dominant mode and limited\nin areas controlled by the dominated mode, For example, in Piaget's model,\nimitation is the result when accommodation processes dominate, and play\nresults when assimilation dominates. Or for Freire, dominance of the active\nmode results in “activism,” and dominance of the reflective mode results in\n“verbalism.”\n\nHowever, when we consider the higher forms of adaptation—the process\nof creativity and personal development—conflict among adaptive modes needs\nto be confronted and integrated into a creative synthesis. Nearly every account\nof the creative process, from Wallas's (1926) four-stage model of incorporation,\nincubation, insight, and verification, has recognized the dialectic conflicts\ninvolved in creativity, Bruner (1966a), in his essay on the conditions af\ncreativity, emphasizes the dialectic tension between abstract detachment and\nconcrete invalvement, For him, the creative act is a product of detachment and\ncommitment, of passion and decorum, and ofa freeclom to be dominated by the\nobject of one’s inquiry. At the highest stages of development. the adaptive\ncommitment to learning and creativity produces a strong need for integration\nof the four adaptive modes, Development in one mode precipitates development\nin the others. Increases in symbolic complexity, for example, refine and sharpen\nboth perceptual and behavioral possibilities. Thus, complexity and the\nintegration of dialectic conflicts among the adaptive modes are the hallmarks of\ntrue creativity and growth,\n\nLearning Is an Holistic Process of Adaptation to the World\n\nExperiential learning is not a molecular educational concept but rather is a\nmolar concept describing the central process of human adaptatian to the social\nand physical environment. It is a holistic concept much akin to the Jungian\ntheory of psychological types (Jung, 1923), in that it seeks to deseribe the\nemergence of basic life orientations as a function of dialectic tensions between\nbasic modes of relating to the world. Ta learn is not the special province of a\nsingle specialized realm of human functioning such as cognition or perception. It\ninvalves the integrated functioning of the total organism—thinking, feeling,\nperceiving, and behaving.\n\nThis concept of holistic adaptation is semewhat out of step with current\nresearch trends in the behavioral sciences. Since the early years of this century\nand the decline of what Gordon Allport called the “simnle and sovereiqn”",
+      "translationText": "경험학습의 과정: 한 차원은 한쪽 끝의 사건에 대한 구체적 경험과 다른 쪽 끝의 추상적 개념화로 이루어진다. 다른 차원은 한쪽 끝의 능동적 실험과 다른 쪽 끝의 성찰적 관찰로 이루어진다.\n\n따라서, 학습 과정에서는 배우에서 관찰자에게 다양한 차원에서 이동하고, 특정 참여를 일반 분석 해독으로 구성합니다.\n\n또한, 대언학적으로 반대되는 적응 방식들 사이의 갈등이 해결되는 방식은 그 결과의 학습 수준을 결정한다.\n\n갈등이 한 모드를 억제하고/또는 다른 모드가 시작함으로써 해결되면 학습은 지배적인 모드를 중심으로 전문화되고 지배적인 모드가 통제하는 영역에 제한되는 경향이 있습니다. 예를 들어, 피아게의 모델에서, 모방은 수용 과정이 지배할 때 결과이며, 흡수성이 지배할 때 게임 결과입니다.\n\n또는 프레어의 경우, 활성 모드의 지배는 활동주의, 반사 모드의 지배가 언어주의로 이어진다.\n\n그러나, 우리가 적응의 더 높은 형태를 고려할 때, 창의성과 개인적 발달의 과정은 적응 방식들 사이의 갈등을 마주하고 창조적 합성에 통합되어야 합니다.\n\n거의 모든 창조적 과정에 대한 설명, 발라스의 (1926) 네 단계 모형의 통합, 식, 통찰 및 검증에서 창의성에 관련된 대화적 갈등을 인정했습니다. 브루너 (1966a) 는 창의성의 조건에 대한 그의 에세이에서 추상적 분리과 구체적인 포용 사이의 대화적 긴장을 강조합니다.\n\n조사의 대상이 되는 것입니다.\n\n개발의 가장 높은 단계에서\n\n학습과 창의성에 대한 적응적 헌신은 네 가지 적응적 모드의 통합에 대한 강한 필요성을 낳고, 한 모드에서의 개발은 다른 모드에서의 발전을 촉진한다.\n\n예를 들어, 상징적인 복잡성의 증가는 인식과 행동 가능성을 모두 정비하고 날카롭게 한다.\n\n따라서, 적응적인 모드들 사이의 복잡성과 대화적 갈등의 통합은 진정한 창의성과 성장의 특징입니다. 학습은 세계 적응의 전체적 과정입니다. 경험학습은 분자 교육 개념이 아니라 사회적 및 물리적 환경에 적응하는 인간의 중심 과정을 설명하는 모러 개념입니다.\n\n그것은 심리적 유형 (Jung, 1923) 의 정규 이론과 매우 유사한 전체적인 개념으로, 그것은 세계와 관련된 기본 방식 사이의 대화적 긴장의 기능으로 기본적인 삶의 지향의 출현을 탐구합니다.\n\n학습은 인지 또는 인식과 같은 인간의 기능의 단일 전문 영역의 특별한 지방이 아닙니다.\n\n그것은 전체 유기체의 thought, feeling, perceiving, and behaving의 통합적인 기능을 포함합니다.\n\n전체적 적응의 이 개념은 행동 과학의 현재의 연구 트렌드에 다소 부합합니다.\n\n이 세기 초반과 고든 올포트가 simnle와 sovereiqn라고 부르는 것의 쇠퇴",
+      "status": "translated",
+      "sourceTextSha256": "411dc08b558c1260bf8e04677a67efc66196aebc3b5a664b157ef0498760cb1d",
+      "segments": [
+        {
+          "source": "The Process of Experiential Learning uM concrete experiencing of events at one end and abstract conceptualization at the other, The other dimension has active experimentation at one extreme and reflective observation at the other.",
+          "translation": "경험학습의 과정: 한 차원은 한쪽 끝의 사건에 대한 구체적 경험과 다른 쪽 끝의 추상적 개념화로 이루어진다. 다른 차원은 한쪽 끝의 능동적 실험과 다른 쪽 끝의 성찰적 관찰로 이루어진다.",
+          "reviewed": true
+        },
+        {
+          "source": "Thus, in the process of learning, one moves in varying degrees from actor to observer, and fram specific involvement to general analytic detachment.",
+          "translation": "따라서, 학습 과정에서는 배우에서 관찰자에게 다양한 차원에서 이동하고, 특정 참여를 일반 분석 해독으로 구성합니다."
+        },
+        {
+          "source": "In addition, the way in which the conflicts among the dialectically opposed modes of adaptation get resolved determines the level of learning that results.",
+          "translation": "또한, 대언학적으로 반대되는 적응 방식들 사이의 갈등이 해결되는 방식은 그 결과의 학습 수준을 결정한다."
+        },
+        {
+          "source": "If conflicts are resolved by suppression of one mode and/or daminance by another, learning tends to be specialized around the dominant mode and limited in areas controlled by the dominated mode, For example, in Piaget's model, imitation is the result when accommodation processes dominate, and play results when assimilation dominates.",
+          "translation": "갈등이 한 모드를 억제하고/또는 다른 모드가 시작함으로써 해결되면 학습은 지배적인 모드를 중심으로 전문화되고 지배적인 모드가 통제하는 영역에 제한되는 경향이 있습니다. 예를 들어, 피아게의 모델에서, 모방은 수용 과정이 지배할 때 결과이며, 흡수성이 지배할 때 게임 결과입니다."
+        },
+        {
+          "source": "Or for Freire, dominance of the active mode results in “activism,” and dominance of the reflective mode results in “verbalism.”",
+          "translation": "또는 프레어의 경우, 활성 모드의 지배는 활동주의, 반사 모드의 지배가 언어주의로 이어진다."
+        },
+        {
+          "source": "However, when we consider the higher forms of adaptation—the process of creativity and personal development—conflict among adaptive modes needs to be confronted and integrated into a creative synthesis.",
+          "translation": "그러나, 우리가 적응의 더 높은 형태를 고려할 때, 창의성과 개인적 발달의 과정은 적응 방식들 사이의 갈등을 마주하고 창조적 합성에 통합되어야 합니다."
+        },
+        {
+          "source": "Nearly every account of the creative process, from Wallas's (1926) four-stage model of incorporation, incubation, insight, and verification, has recognized the dialectic conflicts involved in creativity, Bruner (1966a), in his essay on the conditions af creativity, emphasizes the dialectic tension between abstract detachment and concrete invalvement, For him, the creative act is a product of detachment and commitment, of passion and decorum, and ofa freeclom to be dominated",
+          "translation": "거의 모든 창조적 과정에 대한 설명, 발라스의 (1926) 네 단계 모형의 통합, 식, 통찰 및 검증에서 창의성에 관련된 대화적 갈등을 인정했습니다. 브루너 (1966a) 는 창의성의 조건에 대한 그의 에세이에서 추상적 분리과 구체적인 포용 사이의 대화적 긴장을 강조합니다."
+        },
+        {
+          "source": "by the object of one’s inquiry.",
+          "translation": "조사의 대상이 되는 것입니다."
+        },
+        {
+          "source": "At the highest stages of development.",
+          "translation": "개발의 가장 높은 단계에서"
+        },
+        {
+          "source": "the adaptive commitment to learning and creativity produces a strong need for integration of the four adaptive modes, Development in one mode precipitates development in the others.",
+          "translation": "학습과 창의성에 대한 적응적 헌신은 네 가지 적응적 모드의 통합에 대한 강한 필요성을 낳고, 한 모드에서의 개발은 다른 모드에서의 발전을 촉진한다."
+        },
+        {
+          "source": "Increases in symbolic complexity, for example, refine and sharpen both perceptual and behavioral possibilities.",
+          "translation": "예를 들어, 상징적인 복잡성의 증가는 인식과 행동 가능성을 모두 정비하고 날카롭게 한다."
+        },
+        {
+          "source": "Thus, complexity and the integration of dialectic conflicts among the adaptive modes are the hallmarks of true creativity and growth, Learning Is an Holistic Process of Adaptation to the World Experiential learning is not a molecular educational concept but rather is a molar concept describing the central process of human adaptatian to the social and physical environment.",
+          "translation": "따라서, 적응적인 모드들 사이의 복잡성과 대화적 갈등의 통합은 진정한 창의성과 성장의 특징입니다. 학습은 세계 적응의 전체적 과정입니다. 경험학습은 분자 교육 개념이 아니라 사회적 및 물리적 환경에 적응하는 인간의 중심 과정을 설명하는 모러 개념입니다."
+        },
+        {
+          "source": "It is a holistic concept much akin to the Jungian theory of psychological types (Jung, 1923), in that it seeks to deseribe the emergence of basic life orientations as a function of dialectic tensions between basic modes of relating to the world.",
+          "translation": "그것은 심리적 유형 (Jung, 1923) 의 정규 이론과 매우 유사한 전체적인 개념으로, 그것은 세계와 관련된 기본 방식 사이의 대화적 긴장의 기능으로 기본적인 삶의 지향의 출현을 탐구합니다."
+        },
+        {
+          "source": "Ta learn is not the special province of a single specialized realm of human functioning such as cognition or perception.",
+          "translation": "학습은 인지 또는 인식과 같은 인간의 기능의 단일 전문 영역의 특별한 지방이 아닙니다."
+        },
+        {
+          "source": "It invalves the integrated functioning of the total organism—thinking, feeling, perceiving, and behaving.",
+          "translation": "그것은 전체 유기체의 thought, feeling, perceiving, and behaving의 통합적인 기능을 포함합니다."
+        },
+        {
+          "source": "This concept of holistic adaptation is semewhat out of step with current research trends in the behavioral sciences.",
+          "translation": "전체적 적응의 이 개념은 행동 과학의 현재의 연구 트렌드에 다소 부합합니다."
+        },
+        {
+          "source": "Since the early years of this century and the decline of what Gordon Allport called the “simnle and sovereiqn”",
+          "translation": "이 세기 초반과 고든 올포트가 simnle와 sovereiqn라고 부르는 것의 쇠퇴"
+        }
+      ],
+      "printed": "31",
+      "textQuality": "ocr",
+      "ocrImageRotationClockwise": 90
+    },
+    {
+      "page": 15,
+      "sourceText": "theories of human behavior, the trend in the behavioral sciences has been away\nfrom theories such as those of Freud and his followers that proposed to explain\nthe totality of human functioning by focusing on the interrelatedness among\nhuman processes such as thought, emotion, perception, and so on. Research\nhas instead tended to specialize in more detailed exploration and description of\nparticular processes and subprocesses of human adaptation—perception,\nperson perception, attribution, achievement motivation, cognition, memory—\nthe list could go on and on. The fruit of this labor has been bountiful. Because of\nthis intensive specialized research, we now know a vast amount about human\nbehavior, so much that any attempt to integrate and do justice to all this diverse\nknowledge seems impossible. Any holistic theory proposed today could not be\nsimple and would certainly not be sovereign. Yet if weare to understand human\nbehavior, particularly in any practical way, we must in some way put together all\nthe pieces that have been so carefully analyzed. In addition to knowing how we\nthink and how we feel, we must also know when behavior is governed by\nthought and when by feeling. In addition to addressing the nature of specialized\nhuman functions, experiential learning theory is also concerned with how these\nfunctions are integrated by the person into a holistic adaptive posture toward\nthe world,\n\nLearning is the major process of human adaptation. This concept of\nlearning is considerably broader than that commonly associated with the school\nclassroom. It occurs in all human settings, from schools to the workplace, from\nthe research laboratory to the management board room, in personal\nrelationships and the aisles of the local grocery. It encornpasses all life stages,\nfrom childhood to adolescence, to middle and old age. Therefore it encompasses other, more limited adaptive concepts such as creativity, problem\nsolving, decision making, and attitude change that focus heavily on one or\nanother of the basic aspects of adaptation. Thus, creativity research has tended\nto focus on the divergent (concrete and reflective) factors in adaptation such as\ntolerance for ambiguity, metaphorical thinking, and flexibility, whereas\nresearch on decision making has emphasized more convergent (abstract and\nactive) adaptive factors such as the rational evaluation of solution alternatives.\n\nThe cyclic description of the experiential learning process is mirrored in\nmany of the specialized models of the adaptive process. The common theme in\nall these models is that all forms of human adaptation approximate scientific\ninquiry, a point of view articulated most thoroughly by the late George Kelly\n(1955), Dewey, Lewin, and Piaget in one way or another seem to take the\nscientific method as their model for the learning process; or to put it another\nway, they see in the scientific method the highest philosophical and\ntechnological refinement of the basic processes of human adaptation. The\nscientific method, thus, provides a means for describing the holistic integration\nof all human functions,\n\nFigure 2.4 shows the experiential learning cycle in the center circle anda\nmodel of the scientific inquiry process in the outer circle (Kalb, 1978), with\nmodels of the problem-solving process (Pounds, 1965), the decision-makina",
+      "translationText": "인간의 행동 이론, 행동 과학의 흐름은 생각, 감정, 인식 등 인간의 과정 사이의 상호 연관성에 초점을 맞추어 인간의 기능의 전체성을 설명하는 프로이트와 그의 추종자들 같은 이론으로부터 멀어졌습니다.\n\n그 대신 연구는 인간 적응의 특정한 과정과 하위 과정을 더 세밀하게 탐구하고 기술하는 방향으로 전문화되는 경향을 보였다. 지각, 대인지각, 귀인, 성취동기, 인지, 기억 등 그 목록은 계속 이어질 수 있다.\n\n이 노력 의 열매 는 풍부 한 것 이다.\n\n이러한 집중적인 전문적인 연구로 인해 우리는 이제 인간의 행동에 대해 매우 많은 것을 알고 있습니다. 이 다양한 지식에 대한 통합과 정의를 위한 모든 시도는 불가능한 것처럼 보입니다.\n\n오늘날 제안되는 모든 종합적인 이론은 단순할 수 없으며 확실히 주권적이지 않을 것입니다.\n\n그러나 우리가 인간의 행동을, 특히 어떤 실용적인 방법으로도 이해하려면 어떻게든 이렇게 신중하게 분석된 모든 조각들을 합쳐야 합니다.\n\n우리가 어떻게 생각하고 어떻게 느끼는지 아는 것 외에도 행동이 언제 생각과 감정에 의해 지배되는지 알아야 합니다.\n\n전문적인 인간 기능의 본질을 다루는 것 외에도 경험학습 이론은 또한 이러한 기능이 사람이 세계에 대한 종합적 적응적 자세로 어떻게 통합되는지에 관한 것입니다. 학습은 인간의 적응의 주요 과정입니다.\n\n이러한 학습 개념은 일반적으로 학교 수업과 관련된 개념보다 훨씬 넓습니다.\n\n학교에서부터 직장, 연구실에서부터 경영실, 개인적 관계, 지역 식료품 가게의 통로 등 모든 인간 환경에서 발생합니다.\n\n그것은 어린 시절부터 청소년기, 중년, 노년기에 이르기까지 모든 삶의 단계를 포괄합니다.\n\n따라서 그것은 창의력, 문제 해결, 의사결정 및 태도 변화와 같은 다른, 더 제한된 적응 개념들을 포함하고 있으며, 적응의 기본 측면 중 하나 또는 다른 것에 크게 초점을 맞추고 있습니다.\n\n따라서 창의성 연구는 모호함에 대한 관용, 은유적 사고, 유연성과 같이 적응의 확산적 요인, 즉 구체적이고 성찰적인 요인에 초점을 맞추는 경향을 보였다. 반면 의사결정 연구는 해결 대안의 합리적 평가와 같이 보다 수렴적인 적응 요인, 즉 추상적이고 능동적인 요인을 강조하였다.\n\n경험학습 과정의 순환적 설명은 적응 과정의 많은 전문 모델에서 반영됩니다.\n\n이 모든 모델의 공통적인 주제는 모든 형태의 인간 적응이 대략적인 과학적 탐구라는 것입니다. 고인이 된 조지 켈리 (1955), 듀이, 레윈, 그리고 피아게가 가장 철저하게 표현한 관점은 한 가지 또는 다른 방법으로 과학적 방법을 학습 과정의 모델로 받아들이는 것처럼 보입니다. 또는 다른 말로 말하자면, 그들은 과학적 방법에서 인간의 적응의 기본 과정의 가장 높은 철학적 및 기술적인 정밀성을 봅니다.\n\n따라서 과학적 방법은 모든 인간 기능의 종합적 통합을 설명하는 방법을 제공합니다. 그림 2.4은 중심 서클에서 경험학습 순환과 외부 서클에서 과학적 조사 과정의 모델을 보여줍니다 (Kalb, 1978), 문제 해결 과정의 모델 (Pounds, 1965), 의사 결정 기계",
+      "status": "translated",
+      "sourceTextSha256": "8b123e9c3612a8f96c5b82c5d4c4aa33645ec83e593d494921406efc5932a445",
+      "segments": [
+        {
+          "source": "theories of human behavior, the trend in the behavioral sciences has been away from theories such as those of Freud and his followers that proposed to explain the totality of human functioning by focusing on the interrelatedness among human processes such as thought, emotion, perception, and so on.",
+          "translation": "인간의 행동 이론, 행동 과학의 흐름은 생각, 감정, 인식 등 인간의 과정 사이의 상호 연관성에 초점을 맞추어 인간의 기능의 전체성을 설명하는 프로이트와 그의 추종자들 같은 이론으로부터 멀어졌습니다."
+        },
+        {
+          "source": "Research has instead tended to specialize in more detailed exploration and description of particular processes and subprocesses of human adaptation—perception, person perception, attribution, achievement motivation, cognition, memory— the list could go on and on.",
+          "translation": "그 대신 연구는 인간 적응의 특정한 과정과 하위 과정을 더 세밀하게 탐구하고 기술하는 방향으로 전문화되는 경향을 보였다. 지각, 대인지각, 귀인, 성취동기, 인지, 기억 등 그 목록은 계속 이어질 수 있다.",
+          "reviewed": true
+        },
+        {
+          "source": "The fruit of this labor has been bountiful.",
+          "translation": "이 노력 의 열매 는 풍부 한 것 이다."
+        },
+        {
+          "source": "Because of this intensive specialized research, we now know a vast amount about human behavior, so much that any attempt to integrate and do justice to all this diverse knowledge seems impossible.",
+          "translation": "이러한 집중적인 전문적인 연구로 인해 우리는 이제 인간의 행동에 대해 매우 많은 것을 알고 있습니다. 이 다양한 지식에 대한 통합과 정의를 위한 모든 시도는 불가능한 것처럼 보입니다."
+        },
+        {
+          "source": "Any holistic theory proposed today could not be simple and would certainly not be sovereign.",
+          "translation": "오늘날 제안되는 모든 종합적인 이론은 단순할 수 없으며 확실히 주권적이지 않을 것입니다."
+        },
+        {
+          "source": "Yet if weare to understand human behavior, particularly in any practical way, we must in some way put together all the pieces that have been so carefully analyzed.",
+          "translation": "그러나 우리가 인간의 행동을, 특히 어떤 실용적인 방법으로도 이해하려면 어떻게든 이렇게 신중하게 분석된 모든 조각들을 합쳐야 합니다."
+        },
+        {
+          "source": "In addition to knowing how we think and how we feel, we must also know when behavior is governed by thought and when by feeling.",
+          "translation": "우리가 어떻게 생각하고 어떻게 느끼는지 아는 것 외에도 행동이 언제 생각과 감정에 의해 지배되는지 알아야 합니다."
+        },
+        {
+          "source": "In addition to addressing the nature of specialized human functions, experiential learning theory is also concerned with how these functions are integrated by the person into a holistic adaptive posture toward the world, Learning is the major process of human adaptation.",
+          "translation": "전문적인 인간 기능의 본질을 다루는 것 외에도 경험학습 이론은 또한 이러한 기능이 사람이 세계에 대한 종합적 적응적 자세로 어떻게 통합되는지에 관한 것입니다. 학습은 인간의 적응의 주요 과정입니다."
+        },
+        {
+          "source": "This concept of learning is considerably broader than that commonly associated with the school classroom.",
+          "translation": "이러한 학습 개념은 일반적으로 학교 수업과 관련된 개념보다 훨씬 넓습니다."
+        },
+        {
+          "source": "It occurs in all human settings, from schools to the workplace, from the research laboratory to the management board room, in personal relationships and the aisles of the local grocery.",
+          "translation": "학교에서부터 직장, 연구실에서부터 경영실, 개인적 관계, 지역 식료품 가게의 통로 등 모든 인간 환경에서 발생합니다."
+        },
+        {
+          "source": "It encornpasses all life stages, from childhood to adolescence, to middle and old age.",
+          "translation": "그것은 어린 시절부터 청소년기, 중년, 노년기에 이르기까지 모든 삶의 단계를 포괄합니다."
+        },
+        {
+          "source": "Therefore it encompasses other, more limited adaptive concepts such as creativity, problem solving, decision making, and attitude change that focus heavily on one or another of the basic aspects of adaptation.",
+          "translation": "따라서 그것은 창의력, 문제 해결, 의사결정 및 태도 변화와 같은 다른, 더 제한된 적응 개념들을 포함하고 있으며, 적응의 기본 측면 중 하나 또는 다른 것에 크게 초점을 맞추고 있습니다."
+        },
+        {
+          "source": "Thus, creativity research has tended to focus on the divergent (concrete and reflective) factors in adaptation such as tolerance for ambiguity, metaphorical thinking, and flexibility, whereas research on decision making has emphasized more convergent (abstract and active) adaptive factors such as the rational evaluation of solution alternatives.",
+          "translation": "따라서 창의성 연구는 모호함에 대한 관용, 은유적 사고, 유연성과 같이 적응의 확산적 요인, 즉 구체적이고 성찰적인 요인에 초점을 맞추는 경향을 보였다. 반면 의사결정 연구는 해결 대안의 합리적 평가와 같이 보다 수렴적인 적응 요인, 즉 추상적이고 능동적인 요인을 강조하였다.",
+          "reviewed": true
+        },
+        {
+          "source": "The cyclic description of the experiential learning process is mirrored in many of the specialized models of the adaptive process.",
+          "translation": "경험학습 과정의 순환적 설명은 적응 과정의 많은 전문 모델에서 반영됩니다."
+        },
+        {
+          "source": "The common theme in all these models is that all forms of human adaptation approximate scientific inquiry, a point of view articulated most thoroughly by the late George Kelly (1955), Dewey, Lewin, and Piaget in one way or another seem to take the scientific method as their model for the learning process; or to put it another way, they see in the scientific method the highest philosophical and technological refinement of the basic processes of human adaptation.",
+          "translation": "이 모든 모델의 공통적인 주제는 모든 형태의 인간 적응이 대략적인 과학적 탐구라는 것입니다. 고인이 된 조지 켈리 (1955), 듀이, 레윈, 그리고 피아게가 가장 철저하게 표현한 관점은 한 가지 또는 다른 방법으로 과학적 방법을 학습 과정의 모델로 받아들이는 것처럼 보입니다. 또는 다른 말로 말하자면, 그들은 과학적 방법에서 인간의 적응의 기본 과정의 가장 높은 철학적 및 기술적인 정밀성을 봅니다."
+        },
+        {
+          "source": "The scientific method, thus, provides a means for describing the holistic integration of all human functions, Figure 2.4 shows the experiential learning cycle in the center circle anda model of the scientific inquiry process in the outer circle (Kalb, 1978), with models of the problem-solving process (Pounds, 1965), the decision-makina",
+          "translation": "따라서 과학적 방법은 모든 인간 기능의 종합적 통합을 설명하는 방법을 제공합니다. 그림 2.4은 중심 서클에서 경험학습 순환과 외부 서클에서 과학적 조사 과정의 모델을 보여줍니다 (Kalb, 1978), 문제 해결 과정의 모델 (Pounds, 1965), 의사 결정 기계"
+        }
+      ],
+      "textQuality": "ocr",
+      "ocrImageRotationClockwise": 90
+    },
+    {
+      "page": 16,
+      "sourceText": "The Process of Experiential Laarning 33\n\nPROBLEM FINGENg\n\nActive\nexperi tae\n\nPORTRAYAL OF ENOWLEnoe\n\nANSWER gEEsIna\n\nFigure 2.4 Similarities Among Conceptions of Basic Adaptive Processes: Inquiry/Research,\nCraativity, Decision Making, Problem Solving, Learning\n\nprocess (Simon, 1947), and the creative process (Wallas, 1926) in between.\nAlthough the models all use different terms, there is a remarkable similarity in\nconcept among them. This similarity suggests that there may be great payoff in\nthe integration of findings from these specialized areas into a single general\nadaptive model such as that proposed by experiential learning theory. Bruner’s\nwork on a theory of instruction (1966b) shows one example of this potential\npayoff. His integration of research on cognitive processes, prablem solving, and\nlearning theory provided a rich new perspective for the conduct of education.\n\nWhen learning is conceived as a holistic adaptive process, it provides\nconceptual bridges across life situations such as school and work, portraying\nlearning as a continuous, lifelong process. Similarly, this perspective highlights\nthe similarities among adaptive/learning activities that are commonly called by",
+      "translationText": "경험적 학습 과정 33 문제점 FINGENG 액티브 경험 포트레이얼 ENOWLENOE ANSWER GEEES에 그림 2.4 기본적인 적응적 과정의 개념들 사이의 유사성: 조사/연구, 창의성, 의사결정, 문제 해결, 학습 과정 (Simon, 1947), 그리고 그 사이의 창조 과정 (Wallas, 1926).\n\n비록 모델들은 모두 다른 용어를 사용하지만, 그들 사이에 상당한 개념의 유사성이 있습니다.\n\n이러한 유사성은 이러한 전문적인 영역에서 발견된 결과를 경험학습 이론에 의해 제안된 것과 같은 단일 일반적인 적응 모델로 통합하는 데 큰 이익이있을 수 있음을 암시합니다.\n\n브루너 (Bruner) 의 교육 이론 (1966b) 에 관한 연구는 이러한 잠재적인 보상의 한 예를 보여준다.\n\n인지 과정, 문제 해결, 학습 이론에 대한 그의 연구 통합은 교육의 수행에 대한 풍부한 새로운 관점을 제공했습니다.\n\n학습은 전체적인 적응적 과정으로 이해될 때 학교와 직장과 같은 삶의 상황들을 통틀어 개념적 교두보를 제공하며 학습을 지속적인 평생 과정으로 묘사합니다.\n\n이와 마찬가지로, 이 관점은 적응/학습 활동들 사이의 유사성을 강조합니다.",
+      "status": "translated",
+      "sourceTextSha256": "2a6efa4166d5db9f178e39a2f24df9cecb8f202ed7848909abb72b1807ee8692",
+      "segments": [
+        {
+          "source": "The Process of Experiential Laarning 33 PROBLEM FINGENg Active experi tae PORTRAYAL OF ENOWLEnoe ANSWER gEEsIna Figure 2.4 Similarities Among Conceptions of Basic Adaptive Processes: Inquiry/Research, Craativity, Decision Making, Problem Solving, Learning process (Simon, 1947), and the creative process (Wallas, 1926) in between.",
+          "translation": "경험적 학습 과정 33 문제점 FINGENG 액티브 경험 포트레이얼 ENOWLENOE ANSWER GEEES에 그림 2.4 기본적인 적응적 과정의 개념들 사이의 유사성: 조사/연구, 창의성, 의사결정, 문제 해결, 학습 과정 (Simon, 1947), 그리고 그 사이의 창조 과정 (Wallas, 1926)."
+        },
+        {
+          "source": "Although the models all use different terms, there is a remarkable similarity in concept among them.",
+          "translation": "비록 모델들은 모두 다른 용어를 사용하지만, 그들 사이에 상당한 개념의 유사성이 있습니다."
+        },
+        {
+          "source": "This similarity suggests that there may be great payoff in the integration of findings from these specialized areas into a single general adaptive model such as that proposed by experiential learning theory.",
+          "translation": "이러한 유사성은 이러한 전문적인 영역에서 발견된 결과를 경험학습 이론에 의해 제안된 것과 같은 단일 일반적인 적응 모델로 통합하는 데 큰 이익이있을 수 있음을 암시합니다."
+        },
+        {
+          "source": "Bruner’s work on a theory of instruction (1966b) shows one example of this potential payoff.",
+          "translation": "브루너 (Bruner) 의 교육 이론 (1966b) 에 관한 연구는 이러한 잠재적인 보상의 한 예를 보여준다."
+        },
+        {
+          "source": "His integration of research on cognitive processes, prablem solving, and learning theory provided a rich new perspective for the conduct of education.",
+          "translation": "인지 과정, 문제 해결, 학습 이론에 대한 그의 연구 통합은 교육의 수행에 대한 풍부한 새로운 관점을 제공했습니다."
+        },
+        {
+          "source": "When learning is conceived as a holistic adaptive process, it provides conceptual bridges across life situations such as school and work, portraying learning as a continuous, lifelong process.",
+          "translation": "학습은 전체적인 적응적 과정으로 이해될 때 학교와 직장과 같은 삶의 상황들을 통틀어 개념적 교두보를 제공하며 학습을 지속적인 평생 과정으로 묘사합니다."
+        },
+        {
+          "source": "Similarly, this perspective highlights the similarities among adaptive/learning activities that are commonly called by",
+          "translation": "이와 마찬가지로, 이 관점은 적응/학습 활동들 사이의 유사성을 강조합니다."
+        }
+      ],
+      "textQuality": "ocr",
+      "ocrImageRotationClockwise": 90
+    },
+    {
+      "page": 17,
+      "sourceText": "4 The Process of Experiential Learning\n\nspecialized names—learning, creativity, problem solving, decision making, and\nscientific research. Finally, learning conceived holistically includes adaptive\nactivities that vary in their extension through time and space. Typically, an\nmmediate reaction to a hmited situation or problem is not thought of as learning\naut as performance. Similarly at the other extreme, we do not commonly think\naf Jong-term adaptations ta one’s total life situation as learning but as\ndevelopment. Yet performance, learning, and development, when viewed from\nthe perspectives of experiential learning theary, form a continuum of adaptive\npostures to the environment, varying only in their degree of extension in time\nand space. Performance is limited to short-term adaptations to immediate\ncircumstance, learning encompasses somewhat longer-term mastery of generic\nclasses of situations, and development encompasses lifelong adaptations to\none's total life situation (compare Chapter 6).\n\nLearning Involves Transactions Between the Person\nand the Environment\n\nSo stated, this proposition must seem obvious. Yet strangely enough, its\nimplications seem to have been widely ignored in research on learning and\npractice in education, replaced instead by a person-centered psychological view\nof learning. The casual observer of the traditional educational process would\nundoubtedly conclude that learning was primarily a personal, internal process\nrequiring only the limited environment of books, teacher, and classroom.\nIndeed, the wider “real-world” environment at times seems to be actively\nrejected by educational systems at all levels.\n\nThere is an analogous situation in psychological research on learning and\ndevelopment. In theory, stimulus-response theories of learning describe\nrelationships between environmental stimuli and responses of the organism.\nBut in practice, most of this research involves treating the environmental stimuli\nas independent variables manipulated artificially by the experimenter ta\ndetermine their effect on dependent response characteristics. This approach\nhas had two outcomes. The first is a tendency to perceive the personenvironment relationship as one-way, placing great emphasis on how\nenvironment shapes behavior with little regard for how behavior shapes the\nenvironment. Second, the models of learning are essentially decontextualized\nand lacking in what Egon Brunswick (1943) called ecological validity, In the\nemphasis on scientific control of environmental conditions, laboratory\nsituations were created that bore little resemblance to the environment of real\nlife, resulting in ernpirically validated models of learning that accurately\ndescribed behavior in these artificial settings but could not easily be generalized\nto subjects in their natural environment. It is to me not surprising that the\nforemost proponent of this theory of learning would be fascinated by the\ncreation of Utopian societies suchas Walden Il (Skinner, 1948); for the only way\nto apply the results of these studies is to make the world a laboratory, subject to\n“experimenter” contral (compare Elms, 1981).",
+      "translationText": "4 경험학습의 과정은 학습, 창의력, 문제 해결, 의사결정 및 과학 연구를 전문으로 한다.\n\n마지막으로, 종합적으로 생각되는 학습은 시간과 공간으로 확장되는 적응적 활동을 포함합니다.\n\n일반적으로, 주어진 상황이나 문제에 대한 간헐적 반응은 학습이 성과로 간주되지 않습니다.\n\n다른 극단에서도 마찬가지로, 우리는 일반적으로 한 사람의 전체 생활 상황에 대한 Jong-term 적응을 배우는 것이 아니라 발전이라고 생각하지 않습니다.\n\n그러나 경험학습 이론의 관점에서 볼 때 성과, 학습 및 발달은 환경에 대한 적응적 자세의 연속성을 형성하며 시간과 공간에서 확장되는 정도에서만 변합니다.\n\n성능은 즉각적인 상황에 대한 단기적 적응에 국한되어 있고, 학습은 일반적인 상황 클래스의 다소 장기적인 마스터를 포함하고, 개발은 전체 생활 상황에 대한 평생 적응을 포함합니다 (6.\n\n학습은 사람과 환경 사이의 거래를 포함합니다.\n\n그러나 이상하게도, 교육에 대한 학습과 실천에 대한 연구에서는 그 영향이 크게 무시되어, 대신 학습에 대한 인간 중심의 심리적 시각으로 대체되었습니다.\n\n전통적 교육 과정의 비관적인 관찰자는 의심할 여지 없이 학습은 주로 책, 교사, 교실의 제한된 환경만 필요로 하는 개인적, 내부적인 과정이라고 결론지을 수 있을 것이다.\n\n사실, 더 넓은 '현실적' 환경은 때때로 모든 수준의 교육 체계에서 적극적으로 거부되는 것처럼 보입니다.\n\n학습과 발달에 관한 심리적 연구에서도 비슷한 상황이 있습니다.\n\n이론적으로, 학습의 자극 반응 이론은 환경 자극과 유기체의 반응 사이의 관계를 설명합니다.\n\n그러나 실제로 이 연구의 대부분은 환경 자극을 인공적으로 실험자가 조작한 독립적인 변수로 취급하여 의존 반응 특성에 미치는 영향을 결정하는 것을 포함합니다.\n\n이 접근 방식은 두 가지 결과를 가져왔다.\n\n첫 번째는 개인환경관계를 일방적으로 인식하는 경향이 있으며, 환경이 환경을 어떻게 형성하는지 거의 고려하지 않고 환경을 어떻게 형성하는지에 대한 큰 강조입니다.\n\n둘째, 학습 모델은 본질적으로 맥락화되어 있고 에곤 브런스위크 (1943) 가 생태적 유효성이라고 부르는 것이 부족합니다. 환경 조건의 과학적 통제에 중점을 두면서 실제 생활 환경과 거의 유사하지 않는 실험실 상황이 만들어졌습니다. 결과적으로 이러한 인공 환경에서 행동을 정확하게 묘사하는 학습 모델이 경험적으로 검증되었습니다. 그러나 자연 환경의 주체에 쉽게 일반화 될 수 없었습니다.\n\n이러한 학습 이론의 가장 큰 지지자가 월든 일 (스키너, 1948) 와 같은 유토피아 사회를 창조하는 것에 매료되는 것은 놀랍지 않습니다. 왜냐하면 이러한 연구의 결과를 적용할 수 있는 유일한 방법은 세계를 실험실으로 만드는 것입니다.",
+      "status": "translated",
+      "sourceTextSha256": "7d8cd0583dcb8f1b4f5f8d133c09bb4f769fa09f1b53967bee8d2c4833c00830",
+      "segments": [
+        {
+          "source": "4 The Process of Experiential Learning specialized names—learning, creativity, problem solving, decision making, and scientific research.",
+          "translation": "4 경험학습의 과정은 학습, 창의력, 문제 해결, 의사결정 및 과학 연구를 전문으로 한다."
+        },
+        {
+          "source": "Finally, learning conceived holistically includes adaptive activities that vary in their extension through time and space.",
+          "translation": "마지막으로, 종합적으로 생각되는 학습은 시간과 공간으로 확장되는 적응적 활동을 포함합니다."
+        },
+        {
+          "source": "Typically, an mmediate reaction to a hmited situation or problem is not thought of as learning aut as performance.",
+          "translation": "일반적으로, 주어진 상황이나 문제에 대한 간헐적 반응은 학습이 성과로 간주되지 않습니다."
+        },
+        {
+          "source": "Similarly at the other extreme, we do not commonly think af Jong-term adaptations ta one’s total life situation as learning but as development.",
+          "translation": "다른 극단에서도 마찬가지로, 우리는 일반적으로 한 사람의 전체 생활 상황에 대한 Jong-term 적응을 배우는 것이 아니라 발전이라고 생각하지 않습니다."
+        },
+        {
+          "source": "Yet performance, learning, and development, when viewed from the perspectives of experiential learning theary, form a continuum of adaptive postures to the environment, varying only in their degree of extension in time and space.",
+          "translation": "그러나 경험학습 이론의 관점에서 볼 때 성과, 학습 및 발달은 환경에 대한 적응적 자세의 연속성을 형성하며 시간과 공간에서 확장되는 정도에서만 변합니다."
+        },
+        {
+          "source": "Performance is limited to short-term adaptations to immediate circumstance, learning encompasses somewhat longer-term mastery of generic classes of situations, and development encompasses lifelong adaptations to one's total life situation (compare Chapter 6).",
+          "translation": "성능은 즉각적인 상황에 대한 단기적 적응에 국한되어 있고, 학습은 일반적인 상황 클래스의 다소 장기적인 마스터를 포함하고, 개발은 전체 생활 상황에 대한 평생 적응을 포함합니다 (6."
+        },
+        {
+          "source": "Learning Involves Transactions Between the Person and the Environment So stated, this proposition must seem obvious.",
+          "translation": "학습은 사람과 환경 사이의 거래를 포함합니다."
+        },
+        {
+          "source": "Yet strangely enough, its implications seem to have been widely ignored in research on learning and practice in education, replaced instead by a person-centered psychological view of learning.",
+          "translation": "그러나 이상하게도, 교육에 대한 학습과 실천에 대한 연구에서는 그 영향이 크게 무시되어, 대신 학습에 대한 인간 중심의 심리적 시각으로 대체되었습니다."
+        },
+        {
+          "source": "The casual observer of the traditional educational process would undoubtedly conclude that learning was primarily a personal, internal process requiring only the limited environment of books, teacher, and classroom.",
+          "translation": "전통적 교육 과정의 비관적인 관찰자는 의심할 여지 없이 학습은 주로 책, 교사, 교실의 제한된 환경만 필요로 하는 개인적, 내부적인 과정이라고 결론지을 수 있을 것이다."
+        },
+        {
+          "source": "Indeed, the wider “real-world” environment at times seems to be actively rejected by educational systems at all levels.",
+          "translation": "사실, 더 넓은 '현실적' 환경은 때때로 모든 수준의 교육 체계에서 적극적으로 거부되는 것처럼 보입니다."
+        },
+        {
+          "source": "There is an analogous situation in psychological research on learning and development.",
+          "translation": "학습과 발달에 관한 심리적 연구에서도 비슷한 상황이 있습니다."
+        },
+        {
+          "source": "In theory, stimulus-response theories of learning describe relationships between environmental stimuli and responses of the organism.",
+          "translation": "이론적으로, 학습의 자극 반응 이론은 환경 자극과 유기체의 반응 사이의 관계를 설명합니다."
+        },
+        {
+          "source": "But in practice, most of this research involves treating the environmental stimuli as independent variables manipulated artificially by the experimenter ta determine their effect on dependent response characteristics.",
+          "translation": "그러나 실제로 이 연구의 대부분은 환경 자극을 인공적으로 실험자가 조작한 독립적인 변수로 취급하여 의존 반응 특성에 미치는 영향을 결정하는 것을 포함합니다."
+        },
+        {
+          "source": "This approach has had two outcomes.",
+          "translation": "이 접근 방식은 두 가지 결과를 가져왔다."
+        },
+        {
+          "source": "The first is a tendency to perceive the personenvironment relationship as one-way, placing great emphasis on how environment shapes behavior with little regard for how behavior shapes the environment.",
+          "translation": "첫 번째는 개인환경관계를 일방적으로 인식하는 경향이 있으며, 환경이 환경을 어떻게 형성하는지 거의 고려하지 않고 환경을 어떻게 형성하는지에 대한 큰 강조입니다."
+        },
+        {
+          "source": "Second, the models of learning are essentially decontextualized and lacking in what Egon Brunswick (1943) called ecological validity, In the emphasis on scientific control of environmental conditions, laboratory situations were created that bore little resemblance to the environment of real life, resulting in ernpirically validated models of learning that accurately described behavior in these artificial settings but could not easily be generalized to subjects in their natural environment.",
+          "translation": "둘째, 학습 모델은 본질적으로 맥락화되어 있고 에곤 브런스위크 (1943) 가 생태적 유효성이라고 부르는 것이 부족합니다. 환경 조건의 과학적 통제에 중점을 두면서 실제 생활 환경과 거의 유사하지 않는 실험실 상황이 만들어졌습니다. 결과적으로 이러한 인공 환경에서 행동을 정확하게 묘사하는 학습 모델이 경험적으로 검증되었습니다. 그러나 자연 환경의 주체에 쉽게 일반화 될 수 없었습니다."
+        },
+        {
+          "source": "It is to me not surprising that the foremost proponent of this theory of learning would be fascinated by the creation of Utopian societies suchas Walden Il (Skinner, 1948); for the only way to apply the results of these studies is to make the world a laboratory, subject to “experimenter” contral (compare Elms, 1981).",
+          "translation": "이러한 학습 이론의 가장 큰 지지자가 월든 일 (스키너, 1948) 와 같은 유토피아 사회를 창조하는 것에 매료되는 것은 놀랍지 않습니다. 왜냐하면 이러한 연구의 결과를 적용할 수 있는 유일한 방법은 세계를 실험실으로 만드는 것입니다."
+        }
+      ],
+      "textQuality": "ocr",
+      "ocrImageRotationClockwise": 90
+    },
+    {
+      "page": 18,
+      "sourceText": "Similar criticisms have been made of developmental psychology. Piaget's\nwork, for example, has been criticized for its fallure to take account of\nenvironmental and cultural circumstances (Cole, 1971). Speaking of developmental psychology in general, Bronfenbrenner states, “Much of developmental\npsychology as it now exists is the science of the strange behavior of children in\nstrange situations with strange adults for the briefest possible periods of time”\n(1977, p. 19).\n\nIn experiential learning theory, the transactional relationship between the\nperson and the environment is symbolized in the dual meanings of the term\nexperience—one subjective and personal, referring to the person's internal\nstate, as in “the experience of joy and happiness,” and the other objective and\nenvironmental, as in, “He has 20 years of experience on this job.” These two\nforms of experience interpenetrate and interrelate in very complex ways, as, for\nexample, in the old saw, “He doesn’t have 20 years of experience, but one year\nrepeated 20 times.’ Dewey describes the matter this way:\n\nExperience does not goon simply inside a person. It does go an there, farit\ninfluences the formation of attitudes of desire and purpase, But this isnot the whole\nof the story, Every genuine experience has an active side which changes in some\ndegree the objective conditions under which experiences are had, The difference\nbetween civilization and savegery, to take an exampleona large scale, is found in\nthe degree in which previous experiences have changed the objective conditions\nunder which subsequent experiences take place. The existence of roads, of\nmeans of rapid movement and transportation, tools, implements, furniture,\nelectric light and power, are illustrations. Destroy the external conditions of\npresent ciuilized experience, ond fora time our experience would relapse into that\nof barbaric peoples... .\n\nThe. ward “interaction” assigns equal rights to both factors in expenence—\nobjective and internal canditians. Any normal experience is an interplay of these\ntwa sets of conditions. Token together... they form what we call a situation,\n\nThe statement that individuals live in a world means, in the concrete, that\nthey live in @ series of situations, And when it is said that they live in these\nsituations, fhe meaning of the word “in\"is different from its meaning when if is said\nthat pennies are “in\" a pocket or paint is “in” a can. It means, once more, that\ninteraction is going on between an individual and objects and ather persons. The\nconceptions of situation and of interaction are inseparable from each other. An\nexperience is always what if is because of a transaction taking place between an\nindividual and what, at the time, constitutes his environment, whether the latter\nconsists of persons with whont he is talking about same topic orevent, the subject\ntalked about being also a part of the situation; the book he is reading (inwhich his\nenvironing conditions af the time may be England or ancien! Greece or an\nimaginary region); or the materials of an experimen! he is performing. The\nenuiranment, in other words, is whatever conditions interact with personal needs,\ndesires, purposes, and capacities to create the experience which is had, Even\nwhena person builds a castle in {he alr he is interaeting with the objects which he\nconstructs in fancy. [Dewey, 1938, p, 39, 42-43]",
+      "translationText": "발달심리학에 대해서도 비슷한 비판이 제기되었습니다.\n\n예를 들어, 피아게의 작품은 환경과 문화적 상황을 고려하지 못해 비판을 받고 있다 (Cole, 1971).\n\n일반적으로 발달심리학에 대해 Bronfenbrenner는 \"현재 존재하는 발달심리학의 대부분은 가능한 한 짧은 시간 동안 낯선 성인들과 이상한 상황에서 어린이들의 이상한 행동을 연구하는 과학이다\" (1977, p. 19).\n\n경험학습 이론에서, 개인과 환경 사이의 트랜잭션 관계는 경험이라는 용어의 두 가지 의미에서 상징됩니다. 주관적이고 개인적인 개념으로, 사람의 내적 상태를 가리키는 것으로, 기쁨과 행복의 경험과 같이, 그리고 다른 객관적이고 환경적 개념으로, 이 직업에서 20 년의 경험을 가지고 있습니다.\n\n이 두 가지 형태의 경험은 매우 복잡한 방식으로 서로 침투하고 상호 관계를 맺고 있습니다. 예를 들어, 오래된 사지에, 그는 20 년의 경험을 가지고 있지 않지만 한 해는 20 번 반복됩니다. 듀이 는 이 문제 를 이렇게 설명 합니다. 경험 은 단순히 사람 안 에 있는 것 이 아닙니다. 그러나 이것은 이야기의 전부가 아닙니다. 모든 진정한 경험은 어느 정도 객관적인 조건을 변화시키는 활성 측면을 가지고 있습니다.\n\n예컨대, 문명과 savegery의 차이점은 이전 경험들이 후속 경험들이 일어나는 객관적인 조건을 변화시키는 정도에 있다. 도로, 급속한 이동 및 교통 수단, 도구, 도구, 가구, 전기 빛 및 전력의 존재는 그 예입니다. 현재의 문명화 된 경험의 외부 조건을 파괴하고 우리의 경험은 바르바르 민족의 경험으로 되돌아갈 때... 그... 상호 작용은 두 가지 요인에 동등한 권리를 부여합니다\n\n객관적이고 내부적인 후보자.\n\n모든 정상적인 경험은 이 두 가지 조건의 상호 작용입니다.\n\n함께 표기된 것은 우리가 상황이라고 부르는 것을 형성합니다. 개인이 세상에서 살고 있다는 말은 구체적으로 그들이 일련의 상황에서 살고 있다는 것을 의미합니다. 그리고 그들이 이런 상황에서 살고 있다고 말하면, in\"라는 단어의 의미는 in'라는 단어의 의미와 다른 의미입니다.\n\n다시 한번, 개인과 객체, 그리고 다른 사람들 사이에 상호작용이 일어나고 있다는 것을 의미합니다.\n\n상황과 상호작용의 개념은 서로 분리될 수 없습니다.\n\n경험은 항상 개인과 그 당시 그의 환경을 구성하는 거래가 일어나기 때문인지, 그 후자는 그와 같은 주제에 대해 이야기하는 사람들로 구성되어 있는지, 그 주체가 그 상황의 일부라고 이야기하는지, 그가 읽고 있는 책 (그 당시의 환경 조건은 영국이나 고대, 그리스 또는 상상의 지역이 될 수 있습니다.) 또는 그가 수행하는 실험의 자료가 있는지 여부입니다.\n\n즉, 인연은 개인의 욕구, 욕망, 목적, 그리고 경험을 창조하는 능력과 상호작용하는 모든 조건입니다. 심지어 어떤 사람이 성을 건설할 때에도 그는 상상 속에서 건설하는 물체와 상호작용하고 있습니다.\n\n[데우이, 1938, 면 39, 42-43]",
+      "status": "translated",
+      "sourceTextSha256": "94e96022277c9dcdf9babd73d8ed4e0f6d9d81fcdd2cd24dbaf2bd8dcbd95e13",
+      "segments": [
+        {
+          "source": "Similar criticisms have been made of developmental psychology.",
+          "translation": "발달심리학에 대해서도 비슷한 비판이 제기되었습니다."
+        },
+        {
+          "source": "Piaget's work, for example, has been criticized for its fallure to take account of environmental and cultural circumstances (Cole, 1971).",
+          "translation": "예를 들어, 피아게의 작품은 환경과 문화적 상황을 고려하지 못해 비판을 받고 있다 (Cole, 1971)."
+        },
+        {
+          "source": "Speaking of developmental psychology in general, Bronfenbrenner states, “Much of developmental psychology as it now exists is the science of the strange behavior of children in strange situations with strange adults for the briefest possible periods of time” (1977, p. 19).",
+          "translation": "일반적으로 발달심리학에 대해 Bronfenbrenner는 \"현재 존재하는 발달심리학의 대부분은 가능한 한 짧은 시간 동안 낯선 성인들과 이상한 상황에서 어린이들의 이상한 행동을 연구하는 과학이다\" (1977, p. 19)."
+        },
+        {
+          "source": "In experiential learning theory, the transactional relationship between the person and the environment is symbolized in the dual meanings of the term experience—one subjective and personal, referring to the person's internal state, as in “the experience of joy and happiness,” and the other objective and environmental, as in, “He has 20 years of experience on this job.”",
+          "translation": "경험학습 이론에서, 개인과 환경 사이의 트랜잭션 관계는 경험이라는 용어의 두 가지 의미에서 상징됩니다. 주관적이고 개인적인 개념으로, 사람의 내적 상태를 가리키는 것으로, 기쁨과 행복의 경험과 같이, 그리고 다른 객관적이고 환경적 개념으로, 이 직업에서 20 년의 경험을 가지고 있습니다."
+        },
+        {
+          "source": "These two forms of experience interpenetrate and interrelate in very complex ways, as, for example, in the old saw, “He doesn’t have 20 years of experience, but one year repeated 20 times.’ Dewey describes the matter this way: Experience does not goon simply inside a person. It does go an there, farit influences the formation of attitudes of desire and purpase, But this isnot the whole of the story, Every genuine experience has an active side which changes in some degree the objective conditions under which experiences are",
+          "translation": "이 두 가지 형태의 경험은 매우 복잡한 방식으로 서로 침투하고 상호 관계를 맺고 있습니다. 예를 들어, 오래된 사지에, 그는 20 년의 경험을 가지고 있지 않지만 한 해는 20 번 반복됩니다. 듀이 는 이 문제 를 이렇게 설명 합니다. 경험 은 단순히 사람 안 에 있는 것 이 아닙니다. 그러나 이것은 이야기의 전부가 아닙니다. 모든 진정한 경험은 어느 정도 객관적인 조건을 변화시키는 활성 측면을 가지고 있습니다."
+        },
+        {
+          "source": "had, The difference between civilization and savegery, to take an exampleona large scale, is found in the degree in which previous experiences have changed the objective conditions under which subsequent experiences take place. The existence of roads, of means of rapid movement and transportation, tools, implements, furniture, electric light and power, are illustrations. Destroy the external conditions of present ciuilized experience, ond fora time our experience would relapse into that of barbaric peoples... . The. ward “interaction” assigns equal rights to both factors",
+          "translation": "예컨대, 문명과 savegery의 차이점은 이전 경험들이 후속 경험들이 일어나는 객관적인 조건을 변화시키는 정도에 있다. 도로, 급속한 이동 및 교통 수단, 도구, 도구, 가구, 전기 빛 및 전력의 존재는 그 예입니다. 현재의 문명화 된 경험의 외부 조건을 파괴하고 우리의 경험은 바르바르 민족의 경험으로 되돌아갈 때... 그... 상호 작용은 두 가지 요인에 동등한 권리를 부여합니다"
+        },
+        {
+          "source": "in expenence— objective and internal canditians.",
+          "translation": "객관적이고 내부적인 후보자."
+        },
+        {
+          "source": "Any normal experience is an interplay of these twa sets of conditions.",
+          "translation": "모든 정상적인 경험은 이 두 가지 조건의 상호 작용입니다."
+        },
+        {
+          "source": "Token together... they form what we call a situation, The statement that individuals live in a world means, in the concrete, that they live in @ series of situations, And when it is said that they live in these situations, fhe meaning of the word “in\"is different from its meaning when if is said that pennies are “in\" a pocket or paint is “in” a can.",
+          "translation": "함께 표기된 것은 우리가 상황이라고 부르는 것을 형성합니다. 개인이 세상에서 살고 있다는 말은 구체적으로 그들이 일련의 상황에서 살고 있다는 것을 의미합니다. 그리고 그들이 이런 상황에서 살고 있다고 말하면, in\"라는 단어의 의미는 in'라는 단어의 의미와 다른 의미입니다."
+        },
+        {
+          "source": "It means, once more, that interaction is going on between an individual and objects and ather persons.",
+          "translation": "다시 한번, 개인과 객체, 그리고 다른 사람들 사이에 상호작용이 일어나고 있다는 것을 의미합니다."
+        },
+        {
+          "source": "The conceptions of situation and of interaction are inseparable from each other.",
+          "translation": "상황과 상호작용의 개념은 서로 분리될 수 없습니다."
+        },
+        {
+          "source": "An experience is always what if is because of a transaction taking place between an individual and what, at the time, constitutes his environment, whether the latter consists of persons with whont he is talking about same topic orevent, the subject talked about being also a part of the situation; the book he is reading (inwhich his environing conditions af the time may be England or ancien! Greece or an imaginary region); or the materials of an experimen! he is performing.",
+          "translation": "경험은 항상 개인과 그 당시 그의 환경을 구성하는 거래가 일어나기 때문인지, 그 후자는 그와 같은 주제에 대해 이야기하는 사람들로 구성되어 있는지, 그 주체가 그 상황의 일부라고 이야기하는지, 그가 읽고 있는 책 (그 당시의 환경 조건은 영국이나 고대, 그리스 또는 상상의 지역이 될 수 있습니다.) 또는 그가 수행하는 실험의 자료가 있는지 여부입니다."
+        },
+        {
+          "source": "The enuiranment, in other words, is whatever conditions interact with personal needs, desires, purposes, and capacities to create the experience which is had, Even whena person builds a castle in {he alr he is interaeting with the objects which he constructs in fancy.",
+          "translation": "즉, 인연은 개인의 욕구, 욕망, 목적, 그리고 경험을 창조하는 능력과 상호작용하는 모든 조건입니다. 심지어 어떤 사람이 성을 건설할 때에도 그는 상상 속에서 건설하는 물체와 상호작용하고 있습니다."
+        },
+        {
+          "source": "[Dewey, 1938, p, 39, 42-43]",
+          "translation": "[데우이, 1938, 면 39, 42-43]"
+        }
+      ],
+      "textQuality": "ocr",
+      "ocrImageRotationClockwise": 90
+    },
+    {
+      "page": 19,
+      "sourceText": "Although Dewey refers to the relationship between the objective and\nsubjective conditions of experience as an “interaction,” he is struggling in the\nlast portion of the quote above ta convey the special, complex nature of the\nrelationship. The word transaction ig more appropriate than interaction to\ndescribe the relationship between the person and the environment in\nexperiential learning theory, because the connotation of interaction is somehow\ntoo mechanical, involving unchanging separate entities that become inter.\ntwined but retain their separate identities. This is why Dewey attempts to give\nspecial meaning to the word in. The concept of transaction implies a more fluid,\ninterpenetrating relationship between abjective conditions and subjective\nexperience, such that once they become related, both are essentially changed,\n\nLewin recognized this complexity, even though he chose to sidestep it in\nhis famous theoretical formulation, 8 = /(P,E), incicating that behavior is a\nfunction of the person and the environment without any specification as to the\nspecific mathematical nature of that function, The pasition taken in this work is\nsimilar to that of Bandura (1978)—namely, that personal characteristics,\nenvironmental influences, and behavior all operate in reciprocal determination,\neach factor influencing the others in an interlocking fashion. The concept of\nreciprocally determined transactions between person and learning environ:\nment is central to the laboratory-training method of experiential learning.\nLearning in T-groups is seen to result not simply from responding to a fixed\nenvironment but fram the active creation by the learners of situations that meet\ntheir learning objectives:\n\nThe essence of this learning experience is a transactional process in which\nthe members negotiate as each allempts to influence ar control the stream of\nevents and to satisfy his personal needs. Individuals learn to the extent that fhey\nexpose their needs, values, and behavior patterns so that perceptions and\nreactions can be exchanged. Behavior thus becomes the currency for\ntransaction, The amount each invests helps fo determine the return. [Bradford,\n1964, p, 192)\n\nLearning in this sense is an active, self-directed process that can be applied not\nonly in the group setting but in everyday life.\n\nLearning Is the Process of Creating Knowledge\n\nTo understand learning, we must understand the nature and forms of human\nknowledge and the processes whereby this knowledge is created. It has already\nbeen emphasized that this process of creation occurs at all levels of\nsophistication, from the most advanced forms of scientific research to the\nchild’s discovery that a rubber ball bounces. Knowledge is the result of the\ntransaction between social knowledge and personal knowledge, The former, as\nDewey noted, is the civilized objective accumulation af previous human cultural\nexperience, whereas the latter is the accumulation af the individual person's",
+      "translationText": "비록 듀이는 경험의 객관적 조건과 주관적 조건 사이의 관계를  상호 작용으로 언급하지만, 그는 위의 인용의 마지막 부분에서 관계의 특별한 복잡성을 전달하기 위해 노력하고 있습니다.\n\n트랜잭션이라는 단어는 경험학습 이론에서 사람과 환경 사이의 관계를 설명하기 위해 상호 작용보다 더 적절합니다. 왜냐하면 상호 작용의 의미는 어떻게든 너무 기계적이며, 서로가 되는 변하지 않는 별개의 단체를 포함합니다.\n\n쌍둥이이지만 그들의 분리된 정체성을 유지합니다.\n\n그래서 듀이는 '내'라는 단어에 특별한 의미를 부여하려고 노력합니다.\n\n트랜잭션의 개념은 객관적 조건과 주관적 경험 사이의 더 유연하고 간투하는 관계를 암시합니다. 일단 관계가 되면 둘 다 본질적으로 변경됩니다. 레윈은 그의 유명한 이론적 공식, 8 = /(P,E에서 이 복잡성을 회피하기로 결정했음에도 불구하고 이 복잡성을 인식했습니다. 행동은 그 기능의 특정 수학적 성격에 대한 특별한 규명 없이 사람과 환경의 기능입니다. 이 작업에서 취한 열정은 밴두라의 것과 비슷합니다.\n\n(1978) 즉, 개인적 특성, 환경적 영향, 그리고 행동 모두 상호 결정적으로 작용하고, 각 요인은 다른 요인에 상호 연결된 방식으로 영향을 미칩니다.\n\n사람과 학습 환경 사이의 상호 결정된 거래의 개념은 체험 학습의 실험실 교육 방법의 중심이다.\n\nT-그룹에서의 학습은 단순히 고정된 환경에 대응하는 것이 아니라 학습자의 학습 목표를 충족시키는 상황을 적극적으로 만드는 결과로 볼 수 있습니다. 이 학습 경험의 본질은 구성원들이 사건의 흐름에 영향을 미치거나 통제하고 자신의 개인적인 욕구를 충족시키기 위해 협상하는 거래 과정입니다.\n\n개인은 자신의 필요, 가치, 그리고 행동 패턴을 노출시켜서 인식과 반응이 교환될 수 있는 정도에 학습한다.\n\n따라서 행동은 거래의 화폐가 되고, 각자가 투자하는 금액은 수익을 결정하는 데 도움이 됩니다.\n\n[브래드포드, 1964 년, 192. 면.] 이 의미 에서 배우는 것 은 집단적 으로만 아니라 일상 생활 에서도 적용 될 수 있는 적극적, 자기 주도적 인 과정 이다.\n\n학습은 지식을 창조하는 과정입니다. 학습을 이해하기 위해서는 인간의 지식의 본질과 형태와 이러한 지식을 창조하는 과정을 이해해야 합니다.\n\n이 창조 과정이 과학 연구의 가장 진보된 형태에서부터 고무 공이 뛰는 것을 발견하는 어린이까지 모든 수준에서 이루어지는 것이라고 이미 강조되었습니다.\n\n지식은 사회적 지식과 개인적 지식 사이의 거래의 결과입니다. 첫 번째는, 디wey가 지적했듯이, 이전 인간의 문화적 경험의 문명화된 객관적 축적입니다.",
+      "status": "translated",
+      "sourceTextSha256": "45befd7a92d9ffabcccceeaf776332e545998662e297f46776174c704a00facc",
+      "segments": [
+        {
+          "source": "Although Dewey refers to the relationship between the objective and subjective conditions of experience as an “interaction,” he is struggling in the last portion of the quote above ta convey the special, complex nature of the relationship.",
+          "translation": "비록 듀이는 경험의 객관적 조건과 주관적 조건 사이의 관계를  상호 작용으로 언급하지만, 그는 위의 인용의 마지막 부분에서 관계의 특별한 복잡성을 전달하기 위해 노력하고 있습니다."
+        },
+        {
+          "source": "The word transaction ig more appropriate than interaction to describe the relationship between the person and the environment in experiential learning theory, because the connotation of interaction is somehow too mechanical, involving unchanging separate entities that become inter.",
+          "translation": "트랜잭션이라는 단어는 경험학습 이론에서 사람과 환경 사이의 관계를 설명하기 위해 상호 작용보다 더 적절합니다. 왜냐하면 상호 작용의 의미는 어떻게든 너무 기계적이며, 서로가 되는 변하지 않는 별개의 단체를 포함합니다."
+        },
+        {
+          "source": "twined but retain their separate identities.",
+          "translation": "쌍둥이이지만 그들의 분리된 정체성을 유지합니다."
+        },
+        {
+          "source": "This is why Dewey attempts to give special meaning to the word in.",
+          "translation": "그래서 듀이는 '내'라는 단어에 특별한 의미를 부여하려고 노력합니다."
+        },
+        {
+          "source": "The concept of transaction implies a more fluid, interpenetrating relationship between abjective conditions and subjective experience, such that once they become related, both are essentially changed, Lewin recognized this complexity, even though he chose to sidestep it in his famous theoretical formulation, 8 = /(P,E), incicating that behavior is a function of the person and the environment without any specification as to the specific mathematical nature of that function, The pasition taken in this work is similar to that of Bandura",
+          "translation": "트랜잭션의 개념은 객관적 조건과 주관적 경험 사이의 더 유연하고 간투하는 관계를 암시합니다. 일단 관계가 되면 둘 다 본질적으로 변경됩니다. 레윈은 그의 유명한 이론적 공식, 8 = /(P,E에서 이 복잡성을 회피하기로 결정했음에도 불구하고 이 복잡성을 인식했습니다. 행동은 그 기능의 특정 수학적 성격에 대한 특별한 규명 없이 사람과 환경의 기능입니다. 이 작업에서 취한 열정은 밴두라의 것과 비슷합니다."
+        },
+        {
+          "source": "(1978)—namely, that personal characteristics, environmental influences, and behavior all operate in reciprocal determination, each factor influencing the others in an interlocking fashion.",
+          "translation": "(1978) 즉, 개인적 특성, 환경적 영향, 그리고 행동 모두 상호 결정적으로 작용하고, 각 요인은 다른 요인에 상호 연결된 방식으로 영향을 미칩니다."
+        },
+        {
+          "source": "The concept of reciprocally determined transactions between person and learning environ: ment is central to the laboratory-training method of experiential learning.",
+          "translation": "사람과 학습 환경 사이의 상호 결정된 거래의 개념은 체험 학습의 실험실 교육 방법의 중심이다."
+        },
+        {
+          "source": "Learning in T-groups is seen to result not simply from responding to a fixed environment but fram the active creation by the learners of situations that meet their learning objectives: The essence of this learning experience is a transactional process in which the members negotiate as each allempts to influence ar control the stream of events and to satisfy his personal needs.",
+          "translation": "T-그룹에서의 학습은 단순히 고정된 환경에 대응하는 것이 아니라 학습자의 학습 목표를 충족시키는 상황을 적극적으로 만드는 결과로 볼 수 있습니다. 이 학습 경험의 본질은 구성원들이 사건의 흐름에 영향을 미치거나 통제하고 자신의 개인적인 욕구를 충족시키기 위해 협상하는 거래 과정입니다."
+        },
+        {
+          "source": "Individuals learn to the extent that fhey expose their needs, values, and behavior patterns so that perceptions and reactions can be exchanged.",
+          "translation": "개인은 자신의 필요, 가치, 그리고 행동 패턴을 노출시켜서 인식과 반응이 교환될 수 있는 정도에 학습한다."
+        },
+        {
+          "source": "Behavior thus becomes the currency for transaction, The amount each invests helps fo determine the return.",
+          "translation": "따라서 행동은 거래의 화폐가 되고, 각자가 투자하는 금액은 수익을 결정하는 데 도움이 됩니다."
+        },
+        {
+          "source": "[Bradford, 1964, p, 192) Learning in this sense is an active, self-directed process that can be applied not only in the group setting but in everyday life.",
+          "translation": "[브래드포드, 1964 년, 192. 면.] 이 의미 에서 배우는 것 은 집단적 으로만 아니라 일상 생활 에서도 적용 될 수 있는 적극적, 자기 주도적 인 과정 이다."
+        },
+        {
+          "source": "Learning Is the Process of Creating Knowledge To understand learning, we must understand the nature and forms of human knowledge and the processes whereby this knowledge is created.",
+          "translation": "학습은 지식을 창조하는 과정입니다. 학습을 이해하기 위해서는 인간의 지식의 본질과 형태와 이러한 지식을 창조하는 과정을 이해해야 합니다."
+        },
+        {
+          "source": "It has already been emphasized that this process of creation occurs at all levels of sophistication, from the most advanced forms of scientific research to the child’s discovery that a rubber ball bounces.",
+          "translation": "이 창조 과정이 과학 연구의 가장 진보된 형태에서부터 고무 공이 뛰는 것을 발견하는 어린이까지 모든 수준에서 이루어지는 것이라고 이미 강조되었습니다."
+        },
+        {
+          "source": "Knowledge is the result of the transaction between social knowledge and personal knowledge, The former, as Dewey noted, is the civilized objective accumulation af previous human cultural experience, whereas the latter is the accumulation af the individual person's",
+          "translation": "지식은 사회적 지식과 개인적 지식 사이의 거래의 결과입니다. 첫 번째는, 디wey가 지적했듯이, 이전 인간의 문화적 경험의 문명화된 객관적 축적입니다."
+        }
+      ],
+      "textQuality": "ocr",
+      "ocrImageRotationClockwise": 90
+    },
+    {
+      "page": 20,
+      "sourceText": "The Process of Experiential Learning a7\n\nsubjective lie experiences. Knowledge results fram the transaction between\nthese objective and subjective experiences in a process called learning. Hence,\nto understand knowledge, we must understand the psychology of the learning\nprocess, and to understand learning, we must understand epistemology—the\norigins, nature, methods, and limits of knowledge. Piaget makes the following\ncomments on these last points:\n\nPsychology thus occupies a key position, and its implications become increasinaly)\nclear, The very simple reason for this is that if the sciences of nature explain the\nhuman species, humans in turn explain fhe sciences of nature, and it is up to\npsychology to show us how, Psychology, in fact, represents the junction of tia\napposite directions of scientific thought that are dialectically complementary. it\nfollows that the system af sciences cannot be orranged ina linear order, asmany\npeople beginning with Auguste Comte have affempted to arrange them. The form\nthat characterizes the system of sciences is that of acircle, or more precisely that\nof a spiral! as it becomes ever larger, In fact, objects are known only through the\nsubject, while the subject can know Aimself or herself anly by acting on abjects\nmaterially and mentally. Indeed, if objects are fnnumerable and science\nindefinitely diverse, all knowledge of the subject brings us back to psychology, the\nscience of the subject and the subjecr's actions.\n\n... (tis impossible to dissociate psychology from epistemology... hou is\nknowledge acquired, how does it increase, and haw does it became organized ar\nreorganized? .,. The answers we find, and from which we can only choose by\nmore or less refining them, are necessarily of the follawing three types: Either\nknowledge comes exclusively from the object, or it is constructed by the subject\nalone, or it results from multiple interactions between fhe subject and the abject—\nbuf what interactions and in what form? Indeed, we see at once that these are\nepistemological solutions stemming fram empiricism, apriorism, or diverse\ninferactionism. ... [Piaget, 1978, p. 651]\n\nIt is surprising that few learning and cognitive researchers other than\nPiaget have recognized the intimate relationship between learning and\nknowledge and hence recognized the need for epistemological as well as\npsychological inquiry into these related processes. In my own research and\npractice with experiential learning, [have been impressed with the very practical\nramifications of the epistemological perspective. In teaching, for example, |\nhave found it essential to take into account the nature of the subject matter in\ndeciding how to helpstudents learn the material at hand. Trying to develop skills\nin empathic listening is a different educational task, requiring a different\nteaching approach from that of teaching fundamentals of statistics. Similarly, in\nconsulting work with orqanizations, | have often seen barriers to cormmunica:\ntion and problem solving that at root are epistemologically based—that ts,\nbased on conflicting assumptions about the nature of knowledge and truth.\n\nThe theory of experiential learning provides a perspective fram which to\napproach these practical problems, suggesting a typology of different\nknowledge systems that results from the way the dialectic conflicts between\nadaptive modes of concrete experience and abstract conceptualization and the",
+      "translationText": "경험학습 과정 a7 주관적 거짓말 경험\n\n지식 결과는 학습이라고 불리는 과정에서 이러한 객관적 경험과 주관적 경험 사이의 거래를 구성합니다.\n\n따라서 지식을 이해하기 위해서는 학습 과정의 심리학을 이해해야 하며, 학습을 이해하기 위해서는 지식의 기원, 자연, 방법 및 한계를 이해해야 합니다.\n\n피아게는 이 마지막 점에 대해 다음과 같은 언급을 한다: 심리학은 따라서 핵심적인 위치를 차지하고, 그 영향은 매우 명확해집니다. 이 매우 간단한 이유는 자연 과학이 인간 종을 설명한다면, 인간은 자연 과학을 설명하고 있으며, 심리학은 실제로 어떻게, 심리학은 사실, 학문적으로 보완되는 과학적 사고의 각 방향의 교류를 나타냅니다.\n\n따라서 과학 체계는 선형적 순서로 정리될 수 없다는 것은 Auguste Comte를 시작으로 많은 사람들이 그것을 정리하기 위해 노력했기 때문입니다.\n\n과학의 시스템을 특징으로 하는 형태는 원형 또는 더 정확하게는 나선형입니다! 그것은 점점 더 커지면서 사실, 객체는 주체에 의해서만 알려져 있습니다. 주체는 물질적으로나 정신적으로 주체에 대해 행동함으로써만 자신을 알 수 있습니다.\n\n사실, 물체가 수없이 많고 과학은 무한히 다양하다면, 그 주제에 대한 모든 지식은 심리학, 그 주제의 과학과 그 주체의 행동으로 돌아가게 합니다.\n\n... (심리학과 인식론을 분리하는 것은 불가능하다... 지식은 어떻게 습득되고, 어떻게 증가하고, 어떻게 조직되고 재조직되는가?\n\n.\n\n,.\n\n우리가 찾을 수 있는 답, 그리고 우리가 더 이상 또는 덜 정밀화함으로써 선택할 수 있는 답은 반드시 다음 세 가지 유형에 속한다: 지식은 객체에서만 나온다, 또는 그것은 주체에 의해서만 만들어집니다, 또는 이것은 주체와 주체 사이의 여러 상호작용에서 발생합니다.\n\n사실, 우리는 바로 이것이 프레임 경험주의, apriorism, 또는 다양한 과잉행동주의에서 비롯된 인식학적 해결책이라는 것을 볼 수 있습니다.\n\n... [피아게 1978, 651] 피아게트 이외의 학습과 인지 연구자들이 학습과 지식의 밀접한 관계를 인식하고 따라서 이러한 관련 과정에 대한 인식학적뿐만 아니라 심리적 조사의 필요성을 인식한 것은 놀랍습니다.\n\n경험학습에 대한 제 자신의 연구와 연습에서, [지식학적 관점의 매우 실용적인 파급효과에 감탄되었습니다.\n\n예를 들어, 교수분야에서, 학생들이 학습할 수 있도록 하는 방법을 결정하는 데 있어서 주체의 본질을 고려하는 것이 중요하다고 생각합니다.\n\n공감적인 청취 능력을 키우려는 노력은 다른 교육적 과제이며, 통계학의 기초를 가르치는 것과는 다른 교육적 접근이 필요합니다.\n\n이와 마찬가지로, 조직들과의 컨설팅 작업에서, 사람들은 종종 지식과 진실의 본질에 대한 모순된 가정에 기초하여 근본적으로 인식학적 기반을 둔 코르미니커스 및 문제 해결의 장벽을 보았습니다.\n\n경험학습 이론은 이러한 실제적 문제에 접근할 관점을 제공한다. 이 이론은 구체적 경험과 추상적 개념화라는 적응 양식 사이의 변증법적 갈등 및 …이 이루어지는 방식에 따라 생겨나는 서로 다른 지식체계의 유형론을 제시한다. [원문은 ‘and the’에서 다음 구절로 이어짐. 원문 OCR 표기: ‘fram’]",
+      "status": "translated",
+      "sourceTextSha256": "ed1d02afaeda579c590ea324763192a34d54d66191f8e2f681eac0ebbc156133",
+      "segments": [
+        {
+          "source": "The Process of Experiential Learning a7 subjective lie experiences.",
+          "translation": "경험학습 과정 a7 주관적 거짓말 경험"
+        },
+        {
+          "source": "Knowledge results fram the transaction between these objective and subjective experiences in a process called learning.",
+          "translation": "지식 결과는 학습이라고 불리는 과정에서 이러한 객관적 경험과 주관적 경험 사이의 거래를 구성합니다."
+        },
+        {
+          "source": "Hence, to understand knowledge, we must understand the psychology of the learning process, and to understand learning, we must understand epistemology—the origins, nature, methods, and limits of knowledge.",
+          "translation": "따라서 지식을 이해하기 위해서는 학습 과정의 심리학을 이해해야 하며, 학습을 이해하기 위해서는 지식의 기원, 자연, 방법 및 한계를 이해해야 합니다."
+        },
+        {
+          "source": "Piaget makes the following comments on these last points: Psychology thus occupies a key position, and its implications become increasinaly) clear, The very simple reason for this is that if the sciences of nature explain the human species, humans in turn explain fhe sciences of nature, and it is up to psychology to show us how, Psychology, in fact, represents the junction of tia apposite directions of scientific thought that are dialectically complementary.",
+          "translation": "피아게는 이 마지막 점에 대해 다음과 같은 언급을 한다: 심리학은 따라서 핵심적인 위치를 차지하고, 그 영향은 매우 명확해집니다. 이 매우 간단한 이유는 자연 과학이 인간 종을 설명한다면, 인간은 자연 과학을 설명하고 있으며, 심리학은 실제로 어떻게, 심리학은 사실, 학문적으로 보완되는 과학적 사고의 각 방향의 교류를 나타냅니다."
+        },
+        {
+          "source": "it follows that the system af sciences cannot be orranged ina linear order, asmany people beginning with Auguste Comte have affempted to arrange them.",
+          "translation": "따라서 과학 체계는 선형적 순서로 정리될 수 없다는 것은 Auguste Comte를 시작으로 많은 사람들이 그것을 정리하기 위해 노력했기 때문입니다."
+        },
+        {
+          "source": "The form that characterizes the system of sciences is that of acircle, or more precisely that of a spiral! as it becomes ever larger, In fact, objects are known only through the subject, while the subject can know Aimself or herself anly by acting on abjects materially and mentally.",
+          "translation": "과학의 시스템을 특징으로 하는 형태는 원형 또는 더 정확하게는 나선형입니다! 그것은 점점 더 커지면서 사실, 객체는 주체에 의해서만 알려져 있습니다. 주체는 물질적으로나 정신적으로 주체에 대해 행동함으로써만 자신을 알 수 있습니다."
+        },
+        {
+          "source": "Indeed, if objects are fnnumerable and science indefinitely diverse, all knowledge of the subject brings us back to psychology, the science of the subject and the subjecr's actions.",
+          "translation": "사실, 물체가 수없이 많고 과학은 무한히 다양하다면, 그 주제에 대한 모든 지식은 심리학, 그 주제의 과학과 그 주체의 행동으로 돌아가게 합니다."
+        },
+        {
+          "source": "... (tis impossible to dissociate psychology from epistemology... hou is knowledge acquired, how does it increase, and haw does it became organized ar reorganized?",
+          "translation": "... (심리학과 인식론을 분리하는 것은 불가능하다... 지식은 어떻게 습득되고, 어떻게 증가하고, 어떻게 조직되고 재조직되는가?"
+        },
+        {
+          "source": ".",
+          "translation": "."
+        },
+        {
+          "source": ",.",
+          "translation": ",."
+        },
+        {
+          "source": "The answers we find, and from which we can only choose by more or less refining them, are necessarily of the follawing three types: Either knowledge comes exclusively from the object, or it is constructed by the subject alone, or it results from multiple interactions between fhe subject and the abject— buf what interactions and in what form?",
+          "translation": "우리가 찾을 수 있는 답, 그리고 우리가 더 이상 또는 덜 정밀화함으로써 선택할 수 있는 답은 반드시 다음 세 가지 유형에 속한다: 지식은 객체에서만 나온다, 또는 그것은 주체에 의해서만 만들어집니다, 또는 이것은 주체와 주체 사이의 여러 상호작용에서 발생합니다."
+        },
+        {
+          "source": "Indeed, we see at once that these are epistemological solutions stemming fram empiricism, apriorism, or diverse inferactionism.",
+          "translation": "사실, 우리는 바로 이것이 프레임 경험주의, apriorism, 또는 다양한 과잉행동주의에서 비롯된 인식학적 해결책이라는 것을 볼 수 있습니다."
+        },
+        {
+          "source": "... [Piaget, 1978, p. 651] It is surprising that few learning and cognitive researchers other than Piaget have recognized the intimate relationship between learning and knowledge and hence recognized the need for epistemological as well as psychological inquiry into these related processes.",
+          "translation": "... [피아게 1978, 651] 피아게트 이외의 학습과 인지 연구자들이 학습과 지식의 밀접한 관계를 인식하고 따라서 이러한 관련 과정에 대한 인식학적뿐만 아니라 심리적 조사의 필요성을 인식한 것은 놀랍습니다."
+        },
+        {
+          "source": "In my own research and practice with experiential learning, [have been impressed with the very practical ramifications of the epistemological perspective.",
+          "translation": "경험학습에 대한 제 자신의 연구와 연습에서, [지식학적 관점의 매우 실용적인 파급효과에 감탄되었습니다."
+        },
+        {
+          "source": "In teaching, for example, | have found it essential to take into account the nature of the subject matter in deciding how to helpstudents learn the material at hand.",
+          "translation": "예를 들어, 교수분야에서, 학생들이 학습할 수 있도록 하는 방법을 결정하는 데 있어서 주체의 본질을 고려하는 것이 중요하다고 생각합니다."
+        },
+        {
+          "source": "Trying to develop skills in empathic listening is a different educational task, requiring a different teaching approach from that of teaching fundamentals of statistics.",
+          "translation": "공감적인 청취 능력을 키우려는 노력은 다른 교육적 과제이며, 통계학의 기초를 가르치는 것과는 다른 교육적 접근이 필요합니다."
+        },
+        {
+          "source": "Similarly, in consulting work with orqanizations, | have often seen barriers to cormmunica: tion and problem solving that at root are epistemologically based—that ts, based on conflicting assumptions about the nature of knowledge and truth.",
+          "translation": "이와 마찬가지로, 조직들과의 컨설팅 작업에서, 사람들은 종종 지식과 진실의 본질에 대한 모순된 가정에 기초하여 근본적으로 인식학적 기반을 둔 코르미니커스 및 문제 해결의 장벽을 보았습니다."
+        },
+        {
+          "source": "The theory of experiential learning provides a perspective fram which to approach these practical problems, suggesting a typology of different knowledge systems that results from the way the dialectic conflicts between adaptive modes of concrete experience and abstract conceptualization and the",
+          "translation": "경험학습 이론은 이러한 실제적 문제에 접근할 관점을 제공한다. 이 이론은 구체적 경험과 추상적 개념화라는 적응 양식 사이의 변증법적 갈등 및 …이 이루어지는 방식에 따라 생겨나는 서로 다른 지식체계의 유형론을 제시한다. [원문은 ‘and the’에서 다음 구절로 이어짐. 원문 OCR 표기: ‘fram’]",
+          "reviewed": true
+        }
+      ],
+      "textQuality": "ocr",
+      "ocrImageRotationClockwise": 90
+    },
+    {
+      "page": 21,
+      "sourceText": "38 The Pracess of Experiential Learning\n\nmodes of active experimentation and reflective observation are characterist:\ncally resolved in different Gelds of inquiry (compare Chapter 5). This approach\ndraws on the work of Stephen Pepper (1942, 1964), who proposes a system for\ndescribing the different viable forms of social knowledge. This system is based\non what Pepper calls world hypotheses. World hypotheses correspond to\nmetaphysical systems that define assumptions and rules for the development of\nrefined knowledge from common sense, Pepper maintains that all knowledge\nsystems are refinements of common sense based on different assumptions\nabout the nature of knowledge and truth. In this process of refinement he seesa\nbasic dilemma. Although common sense is always applicable as a means of\nexplaining an experience, it tends ta be imprecise. Refined knowledge, on the\nother hand, is precise but limited in its application or generalizability because it\nis based on assumptions or world hypotheses. Thus, common sense requires\nthe criticism of refined knowledge, and refined knowledge requires the security\naf common sense, suggesting that all social knowledge requires an attitude of\npartial skepticism in its interpretation.\n\nSUMMARY: A DEFINITION OF LEARNING\n\nEven though definitions have a way of making things seem more certain than\nthey are, it may be useful tosummarize this chapter on the characteristics of the\nexperiential learning process by offering a working detinition af learning.4\nLearning is the process whereby Knowledge is created through the\ntransformation of experience. This definition emphasizes several critical\naspects of the learning pracess as viewed frorn the experiential perspective,\nFirst is the emphasis on the process of adaptation and learning as opposed to\ncontent or outcomes. Second is that knowledge is a transformation process,\nbeing continuously created and recreated, not an independent entity ta be\nacquired or transmitted. Third, learning transforms experience in both its\nabjective and subjective forms. Finally, to” understand learning, we must\nanderstand the nature of knowledge, and vice versa,\n\nFrom this paint on, ] will drop the modifier “experiential” in referring ta the learning process\ndescribed in this chapter, When other theories af le artting are discussed. they will he identifiod ae\npre",
+      "translationText": "38 경험학습의 과정: 능동적 실험과 성찰적 관찰이라는 양식 사이의 갈등이 각 탐구 분야에서 특징적인 방식으로 해결되는 데서 비롯된다(5장 참조).\n\n이 접근법은 스티븐 페퍼 (1942, 1964) 의 작업에 기초하여 사회 지식의 다양한 실행 가능한 형태를 설명하는 시스템을 제안합니다.\n\n이 시스템은 페퍼가 세계 가설이라고 부르는 것에 기반을 두고 있습니다.\n\n세계 가설은 상식에서 정교한 지식의 발전을 위한 가설과 규칙을 정의하는 형이상학적 시스템에 해당하며, 페퍼는 모든 지식 시스템은 지식과 진리의 본질에 대한 다른 가설에 기초한 상식의 정교화라고 주장한다.\n\n이러한 정밀화 과정에서 그는 기본적인 딜레마를 보았다.\n\n상식적 인 것은 항상 경험을 설명하는 수단으로 적용되지만 정확하지 않은 경향이 있습니다.\n\n반면에 정교한 지식은 정확하지만 가정이나 세계 가설에 기반하기 때문에 응용이나 일반화 가능성은 제한적입니다.\n\n따라서 상식에는 정교한 지식에 대한 비판이 필요하고, 정교한 지식이 상식에 대한 안전이 필요하며, 모든 사회적 지식은 해석에 있어서 부분적인 회의주의의 태도를 요구한다는 것을 암시한다.\n\n요약: 학습의 정의 비록 정의는 사실보다 더 확실하게 보이는 방법을 가지고 있지만, 경험학습 과정의 특성에 관한 이 장을 요약하여 학습의 작업적 방지를 제시하는 것이 유용할 수 있다.4\n\n학습은 경험의 전환을 통해 지식이 만들어지는 과정입니다.\n\n이 정의는 경험적 관점에서 볼 때 학습 과정의 여러 중요한 측면을 강조합니다. 첫째는 내용이나 결과에 비해 적응과 학습 과정에 대한 강조입니다.\n\n둘째, 지식은 끊임없이 창조되고 재창조되는 변화 과정이며, 취득되거나 전달되는 독립적인 존재가 아닙니다.\n\n셋째, 학습은 경험의 객관적이고 주관적인 양상을 모두 변화시킵니다.\n\n마지막으로, 학습을 이해하려면, 우리는 지식의 본질을 이해해야 하며, 반대로, 이 그림에서, ]이 다른 이론에 대해 논의 할 때, 이 장에서 설명 된 학습 과정을 참조하는 데에서 변형  경험적 을 떨어뜨릴 것입니다.\n\n그들은 그 전에 자신을 확인 할 것입니다",
+      "status": "translated",
+      "sourceTextSha256": "7c4e92fbc14d953ec0f0d4e3b4de0b9cf51dd8a2fd9d2f205129dd9f9d036efb",
+      "segments": [
+        {
+          "source": "38 The Pracess of Experiential Learning modes of active experimentation and reflective observation are characterist: cally resolved in different Gelds of inquiry (compare Chapter 5).",
+          "translation": "38 경험학습의 과정: 능동적 실험과 성찰적 관찰이라는 양식 사이의 갈등이 각 탐구 분야에서 특징적인 방식으로 해결되는 데서 비롯된다(5장 참조).",
+          "reviewed": true
+        },
+        {
+          "source": "This approach draws on the work of Stephen Pepper (1942, 1964), who proposes a system for describing the different viable forms of social knowledge.",
+          "translation": "이 접근법은 스티븐 페퍼 (1942, 1964) 의 작업에 기초하여 사회 지식의 다양한 실행 가능한 형태를 설명하는 시스템을 제안합니다."
+        },
+        {
+          "source": "This system is based on what Pepper calls world hypotheses.",
+          "translation": "이 시스템은 페퍼가 세계 가설이라고 부르는 것에 기반을 두고 있습니다."
+        },
+        {
+          "source": "World hypotheses correspond to metaphysical systems that define assumptions and rules for the development of refined knowledge from common sense, Pepper maintains that all knowledge systems are refinements of common sense based on different assumptions about the nature of knowledge and truth.",
+          "translation": "세계 가설은 상식에서 정교한 지식의 발전을 위한 가설과 규칙을 정의하는 형이상학적 시스템에 해당하며, 페퍼는 모든 지식 시스템은 지식과 진리의 본질에 대한 다른 가설에 기초한 상식의 정교화라고 주장한다."
+        },
+        {
+          "source": "In this process of refinement he seesa basic dilemma.",
+          "translation": "이러한 정밀화 과정에서 그는 기본적인 딜레마를 보았다."
+        },
+        {
+          "source": "Although common sense is always applicable as a means of explaining an experience, it tends ta be imprecise.",
+          "translation": "상식적 인 것은 항상 경험을 설명하는 수단으로 적용되지만 정확하지 않은 경향이 있습니다."
+        },
+        {
+          "source": "Refined knowledge, on the other hand, is precise but limited in its application or generalizability because it is based on assumptions or world hypotheses.",
+          "translation": "반면에 정교한 지식은 정확하지만 가정이나 세계 가설에 기반하기 때문에 응용이나 일반화 가능성은 제한적입니다."
+        },
+        {
+          "source": "Thus, common sense requires the criticism of refined knowledge, and refined knowledge requires the security af common sense, suggesting that all social knowledge requires an attitude of partial skepticism in its interpretation.",
+          "translation": "따라서 상식에는 정교한 지식에 대한 비판이 필요하고, 정교한 지식이 상식에 대한 안전이 필요하며, 모든 사회적 지식은 해석에 있어서 부분적인 회의주의의 태도를 요구한다는 것을 암시한다."
+        },
+        {
+          "source": "SUMMARY: A DEFINITION OF LEARNING Even though definitions have a way of making things seem more certain than they are, it may be useful tosummarize this chapter on the characteristics of the experiential learning process by offering a working detinition af learning.4",
+          "translation": "요약: 학습의 정의 비록 정의는 사실보다 더 확실하게 보이는 방법을 가지고 있지만, 경험학습 과정의 특성에 관한 이 장을 요약하여 학습의 작업적 방지를 제시하는 것이 유용할 수 있다.4"
+        },
+        {
+          "source": "Learning is the process whereby Knowledge is created through the transformation of experience.",
+          "translation": "학습은 경험의 전환을 통해 지식이 만들어지는 과정입니다."
+        },
+        {
+          "source": "This definition emphasizes several critical aspects of the learning pracess as viewed frorn the experiential perspective, First is the emphasis on the process of adaptation and learning as opposed to content or outcomes.",
+          "translation": "이 정의는 경험적 관점에서 볼 때 학습 과정의 여러 중요한 측면을 강조합니다. 첫째는 내용이나 결과에 비해 적응과 학습 과정에 대한 강조입니다."
+        },
+        {
+          "source": "Second is that knowledge is a transformation process, being continuously created and recreated, not an independent entity ta be acquired or transmitted.",
+          "translation": "둘째, 지식은 끊임없이 창조되고 재창조되는 변화 과정이며, 취득되거나 전달되는 독립적인 존재가 아닙니다."
+        },
+        {
+          "source": "Third, learning transforms experience in both its abjective and subjective forms.",
+          "translation": "셋째, 학습은 경험의 객관적이고 주관적인 양상을 모두 변화시킵니다."
+        },
+        {
+          "source": "Finally, to” understand learning, we must anderstand the nature of knowledge, and vice versa, From this paint on, ] will drop the modifier “experiential” in referring ta the learning process described in this chapter, When other theories af le artting are discussed.",
+          "translation": "마지막으로, 학습을 이해하려면, 우리는 지식의 본질을 이해해야 하며, 반대로, 이 그림에서, ]이 다른 이론에 대해 논의 할 때, 이 장에서 설명 된 학습 과정을 참조하는 데에서 변형  경험적 을 떨어뜨릴 것입니다."
+        },
+        {
+          "source": "they will he identifiod ae pre",
+          "translation": "그들은 그 전에 자신을 확인 할 것입니다"
+        }
+      ],
+      "printed": "38",
+      "textQuality": "ocr",
+      "ocrImageRotationClockwise": 90
+    }
+  ]
+}

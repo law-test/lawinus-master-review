@@ -1,0 +1,6 @@
+.pdf-zoom-control{display:flex;align-items:center;gap:3px;flex:0 0 auto;white-space:nowrap;font-size:14px}
+.review-app .pdf-zoom-control button{min-height:36px;min-width:32px;padding:4px 7px;font-size:16px}
+.review-app .pdf-zoom-control select{min-height:36px;padding:4px 5px;font-size:14px;max-width:112px;cursor:pointer}
+.pdf-zoom-control>span{font-variant-numeric:tabular-nums;font-size:13px;min-width:38px;text-align:center;color:#64575e}
+.pdf-quick-controls .pdf-zoom-control{flex-wrap:wrap;white-space:normal;justify-content:space-between}
+.review-app .pdf-quick-controls .pdf-zoom-control select{min-height:44px;font:inherit;max-width:130px;flex:1}
