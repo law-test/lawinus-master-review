@@ -1,6 +1,7 @@
 import React,{useEffect,useState} from 'react';
 import {citationPurpose,type CitationData,type CitationPurposes} from './citation-model';
 import {readingStatus,validRevisions,type ReadingUpdates,type ReviewRecords,type RevisionRecord} from './review-records-model';
+import {REVIEW_RECOMMENDATIONS_ENABLED} from './presentation-mode';
 import rawRecords from './review-records.json';
 import rawUpdates from './reading-updates.json';
 import rawCitations from './citation-data.json';
@@ -14,7 +15,7 @@ export const reviewRecords=rawRecords as ReviewRecords,readingUpdates=rawUpdates
 const citations=rawCitations as CitationData,purposes=rawPurposes as CitationPurposes;
 export function ReadingStatus({referenceId}:{referenceId:string}){
  const status=readingStatus(referenceId,reviewRecords,readingUpdates,citations.meta.pdfSha256);
- return <details className="reading-status"><summary><span className={status.complete?'reading-complete':'reading-pending'}>{status.label}</span></summary><p>{status.scope}</p>{!status.update&&<p className="review-disclaimer">이전 검토의 독해 범위입니다. 새 기록에서 자료의 종류와 확인 범위를 구분합니다.</p>}{status.update?.previousVerified&&<p className="review-disclaimer">이전 확인 기록을 승계했습니다. 이번에 새로 전권을 읽었다는 뜻은 아닙니다.</p>}{status.update&&status.update.totalPages>0&&<p className="review-disclaimer">아래 쪽수는 독해한 원문 기준이며, 화면의 발췌 PDF 쪽수와 다를 수 있습니다.</p>}{status.finding&&<p>{status.finding}</p>}{status.update?.findings.map((finding,index)=><div className="reading-finding" key={index}><b>{finding.action==='retain'?'유지':finding.action==='revise'?'수정 검토':'추가 확인'}{finding.pdfPages.length?` · 독해한 원문 PDF ${finding.pdfPages.join(', ')}쪽`:''}{finding.printedPages?` · 인쇄 ${finding.printedPages}쪽`:''}</b><p>{finding.issue}</p><p>{finding.rationale}</p>{finding.proposedText&&<blockquote>{finding.proposedText}</blockquote>}</div>)}</details>;
+ return <details className="reading-status"><summary><span className={status.complete?'reading-complete':'reading-pending'}>{status.label}</span></summary><p>{status.scope}</p>{!status.update&&<p className="review-disclaimer">이전 검토의 독해 범위입니다. 새 기록에서 자료의 종류와 확인 범위를 구분합니다.</p>}{status.update?.previousVerified&&<p className="review-disclaimer">이전 확인 기록을 승계했습니다. 이번에 새로 전권을 읽었다는 뜻은 아닙니다.</p>}{status.update&&status.update.totalPages>0&&<p className="review-disclaimer">아래 쪽수는 독해한 원문 기준이며, 화면의 발췌 PDF 쪽수와 다를 수 있습니다.</p>}{REVIEW_RECOMMENDATIONS_ENABLED&&status.finding&&<p>{status.finding}</p>}{REVIEW_RECOMMENDATIONS_ENABLED&&status.update?.findings.map((finding,index)=><div className="reading-finding" key={index}><b>{finding.action==='retain'?'유지':finding.action==='revise'?'수정 검토':'추가 확인'}{finding.pdfPages.length?` · 독해한 원문 PDF ${finding.pdfPages.join(', ')}쪽`:''}{finding.printedPages?` · 인쇄 ${finding.printedPages}쪽`:''}</b><p>{finding.issue}</p><p>{finding.rationale}</p>{finding.proposedText&&<blockquote>{finding.proposedText}</blockquote>}</div>)}</details>;
 }
 export function RevisionDetail({record,onThesis,onCitation,onMemo,current,onSaved,onDraftMemo}:{record:RevisionRecord;onThesis:(page:number)=>void;onCitation?:(id:string,page:number)=>void;onMemo?:(record:RevisionRecord)=>void;current?:SharedEdit;onSaved?:(edit:SharedEdit)=>void;onDraftMemo?:(draft:string,page:number)=>void}){
  const [copyStatus,setCopyStatus]=useState('');

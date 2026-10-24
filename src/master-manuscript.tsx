@@ -1,6 +1,7 @@
 import React,{useEffect,useRef,useState} from 'react';
 import {manuscriptParagraphs,citationTextParts,type ManuscriptParagraph} from './master-manuscript-model';
 import type {SharedEdit} from './master-shared-edits';
+import {REVIEW_RECOMMENDATIONS_ENABLED} from './presentation-mode';
 import rawRecords from './review-records.json';
 import {useBodyReadingPosition} from './master-body-reading-hook';
 import './master-manuscript.css';
@@ -20,10 +21,10 @@ export default function MasterManuscript({page,zoom,selected='',overrides={},onP
    onPointerCancel={()=>{suppressClick.current=!!drag.current?.moved;drag.current=null;}} onLostPointerCapture={()=>{drag.current=null;}}
    onClickCapture={e=>{if(suppressClick.current){e.preventDefault();e.stopPropagation();suppressClick.current=false;}}}>
    {Array.from(groups).map(([n,items])=><section className="manuscript-page" key={n} data-manuscript-page={n}><div className="manuscript-page-label">PDF {n}쪽{items[0].printed?` · 본문 ${items[0].printed}쪽`:''}</div>
-    {items.map(p=>{const proposal=rawRecords.revisions.find(r=>r.id===p.id),text=overrides[p.id]?.text??p.text,changed=text!==p.text;return <div key={p.id} data-paragraph={p.id} className={'manuscript-paragraph'+(p.heading?' manuscript-heading':'')+(selected===p.id?' active':'')+(changed?' amended':'')+(proposal?' has-proposal':'')} role="button" tabIndex={0} title="클릭하면 수정안" aria-label={'문단 수정안 열기: '+text.slice(0,55)} onClick={()=>{if(window.getSelection()?.isCollapsed===false)return;onParagraph(p.id);}} onKeyDown={e=>{if(e.target===e.currentTarget&&(e.key==='Enter'||e.key===' ')){e.preventDefault();onParagraph(p.id);}}}>
+    {items.map(p=>{const proposal=REVIEW_RECOMMENDATIONS_ENABLED&&rawRecords.revisions.find(r=>r.id===p.id),text=overrides[p.id]?.text??p.text,changed=text!==p.text;return <div key={p.id} data-paragraph={p.id} className={'manuscript-paragraph'+(p.heading?' manuscript-heading':'')+(REVIEW_RECOMMENDATIONS_ENABLED&&selected===p.id?' active':'')+(REVIEW_RECOMMENDATIONS_ENABLED&&changed?' amended':'')+(proposal?' has-proposal':'')} role={REVIEW_RECOMMENDATIONS_ENABLED?"button":undefined} tabIndex={REVIEW_RECOMMENDATIONS_ENABLED?0:undefined} title={REVIEW_RECOMMENDATIONS_ENABLED?"클릭하면 수정안":undefined} aria-label={REVIEW_RECOMMENDATIONS_ENABLED?'문단 수정안 열기: '+text.slice(0,55):undefined} onClick={()=>{if(!REVIEW_RECOMMENDATIONS_ENABLED)return;if(window.getSelection()?.isCollapsed===false)return;onParagraph(p.id);}} onKeyDown={e=>{if(REVIEW_RECOMMENDATIONS_ENABLED&&e.target===e.currentTarget&&(e.key==='Enter'||e.key===' ')){e.preventDefault();onParagraph(p.id);}}}>
      {proposal&&<span className="master-proposal-label"><button onClick={e=>{e.stopPropagation();onParagraph(p.id);}}>수정제안 있음</button></span>}
      {text.trim()?citationTextParts(p,text).map((part,i)=>part.citationId?<button className="manuscript-citation-sentence" title="인용 취지와 원전 열기" key={i} onClick={e=>{e.stopPropagation();onCitation(part.citationId!,p.page);}}>{part.text}</button>:<React.Fragment key={i}>{part.text}</React.Fragment>):<span className="manuscript-deleted-label">현재 본문에서 삭제된 문단</span>}
-     {changed&&<span className="master-edited-label">공통 수정 반영 · 원본 인용 연결은 PDF에서 확인</span>}
+     {REVIEW_RECOMMENDATIONS_ENABLED&&changed&&<span className="master-edited-label">공통 수정 반영 · 원본 인용 연결은 PDF에서 확인</span>}
     </div>;})}
    </section>)}
   </div>

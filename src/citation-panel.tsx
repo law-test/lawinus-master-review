@@ -1,6 +1,7 @@
 import React,{useEffect,useMemo,useRef,useState} from 'react';
 import PdfPane from './pdf-viewer';
 import PaneResizer from './pane-resizer';
+import {REVIEW_RECOMMENDATIONS_ENABLED} from './presentation-mode';
 import {ReadingStatus,RevisionDetail,reviewRecords} from './revision-panel';
 import {revisionsForSelection,sameReviewThesis} from './review-records-model';
 import {assetUrl} from './review-api';
@@ -66,8 +67,8 @@ export default function CitationPanel({workspace,documentContent,metadataContent
   const [detailsOpen,setDetailsOpen]=useState(()=>{try{return localStorage.getItem('master-citation-details')!=='closed';}catch{return true;}});
   const [documentWidth,setDocumentWidth]=useState(58),[mobileView,setMobileView]=useState<'document'|'details'>('document');
   useEffect(()=>{try{localStorage.setItem('master-citation-details',detailsOpen?'open':'closed');}catch{}},[detailsOpen]);
-  const selectionRevisions=revisionsForSelection(citation,selected?.id,reviewRecords,citationData.meta.pdfSha256);
-  const selectionAssessments=sameReviewThesis(reviewRecords.meta.thesisSha256,citationData.meta.pdfSha256)?reviewRecords.assessments.filter(item=>item.referenceId===selected?.id&&(isBibliography||item.sentenceId===(citation.sentenceId||citation.id))):[];
+  const selectionRevisions=REVIEW_RECOMMENDATIONS_ENABLED?revisionsForSelection(citation,selected?.id,reviewRecords,citationData.meta.pdfSha256):[];
+  const selectionAssessments=REVIEW_RECOMMENDATIONS_ENABLED&&sameReviewThesis(reviewRecords.meta.thesisSha256,citationData.meta.pdfSha256)?reviewRecords.assessments.filter(item=>item.referenceId===selected?.id&&(isBibliography||item.sentenceId===(citation.sentenceId||citation.id))):[];
   return <div ref={layoutRef} className={'citation-panel citation-columns '+(workspace?'workspace-citation-layout ':'')+(detailsOpen?'details-open':'details-closed')+' mobile-citation-'+mobileView} style={{'--document-width':documentWidth+'%'} as React.CSSProperties} data-citation-id={citation.id}>
     {!workspace&&<div className="citation-layout-toolbar"><b>참고문헌 원전</b><div className="toolbar-spacer"/><button className={'citation-mobile-tab '+(mobileView==='document'?'selected':'')} aria-pressed={mobileView==='document'} onClick={()=>setMobileView('document')}>원문</button><button className={'citation-mobile-tab '+(mobileView==='details'?'selected':'')} aria-pressed={mobileView==='details'} onClick={()=>setMobileView('details')}>인용 상세{selectionRevisions.length?' · 수정안':''}</button><button className="citation-desktop-toggle" aria-expanded={detailsOpen} aria-controls="citation-details" onClick={()=>setDetailsOpen(!detailsOpen)}>{detailsOpen?'인용 상세 접기':'인용 상세 열기'}</button></div>}
     <section className={'citation-document-pane'+(workspace?' source-viewer-pane':'')} aria-label="참고문헌 원전 화면">
