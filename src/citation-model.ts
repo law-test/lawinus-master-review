@@ -20,6 +20,12 @@ export function citationDatasetMatches(meta:CitationData['meta'],pdfSha256:unkno
   return typeof pdfSha256==='string'&&/^[a-f0-9]{64}$/i.test(meta.pdfSha256)&&meta.pdfSha256.toLowerCase()===pdfSha256.toLowerCase()&&meta.pageCount===pageCount;
 }
 
+export function citationReaderReady(mode:'pdf'|'text',datasetMatches:boolean,pdfIntegrity:string,bodyDatasetMatches:boolean):boolean{
+  // The HTML body has its own source fingerprint. It must not depend on a PDF
+  // component being mounted first, while PDF geometry still requires byte verification.
+  return datasetMatches&&(mode==='text'?bodyDatasetMatches:pdfIntegrity==='verified');
+}
+
 function sentenceRegions(citation:CitationEntry):CitationRegion[]{
   return citation.sentenceRegions?.length?citation.sentenceRegions:citation.sentenceRects?.length?[{page:citation.page,rects:citation.sentenceRects}]:[];
 }

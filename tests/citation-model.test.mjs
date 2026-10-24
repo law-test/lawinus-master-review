@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import {test} from 'node:test';
 import {readFileSync} from 'node:fs';
-import {bibliographyPage,citationDatasetMatches,citationEvidenceForSelection,citationPurpose,citationSelectionHighlights,citationTargets,defaultCitationDocumentMode,evidenceLocatorLabel,referenceCitationUses,referenceLabel,referencePdf,referencesForCitation,resolveCitationSelection,sourcePageLabel,verifiedReferenceUrl} from '../src/citation-model.ts';
+import {bibliographyPage,citationDatasetMatches,citationReaderReady,citationEvidenceForSelection,citationPurpose,citationSelectionHighlights,citationTargets,defaultCitationDocumentMode,evidenceLocatorLabel,referenceCitationUses,referenceLabel,referencePdf,referencesForCitation,resolveCitationSelection,sourcePageLabel,verifiedReferenceUrl} from '../src/citation-model.ts';
 import {movedPointer,normalizedPoint,targetAt,targetLabel} from '../src/pdf-viewer-model.ts';
 
 const data=JSON.parse(readFileSync(new URL('../src/citation-data.json',import.meta.url),'utf8'));
@@ -231,4 +231,21 @@ test('reviewed Korean evidence and publisher full text expose their confirmed lo
     const result=citationEvidenceForSelection(citation,referenceId,referencePdf(reference,sources)?.source,evidence,data.meta.pdfSha256);
     assert.equal(result.status,status);assert.equal(new URL(result.webSources[0].url).hostname,host);assert.deepEqual(result.locators,[]);
   }
+});
+
+
+test('a restored text reader opens its citations before the PDF mounts, without weakening source matching',()=>{
+ const body=JSON.parse(readFileSync(new URL('../src/master-manuscript-data.json',import.meta.url),'utf8'));
+ const loadedMatches=citationDatasetMatches(data.meta,data.meta.pdfSha256,data.meta.pageCount);
+ const bodyMatches=citationDatasetMatches(data.meta,body.meta.thesisSha256,body.meta.pageCount);
+ assert.equal(citationReaderReady('text',loadedMatches,'checking',bodyMatches),true);
+ assert.equal(citationReaderReady('text',loadedMatches,'unavailable',bodyMatches),true);
+ const paragraph=body.paragraphs.find(p=>p.text.includes('Jarvis(2009)는 학습의 정의에 의미를 명시적으로 포함하여'));
+ assert.ok(paragraph?.citationIds.length);
+ assert.ok(paragraph.citationIds.some(id=>resolveCitationSelection(id,data.citations)?.referenceIds.includes('ref-053')));
+ assert.equal(citationReaderReady('text',false,'verified',true),false);
+ assert.equal(citationReaderReady('text',true,'verified',citationDatasetMatches(data.meta,'0'.repeat(64),body.meta.pageCount)),false);
+ assert.equal(citationReaderReady('text',true,'verified',citationDatasetMatches(data.meta,body.meta.thesisSha256,43)),false);
+ for(const status of ['checking','unavailable','mismatch'])assert.equal(citationReaderReady('pdf',true,status,true),false);
+ assert.equal(citationReaderReady('pdf',true,'verified',false),true);
 });
