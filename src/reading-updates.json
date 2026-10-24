@@ -1,7 +1,7 @@
 {
   "meta": {
     "thesisSha256": "92b73e8ad50829cd5df52b7b4e40addd8994499be051b663c0286a804938cd2d",
-    "reviewedAt": "2026-10-23"
+    "reviewedAt": "2026-10-24"
   },
   "entries": [
     {
@@ -989,22 +989,269 @@
     },
     {
       "referenceId": "ref-039",
-      "sourceSha256": "",
+      "sourceSha256": "4c321a3d9442a3afb597124a6c8be12ce61d7b195e2e7aa14cf4e5d28317db8d",
       "scopeKind": "chapter",
-      "scopeLabel": "전문 미확보. 공식 출판사 Summary와 공개 Introduction을 읽었으나 인쇄1–34쪽 인용장 전문은 확보하지 못함.",
+      "scopeLabel": "인용장 인쇄1–34쪽(공개뷰어18–51쪽) 본문·주·참고문헌 전문 독해. 도표1.1–1.5와 표1.1–1.2의 지면 추가대조. 편저서 전체를 읽은 것은 아님. 자료는 제3자 공개뷰어의 전사본이며 도표·주요 지면을 대조했다. 원문 PDF를 확보하거나 재게시한 것은 아니다.",
       "readRanges": [],
       "totalPages": 0,
       "wholeBookRead": false,
-      "citedUnitComplete": false,
+      "citedUnitComplete": true,
       "findings": [
         {
           "pdfPages": [],
-          "issue": "미확보 범위",
-          "rationale": "선택·최적화·보상이라는 적응 과정을 개인과 사회의 조건에 따라 설명한다. / 개인간 차이와 개인내 가소성을 논의하는 공개 도입부를 확인했다. 이것만으로 상세 전략·효과·전체장의 결론을 검증했다고 주장하지 않는다.",
-          "action": "verify"
+          "issue": "추가 원문 대조",
+          "rationale": "노화의 개인차·변화 가능성이라는 기존 요약은 지지된다. 다만 학습 가능성과 자원의 한계를 함께 다루며, 미래의 자기상도 이미 논의한다. 인쇄18–19쪽은 다중 자기와 바라는·가능한 자기상도 논의한다. 인쇄20–23쪽의 사회적 지원과 선택·최적화·보상을 함께 고려한다.",
+          "action": "revise"
         }
       ],
-      "sourceUrl": "https://www.cambridge.org/core/books/abs/successful-aging/psychological-perspectives-on-successful-aging-the-model-of-selective-optimization-with-compensation/EAE9389C90617AE014260735DFFCEF82"
+      "sourceUrl": "https://www.scribd.com/document/256705177/Paul-Baltes-Optimizacao-Compensacao#page=25",
+      "textCoverage": {
+        "format": "html",
+        "declaredScope": "full-text",
+        "expectedUnitIds": [
+          "printed-1",
+          "printed-2",
+          "printed-3",
+          "printed-4",
+          "printed-5",
+          "printed-6",
+          "printed-7",
+          "printed-8",
+          "printed-9",
+          "printed-10",
+          "printed-11",
+          "printed-12",
+          "printed-13",
+          "printed-14",
+          "printed-15",
+          "printed-16",
+          "printed-17",
+          "printed-18",
+          "printed-19",
+          "printed-20",
+          "printed-21",
+          "printed-22",
+          "printed-23",
+          "printed-24",
+          "printed-25",
+          "printed-26",
+          "printed-27",
+          "printed-28",
+          "printed-29",
+          "printed-30",
+          "printed-31",
+          "printed-32",
+          "printed-33",
+          "printed-34"
+        ],
+        "units": [
+          {
+            "id": "printed-1",
+            "label": "인쇄1쪽",
+            "sha256": "4cdd2fa0013e5e77e2a4c2b0ecb178309793362f6b495895e54e3c9e8b9ccdb1",
+            "complete": true
+          },
+          {
+            "id": "printed-2",
+            "label": "인쇄2쪽",
+            "sha256": "0258a989b3df649c8a95b9724bea668fa788341a4cd03f322d40a31a910c8edd",
+            "complete": true
+          },
+          {
+            "id": "printed-3",
+            "label": "인쇄3쪽",
+            "sha256": "3ade81ca4e14d983e90ba601d7cba4ee900106ea7a8e1f60aafdbf0a80ad1c2e",
+            "complete": true
+          },
+          {
+            "id": "printed-4",
+            "label": "인쇄4쪽",
+            "sha256": "2f6eff538e617fcc5d223f5c7a2d73fb0d0b50efdd3683c3a9221ff8e34d3ad3",
+            "complete": true
+          },
+          {
+            "id": "printed-5",
+            "label": "인쇄5쪽",
+            "sha256": "f973247257f3989d0bb3fb00876e99058c619c9b0137300ebadfbeba10798bb7",
+            "complete": true
+          },
+          {
+            "id": "printed-6",
+            "label": "인쇄6쪽",
+            "sha256": "98f7203a4a1f6846dd761405c7aec6a88f049a635427ab08a4af4a7abb60f33a",
+            "complete": true
+          },
+          {
+            "id": "printed-7",
+            "label": "인쇄7쪽",
+            "sha256": "44b3b092248f6fda7d4425b11f183f2e9041f38f28d1daf24eff31874b2f8585",
+            "complete": true
+          },
+          {
+            "id": "printed-8",
+            "label": "인쇄8쪽",
+            "sha256": "abb6a7ca3e590683622ed8d370903902bc247103a7d7240d9c417e01f168b51f",
+            "complete": true
+          },
+          {
+            "id": "printed-9",
+            "label": "인쇄9쪽",
+            "sha256": "1de2a0fd9961ce7967dbd0bd8586bb6964d859d93749c5cc90a6e7f3b54cbb8b",
+            "complete": true
+          },
+          {
+            "id": "printed-10",
+            "label": "인쇄10쪽",
+            "sha256": "8d9860d52db052746d37afca6af1c01c88c9064b3d3f420046b77803b43354e8",
+            "complete": true
+          },
+          {
+            "id": "printed-11",
+            "label": "인쇄11쪽",
+            "sha256": "f63e9dc37eba54c2dd1cd55cbbb1712759e2f281ecc38bd795ecdf386d1701b2",
+            "complete": true
+          },
+          {
+            "id": "printed-12",
+            "label": "인쇄12쪽",
+            "sha256": "4b095d5fb2390251b88bdd7b998636004ee63cd7254f824beae75cbe18fd7c88",
+            "complete": true
+          },
+          {
+            "id": "printed-13",
+            "label": "인쇄13쪽",
+            "sha256": "f4e05baa92acc920e6b3fd7ca5179f3cab76ff088a90dd28bf045aeeb4a1537b",
+            "complete": true
+          },
+          {
+            "id": "printed-14",
+            "label": "인쇄14쪽",
+            "sha256": "61a6f5f615135f9b4a86ddf045d8e0e819fbed449890d6ef98bba030aee03c70",
+            "complete": true
+          },
+          {
+            "id": "printed-15",
+            "label": "인쇄15쪽",
+            "sha256": "85809f4f0c9f2d05355b0586d858225f53258f69f58459b11d611f52c6abdb37",
+            "complete": true
+          },
+          {
+            "id": "printed-16",
+            "label": "인쇄16쪽",
+            "sha256": "9f36103deb13b01159bf391c655711c4e8cc553327e9b4215de9871868a5a2d8",
+            "complete": true
+          },
+          {
+            "id": "printed-17",
+            "label": "인쇄17쪽",
+            "sha256": "40a5563b90c245111bc8041e34360a9dacc62280e903a2e23fbb578b04dea41e",
+            "complete": true
+          },
+          {
+            "id": "printed-18",
+            "label": "인쇄18쪽",
+            "sha256": "2b02cccdf24d3509215fd0b2d07efc70598a06216d1ff934140f79b2d82b51bc",
+            "complete": true
+          },
+          {
+            "id": "printed-19",
+            "label": "인쇄19쪽",
+            "sha256": "55030b668481f4028e83812c524b23ed863daa07e2f46c90db2231a487e65cca",
+            "complete": true
+          },
+          {
+            "id": "printed-20",
+            "label": "인쇄20쪽",
+            "sha256": "0311c6818b920f162d7720361e85460a1b771ef0b2dc0f784105f3906bc85279",
+            "complete": true
+          },
+          {
+            "id": "printed-21",
+            "label": "인쇄21쪽",
+            "sha256": "b381333e9eedbf2ed937d8df8e4d7d1777925e6293152b623c4faa5594ce680e",
+            "complete": true
+          },
+          {
+            "id": "printed-22",
+            "label": "인쇄22쪽",
+            "sha256": "64bd24044574e290ac72dd5c22e87903f3f468db2251c22ace35bdc4f24cc78e",
+            "complete": true
+          },
+          {
+            "id": "printed-23",
+            "label": "인쇄23쪽",
+            "sha256": "f66671851fd80e6f7e7eb8d4947e60a437c4be3806e2cf0ac05a664f1d0754bb",
+            "complete": true
+          },
+          {
+            "id": "printed-24",
+            "label": "인쇄24쪽",
+            "sha256": "dc466b4c00882af3faaf3d016bfc1714d65423b5f67261d68bf18db5ac4c864e",
+            "complete": true
+          },
+          {
+            "id": "printed-25",
+            "label": "인쇄25쪽",
+            "sha256": "aef7b0c94ba1e492a3d661a840f27f47cdeb3cd128a1fad9322384f0393baa20",
+            "complete": true
+          },
+          {
+            "id": "printed-26",
+            "label": "인쇄26쪽",
+            "sha256": "d086f220823907df8e25c805b1e363e417e00da387df75a6c2776e4f31225e92",
+            "complete": true
+          },
+          {
+            "id": "printed-27",
+            "label": "인쇄27쪽",
+            "sha256": "a23186281d49fe7a18b032b0e2e71389e4eacd37d174437c0c5407c9246c08af",
+            "complete": true
+          },
+          {
+            "id": "printed-28",
+            "label": "인쇄28쪽",
+            "sha256": "3bfeff54b26a4271dc10fe4e1de1dbde406623e8590563edf8cf2c6220b7ff6b",
+            "complete": true
+          },
+          {
+            "id": "printed-29",
+            "label": "인쇄29쪽",
+            "sha256": "a5368f2de227d3517bd61663a61434e62005d1d007ab18bffe779865aaf9fbfa",
+            "complete": true
+          },
+          {
+            "id": "printed-30",
+            "label": "인쇄30쪽",
+            "sha256": "8c898243267f1df876c9e30fff1b88155ca1ee8cd87d05aa4f0329d8518a66d3",
+            "complete": true
+          },
+          {
+            "id": "printed-31",
+            "label": "인쇄31쪽",
+            "sha256": "91dde2c3fd45ba344f935e51fd8d1628e01dc0b7ae18d0d38cf39e5a8ad374e7",
+            "complete": true
+          },
+          {
+            "id": "printed-32",
+            "label": "인쇄32쪽",
+            "sha256": "0eb5e17c4d927a2678e4e89d3b94750e2f889277f0975a0b2b778382ba5f229f",
+            "complete": true
+          },
+          {
+            "id": "printed-33",
+            "label": "인쇄33쪽",
+            "sha256": "f48ff68dec9940cc3bebee74c0533ccb8d5ea663b4a82def6c0b811cbae97143",
+            "complete": true
+          },
+          {
+            "id": "printed-34",
+            "label": "인쇄34쪽",
+            "sha256": "5854e3af156afe4e1440eaccad9650d9c308ecb458a2cf3574a55cfa779f71b7",
+            "complete": true
+          }
+        ],
+        "editionNote": "인쇄1–34쪽 인용장. 제3자 공개뷰어와 도표 지면 대조; 편저 전권 아님."
+      }
     },
     {
       "referenceId": "ref-040",
@@ -1199,26 +1446,136 @@
     },
     {
       "referenceId": "ref-045",
-      "sourceSha256": "a4add14758f7c4e32e68d4dcf7a7cd9e5c6d27de8c2f669ad5b4a9e44efdf34f",
+      "sourceSha256": "0ff07ac730f2b48e33d313747d4d82ba0084ebd31e23d045d4a7b57b3d8fab61",
       "scopeKind": "book",
-      "scopeLabel": "전권 미확보. 기존22쪽 강독모음의 Dewey 해당 부분 PDF7–8/인쇄35–36을 확인했고, P487에서 공식 공개 제1장19쪽을 추가로 전부 읽음. 강독모음 전체22쪽을 Dewey 원문으로 계산하지 않음.",
-      "readRanges": [
-        [
-          7,
-          8
-        ]
-      ],
-      "totalPages": 22,
+      "scopeLabel": "P488에서 공개 전사본의 서문·제1–14장 본문을 담당자별 분담하여 모두 직접 읽었다. 1980 Perigee 발췌 스캔의 제1·3·5·11·14장과 대조했다. 공개 전사본의 OCR 오자와 잘못된 서지 표기가 있어 스캔 서지를 우선한다. 삽화·색인·1980판 전체 지면은 미확인이다.",
+      "readRanges": [],
+      "totalPages": 0,
       "wholeBookRead": false,
       "citedUnitComplete": false,
       "findings": [
         {
           "pdfPages": [],
-          "issue": "미확보 범위",
-          "rationale": "원첨부 참고문헌에 등재되었으나 본문 미인용이어서 수정 검토본에서는 제외하고 77항목 검토대장에 보존한다. 실제 사용할 때 인용 위치와 함께 복원한다. 예술 경험의 통합성·일상과의 연결 설명을 보강한다. 미래 시간성은 가능한 자기 이론만의 고유 요소라는 대조를 만들지 않는다. 기존 수정안의 필수 새 오류는 없다.",
+          "issue": "추가 원문 대조",
+          "rationale": "현재 경험에는 과거의 의미와 미래 기대가 함께 작동하며, 예술의 상상·자기 형성·사회적 소통을 논한다. 현재만 다루는 이론으로 대비하지 않는다. 원첨부에 등재되었으나 본문 미인용이므로 기존 수정 검토본의 제외 조치를 유지한다. 읽었다는 이유만으로 인용을 복원하지 않는다.",
           "action": "verify"
         }
-      ]
+      ],
+      "sourceUrl": "https://ddong.narod.ru/deweyen2/index.htm",
+      "textCoverage": {
+        "format": "html",
+        "declaredScope": "full-text",
+        "expectedUnitIds": [
+          "chapter-00",
+          "chapter-01",
+          "chapter-02",
+          "chapter-03",
+          "chapter-04",
+          "chapter-05",
+          "chapter-06",
+          "chapter-07",
+          "chapter-08",
+          "chapter-09",
+          "chapter-10",
+          "chapter-11",
+          "chapter-12",
+          "chapter-13",
+          "chapter-14"
+        ],
+        "units": [
+          {
+            "id": "chapter-00",
+            "label": "서문",
+            "sha256": "3a09d040a4ebfd89457fbed9b0813cf4985cbfaa22db3f91a86858e63312f150",
+            "complete": true
+          },
+          {
+            "id": "chapter-01",
+            "label": "제1장",
+            "sha256": "c1a7f85ecb04b4b8f89b7c7c9c1786edc3440a8536910612242dfb6a8b5bc771",
+            "complete": true
+          },
+          {
+            "id": "chapter-02",
+            "label": "제2장",
+            "sha256": "78df5864dae25827f2e9ab1ec546f8c5099a0df806636f892ad4ec2e43ba313f",
+            "complete": true
+          },
+          {
+            "id": "chapter-03",
+            "label": "제3장",
+            "sha256": "ca381de86f7f92a00578127604e9b21b84888b339ab493264411c6f0f7d9ed9e",
+            "complete": true
+          },
+          {
+            "id": "chapter-04",
+            "label": "제4장",
+            "sha256": "81d7ee323d26475e53bb049b59a053ae5caabf5e9ea195473b65bac4d154201f",
+            "complete": true
+          },
+          {
+            "id": "chapter-05",
+            "label": "제5장",
+            "sha256": "ac3fbd8f264442a57a55732971814616c16928c438ae6cd248d7c46ed69602c0",
+            "complete": true
+          },
+          {
+            "id": "chapter-06",
+            "label": "제6장",
+            "sha256": "df95a603e868862e5070ebe675389a1cd95a58fa4a5ed6fdb633667823e98f52",
+            "complete": true
+          },
+          {
+            "id": "chapter-07",
+            "label": "제7장",
+            "sha256": "0c9a9d0f13bdeed59541a800f3026660046957b8ad432577c24df322aa00fb83",
+            "complete": true
+          },
+          {
+            "id": "chapter-08",
+            "label": "제8장",
+            "sha256": "cd6552025e194956983f0175710d2e3164d827f3ede7b571326608281cbf436f",
+            "complete": true
+          },
+          {
+            "id": "chapter-09",
+            "label": "제9장",
+            "sha256": "2d854d353a57de6348db3590d54db8532022130bea92f5a0e3360dbe22e8703d",
+            "complete": true
+          },
+          {
+            "id": "chapter-10",
+            "label": "제10장",
+            "sha256": "2e2f25979881a8a1fdfb57c659957faa57c804140ca50ce2f3d58ea1d9980e3a",
+            "complete": true
+          },
+          {
+            "id": "chapter-11",
+            "label": "제11장",
+            "sha256": "91aaea3b15bd427abc95a9b72c81eb2e6875525d2f1e24da0e8a694467083c54",
+            "complete": true
+          },
+          {
+            "id": "chapter-12",
+            "label": "제12장",
+            "sha256": "5a89d09249fc2a561fe7b373096028e74b6df63c5d0d924bfcad89ff95f11d4a",
+            "complete": true
+          },
+          {
+            "id": "chapter-13",
+            "label": "제13장",
+            "sha256": "54a8dcc7ecdcb470d20894981abfed99f615bcf23a4f0b378c194316a8b2a2c0",
+            "complete": true
+          },
+          {
+            "id": "chapter-14",
+            "label": "제14장",
+            "sha256": "0063144fb053712e53865ae6e652e1085a8e04e8b0c54e0c03c1d73062ee887d",
+            "complete": true
+          }
+        ],
+        "editionNote": "서문·14장 공개 전사본. 1980판 발췌5장 대조; 삽화·색인·1980판 전 지면 미확인."
+      }
     },
     {
       "referenceId": "ref-046",
@@ -1403,7 +1760,7 @@
       "referenceId": "ref-053",
       "sourceSha256": "797a588d4bc8c62b57145f795b9764ac87edd10e81675459ce1484871731a440",
       "scopeKind": "book",
-      "scopeLabel": "전권 미확보. P486의 제2장 재조판9쪽과 P487의 공개7파일38쪽을 실제 읽음. 중첩 범위가 있어47파일쪽을 전권의 서로 다른47쪽으로 계산하지 않음. 원책의 쪽수와 발췌파일 쪽수를 구별함.",
+      "scopeLabel": "기존 제2장 재조판9쪽·추가7파일38쪽에 더하여 P488에서 제7장 공개 미리보기 앞부분을 읽었다. 중간에서 끊기는 공개분이므로 전권 미확보 상태를 유지한다.",
       "readRanges": [
         [
           1,
@@ -1416,36 +1773,74 @@
       "findings": [
         {
           "pdfPages": [],
-          "issue": "미확보 범위",
-          "rationale": "Jarvis를 인지 중심이나 현재 경험만의 이론으로 축소하지 않는다. 면담의 말은 원경험 그 자체와 같지 않으며 회상·감정·암묵지의 한계를 유지한다. 현재 수정안에 새 필수수정은 발견하지 않았다.",
-          "action": "verify"
-        }
-      ]
-    },
-    {
-      "referenceId": "ref-054",
-      "sourceSha256": "",
-      "scopeKind": "article",
-      "scopeLabel": "논문 전문 미확보. PubMed 공식 초록·서지 확인. 기관 저장소403/429, PMC 접근확인 화면 등으로 본문을 읽지 못함.",
-      "readRanges": [],
-      "totalPages": 0,
-      "wholeBookRead": false,
-      "citedUnitComplete": false,
-      "findings": [
-        {
-          "pdfPages": [],
-          "issue": "미확보 범위",
-          "rationale": "12개 노인센터의 군집무작위설계,390명,6개월 비교를 초록에서 확인했다. / 외로움·삶에 대한 관심의 개선과 인지·신체·의료비의 유의한 집단차이 부재를 구분한다. / 초록은 작동 과정과 장기 영향의 후속 검토를 제안한다. 학습자가 겪은 경험을 전혀 알려주지 않는다는 포괄 부정은 초록만으로 입증할 수 없다.",
+          "issue": "추가 원문 대조",
+          "rationale": "노화의 신체적 제한 속에서도 관계·활동에 참여하며 배울 가능성을 설명한다. 낯선 상황이 곧 의도적 학습으로 이어지지는 않으며, 학습 기회를 거부해도 비의도적 변화가 생길 수 있다. 문화적 경험의 개인차와 일상적 재생산을 함께 다룬다.",
           "action": "verify"
         }
       ],
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30412233/"
+      "sourceUrl": "https://www.perlego.com/book/1610863/learning-to-be-a-person-in-society-pdf"
+    },
+    {
+      "referenceId": "ref-054",
+      "sourceSha256": "3295d2aac8ead29e34284c4877f1e1f52b1069f50a41ae738d75d1932b40d7dc",
+      "scopeKind": "article",
+      "scopeLabel": "P488에서 Oxford Academic의 공식 HTML 전문을 서론·방법·결과·논의·연구비·기여·참고문헌까지 직접 읽었다. 표1·2, 참여자 흐름도1, 별도 보충표1·2도 확인했다. 출판 PDF는 확보하지 못하여 인쇄549–559쪽의 지면 완독이나 개별 쪽수 대응을 주장하지 않는다.",
+      "readRanges": [],
+      "totalPages": 0,
+      "wholeBookRead": false,
+      "citedUnitComplete": true,
+      "findings": [
+        {
+          "pdfPages": [],
+          "issue": "추가 원문 대조",
+          "rationale": "6개월간 변화를 비교한 결과 외로움과 일상에 대한 관심은 유의한 부차 결과였다. 주요 결과인 우울 증상·집행기능·하체 근력의 집단 차이는 유의하지 않았다. 논의는 사회적 지지·소속감·정기 활동을 가능한 설명으로 제시하므로 경험과 관계를 전혀 다루지 않았다고 쓰지 않는다.",
+          "action": "revise"
+        }
+      ],
+      "sourceUrl": "https://oup.silverchair-cdn.com/article-minimal/5165411#205158759",
+      "textCoverage": {
+        "format": "html",
+        "declaredScope": "full-text",
+        "expectedUnitIds": [
+          "article",
+          "figure1",
+          "supp1",
+          "supp2"
+        ],
+        "units": [
+          {
+            "id": "article",
+            "label": "출판사 논문 전문·표1·2",
+            "sha256": "3295d2aac8ead29e34284c4877f1e1f52b1069f50a41ae738d75d1932b40d7dc",
+            "complete": true
+          },
+          {
+            "id": "figure1",
+            "label": "참여자 흐름도",
+            "sha256": "79c84f125421b0dae06fec905d9a1431034719ed1e47911d9811c12a01d02ff9",
+            "complete": true
+          },
+          {
+            "id": "supp1",
+            "label": "보충표1",
+            "sha256": "3102ff1c5159ced60afbfe983480f5c40941ddb752ad34d714ea881dbc79dc1b",
+            "complete": true
+          },
+          {
+            "id": "supp2",
+            "label": "보충표2",
+            "sha256": "6e060d4b10b3a8099b9926b48d4f013a2c5a2341f341e28b8ead90f714e1332b",
+            "complete": true
+          }
+        ],
+        "editionNote": "출판사 HTML·표·그림·보충표. 인쇄 지면 쪽수는 미확인."
+      }
     },
     {
       "referenceId": "ref-055",
       "sourceSha256": "f700c3358ee7da08691e2864d3d601305a9934b157e31a63f6d99c0a53d14c36",
       "scopeKind": "book",
-      "scopeLabel": "전권 미확보. P487에서 확보한 제2장 발췌PDF1–21쪽 전체를 이미지로 읽음. 인쇄20–38쪽에 대응하나 인쇄26쪽 중복과20쪽 오른쪽 잘림이 있음. 장 발췌 전체를 읽은 것과 책 전권 완독을 구별함.",
+      "scopeLabel": "P487의 제2장21쪽 부분확인을 유지한다. P488에서 표지·목차4쪽을 추가확인했으나 본문 신규확보가 없고 전권은 미확보다.",
       "readRanges": [
         [
           1,
@@ -1458,11 +1853,12 @@
       "findings": [
         {
           "pdfPages": [],
-          "issue": "미확보 범위",
-          "rationale": "Kolb가 감정·사회환경·평생학습을 다루지 못한다는 단순대비는 부정확하다. Jarvis 선택은 본 연구의 전체인간·생애사·사회상황 설명 적합성으로 쓰며 다른 이론의 관련성을 지우지 않는다. 현행 P486 수정안과 일치.",
+          "issue": "추가 원문 대조",
+          "rationale": "제1–8장 구조와 범위를 확인했다. 기존21쪽은 제2장에 불과하다. 목차만으로 학습구조·개인차·지식·발달·고등교육·평생학습 장의 논지를 검증하지 않는다.",
           "action": "verify"
         }
-      ]
+      ],
+      "sourceUrl": "https://toc.uni.li/FLMF020919.pdf"
     },
     {
       "referenceId": "ref-056",

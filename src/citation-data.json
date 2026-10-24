@@ -1465,7 +1465,10 @@
         ]
       ],
       "kind": "reference",
-      "citationPages": []
+      "citationPages": [],
+      "sourceUrl": "https://ddong.narod.ru/deweyen2/index.htm",
+      "sourceLabel": "서문·14장 공개 전사본",
+      "verifiedSource": true
     },
     {
       "id": "ref-046",
@@ -1801,8 +1804,8 @@
         5,
         30
       ],
-      "sourceUrl": "https://academic.oup.com/psychsocgerontology/article/75/3/549/5165411",
-      "sourceLabel": "Oxford Academic 논문 페이지",
+      "sourceUrl": "https://oup.silverchair-cdn.com/article-minimal/5165411#205158759",
+      "sourceLabel": "출판사 논문 전문 · 결과·표2",
       "sourceKind": "web",
       "verifiedSource": true
     },

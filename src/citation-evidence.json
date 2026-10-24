@@ -154,9 +154,9 @@
       "referenceId": "ref-054",
       "status": "web",
       "locators": [],
-      "note": "PubMed의 공식 초록 Results에서 대조집단에 비해 외로움과 삶에 대한 관심은 유의하게 개선됐으나 인지·신체 결과의 유의한 집단 차이는 없음을 확인했다. Johnson 연구에 관한 절을 지지하며 PDF 쪽수는 부여하지 않았다.",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30412233/",
-      "sourceLabel": "PubMed 공식 초록"
+      "note": "논문 전문과 표2를 대조했다. 6개월간 배정집단 변화 비교에서 외로움·일상관심의 유의한 차이는 부차 결과이며, 우울증상·집행기능·하체근력의 주요 결과에서는 차이가 유의하지 않았다. 인쇄쪽수 대응은 부여하지 않는다.",
+      "sourceUrl": "https://oup.silverchair-cdn.com/article-minimal/5165411#205158759",
+      "sourceLabel": "출판사 전문 · 결과·표2"
     },
     {
       "sentenceId": "sentence-011",
@@ -228,9 +228,9 @@
       "referenceId": "ref-054",
       "status": "partial",
       "locators": [],
-      "note": "PubMed의 공식 초록 Methods·Results는 인지·신체·사회심리 지표를 비교한 양적 성과 연구임을 보여 준다. 다만 학습자의 경험과 해석을 전혀 알려 주지 않는다는 문장 전체는 연구자의 비교 해석이며, 이 결과표나 초록만으로 경험 관련 논의의 완전한 부재를 단정할 수 없다. 확인 매체는 웹이며 PDF 쪽수는 부여하지 않았다.",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30412233/",
-      "sourceLabel": "PubMed 공식 초록"
+      "note": "전문 Discussion은 사회적 지지·소속감·정기활동을 가능한 설명으로 논한다. 따라서 경험과 해석을 전혀 알려주지 않는다는 원문의 전면 부정은 과도하다. 전문을 읽었어도 원문 문장 자체의 부분확인 표시는 유지한다.",
+      "sourceUrl": "https://oup.silverchair-cdn.com/article-minimal/5165411#205158763",
+      "sourceLabel": "출판사 전문 · 논의"
     },
     {
       "sentenceId": "sentence-013",
@@ -899,7 +899,9 @@
       "referenceId": "ref-039",
       "status": "web",
       "locators": [],
-      "note": "Cambridge University Press의 해당 장 Summary·Introduction에서 개인 간 다양성과 개인 내 가소성을 노화 이해의 핵심으로 설명한 부분을 확인했다. 공개 웹 본문을 확인했으며 PDF 쪽수는 부여하지 않았다."
+      "note": "인용장 인쇄1–34쪽 전문을 읽었다. 개인차는8–10쪽, 가소성과 한계는10–15쪽, 환경지원은20–21쪽에 있다. 현재 문장의 개인차·변화가능성 요약을 지지한다. 공개뷰어 쪽은 인쇄쪽+17이며 원전 PDF쪽이 아니다.",
+      "sourceUrl": "https://www.scribd.com/document/256705177/Paul-Baltes-Optimizacao-Compensacao#page=25",
+      "sourceLabel": "인용장 인쇄8쪽부터 · 공개뷰어25쪽"
     },
     {
       "sentenceId": "sentence-043",
@@ -2614,9 +2616,9 @@
       "referenceId": "ref-054",
       "status": "web",
       "locators": [],
-      "note": "PubMed의 공식 초록 Method·Results에서 노인센터 12곳을 두 조건으로 군집 무작위 배정하고 총 390명을 분석한 연구임을 확인했다. PDF 쪽수는 부여하지 않았다.",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30412233/",
-      "sourceLabel": "PubMed 공식 초록"
+      "note": "전문 Methods와 Figure1에서 센터12곳의 군집 무작위배정 및390명(208/182명)을 확인했다. 주요 비교는6개월·23회 이후이며 프로그램 전체44주와 구별한다.",
+      "sourceUrl": "https://oup.silverchair-cdn.com/article-minimal/5165411#205158718",
+      "sourceLabel": "출판사 전문 · 방법"
     },
     {
       "sentenceId": "sentence-119",
